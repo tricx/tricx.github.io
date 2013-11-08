@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+ 
+ <title>Tricx_Dev</title>
+ <link href="http://tricxdev.github.io/" rel="self"/>
+ <link href="http://tricxdev.github.io"/>
+ <updated>2013-11-08T13:51:38+01:00</updated>
+ <id>http://tricxdev.github.io</id>
+ <author>
+   <name>Tricxi</name>
+   <email>blah@email.test</email>
+ </author>
+
+ 
+ <entry>
+   <title>Spruch_september</title>
+   <link href="http://tricxdev.github.io/2013/08/23/Spruch_September"/>
+   <updated>2013-08-23T00:00:00+02:00</updated>
+   <id>http://tricxdev.github.io/2013/08/23/Spruch_September</id>
+   <content type="html">&lt;p&gt;&lt;h5&gt; Spruch des Monats September&lt;/h5&gt;&lt;br /&gt;
+
+Die 10 wichtigsten Job-Tipps für die Wirtschaftskrise im Überblick:&lt;br /&gt;
+ 
+Langfristig denken&lt;br /&gt;
+
+Die Krise als Chance&lt;br /&gt;
+
+Das Boot prüfen&lt;br /&gt;
+
+Geheimquellen anzapfen&lt;br /&gt;
+
+Interne Kontaktpflege&lt;br /&gt;
+
+Externe Kontaktpflege&lt;br /&gt;
+
+Ausgaben mindern&lt;br /&gt;
+
+Einnahmen bringen&lt;br /&gt;
+
+Selbst-PR betreiben&lt;br /&gt;
+
+Aufstieg einleiten&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;
+&lt;/p&gt;</content>
+ </entry>
+ 
+ <entry>
+   <title>Spruch_august</title>
+   <link href="http://tricxdev.github.io/2013/08/22/Spruch_August"/>
+   <updated>2013-08-22T00:00:00+02:00</updated>
+   <id>http://tricxdev.github.io/2013/08/22/Spruch_August</id>
+   <content type="html">&lt;p&gt;
+&lt;h5&gt; Spruch des Monats August&lt;/h5&gt;&lt;br /&gt;
+diese Zeitalter ist total von Musik untermalt - überall zwischen dem Nordpol und dem Südpol müssen Sie sie hören; die Menschen werden tagtäglich mit Musik vollgestopft, so daß sie längst jedes Gefühl für Musik verloren haben.
+die Menschen leiden an einem krankhaften Musikkonsumatismus&lt;br /&gt;&lt;br /&gt;
+-- T.Bernhard&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;
+&lt;/p&gt;</content>
+ </entry>
+ 
+ <entry>
+   <title>Picknick_am_wegesrand</title>
+   <link href="http://tricxdev.github.io/2013/08/21/Picknick_am_Wegesrand"/>
+   <updated>2013-08-21T00:00:00+02:00</updated>
+   <id>http://tricxdev.github.io/2013/08/21/Picknick_am_Wegesrand</id>
+   <content type="html">&lt;h5&gt; &lt;p&gt;Strugazki&lt;/p&gt; &lt;/h5&gt;
+&lt;p&gt;&lt;img alt='image' src='/images/train.jpg' /&gt;&lt;br /&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;p&gt; Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem. Ut enim ad minima veniam, quis
+&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;
+&lt;/p&gt;</content>
+ </entry>
+ 
+ <entry>
+   <title>Moe</title>
+   <link href="http://tricxdev.github.io/2013/08/20/moe"/>
+   <updated>2013-08-20T00:00:00+02:00</updated>
+   <id>http://tricxdev.github.io/2013/08/20/moe</id>
+   <content type="html">&lt;h5&gt; &lt;p&gt;Moe brain1 and 2&lt;/p&gt; &lt;/h5&gt;&lt;p&gt; 
+
+tricxikid spielt..
+
+&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;
+&lt;/p&gt;</content>
+ </entry>
+ 
+ 
+</feed>

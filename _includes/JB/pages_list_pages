@@ -1,0 +1,26 @@
+{% for category in site.JB.navi_pages %}
+
+----------here
+
+
+        {% for node in pages_list %}
+
+----------not in for loop
+
+          {% if category == node.category %}
+            <li><a href="{{ BASE_PATH }}{{node.url}}">{{node.title}}</a></li>
+          {% endif %}
+
+		{% endfor %}
+
+
+{{category}}.htlm
+
+{% endfor %}
+
+----------end
+
+
+
+
+
