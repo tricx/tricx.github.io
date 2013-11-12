@@ -1,0 +1,33 @@
+{% comment %} id for navi_categories and dropdown_disable for css style and responsive media query {% endcomment %}
+
+{% for category in site.JB.navi_categories %}
+    <li id="navi_categories{{forloop.index}}" class="dropdown">
+    
+{%comment%} toggle disabled enables clickable link, additional js function to have toggle and click ? {% endcomment %}
+      
+      <a class= "dropdown-toggle disabled" href="/{{category | downcase}}.html"> {{category}} <b id="dropdown_disable" class= "caret"></b>
+
+        <!-- toggle with data-toggle or directly with javascript -->
+        <script>
+          $('.dropdown-toggle').dropdown()
+        </script>
+      </a>
+
+      <ul id="dropdown_disable" class="dropdown-menu" role="menu" aria-labelledby="dLabel">
+
+
+{% comment %}
+scan links_list[0,1], with name and href for automatic link allocation
+{% endcomment %}
+
+        {% for link in site.JB.links_list %}
+            <li><a href="{{link[1]}}" target="_blank">{{link[0]}}</a></li>
+        {% endfor %}
+            <hr>
+            <li><a href="/links.html">+ Friends</a></li>
+      </ul>
+    </li>
+
+{% endfor %}
+{% assign pages_list = nil %}
+{% assign group = nil %}

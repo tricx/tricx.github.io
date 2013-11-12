@@ -1,14 +1,20 @@
+{% comment %} id for navi_categories and dropdown_disable for css style and responsive media query {% endcomment %}
+
 {% for category in site.JB.navi_categories %}
-    <li class="dropdown">
-    {%comment%} toggle disabled enables clickable link, additional js function to have toggle and click ? {% endcomment %}
-      <a class= "dropdown-toggle disabled" href="/{{category | downcase}}.html"> {{category}} <b class= "caret"></b>
+    <li id="navi_categories{{forloop.index}}" class="dropdown">
+    
+{%comment%} toggle disabled enables clickable link, additional js function to have toggle and click ? {% endcomment %}
+      
+      <a class= "dropdown-toggle disabled" href="/{{category | downcase}}.html"> {{category}} <b id="dropdown_disable" class= "caret"></b>
+
         <!-- toggle with data-toggle or directly with javascript -->
         <script>
           $('.dropdown-toggle').dropdown()
         </script>
       </a>
 
-      <ul class="dropdown-menu" role="menu" aria-labelledby="dLabel">
+      <ul id="dropdown_disable" class="dropdown-menu" role="menu" aria-labelledby="dLabel">
+
         {% for subnode in pages_list %}
           {% if category == subnode.category %}
             <li><a href="{{ BASE_PATH }}{{subnode.url}}">{{subnode.title}}</a></li>

@@ -8,7 +8,6 @@
 
     <!-- Enable responsive viewport -->
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-
     <meta content="de" name="language">
     <meta content="development" name="description">
     <meta content="keword, list, here" name="keywords">
@@ -46,89 +45,120 @@
 
     <!-- <script src="{{ ASSET_PATH }}/bootstrap/js/bootstrap.min.js"></script> -->
     <script src="/assets/themes/twitter/bootstrap/js/bootstrap.min2.3.2.js"></script>
-
   </head>
-
+<!-- ############################################################################################################# -->
   <body>
 
   <!--test for navbar fixed on top-->
   <!-- <div class="navbar navbar data-spy="affix" data-offset-top="200"">  -->
   <!-- <div class= "navbar navbar stay" id= "mastnav"> -->
-      <script>
-  //  $('#mastnav').affix({
-  //    offset: { top: 0 }
-  // });  
-  // </script>
+{% comment %} 
+   <script>
+    $('#mastnav').affix({
+      offset: { top: 0 }
+   });  
+   </script>
+{% endcomment %}
 
   <!-- for navbar normal change to: 1.st container-narrow, 2. navbar navbar -->
   <!-- navbar-inverse -->
-          <div class= "navbar navbar-fixed-top" id= "mastnav"> <!-- css body with padding-top:60px, ok with mobiles?-->
-            <div class="container-narrow">
-              <div class="navbar-inner">
-
-          <!-- class brand?-->
+<div class= "navbar navbar-fixed-top" id= "mastnav"> <!-- css body with padding-top:60px, ok with mobiles?-->
+    <div class="container-narrow">
+        <div class="navbar-inner">
           <!-- <a class="brand" href="{{ HOME_PATH }}">{{ site.title }}</a> -->
           <!-- <a class="brand" href="{{ HOME_PATH }}"> &nbsp; Home</a> -->
           <ul class="nav">
+<!-- ###################################################################### -->
+    <!-- added list navi_pages: in _config file, to add pages without dropdown-menu -->
+            <!-- {% include JB/pages_list_pages %} -->
+        <!-- <a href> with {{pages| downcase}}.html -->
+            {% include JB/pages_list_pages_html %}
+
+<!-- ###################################################################### -->
+    <!-- added list navi_categories: in _config file, to add pages with dropdown-menu -->
 
             <!-- {% assign pages_list = site.pages %} -->
             <!-- {% assign group = 'navigation' %} -->
             <!-- {% include JB/pages_list %} -->
-
-            <!-- {% assign pages_list = site.pages %} -->           
+        
             {% assign pages_list = site.pages %}
             {% assign group = 'navigation' %}
-
-            {% include JB/pages_list_list %}
-
-<!-- ########################################################################################################## -->
-    <!-- added list navi_pages: in _config file, to add pages without dropdown-menu, links don't work!!!    -->
-            <!-- {% include JB/pages_list_pages %} -->
-
-        <!-- <a href> with {{pages| downcase}}.html -->
-            {% include JB/pages_list_pages_html %}
-
-            </ul>
-        </div>
-      </div>
-    </div>
-
+            {% include JB/pages_list_links_list %}
 
 {% comment %}
+            {% include JB/pages_list_list %}
+{% endcomment %}
+            
+          </ul>
+        </div>
+    </div>
+</div>
+
+<!-- show sidebar with worktitles!!  -->
+<!-- assign 'show_worktitle_sidebar:' in posts or pages-layout-defs(e.g.title:sound) to show worktitles in sidebar -->
+{% if page.show_worktitle_sidebar == true %}
 
 <!-- navbar on the side? or make a sublist on the sidebar? -->
     <div class="row-fluid">
       <div class="well sidebar-nav sidebar-nav-fixed">
           <ul class="nav">
             <div class= "indent-text2">
+
+{% comment %}
             <h6>Pages:</h6>
 <!--             {% assign pages_list = site.pages %}
             {% assign group = 'navigation' %}
             {% include JB/pages_list %} -->
-            
             {% include JB/pages_list_pages_sidebar_html %}
-            
-            <p>&nbsp;</p><h6>Posts:</h6>
-            <!-- references modified pages_list file / -> posts_list   -->
+            <p>&nbsp;</p>
+            <!-- ################ -->
+            <h6>Works and Projects:</h6>
+            <p>&nbsp;</p>
+{% endcomment %}
 
-            {% assign posts_list = site.posts %}   
-            {% include JB/posts_list %}
-
-<!--             {% for post in site.posts %}
+<!-- compare 'works_projects_list' titles in _config.yml to posts titles - when matching display title -->
+{% for post in site.posts %}
+  {% for worktitle in site.JB.works_projects_list %}
+    {% assign compare_worktitle = {{worktitle | downcase | replace: ' ', '_' }} %}
+      {% assign pt = post.title | downcase %}
+       {% if compare_worktitle == pt %}
             <div class='newLink'>
               <li class="active">
-            <span style="display:block; height: 20px;">
-              <a class ='linkNew' href="{{ BASE_PATH }}{{ post.url }}">{{ post.title }}&nbsp;</a> 
+              <a class ='linkNew' href="{{ BASE_PATH }}{{ post.url }}">{{ worktitle }}&nbsp;</a>
+            <br />
+            </div>
+      {% endif %}    
+  {% endfor %}
+{% endfor %}
+
+{% comment %}
+<!-- show all posts -->
+            <h6>Posts:</h6>
+            <!-- references modified pages_list file / -> posts_list   -->
+
+<!--             {% assign posts_list = site.posts %}   
+            {% include JB/posts_list %} -->
+
+            {% for post in site.posts %}
+            <div class='newLink'>
+              <li class="active">
+            <span style="display:block; height: 30px;">
+              <a class ='linkNew' href="{{ BASE_PATH }}{{ post.url }}">{{ post.title }}&nbsp;<br /></a> 
             </span>
             </div>
-            {% endfor %} -->
+            {% endfor %}
+{% endcomment %}
 
           </div>
           </ul>
       </div>
-{% endcomment %}
+
+<!-- endif, show sidebar with worktitles -->
+{% endif %}
 
 
+
+<!-- content######### -->
     <div class="container-narrow">
 
 {% comment %}
@@ -142,22 +172,23 @@
      </div>
 {% endcomment %}
 
+                  <!-- <div class="content"> -->
+                          {{ content }}
+                   <!-- </div> -->
 
-      <!-- <div class="content"> -->
-        {{ content }}
-      <!-- </div> -->
-
-<hr> 
-
-     <footer>
-
-      <div class="indent-text">
-<!--         <p>the impressum
+<!-- bottom section -->
+<div class="container-narrow"><div class="indent-text">
+    <hr>
+    <footer>
+   <!--   <div class="indent-text">
+         <p>the impressum
         &copy;{{ site.time | date: '%Y' }} {{ site.author.name }}
-        </p> -->
-      </div>
-
-      </footer> 
+        </p> 
+      </div> -->
+      <div class="distance">&nbsp;</div>
+    </footer> 
+</div></div>
+   
 
     </div>
   </dif>
@@ -166,3 +197,5 @@
 
   </body>
 </html>
+
+

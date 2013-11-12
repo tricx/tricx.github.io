@@ -10,17 +10,22 @@ group: navigation
 
 
 <div class="page-header">
-  <h3>{{ page.title }} {% if page.tagline %} <small>{{ page.tagline }}</small>{% endif %}</h3>
+  <h3>{{ page.title }} {% if page.tagline %} {{ page.tagline }} {% endif %}</h3>
 </div>
 
 
- {% for post in site.posts %}
-   <h4><a href="{{ BASE_PATH }}{{ post.url }}">{{ post.date | date_to_string }}</a></h4>
-   <p>&nbsp;</p>
-   {{post.content}}
-   <p>&nbsp;</p>
-   <p>&nbsp;</p>
- {% endfor %}
+{% for post in site.posts %}
+
+      {% comment %}
+        <h4><a href="{{ BASE_PATH }}{{ post.url }}">{{ post.date | date_to_string }}</a></h4>
+      {% endcomment %}
+
+<p>&nbsp;</p>
+  {{post.content}}
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+{% endfor %}
+
 
 
 

@@ -1,53 +1,50 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
  
- <title>Tricx_Dev</title>
- <link href="http://tricxdev.github.io/" rel="self"/>
- <link href="http://tricxdev.github.io"/>
- <updated>2013-11-08T13:51:38+01:00</updated>
- <id>http://tricxdev.github.io</id>
+ <title>Tricx</title>
+ <link href="http://tricx.github.io/" rel="self"/>
+ <link href="http://tricx.github.io"/>
+ <updated>2013-11-12T19:58:44+01:00</updated>
+ <id>http://tricx.github.io</id>
  <author>
-   <name>Tricxi</name>
+   <name>Tricx</name>
    <email>blah@email.test</email>
  </author>
 
  
  <entry>
-   <title>Spruch_september</title>
-   <link href="http://tricxdev.github.io/2013/08/23/Spruch_September"/>
-   <updated>2013-08-23T00:00:00+02:00</updated>
-   <id>http://tricxdev.github.io/2013/08/23/Spruch_September</id>
-   <content type="html">&lt;p&gt;&lt;h5&gt; Spruch des Monats September&lt;/h5&gt;&lt;br /&gt;
-
-Die 10 wichtigsten Job-Tipps für die Wirtschaftskrise im Überblick:&lt;br /&gt;
+   <title>Klangkunsttage</title>
+   <link href="http://tricx.github.io/2013/08/27/klangkunsttage"/>
+   <updated>2013-08-27T00:00:00+02:00</updated>
+   <id>http://tricx.github.io/2013/08/27/klangkunsttage</id>
+   <content type="html">&lt;h4&gt;&lt;a href='/2013/08/27/klangkunsttage'&gt;Klangkunsttage&lt;/a&gt;&lt;/h4&gt;&lt;p&gt;
+&lt;br /&gt;
+&lt;blockquote&gt;
+    &lt;em&gt;live set&lt;/em&gt; at Klangkunsttage, Galerie 12-14&lt;br /&gt;
+&lt;/blockquote&gt;
+&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;
+&lt;/p&gt;&lt;iframe allowfullscreen='' frameborder='0' height='384' src='http://player.vimeo.com/video/74517369?title=0&amp;amp;byline=0&amp;amp;portrait=0' webkitallowfullscreen='' width='100%'&gt;
+&lt;/iframe&gt;</content>
+ </entry>
  
-Langfristig denken&lt;br /&gt;
-
-Die Krise als Chance&lt;br /&gt;
-
-Das Boot prüfen&lt;br /&gt;
-
-Geheimquellen anzapfen&lt;br /&gt;
-
-Interne Kontaktpflege&lt;br /&gt;
-
-Externe Kontaktpflege&lt;br /&gt;
-
-Ausgaben mindern&lt;br /&gt;
-
-Einnahmen bringen&lt;br /&gt;
-
-Selbst-PR betreiben&lt;br /&gt;
-
-Aufstieg einleiten&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;
-&lt;/p&gt;</content>
+ <entry>
+   <title>Krach</title>
+   <link href="http://tricx.github.io/2013/08/25/krach"/>
+   <updated>2013-08-25T00:00:00+02:00</updated>
+   <id>http://tricx.github.io/2013/08/25/krach</id>
+   <content type="html">&lt;h4&gt;&lt;a href='/2013/08/25/krach'&gt;Krach&lt;/a&gt;&lt;/h4&gt;&lt;p&gt;
+&lt;br /&gt;soundtest:&lt;br /&gt;
+&lt;/p&gt;&lt;div&gt;
+	&lt;object height='81' width='100%'&gt; &lt;param name='movie' value='https://player.soundcloud.com/player.swf?url=http%3A%2F%2Fapi.soundcloud.com%2Ftracks%2F18902378&amp;amp;show_comments=true&amp;amp;
+	auto_play=false&amp;amp;color=ff7700' /&gt; &lt;param name='allowscriptaccess' value='always' /&gt; &lt;embed allowscriptaccess='always' height='81' src='https://player.soundcloud.com/player.swf?url=http%3A%2F%2Fapi.soundcloud.com%2Ftracks%2F18902378&amp;amp;show_comments=true&amp;amp;auto_play=false&amp;amp;color=ff7700' type='application/x-shockwave-flash' width='100%' /&gt; &lt;/object&gt;    
+&lt;/div&gt;</content>
  </entry>
  
  <entry>
    <title>Spruch_august</title>
-   <link href="http://tricxdev.github.io/2013/08/22/Spruch_August"/>
+   <link href="http://tricx.github.io/2013/08/22/spruch_august"/>
    <updated>2013-08-22T00:00:00+02:00</updated>
-   <id>http://tricxdev.github.io/2013/08/22/Spruch_August</id>
+   <id>http://tricx.github.io/2013/08/22/spruch_august</id>
    <content type="html">&lt;p&gt;
 &lt;h5&gt; Spruch des Monats August&lt;/h5&gt;&lt;br /&gt;
 diese Zeitalter ist total von Musik untermalt - überall zwischen dem Nordpol und dem Südpol müssen Sie sie hören; die Menschen werden tagtäglich mit Musik vollgestopft, so daß sie längst jedes Gefühl für Musik verloren haben.
@@ -57,28 +54,73 @@ die Menschen leiden an einem krankhaften Musikkonsumatismus&lt;br /&gt;&lt;br /&
  </entry>
  
  <entry>
-   <title>Picknick_am_wegesrand</title>
-   <link href="http://tricxdev.github.io/2013/08/21/Picknick_am_Wegesrand"/>
+   <title>Ottos_mops</title>
+   <link href="http://tricx.github.io/2013/08/21/ottos_mops"/>
    <updated>2013-08-21T00:00:00+02:00</updated>
-   <id>http://tricxdev.github.io/2013/08/21/Picknick_am_Wegesrand</id>
-   <content type="html">&lt;h5&gt; &lt;p&gt;Strugazki&lt;/p&gt; &lt;/h5&gt;
-&lt;p&gt;&lt;img alt='image' src='/images/train.jpg' /&gt;&lt;br /&gt;&lt;br /&gt;&lt;/p&gt;
-&lt;p&gt; Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem. Ut enim ad minima veniam, quis
-&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;
-&lt;/p&gt;</content>
+   <id>http://tricx.github.io/2013/08/21/ottos_mops</id>
+   <content type="html">&lt;h4&gt;&lt;a href='/2013/08/21/ottos_mops'&gt;Ottos Mops&lt;/a&gt;&lt;/h4&gt;&lt;p&gt;
+&lt;br /&gt;
+	Speech - Intervention - Machine&lt;br /&gt;
+	in cooperation with &lt;a href='http://www.kunst-und-raederwerk.de/' style='text-decoration:none; color: blue' target='_blank'&gt;&lt;i&gt;Christoph Freidhöfer&lt;/i&gt;&lt;/a&gt; &lt;br /&gt;			
+	The robot moves around the exhibition space, orienting itself based on the events, records the speech of other visitors and articulates clever sayings.
+	Two parabolic microphones using the shielding function of the foam 'hair' to measure the current db-amplitude and detect the direction from where the loudest 
+	content is suspected. There the robot takes on its journey and takes snapshots of conversations. Otherwise it is striking sayings as for example: 
+	the most popular occupations for men / women or a quote from 'Alte Meister by Thomas Bernhard.&lt;br /&gt;&lt;br /&gt;
+&lt;/p&gt;&lt;iframe allowfullscreen='' frameborder='0' height='384' src='http://player.vimeo.com/video/66463893?title=0&amp;amp;byline=0&amp;amp;portrait=0' webkitallowfullscreen='' width='100%'&gt;
+&lt;/iframe&gt;&lt;p&gt; &lt;br /&gt;Ottos Mops at 'What The Shop'&lt;br /&gt;&lt;/p&gt;&lt;img alt='image' src='/images/ottosmops_small.jpg' /&gt;</content>
  </entry>
  
  <entry>
-   <title>Moe</title>
-   <link href="http://tricxdev.github.io/2013/08/20/moe"/>
+   <title>A_car_from_above</title>
+   <link href="http://tricx.github.io/2013/08/20/a_car_from_above"/>
    <updated>2013-08-20T00:00:00+02:00</updated>
-   <id>http://tricxdev.github.io/2013/08/20/moe</id>
-   <content type="html">&lt;h5&gt; &lt;p&gt;Moe brain1 and 2&lt;/p&gt; &lt;/h5&gt;&lt;p&gt; 
+   <id>http://tricx.github.io/2013/08/20/a_car_from_above</id>
+   <content type="html">&lt;h4&gt;&lt;a href='/2013/08/20/a_car_from_above'&gt;A Car from ABove&lt;/a&gt;&lt;/h4&gt;&lt;p&gt;
+&lt;br /&gt;
+	Soundinstallation&lt;br /&gt;
+	in cooperation with &lt;a href='http://www.praxistest.cc/' style='text-decoration:none; color: blue' target='_blank'&gt;&lt;i&gt;Paul_Reza Klein&lt;/i&gt;&lt;/a&gt;&lt;br /&gt;
+	A toy police car in free fall at the exhibition Dimensions Variable # at Mo.ë.&lt;br /&gt;&lt;br /&gt;
+&lt;/p&gt;&lt;iframe allowfullscreen='' frameborder='0' height='384' src='http://player.vimeo.com/video/59054272?title=0&amp;amp;byline=0&amp;amp;portrait=0' webkitallowfullscreen='' width='100%'&gt;
+&lt;/iframe&gt;</content>
+ </entry>
+ 
+ <entry>
+   <title>Pachinko</title>
+   <link href="http://tricx.github.io/2013/08/19/pachinko"/>
+   <updated>2013-08-19T00:00:00+02:00</updated>
+   <id>http://tricx.github.io/2013/08/19/pachinko</id>
+   <content type="html">&lt;h4&gt;&lt;a href='/2013/08/19/pachinko'&gt;Pachinko&lt;/a&gt;&lt;/h4&gt;&lt;p&gt;
+&lt;br /&gt;
+	Soundinstallation&lt;br /&gt;
+	Pachinko is played by more than 30% of the Japanese population. 
+	It is based on the coincidental spreading of Pachinkoballs hitting certain positions, which lead to winnings. 
+	A peculiar feature in Pachinko game halls is the volume and the chaotically fluctuating sound. 
+	With this automaton the sound of the room and the Pachinko itself is recorded, triggered, generated and manipulated in realtime without the use 
+	of prerecorded sounds (except one tribute-soundfile). Controlled by sensors, the Pachinko becomes an uncontrollable and absurd Interface, 
+	as you never know what the machine will do next.&lt;br /&gt;&lt;br /&gt;
+&lt;/p&gt;&lt;iframe allowfullscreen='' frameborder='0' height='384' src='http://player.vimeo.com/video/35173457?title=0&amp;amp;byline=0&amp;amp;portrait=0' webkitallowfullscreen='' width='100%'&gt;
+&lt;/iframe&gt;</content>
+ </entry>
+ 
+ <entry>
+   <title>Derive</title>
+   <link href="http://tricx.github.io/2013/08/18/derive"/>
+   <updated>2013-08-18T00:00:00+02:00</updated>
+   <id>http://tricx.github.io/2013/08/18/derive</id>
+   <content type="html">&lt;h4&gt;&lt;a href='/2013/08/18/derive'&gt;Derive&lt;/a&gt;&lt;/h4&gt;&lt;p&gt;
+2008&lt;br /&gt;
+Installation&lt;br /&gt;
+/ photography on baryt paper (copied from a super8 film)&lt;br /&gt;&lt;br /&gt;
 
-tricxikid spielt..
+Starting with a research on the impact of architectonic structures in the city of Glasgow, I filmed one roll of super8 film, which shows outlying regions and seemingly abandoned housing projects. This film was later copied to negative film, reproduced as film stills on baryt paper and shown in a light box with an additional external light bulb as an installation.&lt;br /&gt;&lt;br /&gt;
 
-&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;
-&lt;/p&gt;</content>
+The technique the Situationists used to study urban areas is called psychogeography. The interaction of the researcher with the environment such as architectural signs, specific regions or similarities of functional characteristics is investigated as they draw an imaginary map with their motions and decisions as a kind of interacting motion parameter.&lt;br /&gt;
+That means you have to expose yourself to random signs and let yourself be lead through them, to observe decision making (like which direction you choose or what particularity one is to gather) to make both, individual operations, and the urban structure visible.&lt;br /&gt;&lt;br /&gt;
+
+In connection with the implementation of aesthetic components the architecture of modernity uses, which was already departed at the time of the construction of the “high rise buildings”, (as a model, housing projects in Marseille, realised from the plans of the architect Le Corbusier, provided a basis for this certain type of buildings in Glasgow), the organisation of the readability and interpretation of the signs there is different to other slower grown and historical towns, what also affects the possibilities of differentiation.&lt;br /&gt;
+On the one hand side architecture as an archive of an economic and political condition at the date of construction is ascertainable, then again almost asks for a concurrent attempt for an actual time consideration.&lt;br /&gt;
+I also think, that despite all these uninhabited, decayed and demolition approved buildings and the restructuring of the urban sphere, the potential of the efficacy in the future will be more covered, and the implemented signs and codes could eventually shift, but won’t stop to show impact.
+&lt;/p&gt;&lt;img alt='image' src='/images/derive1.jpg' /&gt;&lt;img alt='image' src='/images/derive3.jpg' /&gt;&lt;img alt='image' src='/images/derive2.jpg' /&gt;</content>
  </entry>
  
  

@@ -2,7 +2,7 @@
 layout: page
 title : Blog
 header : Blog
-category: News
+category: Links
 ---
 {% include JB/setup %}
 

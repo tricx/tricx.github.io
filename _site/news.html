@@ -5,11 +5,10 @@
     <meta charset="utf-8">
     <title>News</title>
     
-    <meta name="author" content="Tricxi">
+    <meta name="author" content="Tricx">
 
     <!-- Enable responsive viewport -->
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-
     <meta content="de" name="language">
     <meta content="development" name="description">
     <meta content="keword, list, here" name="keywords">
@@ -47,30 +46,98 @@
 
     <!-- <script src="/assets/themes/twitter/bootstrap/js/bootstrap.min.js"></script> -->
     <script src="/assets/themes/twitter/bootstrap/js/bootstrap.min2.3.2.js"></script>
-
   </head>
-
+<!-- ############################################################################################################# -->
   <body>
 
   <!--test for navbar fixed on top-->
   <!-- <div class="navbar navbar data-spy="affix" data-offset-top="200"">  -->
   <!-- <div class= "navbar navbar stay" id= "mastnav"> -->
-      <script>
-  //  $('#mastnav').affix({
-  //    offset: { top: 0 }
-  // });  
-  // </script>
+
 
   <!-- for navbar normal change to: 1.st container-narrow, 2. navbar navbar -->
   <!-- navbar-inverse -->
-          <div class= "navbar navbar-fixed-top" id= "mastnav"> <!-- css body with padding-top:60px, ok with mobiles?-->
-            <div class="container-narrow">
-              <div class="navbar-inner">
-
-          <!-- class brand?-->
-          <!-- <a class="brand" href="/">Tricx_Dev</a> -->
+<div class= "navbar navbar-fixed-top" id= "mastnav"> <!-- css body with padding-top:60px, ok with mobiles?-->
+    <div class="container-narrow">
+        <div class="navbar-inner">
+          <!-- <a class="brand" href="/">Tricx</a> -->
           <!-- <a class="brand" href="/"> &nbsp; Home</a> -->
           <ul class="nav">
+<!-- ###################################################################### -->
+    <!-- added list navi_pages: in _config file, to add pages without dropdown-menu -->
+            <!-- 
+
+----------here
+
+        
+
+Works - Projects.htlm
+
+
+
+----------here
+
+        
+
+Sound.htlm
+
+
+
+----------here
+
+        
+
+About.htlm
+
+
+
+----------end
+
+
+
+
+
+ -->
+        <!-- <a href> with .html -->
+            
+  
+    
+
+      <li id="navi_pages1"><a href="/works - projects.html">Works - Projects</a></li>
+    
+    
+
+  
+    
+
+      <li id="navi_pages2"><a href="/sound.html">Sound</a></li>
+    
+    
+
+  
+    
+
+      <li id="navi_pages3"><a href="/about.html">About</a></li>
+    
+    
+
+
+
+
+
+    
+
+
+
+
+
+
+
+
+
+
+<!-- ###################################################################### -->
+    <!-- added list navi_categories: in _config file, to add pages with dropdown-menu -->
 
             <!--  -->
             <!--  -->
@@ -95,6 +162,14 @@
     
   
     
+      
+    
+  
+    
+      
+      	
+      	<li><a href="/links.html">Links</a></li>
+      	
       
     
   
@@ -129,7 +204,7 @@
     
       
       	
-      	<li><a href="/sound.html">Sound</a></li>
+      	<li><a href="/sound.html">sound</a></li>
       	
       
     
@@ -145,7 +220,7 @@
     
       
       	
-      	<li><a href="/works - projects.html">Works and Projects</a></li>
+      	<li><a href="/works - projects.html">works_projects</a></li>
       	
       
     
@@ -153,51 +228,42 @@
 
 
  -->
+        
+            
+            
+            
 
-            <!--  -->           
-            
-            
 
-            
-    <li class="dropdown">
+    <li id="navi_categories1" class="dropdown">
     
-      <a class= "dropdown-toggle disabled" href="/news.html"> News <b class= "caret"></b>
+
+      
+      <a class= "dropdown-toggle disabled" href="/links.html"> Links <b id="dropdown_disable" class= "caret"></b>
+
         <!-- toggle with data-toggle or directly with javascript -->
         <script>
           $('.dropdown-toggle').dropdown()
         </script>
       </a>
 
-      <ul class="dropdown-menu" role="menu" aria-labelledby="dLabel">
+      <ul id="dropdown_disable" class="dropdown-menu" role="menu" aria-labelledby="dLabel">
+
+
+
+
         
-          
+            <li><a href="https://soundcloud.com/tricx" target="_blank">Soundcloud</a></li>
         
-          
+            <li><a href="https://github.com/tricx" target="_blank">Github</a></li>
         
-          
-            <li><a href="/blog.html">Blog</a></li>
-          
+            <li><a href="http://www.mutttricx.net" target="_blank">MuttTricx</a></li>
         
-          
+            <li><a href="http://mutttricx.bandcamp.com" target="_blank">MuttTricx at Bandcamp</a></li>
         
-          
-            <li><a href="/live.html">Live</a></li>
-          
+            <li><a href="http://velak.klingt.org/" target="_blank">Velak</a></li>
         
-          
-        
-          
-        
-          
-        
-          
-        
-          
-        
-          
-        
-          
-        
+            <hr>
+            <li><a href="/links.html">+ Friends</a></li>
       </ul>
     </li>
 
@@ -206,115 +272,30 @@
 
 
 
-<!-- ########################################################################################################## -->
-    <!-- added list navi_pages: in _config file, to add pages without dropdown-menu, links don't work!!!    -->
-            <!-- 
 
-----------here
-
-
-        
-
-
-Works - Projects.htlm
-
-
-
-----------here
-
-
-        
-
-
-Sound.htlm
-
-
-
-----------here
-
-
-        
-
-
-About.htlm
-
-
-
-----------end
-
-
-
-
-
- -->
-
-        <!-- <a href> with .html -->
             
-
-
-
-
-		
-      	
-
-      	<li><a href="/works - projects.html">Works - Projects</a></li>
-      	
-  
-
-			    
-
-
-
-		
-      	
-
-      	<li><a href="/sound.html">Sound</a></li>
-      	
-  
-
-			    
-
-
-
-		
-      	
-
-      	<li><a href="/about.html">About</a></li>
-      	
-  
-
-			    
-
-
-
-
-
-
-
-
-
-
-            </ul>
+          </ul>
         </div>
-      </div>
     </div>
+</div>
+
+<!-- show sidebar with worktitles!!  -->
+<!-- assign 'show_worktitle_sidebar:' in posts or pages-layout-defs(e.g.title:sound) to show worktitles in sidebar -->
 
 
 
 
-
+<!-- content######### -->
     <div class="container-narrow">
 
 
 
-
-      <!-- <div class="content"> -->
-        
+                  <!-- <div class="content"> -->
+                          
 
 <!--set image for pages here -->
 <!-- <div class="hero-unit imgH1">
      </div> -->
-
 
 <!-- <div class="page-header">
   <h1>News </h1>
@@ -323,10 +304,9 @@ About.htlm
 <!-- <div class="row-fluid">
   <div class="span12"> -->
 
+  						<div class="indent-text">
 
-  	<div class="indent-text">
-
-    
+    						
 
 
 
@@ -335,92 +315,145 @@ About.htlm
 </div>
 
 
- 
-   <h4><a href="/2013/08/23/Spruch_September">23 Aug 2013</a></h4>
-   <p>&nbsp;</p>
-   <p><h5> Spruch des Monats September</h5><br />
 
-Die 10 wichtigsten Job-Tipps für die Wirtschaftskrise im Überblick:<br />
- 
-Langfristig denken<br />
 
-Die Krise als Chance<br />
+      
 
-Das Boot prüfen<br />
+<p>&nbsp;</p>
+  <h4><a href='/2013/08/27/klangkunsttage'>Klangkunsttage</a></h4><p>
+<br />
+<blockquote>
+    <em>live set</em> at Klangkunsttage, Galerie 12-14<br />
+</blockquote>
+<br /><br /><br />
+</p><iframe allowfullscreen='' frameborder='0' height='384' src='http://player.vimeo.com/video/74517369?title=0&amp;byline=0&amp;portrait=0' webkitallowfullscreen='' width='100%'>
+</iframe>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
 
-Geheimquellen anzapfen<br />
 
-Interne Kontaktpflege<br />
+      
 
-Externe Kontaktpflege<br />
+<p>&nbsp;</p>
+  <h4><a href='/2013/08/25/krach'>Krach</a></h4><p>
+<br />soundtest:<br />
+</p><div>
+	<object height='81' width='100%'> <param name='movie' value='https://player.soundcloud.com/player.swf?url=http%3A%2F%2Fapi.soundcloud.com%2Ftracks%2F18902378&amp;show_comments=true&amp;
+	auto_play=false&amp;color=ff7700' /> <param name='allowscriptaccess' value='always' /> <embed allowscriptaccess='always' height='81' src='https://player.soundcloud.com/player.swf?url=http%3A%2F%2Fapi.soundcloud.com%2Ftracks%2F18902378&amp;show_comments=true&amp;auto_play=false&amp;color=ff7700' type='application/x-shockwave-flash' width='100%' /> </object>    
+</div>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
 
-Ausgaben mindern<br />
 
-Einnahmen bringen<br />
+      
 
-Selbst-PR betreiben<br />
-
-Aufstieg einleiten<br /><br /><br />
-</p>
-   <p>&nbsp;</p>
-   <p>&nbsp;</p>
- 
-   <h4><a href="/2013/08/22/Spruch_August">22 Aug 2013</a></h4>
-   <p>&nbsp;</p>
-   <p>
+<p>&nbsp;</p>
+  <p>
 <h5> Spruch des Monats August</h5><br />
 diese Zeitalter ist total von Musik untermalt - überall zwischen dem Nordpol und dem Südpol müssen Sie sie hören; die Menschen werden tagtäglich mit Musik vollgestopft, so daß sie längst jedes Gefühl für Musik verloren haben.
 die Menschen leiden an einem krankhaften Musikkonsumatismus<br /><br />
 -- T.Bernhard<br /><br /><br />
 </p>
-   <p>&nbsp;</p>
-   <p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+
+
+      
+
+<p>&nbsp;</p>
+  <h4><a href='/2013/08/21/ottos_mops'>Ottos Mops</a></h4><p>
+<br />
+	Speech - Intervention - Machine<br />
+	in cooperation with <a href='http://www.kunst-und-raederwerk.de/' style='text-decoration:none; color: blue' target='_blank'><i>Christoph Freidhöfer</i></a> <br />			
+	The robot moves around the exhibition space, orienting itself based on the events, records the speech of other visitors and articulates clever sayings.
+	Two parabolic microphones using the shielding function of the foam 'hair' to measure the current db-amplitude and detect the direction from where the loudest 
+	content is suspected. There the robot takes on its journey and takes snapshots of conversations. Otherwise it is striking sayings as for example: 
+	the most popular occupations for men / women or a quote from 'Alte Meister by Thomas Bernhard.<br /><br />
+</p><iframe allowfullscreen='' frameborder='0' height='384' src='http://player.vimeo.com/video/66463893?title=0&amp;byline=0&amp;portrait=0' webkitallowfullscreen='' width='100%'>
+</iframe><p> <br />Ottos Mops at 'What The Shop'<br /></p><img alt='image' src='/images/ottosmops_small.jpg' />
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+
+
+      
+
+<p>&nbsp;</p>
+  <h4><a href='/2013/08/20/a_car_from_above'>A Car from ABove</a></h4><p>
+<br />
+	Soundinstallation<br />
+	in cooperation with <a href='http://www.praxistest.cc/' style='text-decoration:none; color: blue' target='_blank'><i>Paul_Reza Klein</i></a><br />
+	A toy police car in free fall at the exhibition Dimensions Variable # at Mo.ë.<br /><br />
+</p><iframe allowfullscreen='' frameborder='0' height='384' src='http://player.vimeo.com/video/59054272?title=0&amp;byline=0&amp;portrait=0' webkitallowfullscreen='' width='100%'>
+</iframe>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+
+
+      
+
+<p>&nbsp;</p>
+  <h4><a href='/2013/08/19/pachinko'>Pachinko</a></h4><p>
+<br />
+	Soundinstallation<br />
+	Pachinko is played by more than 30% of the Japanese population. 
+	It is based on the coincidental spreading of Pachinkoballs hitting certain positions, which lead to winnings. 
+	A peculiar feature in Pachinko game halls is the volume and the chaotically fluctuating sound. 
+	With this automaton the sound of the room and the Pachinko itself is recorded, triggered, generated and manipulated in realtime without the use 
+	of prerecorded sounds (except one tribute-soundfile). Controlled by sensors, the Pachinko becomes an uncontrollable and absurd Interface, 
+	as you never know what the machine will do next.<br /><br />
+</p><iframe allowfullscreen='' frameborder='0' height='384' src='http://player.vimeo.com/video/35173457?title=0&amp;byline=0&amp;portrait=0' webkitallowfullscreen='' width='100%'>
+</iframe>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+
+
+      
+
+<p>&nbsp;</p>
+  <h4><a href='/2013/08/18/derive'>Derive</a></h4><p>
+2008<br />
+Installation<br />
+/ photography on baryt paper (copied from a super8 film)<br /><br />
+
+Starting with a research on the impact of architectonic structures in the city of Glasgow, I filmed one roll of super8 film, which shows outlying regions and seemingly abandoned housing projects. This film was later copied to negative film, reproduced as film stills on baryt paper and shown in a light box with an additional external light bulb as an installation.<br /><br />
+
+The technique the Situationists used to study urban areas is called psychogeography. The interaction of the researcher with the environment such as architectural signs, specific regions or similarities of functional characteristics is investigated as they draw an imaginary map with their motions and decisions as a kind of interacting motion parameter.<br />
+That means you have to expose yourself to random signs and let yourself be lead through them, to observe decision making (like which direction you choose or what particularity one is to gather) to make both, individual operations, and the urban structure visible.<br /><br />
+
+In connection with the implementation of aesthetic components the architecture of modernity uses, which was already departed at the time of the construction of the “high rise buildings”, (as a model, housing projects in Marseille, realised from the plans of the architect Le Corbusier, provided a basis for this certain type of buildings in Glasgow), the organisation of the readability and interpretation of the signs there is different to other slower grown and historical towns, what also affects the possibilities of differentiation.<br />
+On the one hand side architecture as an archive of an economic and political condition at the date of construction is ascertainable, then again almost asks for a concurrent attempt for an actual time consideration.<br />
+I also think, that despite all these uninhabited, decayed and demolition approved buildings and the restructuring of the urban sphere, the potential of the efficacy in the future will be more covered, and the implemented signs and codes could eventually shift, but won’t stop to show impact.
+</p><img alt='image' src='/images/derive1.jpg' /><img alt='image' src='/images/derive3.jpg' /><img alt='image' src='/images/derive2.jpg' />
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+
+
+
+
+
  
-   <h4><a href="/2013/08/21/Picknick_am_Wegesrand">21 Aug 2013</a></h4>
-   <p>&nbsp;</p>
-   <h5> <p>Strugazki</p> </h5>
-<p><img alt='image' src='/images/train.jpg' /><br /><br /></p>
-<p> Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem. Ut enim ad minima veniam, quis
-<br /><br /><br />
-</p>
-   <p>&nbsp;</p>
-   <p>&nbsp;</p>
- 
-   <h4><a href="/2013/08/20/moe">20 Aug 2013</a></h4>
-   <p>&nbsp;</p>
-   <h5> <p>Moe brain1 and 2</p> </h5><p> 
 
-tricxikid spielt..
-
-<br /><br /><br />
-</p>
-   <p>&nbsp;</p>
-   <p>&nbsp;</p>
- 
-
-
-
- 
-
-	</div>
+						</div>
 
 <!--   </div>
 </div> -->
 
 
-      <!-- </div> -->
+                   <!-- </div> -->
 
-<hr> 
-
-     <footer>
-
-      <div class="indent-text">
-<!--         <p>the impressum
-        &copy;2013 Tricxi
-        </p> -->
-      </div>
-
-      </footer> 
+<!-- bottom section -->
+<div class="container-narrow"><div class="indent-text">
+    <hr>
+    <footer>
+   <!--   <div class="indent-text">
+         <p>the impressum
+        &copy;2013 Tricx
+        </p> 
+      </div> -->
+      <div class="distance">&nbsp;</div>
+    </footer> 
+</div></div>
+   
 
     </div>
   </dif>
@@ -428,11 +461,13 @@ tricxikid spielt..
     <!-- page:
 
 
-{"layout"=>"default", "title"=>"News", "header"=>"News", "group"=>"navigation", "url"=>"/news.html", "content"=>"{% include JB/setup %}\n{% assign categories_list = site.categories %}\n\n\n<div class=\"page-header\">\n  <h3>{{ page.title }} {% if page.tagline %} <small>{{ page.tagline }}</small>{% endif %}</h3>\n</div>\n\n\n {% for post in site.posts %}\n   <h4><a href=\"{{ BASE_PATH }}{{ post.url }}\">{{ post.date | date_to_string }}</a></h4>\n   <p>&nbsp;</p>\n   {{post.content}}\n   <p>&nbsp;</p>\n   <p>&nbsp;</p>\n {% endfor %}\n\n\n\n{% comment %}\n{% for category in site.categories %} \n  <h2 id=\"{{ category[0] }}-ref\"> {{ category[0] | join: \"/\" }}</h2>\n    {% assign pages_list = category[1] %}\n   <ul class=\"unstyled\">\n   {% include JB/pages_list %}\n   </ul>\n{% endfor %}\n<dt> </dt>\n{% endcomment %} ", "path"=>"news.html", "theme"=>{"name"=>"twitter"}} -->
+{"layout"=>"default", "title"=>"News", "header"=>"News", "group"=>"navigation", "url"=>"/news.html", "content"=>"{% include JB/setup %}\n{% assign categories_list = site.categories %}\n\n\n<div class=\"page-header\">\n  <h3>{{ page.title }} {% if page.tagline %} {{ page.tagline }} {% endif %}</h3>\n</div>\n\n\n{% for post in site.posts %}\n\n      {% comment %}\n        <h4><a href=\"{{ BASE_PATH }}{{ post.url }}\">{{ post.date | date_to_string }}</a></h4>\n      {% endcomment %}\n\n<p>&nbsp;</p>\n  {{post.content}}\n<p>&nbsp;</p>\n<p>&nbsp;</p>\n{% endfor %}\n\n\n\n\n{% comment %}\n{% for category in site.categories %} \n  <h2 id=\"{{ category[0] }}-ref\"> {{ category[0] | join: \"/\" }}</h2>\n    {% assign pages_list = category[1] %}\n   <ul class=\"unstyled\">\n   {% include JB/pages_list %}\n   </ul>\n{% endfor %}\n<dt> </dt>\n{% endcomment %} ", "path"=>"news.html", "theme"=>{"name"=>"twitter"}} -->
 
 
 
 
   </body>
 </html>
+
+
 

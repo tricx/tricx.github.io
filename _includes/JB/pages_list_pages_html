@@ -1,33 +1,26 @@
+{% for pages in site.JB.navi_pages %}
+  {% assign pages_url = /{{ BASE_PATH }}{{pages | downcase}}.html %}
+    {% if page.url == pages_url %}
+      	
+      <li class="active"><li id="navi_pages{{forloop.index}}"><a href="/{{pages | downcase}}.html">{{pages}}</a></li>
+      	{% else %}
+
+      <li id="navi_pages{{forloop.index}}"><a href="/{{pages | downcase}}.html">{{pages}}</a></li>
+    
+    {% endif %}
+{% endfor %}
+
+
 {% comment %}
 is there a problem if BASE PATH is not used, if it ist used links won't function when posts are selected before -> path changes
 {% endcomment %}
 
-
-{% for pages in site.JB.navi_pages %}
-
-		{% assign pages_url = /{{ BASE_PATH }}{{pages | downcase}}.html %}
-      	{% if page.url == pages_url %}
-
-
 {% comment %}
-why does comparison not work? does it have the same format?
-{% endcomment %}
+{{page.url}} 
+/{{ BASE_PATH }}{{pages | downcase}}.html   
+{% endcomment %}    
 
 
-      	
-      	<li class="active"><li><a href="/{{pages | downcase}}.html">{{pages}}</a></li>
-      	{% else %}
-
-      	<li><a href="/{{pages | downcase}}.html">{{pages}}</a></li>
-      	{% endif %}
-  
-
-			{% comment %}
-			{{page.url}} 
-			/{{ BASE_PATH }}{{pages | downcase}}.html   
-			{% endcomment %}    
-
-{% endfor %}
 
 
 

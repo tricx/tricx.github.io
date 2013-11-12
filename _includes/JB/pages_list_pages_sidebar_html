@@ -1,12 +1,8 @@
-{% comment %}
-is there a problem if basepath is not used, if it ist used links won't function when posts are selected before -> path changes
-{% endcomment %}
-
 
 {% for pages in site.JB.navi_pages_sidebar %}
 
-		{% assign pages_url = /{{ BASE_PATH }}{{pages | downcase}}.html %}
-      	{% if page.url == pages_url %}
+  {% assign pages_url = /{{ BASE_PATH }}{{pages | downcase}}.html %}
+      {% if page.url == pages_url %}
 
       		{% comment %}
       		why does comparison not work? does it have the same format?
@@ -16,15 +12,20 @@ is there a problem if basepath is not used, if it ist used links won't function 
       	{% else %}
 
       	<li><a href="/{{pages | downcase}}.html">{{pages}}</a></li>
-      	{% endif %}
-  
-
-			{% comment %}
-			{{page.url}} 
-			/{{ BASE_PATH }}{{pages | downcase}}.html   
-			{% endcomment %}    
-
+      {% endif %}
 {% endfor %}
+
+
+{% comment %}
+is there a problem if basepath is not used, if it ist used links won't function when posts are selected before -> path changes
+{% endcomment %}  
+
+{% comment %}
+{{page.url}} 
+/{{ BASE_PATH }}{{pages | downcase}}.html   
+{% endcomment %}    
+
+
 
 
 

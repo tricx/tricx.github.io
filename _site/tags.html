@@ -5,11 +5,10 @@
     <meta charset="utf-8">
     <title>Tags</title>
     
-    <meta name="author" content="Tricxi">
+    <meta name="author" content="Tricx">
 
     <!-- Enable responsive viewport -->
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-
     <meta content="de" name="language">
     <meta content="development" name="description">
     <meta content="keword, list, here" name="keywords">
@@ -47,30 +46,98 @@
 
     <!-- <script src="/assets/themes/twitter/bootstrap/js/bootstrap.min.js"></script> -->
     <script src="/assets/themes/twitter/bootstrap/js/bootstrap.min2.3.2.js"></script>
-
   </head>
-
+<!-- ############################################################################################################# -->
   <body>
 
   <!--test for navbar fixed on top-->
   <!-- <div class="navbar navbar data-spy="affix" data-offset-top="200"">  -->
   <!-- <div class= "navbar navbar stay" id= "mastnav"> -->
-      <script>
-  //  $('#mastnav').affix({
-  //    offset: { top: 0 }
-  // });  
-  // </script>
+
 
   <!-- for navbar normal change to: 1.st container-narrow, 2. navbar navbar -->
   <!-- navbar-inverse -->
-          <div class= "navbar navbar-fixed-top" id= "mastnav"> <!-- css body with padding-top:60px, ok with mobiles?-->
-            <div class="container-narrow">
-              <div class="navbar-inner">
-
-          <!-- class brand?-->
-          <!-- <a class="brand" href="/">Tricx_Dev</a> -->
+<div class= "navbar navbar-fixed-top" id= "mastnav"> <!-- css body with padding-top:60px, ok with mobiles?-->
+    <div class="container-narrow">
+        <div class="navbar-inner">
+          <!-- <a class="brand" href="/">Tricx</a> -->
           <!-- <a class="brand" href="/"> &nbsp; Home</a> -->
           <ul class="nav">
+<!-- ###################################################################### -->
+    <!-- added list navi_pages: in _config file, to add pages without dropdown-menu -->
+            <!-- 
+
+----------here
+
+        
+
+Works - Projects.htlm
+
+
+
+----------here
+
+        
+
+Sound.htlm
+
+
+
+----------here
+
+        
+
+About.htlm
+
+
+
+----------end
+
+
+
+
+
+ -->
+        <!-- <a href> with .html -->
+            
+  
+    
+
+      <li id="navi_pages1"><a href="/works - projects.html">Works - Projects</a></li>
+    
+    
+
+  
+    
+
+      <li id="navi_pages2"><a href="/sound.html">Sound</a></li>
+    
+    
+
+  
+    
+
+      <li id="navi_pages3"><a href="/about.html">About</a></li>
+    
+    
+
+
+
+
+
+    
+
+
+
+
+
+
+
+
+
+
+<!-- ###################################################################### -->
+    <!-- added list navi_categories: in _config file, to add pages with dropdown-menu -->
 
             <!--  -->
             <!--  -->
@@ -95,6 +162,14 @@
     
   
     
+      
+    
+  
+    
+      
+      	
+      	<li><a href="/links.html">Links</a></li>
+      	
       
     
   
@@ -129,7 +204,7 @@
     
       
       	
-      	<li><a href="/sound.html">Sound</a></li>
+      	<li><a href="/sound.html">sound</a></li>
       	
       
     
@@ -145,7 +220,7 @@
     
       
       	
-      	<li><a href="/works - projects.html">Works and Projects</a></li>
+      	<li><a href="/works - projects.html">works_projects</a></li>
       	
       
     
@@ -153,51 +228,42 @@
 
 
  -->
+        
+            
+            
+            
 
-            <!--  -->           
-            
-            
 
-            
-    <li class="dropdown">
+    <li id="navi_categories1" class="dropdown">
     
-      <a class= "dropdown-toggle disabled" href="/news.html"> News <b class= "caret"></b>
+
+      
+      <a class= "dropdown-toggle disabled" href="/links.html"> Links <b id="dropdown_disable" class= "caret"></b>
+
         <!-- toggle with data-toggle or directly with javascript -->
         <script>
           $('.dropdown-toggle').dropdown()
         </script>
       </a>
 
-      <ul class="dropdown-menu" role="menu" aria-labelledby="dLabel">
+      <ul id="dropdown_disable" class="dropdown-menu" role="menu" aria-labelledby="dLabel">
+
+
+
+
         
-          
+            <li><a href="https://soundcloud.com/tricx" target="_blank">Soundcloud</a></li>
         
-          
+            <li><a href="https://github.com/tricx" target="_blank">Github</a></li>
         
-          
-            <li><a href="/blog.html">Blog</a></li>
-          
+            <li><a href="http://www.mutttricx.net" target="_blank">MuttTricx</a></li>
         
-          
+            <li><a href="http://mutttricx.bandcamp.com" target="_blank">MuttTricx at Bandcamp</a></li>
         
-          
-            <li><a href="/live.html">Live</a></li>
-          
+            <li><a href="http://velak.klingt.org/" target="_blank">Velak</a></li>
         
-          
-        
-          
-        
-          
-        
-          
-        
-          
-        
-          
-        
-          
-        
+            <hr>
+            <li><a href="/links.html">+ Friends</a></li>
       </ul>
     </li>
 
@@ -206,115 +272,30 @@
 
 
 
-<!-- ########################################################################################################## -->
-    <!-- added list navi_pages: in _config file, to add pages without dropdown-menu, links don't work!!!    -->
-            <!-- 
 
-----------here
-
-
-        
-
-
-Works - Projects.htlm
-
-
-
-----------here
-
-
-        
-
-
-Sound.htlm
-
-
-
-----------here
-
-
-        
-
-
-About.htlm
-
-
-
-----------end
-
-
-
-
-
- -->
-
-        <!-- <a href> with .html -->
             
-
-
-
-
-		
-      	
-
-      	<li><a href="/works - projects.html">Works - Projects</a></li>
-      	
-  
-
-			    
-
-
-
-		
-      	
-
-      	<li><a href="/sound.html">Sound</a></li>
-      	
-  
-
-			    
-
-
-
-		
-      	
-
-      	<li><a href="/about.html">About</a></li>
-      	
-  
-
-			    
-
-
-
-
-
-
-
-
-
-
-            </ul>
+          </ul>
         </div>
-      </div>
     </div>
+</div>
+
+<!-- show sidebar with worktitles!!  -->
+<!-- assign 'show_worktitle_sidebar:' in posts or pages-layout-defs(e.g.title:sound) to show worktitles in sidebar -->
 
 
 
 
-
+<!-- content######### -->
     <div class="container-narrow">
 
 
 
-
-      <!-- <div class="content"> -->
-        
+                  <!-- <div class="content"> -->
+                          
 
 <!--set image for pages here -->
 <!-- <div class="hero-unit imgH1">
      </div> -->
-
 
 <!-- <div class="page-header">
   <h1>Tags </h1>
@@ -323,10 +304,9 @@ About.htlm
 <!-- <div class="row-fluid">
   <div class="span12"> -->
 
+  						<div class="indent-text">
 
-  	<div class="indent-text">
-
-    
+    						
 
 
 
@@ -334,7 +314,7 @@ About.htlm
 
 
  
-  <h4 id="Live-ref">Live:</h4>
+  <h4 id="works_projects-ref">works_projects:</h4>
   <ul class="unstyled">
       
     
@@ -344,7 +324,31 @@ About.htlm
     
       
       	
-      	<li><a href="/2013/08/20/moe">Moe</a></li>
+      	<li><a href="/2013/08/21/ottos_mops">Ottos_mops</a></li>
+      	
+      
+    
+  
+    
+      
+      	
+      	<li><a href="/2013/08/20/a_car_from_above">A_car_from_above</a></li>
+      	
+      
+    
+  
+    
+      
+      	
+      	<li><a href="/2013/08/19/pachinko">Pachinko</a></li>
+      	
+      
+    
+  
+    
+      
+      	
+      	<li><a href="/2013/08/18/derive">Derive</a></li>
       	
       
     
@@ -365,7 +369,28 @@ About.htlm
     
       
       	
-      	<li><a href="/2013/08/23/Spruch_September">Spruch_september</a></li>
+      	<li><a href="/2013/08/22/spruch_august">Spruch_august</a></li>
+      	
+      
+    
+  
+
+
+
+    <br />
+  </ul>
+ 
+  <h4 id="sound-ref">sound:</h4>
+  <ul class="unstyled">
+      
+    
+
+
+  
+    
+      
+      	
+      	<li><a href="/2013/08/27/klangkunsttage">Klangkunsttage</a></li>
       	
       
     
@@ -373,15 +398,7 @@ About.htlm
     
       
       	
-      	<li><a href="/2013/08/22/Spruch_August">Spruch_august</a></li>
-      	
-      
-    
-  
-    
-      
-      	
-      	<li><a href="/2013/08/21/Picknick_am_Wegesrand">Picknick_am_wegesrand</a></li>
+      	<li><a href="/2013/08/25/krach">Krach</a></li>
       	
       
     
@@ -397,25 +414,27 @@ About.htlm
 
 
 
-	</div>
+						</div>
 
 <!--   </div>
 </div> -->
 
 
-      <!-- </div> -->
+                   <!-- </div> -->
 
-<hr> 
-
-     <footer>
-
-      <div class="indent-text">
-<!--         <p>the impressum
-        &copy;2013 Tricxi
-        </p> -->
-      </div>
-
-      </footer> 
+<!-- bottom section -->
+<div class="container-narrow"><div class="indent-text">
+    <hr>
+    <footer>
+   <!--   <div class="indent-text">
+         <p>the impressum
+        &copy;2013 Tricx
+        </p> 
+      </div> -->
+      <div class="distance">&nbsp;</div>
+    </footer> 
+</div></div>
+   
 
     </div>
   </dif>
@@ -430,4 +449,6 @@ About.htlm
 
   </body>
 </html>
+
+
 

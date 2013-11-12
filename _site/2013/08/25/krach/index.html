@@ -1,0 +1,397 @@
+
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <title>Krach</title>
+    
+    <meta name="author" content="Tricx">
+
+    <!-- Enable responsive viewport -->
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta content="de" name="language">
+    <meta content="development" name="description">
+    <meta content="keword, list, here" name="keywords">
+    <meta content="index, follow" name="robots">
+    <meta content="text/html; charset=utf-8" http-equiv="Content-Type">
+
+    <!-- IE compability mode -->
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+
+    <!-- Le HTML5 shim, for IE6-8 support of HTML elements -->
+    <!--[if lt IE 9]>
+      <script src="http://html5shim.googlecode.com/svn/trunk/html5.js"></script>
+    <![endif]-->
+
+    
+    <!-- Le styles -->
+    <!-- <link href="/assets/themes/twitter/bootstrap/css/bootstrap.2.2.2.min.css" rel="stylesheet"> -->
+    <link href="/assets/themes/twitter/bootstrap/css/bootstrap2.3.2.css" rel="stylesheet">
+    <link href="/assets/themes/twitter/css/style.css?body=1" rel="stylesheet" type="text/css" media="all">
+
+    <!-- Le fav and touch icons -->
+    <link rel="shortcut icon" href="images/favicon.ico">
+    <!-- <link rel="apple-touch-icon" href="images/apple-touch-icon.png"> -->
+    <!-- <link rel="apple-touch-icon" sizes="72x72" href="images/snail.png">
+    <link rel="apple-touch-icon" sizes="114x114" href="images/snail.png"> -->
+ 
+
+    <!-- atom & rss feed -->
+    <link href="/atom.xml" type="application/atom+xml" rel="alternate" title="Sitewide ATOM Feed">
+    <link href="/rss.xml" type="application/rss+xml" rel="alternate" title="Sitewide RSS Feed">
+
+    <!-- javascript -->
+    <!-- <script src="http://code.jquery.com/jquery.js"></script> -->
+    <script src="/assets/themes/twitter/bootstrap/js/jquery.js"></script>
+
+    <!-- <script src="/assets/themes/twitter/bootstrap/js/bootstrap.min.js"></script> -->
+    <script src="/assets/themes/twitter/bootstrap/js/bootstrap.min2.3.2.js"></script>
+  </head>
+<!-- ############################################################################################################# -->
+  <body>
+
+  <!--test for navbar fixed on top-->
+  <!-- <div class="navbar navbar data-spy="affix" data-offset-top="200"">  -->
+  <!-- <div class= "navbar navbar stay" id= "mastnav"> -->
+
+
+  <!-- for navbar normal change to: 1.st container-narrow, 2. navbar navbar -->
+  <!-- navbar-inverse -->
+<div class= "navbar navbar-fixed-top" id= "mastnav"> <!-- css body with padding-top:60px, ok with mobiles?-->
+    <div class="container-narrow">
+        <div class="navbar-inner">
+          <!-- <a class="brand" href="/">Tricx</a> -->
+          <!-- <a class="brand" href="/"> &nbsp; Home</a> -->
+          <ul class="nav">
+<!-- ###################################################################### -->
+    <!-- added list navi_pages: in _config file, to add pages without dropdown-menu -->
+            <!-- 
+
+----------here
+
+        
+
+Works - Projects.htlm
+
+
+
+----------here
+
+        
+
+Sound.htlm
+
+
+
+----------here
+
+        
+
+About.htlm
+
+
+
+----------end
+
+
+
+
+
+ -->
+        <!-- <a href> with .html -->
+            
+  
+    
+
+      <li id="navi_pages1"><a href="/works - projects.html">Works - Projects</a></li>
+    
+    
+
+  
+    
+
+      <li id="navi_pages2"><a href="/sound.html">Sound</a></li>
+    
+    
+
+  
+    
+
+      <li id="navi_pages3"><a href="/about.html">About</a></li>
+    
+    
+
+
+
+
+
+    
+
+
+
+
+
+
+
+
+
+
+<!-- ###################################################################### -->
+    <!-- added list navi_categories: in _config file, to add pages with dropdown-menu -->
+
+            <!--  -->
+            <!--  -->
+            <!-- 
+
+
+  
+    
+      
+      	
+      	<li><a href="/about.html">About</a></li>
+      	
+      
+    
+  
+    
+      
+    
+  
+    
+      
+    
+  
+    
+      
+    
+  
+    
+      
+      	
+      	<li><a href="/links.html">Links</a></li>
+      	
+      
+    
+  
+    
+      
+    
+  
+    
+      
+      	
+      	<li><a href="/news.html">News</a></li>
+      	
+      
+    
+  
+    
+      
+      	
+      	<li><a href="/posts.html">Posts</a></li>
+      	
+      
+    
+  
+    
+      
+    
+  
+    
+      
+    
+  
+    
+      
+      	
+      	<li><a href="/sound.html">sound</a></li>
+      	
+      
+    
+  
+    
+      
+      	
+      	<li><a href="/tags.html">Tags</a></li>
+      	
+      
+    
+  
+    
+      
+      	
+      	<li><a href="/works - projects.html">works_projects</a></li>
+      	
+      
+    
+  
+
+
+ -->
+        
+            
+            
+            
+
+
+    <li id="navi_categories1" class="dropdown">
+    
+
+      
+      <a class= "dropdown-toggle disabled" href="/links.html"> Links <b id="dropdown_disable" class= "caret"></b>
+
+        <!-- toggle with data-toggle or directly with javascript -->
+        <script>
+          $('.dropdown-toggle').dropdown()
+        </script>
+      </a>
+
+      <ul id="dropdown_disable" class="dropdown-menu" role="menu" aria-labelledby="dLabel">
+
+
+
+
+        
+            <li><a href="https://soundcloud.com/tricx" target="_blank">Soundcloud</a></li>
+        
+            <li><a href="https://github.com/tricx" target="_blank">Github</a></li>
+        
+            <li><a href="http://www.mutttricx.net" target="_blank">MuttTricx</a></li>
+        
+            <li><a href="http://mutttricx.bandcamp.com" target="_blank">MuttTricx at Bandcamp</a></li>
+        
+            <li><a href="http://velak.klingt.org/" target="_blank">Velak</a></li>
+        
+            <hr>
+            <li><a href="/links.html">+ Friends</a></li>
+      </ul>
+    </li>
+
+
+
+
+
+
+
+            
+          </ul>
+        </div>
+    </div>
+</div>
+
+<!-- show sidebar with worktitles!!  -->
+<!-- assign 'show_worktitle_sidebar:' in posts or pages-layout-defs(e.g.title:sound) to show worktitles in sidebar -->
+
+
+
+
+<!-- content######### -->
+    <div class="container-narrow">
+
+
+
+                  <!-- <div class="content"> -->
+                          
+
+<!--set image for post entries her-->
+<!-- <div class="hero-unit imgH4">
+      </div> -->
+
+
+<!--indent-text-->
+<div class="indent-text">
+
+
+                
+
+                        
+                  <!-- <div class="content"> -->
+                          <hr>
+                          <h4><a href='/2013/08/25/krach'>Krach</a></h4><p>
+<br />soundtest:<br />
+</p><div>
+	<object height='81' width='100%'> <param name='movie' value='https://player.soundcloud.com/player.swf?url=http%3A%2F%2Fapi.soundcloud.com%2Ftracks%2F18902378&amp;show_comments=true&amp;
+	auto_play=false&amp;color=ff7700' /> <param name='allowscriptaccess' value='always' /> <embed allowscriptaccess='always' height='81' src='https://player.soundcloud.com/player.swf?url=http%3A%2F%2Fapi.soundcloud.com%2Ftracks%2F18902378&amp;show_comments=true&amp;auto_play=false&amp;color=ff7700' type='application/x-shockwave-flash' width='100%' /> </object>    
+</div>
+                  <!-- </div> -->
+                
+
+<!--     
+
+  
+  <h4> Tags: </h4>
+    <dl class="tag_box inline">
+      <i class="icon-tags"></i>
+      
+      
+
+
+  
+     
+    	<li><a href="/tags.html#sound-ref">sound <span>2</span></a></li>
+    
+  
+
+
+
+    </dl>
+    --> 
+
+
+  <div class="pagination">
+    <ul>
+
+      
+        <li class="prev"><a href="/2013/08/22/spruch_august" title="Spruch_august">Previous</a></li>
+      
+
+      
+        <li class="next"><a href="/2013/08/27/klangkunsttage" title="Klangkunsttage">Next</a></li>
+      
+      
+      <!-- <li><a href="/archive.html">Archive</a></li> -->
+
+
+    </ul>
+  </div>
+    
+    
+
+
+
+<!--div from indent-text-->
+</div>
+
+
+                   <!-- </div> -->
+
+<!-- bottom section -->
+<div class="container-narrow"><div class="indent-text">
+    <hr>
+    <footer>
+   <!--   <div class="indent-text">
+         <p>the impressum
+        &copy;2013 Tricx
+        </p> 
+      </div> -->
+      <div class="distance">&nbsp;</div>
+    </footer> 
+</div></div>
+   
+
+    </div>
+  </dif>
+
+    <!-- page:
+
+
+{"published"=>true, "layout"=>"default", "tags"=>["sound"], "JB"=>{"analytics"=>false}, "title"=>"Krach", "url"=>"/2013/08/25/krach", "date"=>2013-08-25 00:00:00 +0200, "id"=>"/2013/08/25/krach", "categories"=>[], "next"=>#Jekyll:Post @id="/2013/08/27/klangkunsttage", "previous"=>#Jekyll:Post @id="/2013/08/22/spruch_august", "content"=>"{% include JB/setup %}\n\n\n{% for post in site.posts %}\n\t{% assign pt = post.title | downcase %}\n\t{% if 'krach' == pt %}\n<h4><a href=\"{{ BASE_PATH }}{{ post.url }}\">Krach</a></h4>\n\t{% endif %}\n{% endfor %}\n\n<p>\n<br />soundtest:<br />\n</p>\n\n<div>\n\t<object height=\"81\" width=\"100%\"> <param name=\"movie\" value=\"https://player.soundcloud.com/player.swf?url=http%3A%2F%2Fapi.soundcloud.com%2Ftracks%2F18902378&amp;show_comments=true&amp;\n\tauto_play=false&amp;color=ff7700\"></param> <param name=\"allowscriptaccess\" value=\"always\"></param> <embed allowscriptaccess=\"always\" height=\"81\" src=\"https://player.soundcloud.com/player.swf?url=http%3A%2F%2Fapi.soundcloud.com%2Ftracks%2F18902378&amp;show_comments=true&amp;auto_play=false&amp;color=ff7700\" type=\"application/x-shockwave-flash\" width=\"100%\"></embed> </object>    \n</div>", "excerpt"=>"{% include JB/setup %}\n\n", "path"=>"_posts/2013-08-25-krach.md", "theme"=>{"name"=>"twitter"}} -->
+
+
+
+
+  </body>
+</html>
+
+
+

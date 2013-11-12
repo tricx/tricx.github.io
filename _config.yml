@@ -130,9 +130,6 @@ JB :
   #   ./_includes/custom/[HELPER]
   # where [HELPER] is the name of the helper you are overriding.
 
-  # pages with subcategories in navbar
-  navi_categories:
-    - "News"
 
   # pages in navbar ( no subcategories)
   navi_pages:
@@ -140,12 +137,35 @@ JB :
     - "Sound"
     - "About"
     
+  # pages with subcategories in navbar
+  navi_categories:
+    - "Links"
 
   # pages on the sidebar
   navi_pages_sidebar:
     - "Works - Projects"
     - "Sound"
 
+  # sidebar items, if 'show_worktitle_sidebar: true' (in pages, posts layout -defs)
+  works_projects_list:
+    - "A Car from ABove"  
+    - "Ottos Mops"
+    - "Pachinko"
+    - "Derive"
 
+  # add this links to dropdown-menu, or to page links
+  links_list:
+    - ["Soundcloud", "https://soundcloud.com/tricx"]
+    - ["Github", "https://github.com/tricx"]
+    - ["MuttTricx", "http://www.mutttricx.net"]
+    - ["MuttTricx at Bandcamp", "http://mutttricx.bandcamp.com"]
+    - ["Velak", "http://velak.klingt.org/"]
     
+  links_list_friends:
+    - ["Sophie Dvorak", "http://www.sophiedvorak.net"]
+    - ["Christoph Freidhöfer", "http://kunst-und-raederwerk.de"]
+
+
+    # tags!! add posts(e.g. with tags: sound) to pages: works-projects, sound
+
 

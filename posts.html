@@ -14,7 +14,10 @@ group: navigation
 
 
  {% for post in site.posts %}
+ {% comment %}
    <h5>{{ post.date | date_to_string }}:</h5> <h4><a href="{{ BASE_PATH }}{{ post.url }}">{{ post.title }}</a></h4>
+ {% endcomment %}
+  
    <p>&nbsp;</p>
    {{post.content}}
    <p>&nbsp;</p>

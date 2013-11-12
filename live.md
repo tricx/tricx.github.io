@@ -2,7 +2,7 @@
 layout: page
 title : Live
 header : Live
-category: News
+category: Links
 ---
 {% include JB/setup %}
 
