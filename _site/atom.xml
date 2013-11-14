@@ -4,7 +4,7 @@
  <title>Tricx</title>
  <link href="http://tricx.github.io/" rel="self"/>
  <link href="http://tricx.github.io"/>
- <updated>2013-11-14T03:46:25+01:00</updated>
+ <updated>2013-11-14T16:14:09+01:00</updated>
  <id>http://tricx.github.io</id>
  <author>
    <name>Tricx</name>
@@ -87,8 +87,10 @@ The sounds of a cassette recorder itself, of a simple oscillator circuit, and a 
 Soundinstallation&lt;br /&gt;
 a metal plate, a transducer, and a small amplifier&lt;br /&gt;&lt;br /&gt;
 
+This installtion was done for 10th exhibition of &lt;a href='http://platte2000.blogspot.co.at/' style='text-decoration:none; color: blue' target='_blank'&gt;&lt;i&gt;'Platte'&lt;/i&gt;&lt;/a&gt; &lt;br /&gt;
 Movements, vibrations the plate receives are amplified and played back into the room.&lt;br /&gt;&lt;br /&gt;
-&lt;/p&gt;</content>
+&lt;/p&gt;&lt;iframe allowfullscreen='' frameborder='0' height='384' src='http://player.vimeo.com/video/79394620?title=0&amp;amp;byline=0&amp;amp;portrait=0' webkitallowfullscreen='' width='100%'&gt;
+&lt;/iframe&gt;</content>
  </entry>
  
  <entry>
@@ -154,7 +156,8 @@ The video shows the traces of the tires of a bicycle, during a ride through the 
 Videoloop (4mn)&lt;br /&gt;&lt;br /&gt;
 
 Birds in a cage.&lt;br /&gt;&lt;br /&gt;
-&lt;/p&gt;</content>
+&lt;/p&gt;&lt;iframe allowfullscreen='' frameborder='0' height='384' src='http://player.vimeo.com/video/79397224?title=0&amp;amp;byline=0&amp;amp;portrait=0' webkitallowfullscreen='' width='100%'&gt;
+&lt;/iframe&gt;</content>
  </entry>
  
  <entry>
@@ -228,27 +231,15 @@ The film loop shows permanently turning maple seeds, in density and speed variab
  </entry>
  
  <entry>
-   <title>Klangkunsttage</title>
-   <link href="http://tricx.github.io/2013/08/27/klangkunsttage"/>
-   <updated>2013-08-27T00:00:00+02:00</updated>
-   <id>http://tricx.github.io/2013/08/27/klangkunsttage</id>
-   <content type="html">&lt;h4&gt;&lt;a href='/2013/08/27/klangkunsttage'&gt;Klangkunsttage&lt;/a&gt;&lt;/h4&gt;&lt;p&gt;
-&lt;br /&gt;
+   <title>Kra2</title>
+   <link href="http://tricx.github.io/2013/10/01/kra2"/>
+   <updated>2013-10-01T00:00:00+02:00</updated>
+   <id>http://tricx.github.io/2013/10/01/kra2</id>
+   <content type="html">&lt;h4&gt;&lt;a href='/2013/10/01/kra2'&gt;Kra2&lt;/a&gt;&lt;/h4&gt;&lt;p&gt;
 &lt;blockquote&gt;
-    &lt;em&gt;live set&lt;/em&gt; at Klangkunsttage, Galerie 12-14&lt;br /&gt;
+    &lt;em&gt;test for live sampler (pd)&lt;/em&gt; (old stuff..)&lt;br /&gt;
 &lt;/blockquote&gt;
 &lt;br /&gt;&lt;br /&gt;&lt;br /&gt;
-&lt;/p&gt;&lt;iframe allowfullscreen='' frameborder='0' height='384' src='http://player.vimeo.com/video/74517369?title=0&amp;amp;byline=0&amp;amp;portrait=0' webkitallowfullscreen='' width='100%'&gt;
-&lt;/iframe&gt;</content>
- </entry>
- 
- <entry>
-   <title>Kra2</title>
-   <link href="http://tricx.github.io/2013/08/25/kra2"/>
-   <updated>2013-08-25T00:00:00+02:00</updated>
-   <id>http://tricx.github.io/2013/08/25/kra2</id>
-   <content type="html">&lt;h4&gt;&lt;a href='/2013/08/25/kra2'&gt;Kra2&lt;/a&gt;&lt;/h4&gt;&lt;p&gt;
-&lt;br /&gt;soundtest:&lt;br /&gt;
 &lt;/p&gt;&lt;div&gt;
 	&lt;object height='81' width='100%'&gt; &lt;param name='movie' value='https://player.soundcloud.com/player.swf?url=https%3A//api.soundcloud.com/tracks/20159213&amp;amp;show_comments=true&amp;amp;
 	auto_play=false&amp;amp;color=ff7700' /&gt; &lt;param name='allowscriptaccess' value='always' /&gt; &lt;embed allowscriptaccess='always' height='81' src='https://player.soundcloud.com/player.swf?url=https%3A//api.soundcloud.com/tracks/20159213&amp;amp;show_comments=true&amp;amp;auto_play=false&amp;amp;color=ff7700' type='application/x-shockwave-flash' width='100%' /&gt; &lt;/object&gt;    

@@ -25,5 +25,4 @@ http://tricx.github.io/2013/10/20/derive
 http://tricx.github.io/2013/10/19/rasenmaeher
 http://tricx.github.io/2013/10/18/noircir
 http://tricx.github.io/2013/10/17/undefined_falling_objects
-http://tricx.github.io/2013/08/27/klangkunsttage
-http://tricx.github.io/2013/08/25/kra2
+http://tricx.github.io/2013/10/01/kra2
