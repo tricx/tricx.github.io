@@ -15,24 +15,36 @@ group: navigation
 <hr>
 
 <dic class="row-fluid">
-<div class="span6"
+	<div class="span6">
 <p> diverse identities... uhhhaah: <br /><br />
 {% for link in site.JB.links_list %}
     <dt><a href="{{link[1]}}" target="_blank"><b>{{link[0]}}</b></a></dt>
 {% endfor %}
 </p>
-</div>
+	</div>
 
-
-<div class="span6"
+	<div class="span6">
 <p> these are ALL MY FRIENDS!!!!!: <br /><br />
-
 	{% comment %}
 {% for link in site.JB.links_list_friends %}
     <dt><a href="{{link[1]}}" target="_blank"><b>{{link[0]}}</b></a></dt>
 {% endfor %}
 	{% endcomment %}
-
 </p>
-</div>
+	</div>
 
+<p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p>
+
+{% comment %}
+
+this systematic works with firefox, but not in chrome or safari
+seems that container-narrow doesn't adapt to the height of span6
+problem with row-fluid?
+how could it be done with tables and media query?
+
+dirty hack: dependent on the length of the links_list, use line breaks to fill container-narrow
+
+<dic class="row-fluid">
+<div class="span6">col1<p>&nbsp;</p>hello1</div><div class="span6">col2<p>&nbsp;</p>hello2<p>&nbsp;</p><p>&nbsp;</p>und hier2</div>
+</div>
+{% endcomment %}

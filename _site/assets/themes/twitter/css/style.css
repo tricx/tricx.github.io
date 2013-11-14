@@ -31,6 +31,7 @@ body { padding-top: 25px; }
     body { padding-top: 25px; }
 }
 
+
 /*---------------------------*/
 /*scrollbar permanent on*/
 html {
@@ -136,7 +137,7 @@ make independent layouts for every page?
     /* set font color to white */
     /*color: white;*/
     /*change min-height to adjust navbar height!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!*/
-    min-height: 35px;
+    min-height: 34px;
 }   
 /*change navbar items to the right */
 .navbar .nav {
