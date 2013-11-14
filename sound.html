@@ -6,11 +6,15 @@ group: navigation
 ---
 
 {% comment %}
-dirty hack to override css from here: change link color to white, container-narrow to black, background-image
+dirty hack to override css from here: change link color to white, container-narrow to black, background-image etc.
 {% endcomment %}
 
 <head>
 <style>
+body{
+  background-image:none;
+  background-color: black !important;
+}
 a {color: white;
 }
 .container-narrow {background-color: black; color:white;
@@ -19,12 +23,10 @@ a {color: white;
 {   
     color:white !important;
     background-color: black !important;
+
 }
 </style>
 </head>
-
-<body style="background-color: black;">
-</body>
 
 {% comment %}
 <div class="page-header">

@@ -7,28 +7,28 @@
 
 body {
   margin: 0; 
-  /*font: 11.5px/16px Verdana,​Arial,​sans-serif;*/
   font: 11.5px/16px "Helvetica", Helvetica, Arial, sans-serif;
+  /*font: 11.5px/16px Verdana,​Arial,​sans-serif;*/
   /*font-family:  "Helvetica Neue", Helvetica, Arial, sans-serif;*/
   /*font-size: 13;*/
   text-align:justify;
 
   /*background-image: url('/images/galaxy.jpg');*/
-/*  background-image: url('/images/pachinko.jpg');
-  background-size: 1440px 800px;*/
+  background-image: url('/images/pachinko.jpg');
+  background-size: 1440px 800px;
 
 /*  background-image: url('/images/bg1.gif');  
   background-size: 72.0px 20.0px; */
   background-repeat: repeat;
-  /*color: #1F0F0F;*/
-  color:black;
-  /*background-color: #f3edd2;*/
   background-color: white;
+  color:black;
+  /*color: #1F0F0F;*/
+  /*background-color: #f3edd2;*/
 }
 
-body { padding-top: 60px; }
+body { padding-top: 25px; }
 @media screen and (max-width: 720px) {
-    body { padding-top: 60px; }
+    body { padding-top: 25px; }
 }
 
 /*---------------------------*/
@@ -41,37 +41,40 @@ html {
 /* Custom container */
 .container-narrow {
   margin: 0 auto;
-  /*margin-left: 5%;*/
+  margin-left: 0%;
   /*background-color: #FFFFF9;*/
-  /*background-color: azure;*/
-/*background-color is commented, else chaning background for/in sound.html is not possible*/
   background-color: white;
   color: black;
-  max-width: 742px; }
+  max-width: 742px;
+}
 
 /*change spacing to hr*/
-.container-narrow > hr {
-  margin: 18px 0; }
-
-.navbar .nav {
-  float: right;
-  margin-right: 0;
-  /*background-color: azure;*/
-}
+/*.container-narrow > hr {
+  margin: 18px 0; }*/
 
 /*---------------------------*/
 /* indent text */
 .indent-text{
   margin:4%;
 }
-/* indent text */
+/* indent text for sidebar*/
 .indent-text2{
-  margin:15%;
+  margin-top: 5%;
+  margin-left: 7%;
+  margin-right: 7%;
+  margin-bottom: 0%
 }
 
+/*distance between different posts in works_projects, sound*/
 .distance{
-  margin-bottom: 80px;
+  margin-bottom: 60px;
 }
+
+/*distance between containers, default.html */
+.distance2{
+  margin-bottom: 20px;
+}
+
 /*doesn't make a difference - hr with black background is not displayed with size:1px*/
 hr {
   height:1px !important;
@@ -121,7 +124,6 @@ make independent layouts for every page?
 .navbar{
     min-height: 30px;
 }
-
 .navbar-inner
 {
     background-color: #E5E5E5;
@@ -136,31 +138,37 @@ make independent layouts for every page?
     /*change min-height to adjust navbar height!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!*/
     min-height: 35px;
 }   
-
+/*change navbar items to the right */
+.navbar .nav {
+  float: right;
+  margin-right: 0;
+  /*background-color: azure;*/
+}
 
 /*remove shadow!!!!!!!!!!!*/
 .navbar-fixed-top .navbar-inner, .navbar-static-top .navbar-inner {
     box-shadow: none;
 }
-/* menu items */
+/* menu items############################################## */
 /* set the background of the menu items to pink and default color to white */
-  .navbar .nav > li > a {
+/*.navbar .nav > li > a {
     background-color: pink;  
-}
+}*/
+
 /* set hover and focus to lightblue */
-  .navbar .nav > li > a:focus,
-  .navbar .nav > li > a:hover {
+/*.navbar .nav > li > a:focus,
+.navbar .nav > li > a:hover {
     background-color: lightblue;
-    /*color: white;*/
-}
-/*because of dropdown menu mod not possible??????????????????????*/
+}*/
+
+/*because of dropdown menu this is not possible??????????????????????*/
         /* set active item to darkgreen */
-    .navbar .nav > .active > a,
-    .navbar .nav > .active > a:hover,
-    .navbar .nav > .active > a:focus {
+/*.navbar .nav > .active > a,
+.navbar .nav > .active > a:hover,
+.navbar .nav > .active > a:focus {
       background-color: darkgreen;
-      /*color: white;*/
-}
+}*/
+
 /* set font color and background of the project name (brand) */
 /*  .navbar .brand {
       background-color: orange;
@@ -187,7 +195,6 @@ make independent layouts for every page?
 #navi_pages1 > a:hover {
     background-color: pink;
 }
-
 #navi_pages2 > a {
     background: black;
     color: red !important;
@@ -196,7 +203,6 @@ make independent layouts for every page?
 #navi_pages2 > a:hover {
     background-color: white;
 }
-
 #navi_pages3 > a {
     background: lightblue;
 }
@@ -204,7 +210,6 @@ make independent layouts for every page?
 #navi_pages3 > a:hover {
     background-color: pink;
 }
-
 /*ids of the navigation items, forloop.index in pages_list_list, pages_list_links_list*/
 #navi_categories1 > a {
     background: red;
@@ -215,7 +220,6 @@ make independent layouts for every page?
     background-color: pink;
 }
 /*#########################################################################*/
-
 
 .navbar-fixed-top,
 .navbar-fixed-bottom {
@@ -240,7 +244,6 @@ make independent layouts for every page?
     top: 0;
     width: 100%;
 }*/
-
 .navbar-inverse .nav > li > a {
   /*color: #999999;*/
   color: #ffffff;
@@ -321,7 +324,6 @@ left:10px;
 .dropdown-menu > li > a:hover,
 .dropdown-menu > li > a:focus {
   background-color: #E5E5E5;
-  /*background-color: green;*/
   color: black;
 }
 /* change text color to white */
@@ -345,7 +347,6 @@ a {
   /*text-decoration: none;*/
   text-decoration: underline;
 }
-
 a:hover,
 a:focus {
   color: red;
@@ -356,7 +357,8 @@ a:focus {
 .linkNew {
       font-size: 12px;
       color: black;
-      background-color: #E5E5E5;
+      /*background-color: #E5E5E5;*/
+      background-color: white;
       display:block;
       margin: -6px 0 0 0;
       text-decoration: underline;
@@ -375,18 +377,16 @@ a:focus {
   margin-top: 90px;
   background-color: #FAFAFA;
   }*/
-
 .well {
     background-color: white;
     border: none;
     border-radius: 0px;
     box-shadow: none;
-    margin-top: 4px;
+    margin-top: 30px;
     margin-bottom: 0px;
     min-height: 0px;
     padding: 0px;
 }
-
 /*change color of the links in sidebar*/
 /*.nav > li > a:hover, .nav > li > a {
     color: black;
@@ -403,25 +403,23 @@ a:focus {
     margin-left: 690px;
 }*/
 
-/*change sidebar padding!!!!!!!!!!!!!!!*/
+/*change sidebar padding*/
 .sidebar-nav {
     padding: 9px 0;
 }
-
-/*remove when display is too small??  !!!!!!!*/
+/*remove when display it is too small*/
 .sidebar-nav-fixed {
-     margin-left: 0.5%;
+     margin-left: 752px;
      position:fixed;
-     width:13.5%;
+     width:15%;
  }
-
  /*@media (max-width: 767px) {*/
- @media (max-width: 1088px) {
+ @media (max-width: 920px) {
      .sidebar-nav-fixed {
       display: none;
      }
  }
-@media (min-width: 728px) { 
+@media (min-width: 870px) { 
   .sidebar-nav-fixed{
       position: auto;
   } 
@@ -458,6 +456,8 @@ h4 {
   /*background-color: black;*/
   background-color: none;
   line-height: 0px;
+  /*display prev, next on the right side!!!!!!!!!!*/
+  /*text-align: right;*/
 }
 .pagination ul {
   position: center;
@@ -490,6 +490,7 @@ h4 {
   background-color: #f5f5f5;
   color: red !important;
 }
+
 
 /*---------------------------*/
 /* footer text center to field? */

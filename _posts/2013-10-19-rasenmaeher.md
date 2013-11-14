@@ -1,0 +1,36 @@
+---
+published: true
+layout: post
+show_worktitle_sidebar: true
+tags: works_projects
+JB :
+  analytics : false
+---
+
+{% include JB/setup %}
+
+
+{% for post in site.posts %}
+	{% assign pt = post.title | downcase %}
+	{% if 'rasenmaeher' == pt %}
+<h4><a href="{{ BASE_PATH }}{{ post.url }}">Rasenmaeher</a></h4>
+	{% endif %}
+{% endfor %}
+
+<p>
+2006<br />
+Landartperformance<br />
+Video (17mn 15)<br /><br />
+
+Working title: “Eine Einstellung zur Arbeit”<br /><br />
+
+A lawnmower driving in circles, mowing the grass. The camera position and angle remain the same during the whole film.<br /><br />
+</p>
+{% comment %}
+<p> <br />scene:<br /></p>
+{% endcomment %}
+
+<img src="{{ site.url }}/images/rasenmaeher1.jpg" alt="image">
+
+
+

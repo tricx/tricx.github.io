@@ -152,18 +152,30 @@ JB :
     - "Ottos Mops"
     - "Pachinko"
     - "Derive"
+    - "Wilhelms Punk"
+    - "Ancient Ancient World"
+    - "Zweistimmige Inventionen"
+    - "Undefined Falling Objects"
+    - "Noircir"
+    - "Rasenmaeher"
+    - "Bikes and Birds"
+    - "Platte X"
+
 
   # add this links to dropdown-menu, or to page links
   links_list:
-    - ["Soundcloud", "https://soundcloud.com/tricx"]
-    - ["Github", "https://github.com/tricx"]
+    - ["tricx at soundcloud", "https://soundcloud.com/tricx"]
+    - ["tricx at github", "https://github.com/tricx"]
     - ["MuttTricx", "http://www.mutttricx.net"]
-    - ["MuttTricx at Bandcamp", "http://mutttricx.bandcamp.com"]
-    - ["Velak", "http://velak.klingt.org/"]
+#    - ["MuttTricx at bandcamp", "http://mutttricx.bandcamp.com"]
     
   links_list_friends:
     - ["Sophie Dvorak", "http://www.sophiedvorak.net"]
     - ["Christoph Freidhöfer", "http://kunst-und-raederwerk.de"]
+    - ["Karl Salzmann", "http://karlsalzmann.com/"]
+    - ["Fabian Linzberger", "http://lefant.net/"]
+    - ["Leo Peschta", "www.leo.ok.ag"]
+    - ["velak", "http://velak.klingt.org/"]
 
 
     # tags!! add posts(e.g. with tags: sound) to pages: works-projects, sound

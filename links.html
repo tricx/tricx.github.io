@@ -1,9 +1,10 @@
 ---
 layout: page
-title : Links
-header : Links
+title : links
+header : links
 group: navigation
 ---
+
 
 {% comment %}
 <div class="page-header">
@@ -15,7 +16,7 @@ group: navigation
 
 <dic class="row-fluid">
 <div class="span6"
-<p> dispersive identities... uhhhaah: <br /><br />
+<p> diverse identities... uhhhaah: <br /><br />
 {% for link in site.JB.links_list %}
     <dt><a href="{{link[1]}}" target="_blank"><b>{{link[0]}}</b></a></dt>
 {% endfor %}
@@ -24,11 +25,14 @@ group: navigation
 
 
 <div class="span6"
-<p> these are ALL MY FRIENDS!!!: <br /><br />
+<p> these are ALL MY FRIENDS!!!!!: <br /><br />
+
+	{% comment %}
 {% for link in site.JB.links_list_friends %}
     <dt><a href="{{link[1]}}" target="_blank"><b>{{link[0]}}</b></a></dt>
 {% endfor %}
+	{% endcomment %}
+
 </p>
 </div>
 
-</div>

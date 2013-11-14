@@ -13,10 +13,17 @@ http://tricx.github.io/sound.html
 http://tricx.github.io/tags.html
 http://tricx.github.io/works - projects.html
 
+http://tricx.github.io/2013/10/28/ottos_mops
+http://tricx.github.io/2013/10/27/pachinko
+http://tricx.github.io/2013/10/26/a_car_from_above
+http://tricx.github.io/2013/10/25/wilhelms_punk
+http://tricx.github.io/2013/10/24/platte_x
+http://tricx.github.io/2013/10/23/ancient_ancient_world
+http://tricx.github.io/2013/10/22/zweistimmige_inventionen
+http://tricx.github.io/2013/10/21/bikes_and_birds
+http://tricx.github.io/2013/10/20/derive
+http://tricx.github.io/2013/10/19/rasenmaeher
+http://tricx.github.io/2013/10/18/noircir
+http://tricx.github.io/2013/10/17/undefined_falling_objects
 http://tricx.github.io/2013/08/27/klangkunsttage
-http://tricx.github.io/2013/08/25/krach
-http://tricx.github.io/2013/08/22/spruch_august
-http://tricx.github.io/2013/08/21/ottos_mops
-http://tricx.github.io/2013/08/20/a_car_from_above
-http://tricx.github.io/2013/08/19/pachinko
-http://tricx.github.io/2013/08/18/derive
+http://tricx.github.io/2013/08/25/kra2
