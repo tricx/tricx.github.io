@@ -26,10 +26,8 @@ Working title: “Eine Einstellung zur Arbeit”<br /><br />
 
 A lawnmower driving in circles, mowing the grass. The camera position and angle remain the same during the whole film.<br /><br />
 </p>
-{% comment %}
-<p> <br />scene:<br /></p>
-{% endcomment %}
 
+<p> <br />still image:<br /></p>
 <img src="{{ site.url }}/images/rasenmaeher1.jpg" alt="image">
 
 

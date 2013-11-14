@@ -40,4 +40,5 @@ The titles of the images are taken form the newspaper Bazar, VW Bus T3, Toyota, 
 <p>&nbsp;</p>
 <img src="{{ site.url }}/images/ancient2.jpg" alt="image">
 <p>&nbsp;</p>
+<p> <br />exhibition view:<br /></p>
 <img src="{{ site.url }}/images/ancient_exhib.jpg" alt="image">

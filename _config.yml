@@ -10,10 +10,10 @@ pygments: true
 #
 title : Tricx
 tagline: 
-author :
+author : Paul Gruendorfer
   name : Tricx
-  email : blah@email.test
-  github : username
+  email : 
+  github : https://github.com/tricx
   twitter : username
   feedburner : feedname
 
