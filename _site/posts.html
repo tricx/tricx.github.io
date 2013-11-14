@@ -5,7 +5,7 @@
     <meta charset="utf-8">
     <title>Posts</title>
     
-    <meta name="author" content="Tricx">
+    <meta name="author" content="Paul Gruendorfer">
 
     <!-- Enable responsive viewport -->
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -547,7 +547,7 @@ The film loop shows permanently turning maple seeds, in density and speed variab
     <footer>
    <!--   <div class="indent-text">
          <p>the impressum
-        &copy;2013 Tricx
+        &copy;2013 Paul Gruendorfer
         </p> 
       </div> -->
       <div class="distance2">&nbsp;</div>
@@ -562,6 +562,22 @@ The film loop shows permanently turning maple seeds, in density and speed variab
 
 
 {"layout"=>"default", "title"=>"Posts", "header"=>"Posts By Category", "group"=>"navigation", "url"=>"/posts.html", "content"=>"{% include JB/setup %}\n{% assign categories_list = site.categories %}\n\n{% comment %}\n {% include JB/categories_list %}\n{% endcomment %}  \n\n\n {% for post in site.posts %}\n {% comment %}\n   <h5>{{ post.date | date_to_string }}:</h5> <h4><a href=\"{{ BASE_PATH }}{{ post.url }}\">{{ post.title }}</a></h4>\n {% endcomment %}\n  \n   <p>&nbsp;</p>\n   {{post.content}}\n   <p>&nbsp;</p>\n   <p>&nbsp;</p>\n {% endfor %}\n\n\n{% comment %}\n{% for category in site.categories %} \n  <h2 id=\"{{ category[0] }}-ref\"> {{ category[0] | join: \"/\" }}</h2>\n    {% assign pages_list = category[1] %}\n   <ul class=\"unstyled\">\n   {% include JB/pages_list %}\n   </ul>\n{% endfor %}\n<dt> </dt>\n{% endcomment %} ", "path"=>"posts.html", "theme"=>{"name"=>"twitter"}} -->
+
+
+
+
+
+  <script type="text/javascript">
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-123-12']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+</script>
 
 
 

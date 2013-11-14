@@ -5,7 +5,7 @@
     <meta charset="utf-8">
     <title>Live</title>
     
-    <meta name="author" content="Tricx">
+    <meta name="author" content="Paul Gruendorfer">
 
     <!-- Enable responsive viewport -->
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -330,7 +330,7 @@ About.htlm
     <footer>
    <!--   <div class="indent-text">
          <p>the impressum
-        &copy;2013 Tricx
+        &copy;2013 Paul Gruendorfer
         </p> 
       </div> -->
       <div class="distance2">&nbsp;</div>
@@ -345,6 +345,22 @@ About.htlm
 
 
 {"layout"=>"default", "title"=>"Live", "header"=>"Live", "category"=>"Links", "url"=>"/live.html", "content"=>"{% include JB/setup %}\n\n<div class=\"page-header\">\n  <h3>{{ page.title }} {% if page.tagline %} <small>{{ page.tagline }}</small>{% endif %}</h3>\n</div>\n\n<div>\n{% for tag in site.tags %} \n  {% if page.title == tag[0] %}\n  <ul class=\"unstyled\">\n{% comment %}\n    {% assign pages_list = tag[1] %}  \n    {% include JB/pages_list %}\n{% endcomment %}    \n    <br />\n  </ul>\n  {{tag[1]}}<br /><br />\n  {% endif %}\n{% endfor %}\n</div>\n\n<div class=\"pagination\">\n    <ul>\n      <li><a href=\"/news.html\">News</a></li>\n    </ul>\n  </div>\n   \n{% include JB/comments %}\n\n\n  ", "path"=>"live.md", "theme"=>{"name"=>"twitter"}} -->
+
+
+
+
+
+  <script type="text/javascript">
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-123-12']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+</script>
 
 
 
