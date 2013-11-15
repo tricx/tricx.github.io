@@ -165,7 +165,7 @@ JB :
   # add this links to dropdown-menu, or to page links
   links_list:
     - ["tricx at soundcloud", "https://soundcloud.com/tricx"]
-    - ["tricx at github", "https://github.com/tricx"]
+#    - ["tricx at github", "https://github.com/tricx"]
     - ["MuttTricx", "http://www.mutttricx.net"]
 #    - ["MuttTricx at bandcamp", "http://mutttricx.bandcamp.com"]
     
