@@ -308,7 +308,7 @@ About.htlm
 
 <dic class="row-fluid">
 	<div class="span6">
-<p> diverse identities... uhhhaah: <br /><br />
+<p> diverse identities..: <br /><br />
 
     <dt><a href="https://soundcloud.com/tricx" target="_blank"><b>tricx at soundcloud</b></a></dt>
 
@@ -320,7 +320,7 @@ About.htlm
 	</div>
 
 	<div class="span6">
-<p> these are ALL MY FRIENDS!!!!!: <br /><br />
+<p> + FRIENDS: <br /><br />
 	
 </p>
 	</div>
@@ -357,7 +357,7 @@ About.htlm
     <!-- page:
 
 
-{"layout"=>"default", "title"=>"links", "header"=>"links", "group"=>"navigation", "url"=>"/links.html", "content"=>"{% comment %}\n<div class=\"page-header\">\n  <h3>{{ page.title }} {% if page.tagline %} <small>{{ page.tagline }}</small>{% endif %}</h3>\n</div>\n{% endcomment %}\n\n<hr>\n\n<dic class=\"row-fluid\">\n\t<div class=\"span6\">\n<p> diverse identities... uhhhaah: <br /><br />\n{% for link in site.JB.links_list %}\n    <dt><a href=\"{{link[1]}}\" target=\"_blank\"><b>{{link[0]}}</b></a></dt>\n{% endfor %}\n</p>\n\t</div>\n\n\t<div class=\"span6\">\n<p> these are ALL MY FRIENDS!!!!!: <br /><br />\n\t{% comment %}\n{% for link in site.JB.links_list_friends %}\n    <dt><a href=\"{{link[1]}}\" target=\"_blank\"><b>{{link[0]}}</b></a></dt>\n{% endfor %}\n\t{% endcomment %}\n</p>\n\t</div>\n\n<p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p>\n\n{% comment %}\n\nthis systematic works with firefox, but not in chrome or safari\nseems that container-narrow doesn't adapt to the height of span6\nproblem with row-fluid?\nhow could it be done with tables and media query?\n\ndirty hack: dependent on the length of the links_list, use line breaks to fill container-narrow\n\n<dic class=\"row-fluid\">\n<div class=\"span6\">col1<p>&nbsp;</p>hello1</div><div class=\"span6\">col2<p>&nbsp;</p>hello2<p>&nbsp;</p><p>&nbsp;</p>und hier2</div>\n</div>\n{% endcomment %}\n", "path"=>"links.html", "theme"=>{"name"=>"twitter"}} -->
+{"layout"=>"default", "title"=>"links", "header"=>"links", "group"=>"navigation", "url"=>"/links.html", "content"=>"{% comment %}\n<div class=\"page-header\">\n  <h3>{{ page.title }} {% if page.tagline %} <small>{{ page.tagline }}</small>{% endif %}</h3>\n</div>\n{% endcomment %}\n\n<hr>\n\n<dic class=\"row-fluid\">\n\t<div class=\"span6\">\n<p> diverse identities..: <br /><br />\n{% for link in site.JB.links_list %}\n    <dt><a href=\"{{link[1]}}\" target=\"_blank\"><b>{{link[0]}}</b></a></dt>\n{% endfor %}\n</p>\n\t</div>\n\n\t<div class=\"span6\">\n<p> + FRIENDS: <br /><br />\n\t{% comment %}\n{% for link in site.JB.links_list_friends %}\n    <dt><a href=\"{{link[1]}}\" target=\"_blank\"><b>{{link[0]}}</b></a></dt>\n{% endfor %}\n\t{% endcomment %}\n</p>\n\t</div>\n\n<p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p>\n\n{% comment %}\n\nthis systematic works with firefox, but not in chrome or safari\nseems that container-narrow doesn't adapt to the height of span6\nproblem with row-fluid?\nhow could it be done with tables and media query?\n\ndirty hack: dependent on the length of the links_list, use line breaks to fill container-narrow\n\n<dic class=\"row-fluid\">\n<div class=\"span6\">col1<p>&nbsp;</p>hello1</div><div class=\"span6\">col2<p>&nbsp;</p>hello2<p>&nbsp;</p><p>&nbsp;</p>und hier2</div>\n</div>\n{% endcomment %}\n", "path"=>"links.html", "theme"=>{"name"=>"twitter"}} -->
 
 
 
