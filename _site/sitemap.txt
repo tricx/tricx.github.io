@@ -13,6 +13,8 @@ http://tricx.github.io/sound.html
 http://tricx.github.io/tags.html
 http://tricx.github.io/works - projects.html
 
+http://tricx.github.io/2013/12/10/on_a_wire
+http://tricx.github.io/2013/12/09/in_a_room
 http://tricx.github.io/2013/10/28/ottos_mops
 http://tricx.github.io/2013/10/27/pachinko
 http://tricx.github.io/2013/10/26/a_car_from_above
@@ -25,4 +27,3 @@ http://tricx.github.io/2013/10/20/derive
 http://tricx.github.io/2013/10/19/rasenmaeher
 http://tricx.github.io/2013/10/18/noircir
 http://tricx.github.io/2013/10/17/undefined_falling_objects
-http://tricx.github.io/2013/10/01/kra2
