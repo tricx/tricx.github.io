@@ -252,7 +252,9 @@ About.htlm
 
 
         
-            <li><a href="https://soundcloud.com/tricx" target="_blank">tricx at soundcloud</a></li>
+            <li><a href="https://soundcloud.com/tricx" target="_blank">Tricx at SC</a></li>
+        
+            <li><a href="https://github.com/tricx" target="_blank">Tricx at GH</a></li>
         
             <li><a href="http://www.mutttricx.net" target="_blank">MuttTricx</a></li>
         
@@ -306,17 +308,31 @@ About.htlm
 
 <dic class="row-fluid">
 	<div class="span6">
-<p> diverse identities..: <br /><br />
+<p> diverse identities... <br /><br />
 
-    <dt><a href="https://soundcloud.com/tricx" target="_blank"><b>tricx at soundcloud</b></a></dt>
+<a href="https://github.com/tricx" target="_blank">
+<img src="/images/scloud.png" alt="image">
+</a>
 
-    <dt><a href="http://www.mutttricx.net" target="_blank"><b>MuttTricx</b></a></dt>
+&nbsp;&nbsp;&nbsp;
+<a href="https://github.com/tricx" target="_blank">
+<img src="/images/gh.png" alt="image">
+</a>
+<br /><br />
+
+<a href="http://www.mutttricx.net" target="_blank"><b>MuttTricx</b></a>
+
+
 
 </p>
+
+
+
+
 	</div>
 
 	<div class="span6">
-<p> + FRIENDS: <br /><br />
+
 	
 </p>
 	</div>
@@ -340,7 +356,7 @@ About.htlm
     <footer>
    <!--   <div class="indent-text">
          <p>the impressum
-        &copy;2013 Paul Gruendorfer
+        &copy;2014 Paul Gruendorfer
         </p> 
       </div> -->
       <div class="distance2">&nbsp;</div>
@@ -353,7 +369,7 @@ About.htlm
     <!-- page:
 
 
-{"layout"=>"default", "title"=>"links", "header"=>"links", "group"=>"navigation", "url"=>"/links.html", "content"=>"{% comment %}\n<div class=\"page-header\">\n  <h3>{{ page.title }} {% if page.tagline %} <small>{{ page.tagline }}</small>{% endif %}</h3>\n</div>\n{% endcomment %}\n\n<hr>\n\n<dic class=\"row-fluid\">\n\t<div class=\"span6\">\n<p> diverse identities..: <br /><br />\n{% for link in site.JB.links_list %}\n    <dt><a href=\"{{link[1]}}\" target=\"_blank\"><b>{{link[0]}}</b></a></dt>\n{% endfor %}\n</p>\n\t</div>\n\n\t<div class=\"span6\">\n<p> + FRIENDS: <br /><br />\n\t{% comment %}\n{% for link in site.JB.links_list_friends %}\n    <dt><a href=\"{{link[1]}}\" target=\"_blank\"><b>{{link[0]}}</b></a></dt>\n{% endfor %}\n\t{% endcomment %}\n</p>\n\t</div>\n\n<p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p>\n\n{% comment %}\n\nthis systematic works with firefox, but not in chrome or safari\nseems that container-narrow doesn't adapt to the height of span6\nproblem with row-fluid?\nhow could it be done with tables and media query?\n\ndirty hack: dependent on the length of the links_list, use line breaks to fill container-narrow\n\n<dic class=\"row-fluid\">\n<div class=\"span6\">col1<p>&nbsp;</p>hello1</div><div class=\"span6\">col2<p>&nbsp;</p>hello2<p>&nbsp;</p><p>&nbsp;</p>und hier2</div>\n</div>\n{% endcomment %}\n", "path"=>"links.html", "theme"=>{"name"=>"twitter"}} -->
+{"layout"=>"default", "title"=>"links", "header"=>"links", "group"=>"navigation", "url"=>"/links.html", "content"=>"{% comment %}\n<div class=\"page-header\">\n  <h3>{{ page.title }} {% if page.tagline %} <small>{{ page.tagline }}</small>{% endif %}</h3>\n</div>\n{% endcomment %}\n\n<hr>\n\n<dic class=\"row-fluid\">\n\t<div class=\"span6\">\n<p> diverse identities... <br /><br />\n\n<a href=\"https://github.com/tricx\" target=\"_blank\">\n<img src=\"{{ site.url }}/images/scloud.png\" alt=\"image\">\n</a>\n\n&nbsp;&nbsp;&nbsp;\n<a href=\"https://github.com/tricx\" target=\"_blank\">\n<img src=\"{{ site.url }}/images/gh.png\" alt=\"image\">\n</a>\n<br /><br />\n\n<a href=\"http://www.mutttricx.net\" target=\"_blank\"><b>MuttTricx</b></a>\n\n{% comment %}\n{% for link in site.JB.links_list %}\n    <dt><a href=\"{{link[1]}}\" target=\"_blank\"><b>{{link[0]}}</b></a></dt>\n{% endfor %}\n{% endcomment %}\n\n</p>\n\n\n\n\n\t</div>\n\n\t<div class=\"span6\">\n\n\t{% comment %}\n<p> + FRIENDS: <br /><br />\n\t\n{% for link in site.JB.links_list_friends %}\n    <dt><a href=\"{{link[1]}}\" target=\"_blank\"><b>{{link[0]}}</b></a></dt>\n{% endfor %}\n\n\t{% endcomment %}\n</p>\n\t</div>\n\n<p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p>\n\n{% comment %}\n\nthis systematic works with firefox, but not in chrome or safari\nseems that container-narrow doesn't adapt to the height of span6\nproblem with row-fluid?\nhow could it be done with tables and media query?\n\ndirty hack: dependent on the length of the links_list, use line breaks to fill container-narrow\n\n<dic class=\"row-fluid\">\n<div class=\"span6\">col1<p>&nbsp;</p>hello1</div><div class=\"span6\">col2<p>&nbsp;</p>hello2<p>&nbsp;</p><p>&nbsp;</p>und hier2</div>\n</div>\n{% endcomment %}\n", "path"=>"links.html", "theme"=>{"name"=>"twitter"}} -->
 
 
 

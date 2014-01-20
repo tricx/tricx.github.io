@@ -163,18 +163,19 @@ JB :
 
   # add this links to dropdown-menu, or to page links
   links_list:
-    - ["tricx at soundcloud", "https://soundcloud.com/tricx"]
-#    - ["tricx at github", "https://github.com/tricx"]
-    - ["MuttTricx", "http://www.mutttricx.net"]
+   - ["Tricx at SC", "https://soundcloud.com/tricx"]
+   - ["Tricx at GH", "https://github.com/tricx"]
+   - ["MuttTricx", "http://www.mutttricx.net"]
 #    - ["MuttTricx at bandcamp", "http://mutttricx.bandcamp.com"]
     
   links_list_friends:
     - ["Sophie Dvorak", "http://www.sophiedvorak.net"]
     - ["Christoph Freidhöfer", "http://kunst-und-raederwerk.de"]
     - ["Karl Salzmann", "http://karlsalzmann.com/"]
-    - ["Fabian Linzberger", "http://lefant.net/"]
-#    - ["Leo Peschta", "www.leo.ok.ag"]
+    - ["Leo Peschta", "www.leo.ok.ag"]
+    - ["Fabian Linzberger", "http://lefant.net/"] 
     - ["velak", "http://velak.klingt.org/"]
+    - ["SuperCollider", "http://supercollider.github.io/"]
 
 
     # tags!! add posts(e.g. with tags: sound) to pages: works-projects, sound
