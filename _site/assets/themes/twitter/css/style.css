@@ -14,7 +14,8 @@ body {
   text-align:justify;
 
   /*background-image: url('/images/galaxy.jpg');*/
-  background-image: url('/images/pachinko2.jpg');
+  background-image: url('/images/hole.jpg');
+  /*background-image: url('/images/pachinko2.jpg');*/
   background-size: 1440px 800px;
   /*background-image: url('/images/bg2.gif');*/
   
@@ -23,6 +24,7 @@ body {
   background-size: 72.0px 20.0px; */
   background-repeat: repeat;
   background-color: white;
+  /*background-color: black;*/
   color:black;
   /*color: #1F0F0F;*/
   /*background-color: #f3edd2;*/
@@ -31,6 +33,35 @@ body {
 body { padding-top: 25px; }
 @media screen and (max-width: 720px) {
     body { padding-top: 25px; }
+}
+
+#moire1 {
+  position: fixed;
+  z-index: -100;
+  display: block;
+  width: 5000px;
+  height: 5000px;
+  left: -2000px;
+  top: -2000px;
+  background-image: url('/images/moire14.png');
+  background-repeat: repeat;
+  opacity: 0.13;
+  -webkit-filter: invert(100%);
+  -moz-filter: invert(100%);
+}
+#moire2 {
+  position: fixed;
+  z-index: -99;
+  display: block;
+  width: 4000px;
+  height: 4000px;
+  left: -2000px;
+  top: -2000px;
+  background-image: url('/images/moire14.png');
+  background-repeat: repeat;
+  opacity: 0.13;
+  -webkit-transform: rotate(3deg);
+  -webkit-filter: invert(100%);
 }
 
 

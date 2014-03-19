@@ -4,7 +4,7 @@
  <title>Tricx</title>
  <link href="http://tricx.github.io/" rel="self"/>
  <link href="http://tricx.github.io"/>
- <updated>2014-01-20T12:57:22+01:00</updated>
+ <updated>2014-03-19T02:00:40+01:00</updated>
  <id>http://tricx.github.io</id>
  <author>
    <name>Paul Gruendorfer</name>
@@ -24,7 +24,15 @@ for diy-zither, cymbal, contact microphone, live granular synthesis&lt;br /&gt;
 &lt;/p&gt;&lt;div&gt;
 	&lt;object height=&#39;81&#39; width=&#39;100%&#39;&gt; &lt;param name=&#39;movie&#39; value=&#39;https://player.soundcloud.com/player.swf?url=https%3A//api.soundcloud.com/tracks/124206169&amp;amp;show_comments=true&amp;amp;
 	auto_play=false&amp;amp;color=ff7700&#39; /&gt; &lt;param name=&#39;allowscriptaccess&#39; value=&#39;always&#39; /&gt; &lt;embed allowscriptaccess=&#39;always&#39; height=&#39;81&#39; src=&#39;https://player.soundcloud.com/player.swf?url=https%3A//api.soundcloud.com/tracks/124206169&amp;amp;show_comments=true&amp;amp;auto_play=false&amp;amp;color=ff7700&#39; type=&#39;application/x-shockwave-flash&#39; width=&#39;100%&#39; /&gt; &lt;/object&gt;    
-&lt;/div&gt;</content>
+&lt;/div&gt;&lt;p&gt;
+This recording examplifies some of the sounds that can be played with an instrument I built.&lt;br /&gt;&lt;br /&gt; It consists of the following parts:&lt;br /&gt;
+Sound Processing (live granular synthesis realised in SuperCollider running on the Computer)&lt;br /&gt;
+Acoustic Input (e-Zither, cymbals, contact microphones, microphone input of other sounds)&lt;br /&gt;
+&lt;br /&gt;
+&lt;/p&gt;
+&lt;p&gt;&lt;img alt=&#39;image&#39; src=&#39;/images/zither.jpg&#39; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;live set at Klangkunsttage, Galerie 12-14&lt;br /&gt;&lt;/p&gt;&lt;iframe allowfullscreen=&#39;&#39; frameborder=&#39;0&#39; height=&#39;384&#39; src=&#39;http://player.vimeo.com/video/74517369?title=0&amp;amp;byline=0&amp;amp;portrait=0&#39; webkitallowfullscreen=&#39;&#39; width=&#39;100%&#39;&gt;
+&lt;/iframe&gt;</content>
  </entry>
  
  <entry>
@@ -35,14 +43,17 @@ for diy-zither, cymbal, contact microphone, live granular synthesis&lt;br /&gt;
    <content type="html">&lt;h4&gt;&lt;a href=&#39;/2013/12/09/in_a_room&#39;&gt;In a room ..&lt;/a&gt;&lt;/h4&gt;&lt;p&gt;
 for violin, grains on a metal surface and live-electronics&lt;br /&gt;
 ~8&#39; , 2012&lt;br /&gt;
-[the violin is played by Barbara Lüneburg] thx a lot!!&lt;br /&gt;&lt;br /&gt;
+[for this recording the violin is played by Barbara Lüneburg, thx a lot!!&lt;br /&gt;
+recorded at Echoraum, thx for the support to Werner Korn!]&lt;br /&gt;&lt;br /&gt;
 
 &quot;The piece consists of singular tones that fill the space horizontally and create a quiet ubiquitous drone&quot;
 Filtered noise areas, quiet creak, some prominent sound particles, (no open strings), minimal timbre (out of a grayscale evolve &quot;colours&quot;), microtonality vs. widely spaced intervals, grains, ..&lt;br /&gt;&lt;br /&gt;
 &lt;/p&gt;&lt;div&gt;
 	&lt;object height=&#39;81&#39; width=&#39;100%&#39;&gt; &lt;param name=&#39;movie&#39; value=&#39;https://player.soundcloud.com/player.swf?url=https%3A//api.soundcloud.com/tracks/124203709&amp;amp;show_comments=true&amp;amp;
 	auto_play=false&amp;amp;color=ff7700&#39; /&gt; &lt;param name=&#39;allowscriptaccess&#39; value=&#39;always&#39; /&gt; &lt;embed allowscriptaccess=&#39;always&#39; height=&#39;81&#39; src=&#39;https://player.soundcloud.com/player.swf?url=https%3A//api.soundcloud.com/tracks/124203709&amp;amp;show_comments=true&amp;amp;auto_play=false&amp;amp;color=ff7700&#39; type=&#39;application/x-shockwave-flash&#39; width=&#39;100%&#39; /&gt; &lt;/object&gt;    
-&lt;/div&gt;</content>
+&lt;/div&gt;&lt;p&gt;&lt;br /&gt;Florian Moser performing in a room.. at Echoraum June 29, 2012, photo by Michael Zacherl&lt;br /&gt;
+&lt;/p&gt;
+&lt;p&gt;&lt;img alt=&#39;image&#39; src=&#39;/images/echoraum.jpg&#39; /&gt;&lt;/p&gt;</content>
  </entry>
  
  <entry>
