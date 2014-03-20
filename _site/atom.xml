@@ -4,7 +4,7 @@
  <title>Tricx</title>
  <link href="http://tricx.github.io/" rel="self"/>
  <link href="http://tricx.github.io"/>
- <updated>2014-03-19T13:45:38+01:00</updated>
+ <updated>2014-03-20T13:48:13+01:00</updated>
  <id>http://tricx.github.io</id>
  <author>
    <name>Paul Gruendorfer</name>
@@ -31,8 +31,10 @@ Acoustic Input (e-Zither, cymbals, contact microphones, microphone input of othe
 &lt;br /&gt;
 &lt;/p&gt;
 &lt;p&gt;&lt;img alt=&#39;image&#39; src=&#39;/images/zither.jpg&#39; /&gt;&lt;/p&gt;
-&lt;p&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;live set at Klangkunsttage, Galerie 12-14&lt;br /&gt;&lt;/p&gt;&lt;iframe allowfullscreen=&#39;&#39; frameborder=&#39;0&#39; height=&#39;384&#39; src=&#39;http://player.vimeo.com/video/74517369?title=0&amp;amp;byline=0&amp;amp;portrait=0&#39; webkitallowfullscreen=&#39;&#39; width=&#39;100%&#39;&gt;
-&lt;/iframe&gt;</content>
+&lt;p&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;live set at Klangkunsttage, Galerie 12-14&lt;br /&gt;&lt;/p&gt;&lt;div&gt;
+	&lt;object height=&#39;81&#39; width=&#39;100%&#39;&gt; &lt;param name=&#39;movie&#39; value=&#39;https://player.soundcloud.com/player.swf?url=https%3A//api.soundcloud.com/tracks/109112478&amp;amp;show_comments=true&amp;amp;
+	auto_play=false&amp;amp;color=ff7700&#39; /&gt; &lt;param name=&#39;allowscriptaccess&#39; value=&#39;always&#39; /&gt; &lt;embed allowscriptaccess=&#39;always&#39; height=&#39;81&#39; src=&#39;https://player.soundcloud.com/player.swf?url=https%3A//api.soundcloud.com/tracks/109112478&amp;amp;show_comments=true&amp;amp;auto_play=false&amp;amp;color=ff7700&#39; type=&#39;application/x-shockwave-flash&#39; width=&#39;100%&#39; /&gt; &lt;/object&gt;    
+&lt;/div&gt;</content>
  </entry>
  
  <entry>
