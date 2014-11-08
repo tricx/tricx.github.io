@@ -133,8 +133,8 @@ JB :
 
   # pages in navbar ( no subcategories)
   navi_pages:
-    - "Works - Projects"
-    - "Sound"
+    - "Audio"
+    - "Visual"
     - "About"
     
   # pages with subcategories in navbar
