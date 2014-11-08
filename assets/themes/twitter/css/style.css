@@ -225,19 +225,19 @@ make independent layouts for every page?
 
 /*ids of the navigation items, forloop.index in pages_list_pages_html*/
 #navi_pages1 > a {
-    background: lightgreen;
-}
-#navi_pages1 > a:focus,
-#navi_pages1 > a:hover {
-    background-color: pink;
-}
-#navi_pages2 > a {
     background: black;
     color: red !important;
 }
+#navi_pages1 > a:focus,
+#navi_pages1 > a:hover {
+    background-color: white;
+}
+#navi_pages2 > a {
+    background: lightgreen;
+}
 #navi_pages2 > a:focus,
 #navi_pages2 > a:hover {
-    background-color: white;
+    background-color: pink;
 }
 #navi_pages3 > a {
     background: lightblue;
