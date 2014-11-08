@@ -143,8 +143,8 @@ JB :
 
   # pages on the sidebar
   navi_pages_sidebar:
-    - "Works - Projects"
-    - "Sound"
+    - "Visual"
+    - "Audio"
 
   # sidebar items, if 'show_worktitle_sidebar: true' (in pages, posts layout -defs)
   works_projects_list:
@@ -171,13 +171,7 @@ JB :
   links_list_friends:
     - ["Sophie Dvorak", "http://www.sophiedvorak.net"]
     - ["Christoph Freidhöfer", "http://kunst-und-raederwerk.de"]
-    - ["Karl Salzmann", "http://karlsalzmann.com/"]
-    - ["Leo Peschta", "www.leo.ok.ag"]
     - ["Fabian Linzberger", "http://lefant.net/"] 
-    - ["velak", "http://velak.klingt.org/"]
-    - ["SuperCollider", "http://supercollider.github.io/"]
 
-
-    # tags!! add posts(e.g. with tags: sound) to pages: works-projects, sound
 
 markdown: kramdown

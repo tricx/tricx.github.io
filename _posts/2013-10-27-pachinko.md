@@ -2,7 +2,7 @@
 published: true
 layout: post
 show_worktitle_sidebar: true
-tags: visual, audio
+tags: audio visual
 JB :
   analytics : false
 ---
