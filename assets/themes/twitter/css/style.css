@@ -233,11 +233,13 @@ make independent layouts for every page?
     background-color: white;
 }
 #navi_pages2 > a {
-    background: lightgreen;
+    /*background: lightgreen;*/
+    background: white;
 }
 #navi_pages2 > a:focus,
 #navi_pages2 > a:hover {
-    background-color: pink;
+    background-color: black;
+    /*background-color: pink;*/
 }
 #navi_pages3 > a {
     background: lightblue;
