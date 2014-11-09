@@ -50,14 +50,6 @@
   </head>
 <!-- ############################################################################################################# -->
   <body>
-<!-- 
-  <div id="moire1"></div>
-  <div id="moire2"></div> -->
-
-  <!--test for navbar fixed on top-->
-  <!-- <div class="navbar navbar data-spy="affix" data-offset-top="200"">  -->
-  <!-- <div class= "navbar navbar stay" id= "mastnav"> -->
-
 
   <!-- for navbar normal change to: 1.st container-narrow, 2. navbar navbar -->
   <!-- navbar-inverse -->
@@ -67,6 +59,7 @@
           <!-- <a class="brand" href="/">Tricx</a> -->
           <!-- <a class="brand" href="/"> &nbsp; Home</a> -->
           <ul class="nav">
+
 <!-- ###################################################################### -->
     <!-- added list navi_pages: in _config file, to add pages without dropdown-menu -->
             <!-- 
@@ -75,7 +68,7 @@
 
         
 
-Works - Projects.htlm
+Audio.htlm
 
 
 
@@ -83,7 +76,7 @@ Works - Projects.htlm
 
         
 
-Sound.htlm
+Visual.htlm
 
 
 
@@ -107,14 +100,14 @@ About.htlm
   
     
 
-      <li id="navi_pages1"><a href="/works - projects.html">Works - Projects</a></li>
+      <li id="navi_pages1"><a href="/audio.html">Audio</a></li>
     
     
 
   
     
 
-      <li id="navi_pages2"><a href="/sound.html">Sound</a></li>
+      <li id="navi_pages2"><a href="/visual.html">Visual</a></li>
     
     
 
@@ -158,6 +151,14 @@ About.htlm
     
   
     
+      
+    
+  
+    
+      
+      	
+      	<li><a href="/audio.html">audio</a></li>
+      	
       
     
   
@@ -208,14 +209,6 @@ About.htlm
     
       
       	
-      	<li><a href="/sound.html">sound</a></li>
-      	
-      
-    
-  
-    
-      
-      	
       	<li><a href="/tags.html">Tags</a></li>
       	
       
@@ -224,7 +217,7 @@ About.htlm
     
       
       	
-      	<li><a href="/works - projects.html">works_projects</a></li>
+      	<li><a href="/visual.html">visual</a></li>
       	
       
     
@@ -235,60 +228,23 @@ About.htlm
         
             
             
-            
-
-
-    <li id="navi_categories1" class="dropdown">
-    
-
-      
-      <a class= "dropdown-toggle disabled" href="/links.html"> Links <b id="dropdown_disable" class= "caret"></b>
-
-        <!-- toggle with data-toggle or directly with javascript -->
-        <script>
-          $('.dropdown-toggle').dropdown()
-        </script>
-      </a>
-
-      <ul id="dropdown_disable" class="dropdown-menu" role="menu" aria-labelledby="dLabel">
-
-
-
-
-        
-            <li><a href="https://soundcloud.com/tricx" target="_blank">Tricx at SC</a></li>
-        
-            <li><a href="https://github.com/tricx" target="_blank">Tricx at GH</a></li>
-        
-            <li><a href="http://www.mutttricx.net" target="_blank">MuttTricx</a></li>
-        
-            <hr>
-            <li><a href="/links.html">+ Friends</a></li>
-      </ul>
-    </li>
-
-
-
-
-
-
 
             
+
           </ul>
         </div>
     </div>
 </div>
 
-<!-- show sidebar with worktitles!!  -->
-<!-- assign 'show_worktitle_sidebar:' in posts or pages-layout-defs(e.g.title:sound) to show worktitles in sidebar -->
+
+
+
 
 
 
 
 <!-- content######### -->
     <div class="container-narrow">
-
-
 
                   <!-- <div class="content"> -->
                           
@@ -355,7 +311,7 @@ The sounds of a cassette recorder itself, of a simple oscillator circuit, and a 
 
   
      
-    	<li><a href="/tags.html#sound-ref">sound <span>3</span></a></li>
+    	<li><a href="/tags.html#audio-ref">audio <span>7</span></a></li>
     
   
 
@@ -411,7 +367,7 @@ The sounds of a cassette recorder itself, of a simple oscillator circuit, and a 
     <!-- page:
 
 
-{"published"=>true, "layout"=>"default", "tags"=>["sound"], "JB"=>{"analytics"=>false}, "title"=>"Wilhelms_punk", "url"=>"/2013/10/25/wilhelms_punk", "date"=>2013-10-25 00:00:00 +0200, "id"=>"/2013/10/25/wilhelms_punk", "categories"=>[], "next"=>#Jekyll:Post @id="/2013/10/26/a_car_from_above", "previous"=>#Jekyll:Post @id="/2013/10/24/platte_x", "path"=>"_posts/2013-10-25-wilhelms_punk.md", "content"=>"{% include JB/setup %}\n\n\n{% for post in site.posts %}\n\t{% assign pt = post.title | downcase %}\n\t{% if 'wilhelms_punk' == pt %}\n<h4><a href=\"{{ BASE_PATH }}{{ post.url }}\">Wilhelm's Punk</a></h4>\n\t{% endif %}\n{% endfor %}\n\n<p>\n<br />\n\tPerformance<br />\n\t2011<br />\n\tTaperecorder/Oscillators/frog<br /><br />\nThe sounds of a cassette recorder itself, of a simple oscillator circuit, and a wooden frog are recorded on an empty tapeloop. The name Wilhelm's Punk is inspired by the piece Williams Mix of John Cage which uses pre-recorded sounds that are randomly selected and mounted on tape. For the piece Willhelm's punk only sounds that occur during the performance are recorded on tape.\n(listen to a short sample of the tape).<br /><br />\n</p>\n\n<div>\n    <object height=\"81\" width=\"100%\"> <param name=\"movie\" value=\"https://player.soundcloud.com/player.swf?url=http%3A%2F%2Fapi.soundcloud.com%2Ftracks%2F124201065&amp;show_comments=true&amp;\n    auto_play=false&amp;color=ff7700\"></param> <param name=\"allowscriptaccess\" value=\"always\"></param> <embed allowscriptaccess=\"always\" height=\"81\" src=\"https://player.soundcloud.com/player.swf?url=http%3A%2F%2Fapi.soundcloud.com%2Ftracks%2F124201065&amp;show_comments=true&amp;auto_play=false&amp;color=ff7700\" type=\"application/x-shockwave-flash\" width=\"100%\"></embed> </object>    \n</div>\n{% comment %}\n<iframe width=\"100%\" height=\"100\" scrolling=\"no\" frameborder=\"no\" src=\"https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/124201065&amp;color=ff6600&amp;auto_play=false&amp;show_artwork=true\"></iframe>\n{% endcomment %}\n\n<p> <br />setup:<br /></p>\n\n<img src=\"{{ site.url }}/images/wpunk_setup.jpg\" alt=\"image\">\n\n", "excerpt"=>"\n", "theme"=>{"name"=>"twitter"}} -->
+{"published"=>true, "layout"=>"default", "tags"=>["audio"], "JB"=>{"analytics"=>false}, "title"=>"Wilhelms_punk", "url"=>"/2013/10/25/wilhelms_punk", "dir"=>"/2013/10/25", "date"=>2013-10-25 00:00:00 +0200, "id"=>"/2013/10/25/wilhelms_punk", "categories"=>[], "next"=>#Jekyll:Post @id="/2013/10/26/a_car_from_above", "previous"=>#Jekyll:Post @id="/2013/10/24/platte_x", "path"=>"_posts/2013-10-25-wilhelms_punk.md", "content"=>"{% include JB/setup %}\n\n\n{% for post in site.posts %}\n\t{% assign pt = post.title | downcase %}\n\t{% if 'wilhelms_punk' == pt %}\n<h4><a href=\"{{ BASE_PATH }}{{ post.url }}\">Wilhelm's Punk</a></h4>\n\t{% endif %}\n{% endfor %}\n\n<p>\n<br />\n\tPerformance<br />\n\t2011<br />\n\tTaperecorder/Oscillators/frog<br /><br />\nThe sounds of a cassette recorder itself, of a simple oscillator circuit, and a wooden frog are recorded on an empty tapeloop. The name Wilhelm's Punk is inspired by the piece Williams Mix of John Cage which uses pre-recorded sounds that are randomly selected and mounted on tape. For the piece Willhelm's punk only sounds that occur during the performance are recorded on tape.\n(listen to a short sample of the tape).<br /><br />\n</p>\n\n<div>\n    <object height=\"81\" width=\"100%\"> <param name=\"movie\" value=\"https://player.soundcloud.com/player.swf?url=http%3A%2F%2Fapi.soundcloud.com%2Ftracks%2F124201065&amp;show_comments=true&amp;\n    auto_play=false&amp;color=ff7700\"></param> <param name=\"allowscriptaccess\" value=\"always\"></param> <embed allowscriptaccess=\"always\" height=\"81\" src=\"https://player.soundcloud.com/player.swf?url=http%3A%2F%2Fapi.soundcloud.com%2Ftracks%2F124201065&amp;show_comments=true&amp;auto_play=false&amp;color=ff7700\" type=\"application/x-shockwave-flash\" width=\"100%\"></embed> </object>    \n</div>\n{% comment %}\n<iframe width=\"100%\" height=\"100\" scrolling=\"no\" frameborder=\"no\" src=\"https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/124201065&amp;color=ff6600&amp;auto_play=false&amp;show_artwork=true\"></iframe>\n{% endcomment %}\n\n<p> <br />setup:<br /></p>\n\n<img src=\"{{ site.url }}/images/wpunk_setup.jpg\" alt=\"image\">\n\n", "excerpt"=>"\n", "theme"=>{"name"=>"twitter"}} -->
 
 
 

@@ -50,14 +50,6 @@
   </head>
 <!-- ############################################################################################################# -->
   <body>
-<!-- 
-  <div id="moire1"></div>
-  <div id="moire2"></div> -->
-
-  <!--test for navbar fixed on top-->
-  <!-- <div class="navbar navbar data-spy="affix" data-offset-top="200"">  -->
-  <!-- <div class= "navbar navbar stay" id= "mastnav"> -->
-
 
   <!-- for navbar normal change to: 1.st container-narrow, 2. navbar navbar -->
   <!-- navbar-inverse -->
@@ -67,6 +59,7 @@
           <!-- <a class="brand" href="/">Tricx</a> -->
           <!-- <a class="brand" href="/"> &nbsp; Home</a> -->
           <ul class="nav">
+
 <!-- ###################################################################### -->
     <!-- added list navi_pages: in _config file, to add pages without dropdown-menu -->
             <!-- 
@@ -75,7 +68,7 @@
 
         
 
-Works - Projects.htlm
+Audio.htlm
 
 
 
@@ -83,7 +76,7 @@ Works - Projects.htlm
 
         
 
-Sound.htlm
+Visual.htlm
 
 
 
@@ -107,14 +100,14 @@ About.htlm
   
     
 
-      <li id="navi_pages1"><a href="/works - projects.html">Works - Projects</a></li>
+      <li id="navi_pages1"><a href="/audio.html">Audio</a></li>
     
     
 
   
     
 
-      <li id="navi_pages2"><a href="/sound.html">Sound</a></li>
+      <li id="navi_pages2"><a href="/visual.html">Visual</a></li>
     
     
 
@@ -158,6 +151,14 @@ About.htlm
     
   
     
+      
+    
+  
+    
+      
+      	
+      	<li><a href="/audio.html">audio</a></li>
+      	
       
     
   
@@ -208,14 +209,6 @@ About.htlm
     
       
       	
-      	<li><a href="/sound.html">sound</a></li>
-      	
-      
-    
-  
-    
-      
-      	
       	<li><a href="/tags.html">Tags</a></li>
       	
       
@@ -224,7 +217,7 @@ About.htlm
     
       
       	
-      	<li><a href="/works - projects.html">works_projects</a></li>
+      	<li><a href="/visual.html">visual</a></li>
       	
       
     
@@ -235,60 +228,23 @@ About.htlm
         
             
             
-            
-
-
-    <li id="navi_categories1" class="dropdown">
-    
-
-      
-      <a class= "dropdown-toggle disabled" href="/links.html"> Links <b id="dropdown_disable" class= "caret"></b>
-
-        <!-- toggle with data-toggle or directly with javascript -->
-        <script>
-          $('.dropdown-toggle').dropdown()
-        </script>
-      </a>
-
-      <ul id="dropdown_disable" class="dropdown-menu" role="menu" aria-labelledby="dLabel">
-
-
-
-
-        
-            <li><a href="https://soundcloud.com/tricx" target="_blank">Tricx at SC</a></li>
-        
-            <li><a href="https://github.com/tricx" target="_blank">Tricx at GH</a></li>
-        
-            <li><a href="http://www.mutttricx.net" target="_blank">MuttTricx</a></li>
-        
-            <hr>
-            <li><a href="/links.html">+ Friends</a></li>
-      </ul>
-    </li>
-
-
-
-
-
-
 
             
+
           </ul>
         </div>
     </div>
 </div>
 
-<!-- show sidebar with worktitles!!  -->
-<!-- assign 'show_worktitle_sidebar:' in posts or pages-layout-defs(e.g.title:sound) to show worktitles in sidebar -->
+
+
+
 
 
 
 
 <!-- content######### -->
     <div class="container-narrow">
-
-
 
                   <!-- <div class="content"> -->
                           
@@ -354,7 +310,7 @@ About.htlm
     <!-- page:
 
 
-{"layout"=>"default", "title"=>"Live", "header"=>"Live", "category"=>"Links", "url"=>"/live.html", "content"=>"{% include JB/setup %}\n\n<div class=\"page-header\">\n  <h3>{{ page.title }} {% if page.tagline %} <small>{{ page.tagline }}</small>{% endif %}</h3>\n</div>\n\n<div>\n{% for tag in site.tags %} \n  {% if page.title == tag[0] %}\n  <ul class=\"unstyled\">\n{% comment %}\n    {% assign pages_list = tag[1] %}  \n    {% include JB/pages_list %}\n{% endcomment %}    \n    <br />\n  </ul>\n  {{tag[1]}}<br /><br />\n  {% endif %}\n{% endfor %}\n</div>\n\n<div class=\"pagination\">\n    <ul>\n      <li><a href=\"/news.html\">News</a></li>\n    </ul>\n  </div>\n   \n{% include JB/comments %}\n\n\n  ", "path"=>"live.md", "theme"=>{"name"=>"twitter"}} -->
+{"layout"=>"default", "title"=>"Live", "header"=>"Live", "category"=>"Links", "content"=>"{% include JB/setup %}\n\n<div class=\"page-header\">\n  <h3>{{ page.title }} {% if page.tagline %} <small>{{ page.tagline }}</small>{% endif %}</h3>\n</div>\n\n<div>\n{% for tag in site.tags %} \n  {% if page.title == tag[0] %}\n  <ul class=\"unstyled\">\n{% comment %}\n    {% assign pages_list = tag[1] %}  \n    {% include JB/pages_list %}\n{% endcomment %}    \n    <br />\n  </ul>\n  {{tag[1]}}<br /><br />\n  {% endif %}\n{% endfor %}\n</div>\n\n<div class=\"pagination\">\n    <ul>\n      <li><a href=\"/news.html\">News</a></li>\n    </ul>\n  </div>\n   \n{% include JB/comments %}\n\n\n  ", "dir"=>"/", "name"=>"live.md", "path"=>"live.md", "url"=>"/live.html", "theme"=>{"name"=>"twitter"}} -->
 
 
 

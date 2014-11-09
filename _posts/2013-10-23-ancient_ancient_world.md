@@ -29,7 +29,7 @@ Ancient ancient world<br />
 –tight skirts<br />
 By the new car<br /><br />
 
-In opposition to this haiku, which was sprayed on the wall, are several photographs referring directly to a place, although their documentary approach partly disappears.<br />
+In opposition to this haiku, which was tagged on the wall, are several photographs referring directly to a place, although their documentary approach partly disappears.<br />
 
 The different elements of the installation are tested on coherence and diverging analogies. The documentary elements are bound to a realistic representation, even though only the translation into the context of all parts sketches a picture. Intentions are hidden to the viewer at first sight and can only be reconstructed by individual associations of a possible conception.<br />
 

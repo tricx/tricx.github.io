@@ -50,14 +50,6 @@
   </head>
 <!-- ############################################################################################################# -->
   <body>
-<!-- 
-  <div id="moire1"></div>
-  <div id="moire2"></div> -->
-
-  <!--test for navbar fixed on top-->
-  <!-- <div class="navbar navbar data-spy="affix" data-offset-top="200"">  -->
-  <!-- <div class= "navbar navbar stay" id= "mastnav"> -->
-
 
   <!-- for navbar normal change to: 1.st container-narrow, 2. navbar navbar -->
   <!-- navbar-inverse -->
@@ -67,6 +59,7 @@
           <!-- <a class="brand" href="/">Tricx</a> -->
           <!-- <a class="brand" href="/"> &nbsp; Home</a> -->
           <ul class="nav">
+
 <!-- ###################################################################### -->
     <!-- added list navi_pages: in _config file, to add pages without dropdown-menu -->
             <!-- 
@@ -75,7 +68,7 @@
 
         
 
-Works - Projects.htlm
+Audio.htlm
 
 
 
@@ -83,7 +76,7 @@ Works - Projects.htlm
 
         
 
-Sound.htlm
+Visual.htlm
 
 
 
@@ -107,14 +100,14 @@ About.htlm
   
     
 
-      <li id="navi_pages1"><a href="/works - projects.html">Works - Projects</a></li>
+      <li id="navi_pages1"><a href="/audio.html">Audio</a></li>
     
     
 
   
     
 
-      <li id="navi_pages2"><a href="/sound.html">Sound</a></li>
+      <li id="navi_pages2"><a href="/visual.html">Visual</a></li>
     
     
 
@@ -158,6 +151,14 @@ About.htlm
     
   
     
+      
+    
+  
+    
+      
+      	
+      	<li><a href="/audio.html">audio</a></li>
+      	
       
     
   
@@ -208,14 +209,6 @@ About.htlm
     
       
       	
-      	<li><a href="/sound.html">sound</a></li>
-      	
-      
-    
-  
-    
-      
-      	
       	<li><a href="/tags.html">Tags</a></li>
       	
       
@@ -224,7 +217,7 @@ About.htlm
     
       
       	
-      	<li><a href="/works - projects.html">works_projects</a></li>
+      	<li><a href="/visual.html">visual</a></li>
       	
       
     
@@ -235,60 +228,23 @@ About.htlm
         
             
             
-            
-
-
-    <li id="navi_categories1" class="dropdown">
-    
-
-      
-      <a class= "dropdown-toggle disabled" href="/links.html"> Links <b id="dropdown_disable" class= "caret"></b>
-
-        <!-- toggle with data-toggle or directly with javascript -->
-        <script>
-          $('.dropdown-toggle').dropdown()
-        </script>
-      </a>
-
-      <ul id="dropdown_disable" class="dropdown-menu" role="menu" aria-labelledby="dLabel">
-
-
-
-
-        
-            <li><a href="https://soundcloud.com/tricx" target="_blank">Tricx at SC</a></li>
-        
-            <li><a href="https://github.com/tricx" target="_blank">Tricx at GH</a></li>
-        
-            <li><a href="http://www.mutttricx.net" target="_blank">MuttTricx</a></li>
-        
-            <hr>
-            <li><a href="/links.html">+ Friends</a></li>
-      </ul>
-    </li>
-
-
-
-
-
-
 
             
+
           </ul>
         </div>
     </div>
 </div>
 
-<!-- show sidebar with worktitles!!  -->
-<!-- assign 'show_worktitle_sidebar:' in posts or pages-layout-defs(e.g.title:sound) to show worktitles in sidebar -->
+
+
+
 
 
 
 
 <!-- content######### -->
     <div class="container-narrow">
-
-
 
                   <!-- <div class="content"> -->
                           
@@ -319,7 +275,7 @@ body{
                   <!-- <div class="content"> -->
                           <hr>
                           
-<h4><a href="/2013/12/09/in_a_room">In a room ..</a></h4>
+<h4><a href="/2013/12/11/in_a_room">In a room ..</a></h4>
 
 <p>
 for violin, grains on a metal surface and live-electronics<br />
@@ -355,7 +311,7 @@ Filtered noise areas, quiet creak, some prominent sound particles, (no open stri
 
   
      
-    	<li><a href="/tags.html#sound-ref">sound <span>3</span></a></li>
+    	<li><a href="/tags.html#audio-ref">audio <span>7</span></a></li>
     
   
 
@@ -369,11 +325,12 @@ Filtered noise areas, quiet creak, some prominent sound particles, (no open stri
     <ul>
 
       
-        <li class="prev"><a href="/2013/10/28/ottos_mops" title="Ottos_mops">Previous</a></li>
+        <li class="prev"><a href="/2013/12/10/on_a_wire" title="On_a_wire">Previous</a></li>
       
 
       
-        <li class="next"><a href="/2013/12/10/on_a_wire" title="On_a_wire">Next</a></li>
+        <li class="next disabled"><a>Next</a>
+          <!-- &rarr; -->
       
       
       <!-- <li><a href="/archive.html">Archive</a></li> -->
@@ -411,7 +368,7 @@ Filtered noise areas, quiet creak, some prominent sound particles, (no open stri
     <!-- page:
 
 
-{"published"=>true, "layout"=>"default", "tags"=>["sound"], "JB"=>{"analytics"=>false}, "title"=>"In_a_room", "url"=>"/2013/12/09/in_a_room", "date"=>2013-12-09 00:00:00 +0100, "id"=>"/2013/12/09/in_a_room", "categories"=>[], "next"=>#Jekyll:Post @id="/2013/12/10/on_a_wire", "previous"=>#Jekyll:Post @id="/2013/10/28/ottos_mops", "path"=>"_posts/2013-12-9-in_a_room.md", "content"=>"{% include JB/setup %}\n\n\n{% for post in site.posts %}\n\t{% assign pt = post.title | downcase %}\n\t{% if 'in_a_room' == pt %}\n<h4><a href=\"{{ BASE_PATH }}{{ post.url }}\">In a room ..</a></h4>\n\t{% endif %}\n{% endfor %}\n\n<p>\nfor violin, grains on a metal surface and live-electronics<br />\n~8' , 2012<br />\n[for this recording the violin is played by Barbara Lüneburg, thx a lot!!<br />\nrecorded at Echoraum, thx for the support to Werner Korn!]<br /><br />\n\n\"The piece consists of singular tones that fill the space horizontally and create a quiet ubiquitous drone\"\nFiltered noise areas, quiet creak, some prominent sound particles, (no open strings), minimal timbre (out of a grayscale evolve \"colours\"), microtonality vs. widely spaced intervals, grains, ..<br /><br />\n</p>\n\n\n<div>\n\t<object height=\"81\" width=\"100%\"> <param name=\"movie\" value=\"https://player.soundcloud.com/player.swf?url=https%3A//api.soundcloud.com/tracks/124203709&amp;show_comments=true&amp;\n\tauto_play=false&amp;color=ff7700\"></param> <param name=\"allowscriptaccess\" value=\"always\"></param> <embed allowscriptaccess=\"always\" height=\"81\" src=\"https://player.soundcloud.com/player.swf?url=https%3A//api.soundcloud.com/tracks/124203709&amp;show_comments=true&amp;auto_play=false&amp;color=ff7700\" type=\"application/x-shockwave-flash\" width=\"100%\"></embed> </object>    \n</div>\n\n\n<p><br /><br /></p>\n<img src=\"{{ site.url }}/images/echoraum2.jpg\" alt=\"image\">\n\n\n\n\n\n\n\n\n\n\n\n", "excerpt"=>"\n", "theme"=>{"name"=>"twitter"}} -->
+{"published"=>true, "layout"=>"default", "tags"=>["audio"], "JB"=>{"analytics"=>false}, "title"=>"In_a_room", "url"=>"/2013/12/11/in_a_room", "dir"=>"/2013/12/11", "date"=>2013-12-11 00:00:00 +0100, "id"=>"/2013/12/11/in_a_room", "categories"=>[], "next"=>nil, "previous"=>#Jekyll:Post @id="/2013/12/10/on_a_wire", "path"=>"_posts/2013-12-11-in_a_room.md", "content"=>"{% include JB/setup %}\n\n\n{% for post in site.posts %}\n\t{% assign pt = post.title | downcase %}\n\t{% if 'in_a_room' == pt %}\n<h4><a href=\"{{ BASE_PATH }}{{ post.url }}\">In a room ..</a></h4>\n\t{% endif %}\n{% endfor %}\n\n<p>\nfor violin, grains on a metal surface and live-electronics<br />\n~8' , 2012<br />\n[for this recording the violin is played by Barbara Lüneburg, thx a lot!!<br />\nrecorded at Echoraum, thx for the support to Werner Korn!]<br /><br />\n\n\"The piece consists of singular tones that fill the space horizontally and create a quiet ubiquitous drone\"\nFiltered noise areas, quiet creak, some prominent sound particles, (no open strings), minimal timbre (out of a grayscale evolve \"colours\"), microtonality vs. widely spaced intervals, grains, ..<br /><br />\n</p>\n\n\n<div>\n\t<object height=\"81\" width=\"100%\"> <param name=\"movie\" value=\"https://player.soundcloud.com/player.swf?url=https%3A//api.soundcloud.com/tracks/124203709&amp;show_comments=true&amp;\n\tauto_play=false&amp;color=ff7700\"></param> <param name=\"allowscriptaccess\" value=\"always\"></param> <embed allowscriptaccess=\"always\" height=\"81\" src=\"https://player.soundcloud.com/player.swf?url=https%3A//api.soundcloud.com/tracks/124203709&amp;show_comments=true&amp;auto_play=false&amp;color=ff7700\" type=\"application/x-shockwave-flash\" width=\"100%\"></embed> </object>    \n</div>\n\n\n<p><br /><br /></p>\n<img src=\"{{ site.url }}/images/echoraum2.jpg\" alt=\"image\">\n\n\n\n\n\n\n\n\n\n\n\n", "excerpt"=>"\n", "theme"=>{"name"=>"twitter"}} -->
 
 
 

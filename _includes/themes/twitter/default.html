@@ -58,6 +58,7 @@
           <!-- <a class="brand" href="{{ HOME_PATH }}">{{ site.title }}</a> -->
           <!-- <a class="brand" href="{{ HOME_PATH }}"> &nbsp; Home</a> -->
           <ul class="nav">
+
 <!-- ###################################################################### -->
     <!-- added list navi_pages: in _config file, to add pages without dropdown-menu -->
             <!-- {% include JB/pages_list_pages %} -->
@@ -73,8 +74,11 @@
         
             {% assign pages_list = site.pages %}
             {% assign group = 'navigation' %}
+
+            {% comment %}
             {% include JB/pages_list_links_list %}
-            
+            {% endcomment %}
+
           </ul>
         </div>
     </div>

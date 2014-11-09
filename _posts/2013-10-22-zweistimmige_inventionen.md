@@ -31,7 +31,7 @@ The recordings of the fifteen Two-Part Inventions and one Three-Part Sinfonia of
 
 A framed image that shows the wooden framework for a swing at a playground, where the swing is missing and the ground is covered with additional soil.<br />
 
-Considerations to the themes, areas and associations, which could form some of the questions the Installation “Zweistimmige Inventionen” poses, are accompanying the work as a virtual 'art-theory handout.<br />
+Considerations to the themes, areas and associations, which could form some of the questions the Installation “Zweistimmige Inventionen” poses, are accompanying the work as a virtual art-theory handout.<br />
 </p>
 
 <p> <br />exhibition view:<br /></p>
