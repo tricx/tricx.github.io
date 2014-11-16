@@ -133,9 +133,9 @@ JB :
 
   # pages in navbar ( no subcategories)
   navi_pages:
-    - "Audio"
-    - "Visual"
-    - "About"
+     - "Audio"
+     - "Visual"
+     - "About"
     
   # pages with subcategories in navbar
   navi_categories:
