@@ -34,3 +34,10 @@ JB :
 
 <img src="{{ site.url }}/images/ottosmops_small.jpg" alt="image">
 
+<p> <br /> <br />Fanpostkarte von 
+	<a href="http://www.heterotypia/" target="_blank" style="text-decoration:none; color: blue">
+	<i>Natalie Deewan</i></a>
+</p>
+
+<img src="{{ site.url }}/images/petit_conferencier_card_I.jpg" alt="image">
+<img src="{{ site.url }}/images/petit_conferencier_card_II.jpg" alt="image">
