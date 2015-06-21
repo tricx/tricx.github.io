@@ -42,8 +42,9 @@ in June 2015.
 
 <img src="{{ site.url }}/images/triptychon_moe1.jpg" alt="image">
 
-<iframe width="100%" height="384" frameborder="0" allowfullscreen="" webkitallowfullscreen="" src="http://player.vimeo.com/video/66463893?title=0&amp;byline=0&amp;portrait=0">
+<iframe width="100%" height="384" frameborder="0" allowfullscreen="" webkitallowfullscreen="" src="http://player.vimeo.com/video/131358786?title=0&amp;byline=0&amp;portrait=0">
 </iframe>
+
 
 <img src="{{ site.url }}/images/triptychon_moe2.jpg" alt="image">
 <img src="{{ site.url }}/images/triptychon_moe3.jpg" alt="image">
