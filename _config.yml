@@ -147,7 +147,7 @@ JB :
     - "Audio"
 
   # sidebar items, if 'show_worktitle_sidebar: true' (in pages, posts layout -defs)
-  works_projects_list:
+  works_projects_list: 
     - "A Car from ABove"  
     - "Ottos Mops"
     - "Pachinko"
