@@ -12,8 +12,8 @@ JB :
 
 {% for post in site.posts %}
 	{% assign pt = post.title | downcase %}
-	{% if 'triptychon_of_lost_media_I' == pt %}
-<h4><a href="{{ BASE_PATH }}{{ post.url }}">Triptychon of lost Media I</a></h4>
+	{% if 'triptychon_of_lost_media_part1' == pt %}
+<h4><a href="{{ BASE_PATH }}{{ post.url }}">Triptychon of lost Media - I</a></h4>
 	{% endif %}
 {% endfor %}
 
