@@ -13,7 +13,7 @@ JB :
 {% for post in site.posts %}
 	{% assign pt = post.title | downcase %}
 	{% if 'triptychon_of_lost_media_part1' == pt %}
-<h4><a href="{{ BASE_PATH }}{{ post.url }}">Triptychon of lost Media - I</a></h4>
+<h4><a href="{{ BASE_PATH }}{{ post.url }}">Triptychon of lost media - I</a></h4>
 	{% endif %}
 {% endfor %}
 
@@ -24,7 +24,7 @@ JB :
 	
 Metal plates, contact microphones, transducers generate feedback.
 <br /><br />
-This is the first part of the series 'Triptychon of lost media' . It concerns the examination of emitter and receiver and explores extended techniques of sound generation and playback. The theme emitter / receiver is the conceptual theoretical framework for the work series but also correlates to the applied techniques of how sound and material is shaped.
+This is the first part of the series 'Triptychon of lost media'. It concerns the examination of emitter and receiver and explores extended techniques of sound generation and playback. The theme emitter / receiver is the conceptual theoretical framework for the work series but also correlates to the applied techniques of how sound and material is shaped.
 <br /><br />
 Metal plates are used as tone generators as well as loudspeakers due to feedback that emerges from applying transducers and contact microphones to the surface. The installation deals with the propagation of sound in space and feedback between transmitter and receiver.
 <br />
@@ -42,8 +42,10 @@ in June 2015.
 
 <img src="{{ site.url }}/images/triptychon_moe1.jpg" alt="image">
 
-<iframe width="100%" height="384" frameborder="0" allowfullscreen="" webkitallowfullscreen="" src="http://player.vimeo.com/video/131358786?title=0&amp;byline=0&amp;portrait=0">
+<iframe width="100%" height="384" frameborder="0" allowfullscreen="" webkitallowfullscreen="" src="http://player.vimeo.com/video/132323972?title=0&amp;byline=0&amp;portrait=0">
 </iframe>
+
+
 
 
 <img src="{{ site.url }}/images/triptychon_moe2.jpg" alt="image">
