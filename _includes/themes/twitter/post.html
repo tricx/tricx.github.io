@@ -1,8 +1,35 @@
-    <div class="container-narrow">
+<div class="indent-text">
 
-                  <!-- <div class="content"> -->
+                          <hr>
                           {{ content }}
-                   <!-- </div> -->
+                
 
-<!-- bottom section -->
+  <div class="pagination">
+    <ul>
+
+      {% if page.previous %}
+        <li class="prev"><a href="{{ BASE_PATH }}{{ page.previous.url }}" title="{{ page.previous.title }}">Previous</a></li>
+      {% else %}
+        <li class="prev disabled"><a>Previous</a></li>
+      {% endif %}
+
+      {% if page.next %}
+        <li class="next"><a href="{{ BASE_PATH }}{{ page.next.url }}" title="{{ page.next.title }}">Next</a></li>
+      {% else %}
+        <li class="next disabled"><a>Next</a>
+          <!-- &rarr; -->
+      {% endif %}
+      
+      <!-- <li><a href="{{ BASE_PATH }}{{ site.JB.archive_path }}">Archive</a></li> -->
+{% comment %}
+  <li><a href="/news.html">News</a></li>
+{% endcomment %}
+
+    </ul>
+  </div>
+   
+       {% include JB/comments %}
+
+
+<!--div from indent-text-->
 </div>
