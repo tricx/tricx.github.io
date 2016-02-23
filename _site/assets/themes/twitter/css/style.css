@@ -13,13 +13,6 @@ body {
   /*font-size: 13;*/
   text-align:justify;
 
-  /*background-image: url('/images/pachinko2.jpg');*/
-  /*background-image: url('/images/galaxy.jpg');*/
-  /*background-image: url('/images/hole.jpg');*/
-  /*background-size: 1440px 800px;*/
-
-  /*  background-image: url('/images/bg1.gif');  
-  background-size: 72.0px 20.0px; */
   background-image: url('/images/glitch3.jpg');
   background-size: 1040px 800px;
 
@@ -81,7 +74,7 @@ html {
   background-color: white;
   color: black;
   /*max-width: 742px;*/
-  max-width: 802px;
+  max-width: 842px;
 }
 
 /*change spacing to hr*/
@@ -249,6 +242,15 @@ make independent layouts for every page?
 #navi_pages3 > a:hover {
     background-color: pink;
 }
+#navi_pages4 > a {
+    background: yellow;
+    color: black !important;
+}
+#navi_pages4 > a:focus,
+#navi_pages4 > a:hover {
+    background-color: red;
+}
+
 /*ids of the navigation items, forloop.index in pages_list_list, pages_list_links_list*/
 #navi_categories1 > a {
     background: red;

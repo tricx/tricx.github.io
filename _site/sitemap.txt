@@ -6,12 +6,14 @@ http://tricx.github.io/blog
 http://tricx.github.io/
 http://tricx.github.io/links
 http://tricx.github.io/live
+http://tricx.github.io/now
 http://tricx.github.io/posts
 http://tricx.github.io/rss.xml
 http://tricx.github.io/sitemap.txt
 http://tricx.github.io/tags
 http://tricx.github.io/visual
 
+http://tricx.github.io/2016/02/23/live2016
 http://tricx.github.io/2015/06/21/triptychon_of_lost_media_part1
 http://tricx.github.io/2013/12/11/in_a_room
 http://tricx.github.io/2013/12/10/on_a_wire

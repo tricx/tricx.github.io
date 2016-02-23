@@ -30,18 +30,14 @@ body{
   <div class="date">
     <span>{{ page.date | date_to_long_string }}</span>
   </div>
-
-
 {% endcomment %}
                 
-
-                        
+                
                   <!-- <div class="content"> -->
                           <hr>
                           {{ content }}
                   <!-- </div> -->
                 
-
 <!--   {% unless page.categories == empty %}
     <dl class="tag_box inline">
       <li><i class="icon-folder-open"></i></li>
@@ -66,7 +62,6 @@ body{
 
   <div class="pagination">
     <ul>
-
       {% if page.previous %}
         <li class="prev"><a href="{{ BASE_PATH }}{{ page.previous.url }}" title="{{ page.previous.title }}">Previous</a></li>
       {% else %}
@@ -79,7 +74,6 @@ body{
         <li class="next disabled"><a>Next</a>
           <!-- &rarr; -->
       {% endif %}
-      
       <!-- <li><a href="{{ BASE_PATH }}{{ site.JB.archive_path }}">Archive</a></li> -->
 {% comment %}
   <li><a href="/news.html">News</a></li>
@@ -101,6 +95,5 @@ body{
 
 <!--div from indent-text-->
 </div>
-
 
 

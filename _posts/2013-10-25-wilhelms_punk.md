@@ -9,17 +9,13 @@ JB :
 {% include JB/setup %}
 
 
-
-{% comment %}
 {% for post in site.posts %}
 	{% assign pt = post.title | downcase %}
 	{% if 'wilhelms_punk' == pt %}
 <h4><a href="{{ BASE_PATH }}{{ post.url }}">Wilhelm's Punk</a></h4>
 	{% endif %}
 {% endfor %}
-{% endcomment %}
 
-<h4>Wilhelm's Punk</h4>
 
 <p>
 <br />

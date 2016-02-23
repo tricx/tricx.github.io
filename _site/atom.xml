@@ -4,13 +4,31 @@
  <title>Tricx</title>
  <link href="http://tricx.github.io/" rel="self"/>
  <link href="http://tricx.github.io"/>
- <updated>2016-02-23T22:07:42+01:00</updated>
+ <updated>2016-02-24T00:34:15+01:00</updated>
  <id>http://tricx.github.io</id>
  <author>
    <name>Paul Gruendorfer</name>
    <email>paul@lefant.net</email>
  </author>
 
+ 
+ <entry>
+   <title>Live2016</title>
+   <link href="http://tricx.github.io/2016/02/23/live2016"/>
+   <updated>2016-02-23T00:00:00+01:00</updated>
+   <id>http://tricx.github.io/2016/02/23/live2016</id>
+   <content type="html">
+&lt;p&gt;soundcheck, aftershow, mo.e, feb 2016
+&lt;br /&gt;
+&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/images/reka_moe_aftershow.jpg&quot; alt=&quot;image&quot; /&gt;
+&lt;font color=&quot;grey&quot;&gt;(c)Julia Tazreiter&lt;/font&gt; &lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;
+&lt;br /&gt;&lt;/p&gt;
+
+</content>
+ </entry>
  
  <entry>
    <title>Triptychon_of_lost_media_part1</title>
@@ -52,7 +70,9 @@ in June 2015.
 &lt;img src=&quot;/images/triptychon_moe3.jpg&quot; alt=&quot;image&quot; /&gt;
 &lt;img src=&quot;/images/triptychon_moe4.jpg&quot; alt=&quot;image&quot; /&gt;
 &lt;img src=&quot;/images/triptychon_concert1.jpg&quot; alt=&quot;image&quot; /&gt;
-&lt;img src=&quot;/images/triptychon_concert2.jpg&quot; alt=&quot;image&quot; /&gt;&lt;/p&gt;
+&lt;font color=&quot;grey&quot;&gt;(c) Philip Gerlach&lt;br /&gt;&lt;/font&gt; &lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/triptychon_concert2.jpg&quot; alt=&quot;image&quot; /&gt;&lt;/p&gt;
 
 </content>
  </entry>
@@ -195,7 +215,7 @@ Acoustic Input (e-Zither, cymbals, contact microphones, microphone input of othe
    <updated>2013-10-25T00:00:00+02:00</updated>
    <id>http://tricx.github.io/2013/10/25/wilhelms_punk</id>
    <content type="html">
-&lt;h4&gt;Wilhelm&#39;s Punk&lt;/h4&gt;
+&lt;h4&gt;&lt;a href=&quot;/2013/10/25/wilhelms_punk&quot;&gt;Wilhelm&#39;s Punk&lt;/a&gt;&lt;/h4&gt;
 
 &lt;p&gt;
 &lt;br /&gt;

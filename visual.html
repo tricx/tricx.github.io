@@ -12,7 +12,6 @@ body{
   background-image:none;
   background-color: white !important;
 }
-
 </style>
 </head>
 
@@ -39,6 +38,7 @@ body{
       {{tag[1]}}
       {% endcomment %}
 
+
   {% for items in tag[1] %}
     <div class="distance">
       <hr>
@@ -51,14 +51,14 @@ body{
 </div>
 
 
-  {% comment %}
+{% comment %}
       <h4><a href="{{ BASE_PATH }}{{ post.url }}">{{ post.date | date_to_string }}</a></h4> 
     <h4><a href="{{ BASE_PATH }}{{ post.url }}">{{ post.title }}</a></h4>
 
     <p>&nbsp;</p>
   {{post.content}}
     <p>&nbsp;</p>
-  {% endcomment %}
+{% endcomment %}
 
 
 
