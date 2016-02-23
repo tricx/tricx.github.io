@@ -1,0 +1,71 @@
+==================================================================
+https://keybase.io/tricx
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of http://tricx.net
+  * I am tricx (https://keybase.io/tricx) on keybase.
+  * I have a public key with fingerprint 22DC 3645 EE29 A42F FEC4  6F8A 2E90 FAFE 0802 0563
+
+To claim this, I am signing this object:
+
+{
+    "body": {
+        "key": {
+            "fingerprint": "22dc3645ee29a42ffec46f8a2e90fafe08020563",
+            "host": "keybase.io",
+            "key_id": "2e90fafe08020563",
+            "kid": "0101cc9924ee2e1fba93813c830d212e44460ac8cc6f035cd9dbef05f5b1ab99a3e30a",
+            "uid": "fba983bcb9133bbba0854d2dba1b7000",
+            "username": "tricx"
+        },
+        "service": {
+            "hostname": "tricx.net",
+            "protocol": "http:"
+        },
+        "type": "web_service_binding",
+        "version": 1
+    },
+    "ctime": 1420638335,
+    "expire_in": 157680000,
+    "prev": "96b8a728813a339b410968d54738ad41748b6cb32f8f9678a216dae49648f014",
+    "seqno": 5,
+    "tag": "signature"
+}
+
+with the aforementioned key, yielding the PGP signature:
+
+-----BEGIN PGP MESSAGE-----
+Comment: GPGTools - https://gpgtools.org
+
+owFlkn9QVFUUx3dXCEEhqukHiIM8DDQWvO/n3reWU45iA5aYQNIw7bwf9y1Plt1l
+9wHLLzO0QZapYRQDKUcSRQmXmjGloDGgicxlEpRqIBMVKTIzQXEqiO09pmaa6a87
+95zv93PuOffUhS/ShelT6v6cX2wIFvT+3rW8LtMHq8sx3iGWYuZyLB8tHJJstyKX
+0yXbFcyMEYQokAxFI0SwHEVIEhIoRoIcgVggcRICEBCAZkjMiOU53JpDxfCcG6XI
+DjWmXiyyqHH+r89fSAAc4ILAsgSllkC4xHMsCXFSgCQQCZxAFEUxgBOgIDASIGlB
+ZEUeSYCWaB7neJblSEQCTsUVLeA0PyR5gWdxkuR5ngOQpkRC5DmcNwEANKEbuexc
+AVLViksWPFilEVNDxbKAtP61Nv6bTrEjRXU5XQ7FIThsajhPUZxmzaWUOjVZCeIt
+/wAsvGwX1QGqhmLkcssOO2bGVaWgyBoRpwjAkJAkaSOGPE7ZhSyypqBNDFQfB7Qy
+qFhFsgwPORMB1UlwJMnyFA5YBoo0ZSIhJ1K4iYI8I/AkIUGJZUzqf+CMyCGKZSgo
+AZzCtJYK7Q7MrFZSOKuKdMtWO6cUuRBWGVZjiAnS6cN0DwQbtB3QhYVG/rsZ/rsP
+BnaeGG7ur5J6uhY9c1Sn38VtjPBkrbaOTzTWfxv++PuHE3ftCOy2fvdCw6nt0zJd
+HPh9ZbchMPvRs4PRWXscmyzmiyXh+n03o/arRVtABb08rrK1t/TnoXvl2NTx+Otc
+dGanZ/tMrBL32fd9ZZff3CdZpx/60NeSWBA1GiE7avLsAcI28LH368T8Df4OLGli
+sir6bdvo7aT2oLom79m+soHOmldXnemb6E8wtuUkLvEZbecSYtvw6dT83NEin+2N
+14LePey/8qNh/dU7oROodqSjeWlaxqyuYnnBoaxbZ7LTKtnkLUkXJztL0je19RjK
+Qwa9Y3j15hVL5jvi75T1gOyWq55gS2bG08MrVnXlzO+IHZ/J/kE51Gs/mPPldOMy
+b+nzpzcf+akr463kqog968YK/4ryufW3r8WEtx8beSy0e+ZC30ik6cLAfbopYemj
+IWtGX44sjLkS7r7/CexqGdidEorlzi2rz73xwfDq7pdOHg2TX6xiErZ82tiwzsce
+yDG2NrfE37j0RVDcb55HDvxRcf3Esdraz89v2wrTPVODl/x1s33Hm2wrDy6Ga1Lf
+iXq4/jLxTWvq/vU792a3efe2zbkTA+Jcb/9Tp65tDZn76ty201NHNqZ3pgw52ajn
+fGO3au5WJ4Nxz5OvP+GffKVh8CZ13vxr8FpEe38pTDjb2D508h4cTHsv2fM3
+=j2uC
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/tricx
+
+==================================================================
