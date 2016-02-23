@@ -5,8 +5,8 @@
         <description>Tricx - Paul Gruendorfer</description>
         <link>http://tricx.github.io</link>
         <link>http://tricx.github.io</link>
-        <lastBuildDate>2016-02-23T18:49:40+01:00</lastBuildDate>
-        <pubDate>2016-02-23T18:49:40+01:00</pubDate>
+        <lastBuildDate>2016-02-23T19:16:40+01:00</lastBuildDate>
+        <pubDate>2016-02-23T19:16:40+01:00</pubDate>
         <ttl>1800</ttl>
 
 
@@ -92,10 +92,7 @@ for diy-zither, cymbal, contact microphone, live granular synthesis&lt;br /&gt;
 
 &lt;/p&gt;
 
-&lt;div&gt;
-	&lt;object height=&quot;81&quot; width=&quot;100%&quot;&gt; &lt;param name=&quot;movie&quot; value=&quot;https://player.soundcloud.com/player.swf?url=https%3A//api.soundcloud.com/tracks/124206169&amp;amp;show_comments=true&amp;amp;
-	auto_play=false&amp;amp;color=ff7700&quot; /&gt; &lt;param name=&quot;allowscriptaccess&quot; value=&quot;always&quot; /&gt; &lt;embed allowscriptaccess=&quot;always&quot; height=&quot;81&quot; src=&quot;https://player.soundcloud.com/player.swf?url=https%3A//api.soundcloud.com/tracks/124206169&amp;amp;show_comments=true&amp;amp;auto_play=false&amp;amp;color=ff7700&quot; type=&quot;application/x-shockwave-flash&quot; width=&quot;100%&quot; /&gt; &lt;/object&gt;    
-&lt;/div&gt;
+&lt;iframe width=&quot;100%&quot; height=&quot;120&quot; scrolling=&quot;no&quot; frameborder=&quot;no&quot; src=&quot;https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/124206169&amp;amp;auto_play=false&amp;amp;hide_related=false&amp;amp;show_comments=true&amp;amp;show_user=true&amp;amp;show_reposts=false&amp;amp;visual=true&quot;&gt;&lt;/iframe&gt;
 
 &lt;p&gt;
 This recording examplifies some of the sounds that can be played with an instrument I built.&lt;br /&gt;&lt;br /&gt; It consists of the following parts:&lt;br /&gt;
@@ -204,10 +201,7 @@ The sounds of a cassette recorder itself, of a simple oscillator circuit, and a 
 (short sample of the tape).&lt;br /&gt;&lt;br /&gt;
 &lt;/p&gt;
 
-&lt;div&gt;
-    &lt;object height=&quot;81&quot; width=&quot;100%&quot;&gt; &lt;param name=&quot;movie&quot; value=&quot;https://player.soundcloud.com/player.swf?url=http%3A%2F%2Fapi.soundcloud.com%2Ftracks%2F124201065&amp;amp;show_comments=true&amp;amp;
-    auto_play=false&amp;amp;color=ff7700&quot; /&gt; &lt;param name=&quot;allowscriptaccess&quot; value=&quot;always&quot; /&gt; &lt;embed allowscriptaccess=&quot;always&quot; height=&quot;81&quot; src=&quot;https://player.soundcloud.com/player.swf?url=http%3A%2F%2Fapi.soundcloud.com%2Ftracks%2F124201065&amp;amp;show_comments=true&amp;amp;auto_play=false&amp;amp;color=ff7700&quot; type=&quot;application/x-shockwave-flash&quot; width=&quot;100%&quot; /&gt; &lt;/object&gt;    
-&lt;/div&gt;
+&lt;iframe width=&quot;100%&quot; height=&quot;120&quot; scrolling=&quot;no&quot; frameborder=&quot;no&quot; src=&quot;https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/124201065&amp;amp;auto_play=false&amp;amp;hide_related=false&amp;amp;show_comments=true&amp;amp;show_user=true&amp;amp;show_reposts=false&amp;amp;visual=true&quot;&gt;&lt;/iframe&gt;
 
 &lt;p&gt; &lt;br /&gt;setup:&lt;br /&gt;&lt;/p&gt;
 

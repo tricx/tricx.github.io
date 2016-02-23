@@ -25,13 +25,16 @@ The sounds of a cassette recorder itself, of a simple oscillator circuit, and a 
 (short sample of the tape).<br /><br />
 </p>
 
+{% comment %}
 <div>
     <object height="81" width="100%"> <param name="movie" value="https://player.soundcloud.com/player.swf?url=http%3A%2F%2Fapi.soundcloud.com%2Ftracks%2F124201065&amp;show_comments=true&amp;
     auto_play=false&amp;color=ff7700"></param> <param name="allowscriptaccess" value="always"></param> <embed allowscriptaccess="always" height="81" src="https://player.soundcloud.com/player.swf?url=http%3A%2F%2Fapi.soundcloud.com%2Ftracks%2F124201065&amp;show_comments=true&amp;auto_play=false&amp;color=ff7700" type="application/x-shockwave-flash" width="100%"></embed> </object>    
 </div>
-{% comment %}
-<iframe width="100%" height="100" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/124201065&amp;color=ff6600&amp;auto_play=false&amp;show_artwork=true"></iframe>
 {% endcomment %}
+
+
+<iframe width="100%" height="120" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/124201065&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;visual=true"></iframe>
+
 
 <p> <br />setup:<br /></p>
 
