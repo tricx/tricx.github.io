@@ -9,12 +9,17 @@ JB :
 {% include JB/setup %}
 
 
+
+{% comment %}
 {% for post in site.posts %}
 	{% assign pt = post.title | downcase %}
 	{% if 'wilhelms_punk' == pt %}
 <h4><a href="{{ BASE_PATH }}{{ post.url }}">Wilhelm's Punk</a></h4>
 	{% endif %}
 {% endfor %}
+{% endcomment %}
+
+<h4>Wilhelm's Punk</h4>
 
 <p>
 <br />
@@ -33,7 +38,7 @@ The sounds of a cassette recorder itself, of a simple oscillator circuit, and a 
 {% endcomment %}
 
 
-<iframe width="100%" height="120" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/124201065&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;visual=true"></iframe>
+<iframe width="100%" height="120" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/124201065&amp;color=ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false"></iframe>
 
 
 <p> <br />setup:<br /></p>
