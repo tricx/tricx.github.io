@@ -1,3 +1,5 @@
+{% comment %}
+
 <head>
 <style>
 body{
@@ -102,6 +104,176 @@ body{
 
 </body>
 </html>
+{% endcomment %}
+
+
+
+
+
+
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <title>{{ page.header }}</title>
+    {% if page.description %}<meta name="description" content="{{ page.description }}">{% endif %}
+    <meta name="author" content="{{ site.author.name }}">
+
+    <!-- Enable responsive viewport -->
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta content="de" name="language">
+    <meta content="Paul Gruendorfer" name="description">
+    <meta content="tricx" name="keywords">
+    <meta content="index, follow" name="robots">
+    <meta content="text/html; charset=utf-8" http-equiv="Content-Type">
+
+    <!-- IE compability mode -->
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+
+    <!-- Le HTML5 shim, for IE6-8 support of HTML elements -->
+    <!--[if lt IE 9]>
+      <script src="http://html5shim.googlecode.com/svn/trunk/html5.js"></script>
+    <![endif]-->
+
+    
+    <!-- Le styles -->
+    <!-- <link href="{{ ASSET_PATH }}/bootstrap/css/bootstrap.2.2.2.min.css" rel="stylesheet"> -->
+    <link href="{{ ASSET_PATH }}/bootstrap/css/bootstrap2.3.2.css" rel="stylesheet">
+    <link href="{{ ASSET_PATH }}/css/style.css?body=1" rel="stylesheet" type="text/css" media="all">
+
+    <!-- Le fav and touch icons -->
+    <link rel="shortcut icon" href="images/favicon.ico">
+    <!-- <link rel="apple-touch-icon" href="images/apple-touch-icon.png"> -->
+    <!-- <link rel="apple-touch-icon" sizes="72x72" href="images/snail.png">
+    <link rel="apple-touch-icon" sizes="114x114" href="images/snail.png"> -->
+ 
+
+    <!-- atom & rss feed -->
+    <link href="{{ BASE_PATH }}{{ site.JB.atom_path }}" type="application/atom+xml" rel="alternate" title="Sitewide ATOM Feed">
+    <link href="{{ BASE_PATH }}{{ site.JB.rss_path }}" type="application/rss+xml" rel="alternate" title="Sitewide RSS Feed">
+
+    <!-- javascript -->
+    <!-- <script src="http://code.jquery.com/jquery.js"></script> -->
+    <script src="/assets/themes/twitter/bootstrap/js/jquery.js"></script>
+    <!-- <script src="{{ ASSET_PATH }}/bootstrap/js/bootstrap.min.js"></script> -->
+    <script src="/assets/themes/twitter/bootstrap/js/bootstrap.min2.3.2.js"></script>
+
+    <script src="/assets/themes/twitter/js/script.js"></script>
+  </head>
+<!-- ############################################################################################################# -->
+  <body>
+
+  <!-- for navbar normal change to: 1.st container-narrow, 2. navbar navbar -->
+  <!-- navbar-inverse -->
+<div class= "navbar navbar-fixed-top" id= "mastnav"> <!-- css body with padding-top:60px, ok with mobiles?-->
+    <div class="container-narrow">
+        <div class="navbar-inner">
+          <!-- <a class="brand" href="{{ HOME_PATH }}">{{ site.title }}</a> -->
+          <!-- <a class="brand" href="{{ HOME_PATH }}"> &nbsp; Home</a> -->
+          <ul class="nav">
+
+<!-- ###################################################################### -->
+    <!-- added list navi_pages: in _config file, to add pages without dropdown-menu -->
+            <!-- {% include JB/pages_list_pages %} -->
+        <!-- <a href> with {{pages| downcase}}.html -->
+            {% include JB/pages_list_pages_html %}
+
+<!-- ###################################################################### -->
+    <!-- added list navi_categories: in _config file, to add pages with dropdown-menu -->
+
+            <!-- {% assign pages_list = site.pages %} -->
+            <!-- {% assign group = 'navigation' %} -->
+            <!-- {% include JB/pages_list %} -->
+        
+            {% assign pages_list = site.pages %}
+            {% assign group = 'navigation' %}
+
+            {% comment %}
+            {% include JB/pages_list_links_list %}
+            {% endcomment %}
+
+          </ul>
+        </div>
+    </div>
+</div>
+
+
+
+<!-- content######### -->
+    <div class="container-narrow">
+
+                  <!-- <div class="content"> -->
+                          {{ content }}
+                   <!-- </div> -->
+
+<!-- bottom section -->
+<div class="container-narrow"><div class="indent-text">
+    <hr>
+    <footer>
+   <!--   <div class="indent-text">
+         <p>the impressum
+        &copy;{{ site.time | date: '%Y' }} {{ site.author.name }}
+        </p> 
+      </div> -->
+      <div class="distance2">&nbsp;</div>
+    </footer> 
+</div></div>
+   
+
+    </div>
+
+
+  <div class="pagination">
+    <ul>
+
+      {% if page.previous %}
+        <li class="prev"><a href="{{ BASE_PATH }}{{ page.previous.url }}" title="{{ page.previous.title }}">Previous</a></li>
+      {% else %}
+        <li class="prev disabled"><a>Previous</a></li>
+      {% endif %}
+
+      {% if page.next %}
+        <li class="next"><a href="{{ BASE_PATH }}{{ page.next.url }}" title="{{ page.next.title }}">Next</a></li>
+      {% else %}
+        <li class="next disabled"><a>Next</a>
+          <!-- &rarr; -->
+      {% endif %}
+      
+      <!-- <li><a href="{{ BASE_PATH }}{{ site.JB.archive_path }}">Archive</a></li> -->
+{% comment %}
+  <li><a href="/news.html">News</a></li>
+{% endcomment %}
+
+    </ul>
+  </div>
+
+
+    {% include JB/analytics %}
+
+  </body>
+</html>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
