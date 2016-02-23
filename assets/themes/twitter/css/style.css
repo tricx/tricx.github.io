@@ -1,4 +1,4 @@
-/*additional css*/
+navbar/*additional css*/
 * {
   -webkit-border-radius: 0 !important;
      -moz-border-radius: 0 !important;
@@ -22,7 +22,6 @@ body {
   background-size: 72.0px 20.0px; */
   background-image: url('/images/glitch3.jpg');
   background-size: 1040px 800px;
-
 
   background-repeat: repeat;
   background-color: white;

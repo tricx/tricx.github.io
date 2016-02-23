@@ -270,7 +270,6 @@ a {color: white;
 {   
     color:white !important;
     background-color: black !important;
-
 }
 </style>
 </head>
@@ -346,10 +345,7 @@ recorded at Echoraum, Wien]<br /><br />
 Filtered noise areas, quiet creak, some prominent sound particles, (no open strings), minimal timbre (out of a grayscale evolve "colours"), microtonality vs. widely spaced intervals, grains, ..<br /><br />
 </p>
 
-<div>
-	<object height="81" width="100%"> <param name="movie" value="https://player.soundcloud.com/player.swf?url=https%3A//api.soundcloud.com/tracks/124203709&amp;show_comments=true&amp;
-	auto_play=false&amp;color=ff7700" /> <param name="allowscriptaccess" value="always" /> <embed allowscriptaccess="always" height="81" src="https://player.soundcloud.com/player.swf?url=https%3A//api.soundcloud.com/tracks/124203709&amp;show_comments=true&amp;auto_play=false&amp;color=ff7700" type="application/x-shockwave-flash" width="100%" /> </object>    
-</div>
+<iframe width="100%" height="81" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/124203709&amp;color=ff9900&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false"></iframe>
 
 <p><br /><br /></p>
 <p><img src="/images/echoraum2.jpg" alt="image" /></p>
@@ -547,7 +543,7 @@ Movements, vibrations the plate receives are amplified and played back into the 
     <!-- page:
 
 
-{"layout"=>"default", "title"=>"audio", "header"=>"tricx - audio", "group"=>"navigation", "content"=>"{% comment %}\ndirty hack to override css from here: change link color to white, container-narrow to black, background-image etc.\n{% endcomment %}\n\n<head>\n<style>\nbody{\n  background-image:none;\n  background-color: black !important;\n}\na {color: white;\n}\n.container-narrow {background-color: black; color:white;\n}\n.navbar-inner\n{   \n    color:white !important;\n    background-color: black !important;\n\n}\n</style>\n</head>\n\n{% comment %}\n<div class=\"page-header\">\n  <h3>AUDIO</h3>\t\n</div>\n{% endcomment %}\n\n\n\n<div>\n{% for tag in site.tags %} \n  {% if page.title == tag[0] %}\n  \n      {% comment %}\n      <ul class=\"unstyled\">\n          {% assign pages_list = tag[1] %}  \n          {% include JB/pages_list %}\n      </ul>\n      {{tag[1]}}\n      {% endcomment %}\n\n  {% for items in tag[1] %}\n    <div class=\"distance\">\n      <hr>\n      {{items.content}}\n    </div>\n\n  {% endfor %}\n        \n  {% endif %}\n{% endfor %}\n</div>\n\n\n\n\n\n\n\n", "dir"=>"/", "name"=>"audio.html", "path"=>"audio.html", "url"=>"/audio.html", "theme"=>{"name"=>"twitter"}} -->
+{"layout"=>"default", "title"=>"audio", "header"=>"tricx - audio", "group"=>"navigation", "content"=>"{% comment %}\ndirty hack to override css from here: change link color to white, container-narrow to black, background-image etc.\n{% endcomment %}\n\n<head>\n<style>\nbody{\n  background-image:none;\n  background-color: black !important;\n}\na {color: white;\n}\n.container-narrow {background-color: black; color:white;\n}\n.navbar-inner\n{   \n    color:white !important;\n    background-color: black !important;\n}\n</style>\n</head>\n\n{% comment %}\n<div class=\"page-header\">\n  <h3>AUDIO</h3>\t\n</div>\n{% endcomment %}\n\n\n\n<div>\n{% for tag in site.tags %} \n  {% if page.title == tag[0] %}\n  \n      {% comment %}\n      <ul class=\"unstyled\">\n          {% assign pages_list = tag[1] %}  \n          {% include JB/pages_list %}\n      </ul>\n      {{tag[1]}}\n      {% endcomment %}\n\n  {% for items in tag[1] %}\n    <div class=\"distance\">\n      <hr>\n      {{items.content}}\n    </div>\n\n  {% endfor %}\n        \n  {% endif %}\n{% endfor %}\n</div>\n\n\n\n\n\n\n\n", "dir"=>"/", "name"=>"audio.html", "path"=>"audio.html", "url"=>"/audio.html", "theme"=>{"name"=>"twitter"}} -->
 
 
 
