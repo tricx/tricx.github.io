@@ -25,9 +25,9 @@
 
     
     <!-- Le styles -->
-    <!-- <link href="/assets/themes/twitter/bootstrap/css/bootstrap.2.2.2.min.css" rel="stylesheet"> -->
-    <link href="/assets/themes/twitter/bootstrap/css/bootstrap2.3.2.css" rel="stylesheet">
-    <link href="/assets/themes/twitter/css/style.css?body=1" rel="stylesheet" type="text/css" media="all">
+    <link href="/assets/themes//twitter/bootstrap/css/bootstrap2.3.2.css" rel="stylesheet">
+    <link href="/assets/themes//twitter/css/style.css?body=1" rel="stylesheet" type="text/css" media="all">
+
 
     <!-- Le fav and touch icons -->
     <link rel="shortcut icon" href="images/favicon.ico">
@@ -43,7 +43,7 @@
     <!-- javascript -->
     <!-- <script src="http://code.jquery.com/jquery.js"></script> -->
     <script src="/assets/themes/twitter/bootstrap/js/jquery.js"></script>
-    <!-- <script src="/assets/themes/twitter/bootstrap/js/bootstrap.min.js"></script> -->
+    <!-- <script src="/assets/themes//bootstrap/js/bootstrap.min.js"></script> -->
     <script src="/assets/themes/twitter/bootstrap/js/bootstrap.min2.3.2.js"></script>
 
     <script src="/assets/themes/twitter/js/script.js"></script>
@@ -145,7 +145,7 @@ About.htlm
     
       
       	
-      	<li><a href="/about.html">about</a></li>
+      	<li><a href="/about">about</a></li>
       	
       
     
@@ -157,35 +157,7 @@ About.htlm
     
       
       	
-      	<li><a href="/audio.html">audio</a></li>
-      	
-      
-    
-  
-    
-      
-    
-  
-    
-      
-    
-  
-    
-      
-      	
-      	<li><a href="/links.html">links</a></li>
-      	
-      
-    
-  
-    
-      
-    
-  
-    
-      
-      	
-      	<li><a href="/posts.html">Posts</a></li>
+      	<li><a href="/audio">audio</a></li>
       	
       
     
@@ -201,7 +173,35 @@ About.htlm
     
       
       	
-      	<li><a href="/tags.html">Tags</a></li>
+      	<li><a href="/links">links</a></li>
+      	
+      
+    
+  
+    
+      
+    
+  
+    
+      
+      	
+      	<li><a href="/posts">Posts</a></li>
+      	
+      
+    
+  
+    
+      
+    
+  
+    
+      
+    
+  
+    
+      
+      	
+      	<li><a href="/tags">Tags</a></li>
       	
       
     
@@ -209,7 +209,7 @@ About.htlm
     
       
       	
-      	<li><a href="/visual.html">visual</a></li>
+      	<li><a href="/visual">visual</a></li>
       	
       
     
@@ -302,7 +302,7 @@ About.htlm
     <!-- page:
 
 
-{"layout"=>"default", "title"=>"Blog", "header"=>"Blog", "category"=>"Links", "content"=>"{% include JB/setup %}\n\n<div class=\"page-header\">\n  <h3>{{ page.title }} {% if page.tagline %} <small>{{ page.tagline }}</small>{% endif %}</h3>\n</div>\n\n\n\n<div>\n{% for tag in site.tags %} \n  {% if page.title == tag[0] %}\n  <ul class=\"unstyled\">\n{% comment %}\n    {% assign pages_list = tag[1] %}  \n    {% include JB/pages_list %}\n{% endcomment %}  \n    <br />\n  </ul>\n  {{tag[1]}}<br /><br />\n  {% endif %}\n{% endfor %}\n</div>\n\n<div class=\"pagination\">\n    <ul>\n      <li><a href=\"/news.html\">News</a></li>\n    </ul>\n  </div>\n   \n{% include JB/comments %}", "dir"=>"/", "name"=>"blog.md", "path"=>"blog.md", "url"=>"/blog.html", "theme"=>{"name"=>"twitter"}} -->
+{"layout"=>"page", "title"=>"Blog", "header"=>"Blog", "category"=>"Links", "content"=>"\n<div class=\"page-header\">\n  <h3>Blog </h3>\n</div>\n\n<div>\n \n  \n \n  \n\n</div>\n\n<div class=\"pagination\">\n    <ul>\n      <li><a href=\"/news.html\">News</a></li>\n    </ul>\n  </div>\n\n", "dir"=>"/", "name"=>"blog.md", "path"=>"blog.md", "url"=>"/blog"} -->
 
 
 

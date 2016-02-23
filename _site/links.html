@@ -25,9 +25,9 @@
 
     
     <!-- Le styles -->
-    <!-- <link href="/assets/themes/twitter/bootstrap/css/bootstrap.2.2.2.min.css" rel="stylesheet"> -->
-    <link href="/assets/themes/twitter/bootstrap/css/bootstrap2.3.2.css" rel="stylesheet">
-    <link href="/assets/themes/twitter/css/style.css?body=1" rel="stylesheet" type="text/css" media="all">
+    <link href="/assets/themes//twitter/bootstrap/css/bootstrap2.3.2.css" rel="stylesheet">
+    <link href="/assets/themes//twitter/css/style.css?body=1" rel="stylesheet" type="text/css" media="all">
+
 
     <!-- Le fav and touch icons -->
     <link rel="shortcut icon" href="images/favicon.ico">
@@ -43,7 +43,7 @@
     <!-- javascript -->
     <!-- <script src="http://code.jquery.com/jquery.js"></script> -->
     <script src="/assets/themes/twitter/bootstrap/js/jquery.js"></script>
-    <!-- <script src="/assets/themes/twitter/bootstrap/js/bootstrap.min.js"></script> -->
+    <!-- <script src="/assets/themes//bootstrap/js/bootstrap.min.js"></script> -->
     <script src="/assets/themes/twitter/bootstrap/js/bootstrap.min2.3.2.js"></script>
 
     <script src="/assets/themes/twitter/js/script.js"></script>
@@ -145,7 +145,7 @@ About.htlm
     
       
       	
-      	<li><a href="/about.html">about</a></li>
+      	<li><a href="/about">about</a></li>
       	
       
     
@@ -157,35 +157,7 @@ About.htlm
     
       
       	
-      	<li><a href="/audio.html">audio</a></li>
-      	
-      
-    
-  
-    
-      
-    
-  
-    
-      
-    
-  
-    
-      
-      	
-      	<li class="active"><a href="/links.html" class="active">links</a></li>
-      	
-      
-    
-  
-    
-      
-    
-  
-    
-      
-      	
-      	<li><a href="/posts.html">Posts</a></li>
+      	<li><a href="/audio">audio</a></li>
       	
       
     
@@ -201,7 +173,35 @@ About.htlm
     
       
       	
-      	<li><a href="/tags.html">Tags</a></li>
+      	<li class="active"><a href="/links" class="active">links</a></li>
+      	
+      
+    
+  
+    
+      
+    
+  
+    
+      
+      	
+      	<li><a href="/posts">Posts</a></li>
+      	
+      
+    
+  
+    
+      
+    
+  
+    
+      
+    
+  
+    
+      
+      	
+      	<li><a href="/tags">Tags</a></li>
       	
       
     
@@ -209,7 +209,7 @@ About.htlm
     
       
       	
-      	<li><a href="/visual.html">visual</a></li>
+      	<li><a href="/visual">visual</a></li>
       	
       
     
@@ -324,7 +324,7 @@ About.htlm
     <!-- page:
 
 
-{"layout"=>"default", "title"=>"links", "header"=>"tricx - links", "group"=>"navigation", "content"=>"{% comment %}\n<div class=\"page-header\">\n  <h3>{{ page.title }} {% if page.tagline %} <small>{{ page.tagline }}</small>{% endif %}</h3>\n</div>\n{% endcomment %}\n\n\n<hr>\n<dic class=\"row-fluid\">\n\t<div class=\"span6\">\n\n{% comment %}\t\t\n<p> diverse identities... <br /><br />\n{% endcomment %}\n\n\n\n<a href=\"https://soundcloud.com/tricx\" target=\"_blank\">\n<img src=\"{{ site.url }}/images/scloud.png\" alt=\"image\">\n</a>\n\n&nbsp;&nbsp;&nbsp;\n<a href=\"https://github.com/tricx\" target=\"_blank\">\n<img src=\"{{ site.url }}/images/gh.png\" alt=\"image\">\n</a>\n<br /><br />\n\n<a href=\"http://www.mutttricx.net\" target=\"_blank\"><b>MuttTricx</b></a>\n\n{% comment %}\n{% for link in site.JB.links_list %}\n    <dt><a href=\"{{link[1]}}\" target=\"_blank\"><b>{{link[0]}}</b></a></dt>\n{% endfor %}\n{% endcomment %}\n\n</p>\n\n\n\n\n\t</div>\n\n\t<div class=\"span6\">\n\n\t{% comment %}\n<p> + FRIENDS: <br /><br />\n\t\n{% for link in site.JB.links_list_friends %}\n    <dt><a href=\"{{link[1]}}\" target=\"_blank\"><b>{{link[0]}}</b></a></dt>\n{% endfor %}\n\n\t{% endcomment %}\n</p>\n\t</div>\n\n<p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p>\n\n{% comment %}\n\nthis systematic works with firefox, but not in chrome or safari\nseems that container-narrow doesn't adapt to the height of span6\nproblem with row-fluid?\nhow could it be done with tables and media query?\n\ndirty hack: dependent on the length of the links_list, use line breaks to fill container-narrow\n\n<dic class=\"row-fluid\">\n<div class=\"span6\">col1<p>&nbsp;</p>hello1</div><div class=\"span6\">col2<p>&nbsp;</p>hello2<p>&nbsp;</p><p>&nbsp;</p>und hier2</div>\n</div>\n{% endcomment %}\n", "dir"=>"/", "name"=>"links.html", "path"=>"links.html", "url"=>"/links.html", "theme"=>{"name"=>"twitter"}} -->
+{"layout"=>"page", "title"=>"links", "header"=>"tricx - links", "group"=>"navigation", "content"=>"\n\n\n<hr>\n<dic class=\"row-fluid\">\n\t<div class=\"span6\">\n\n\n\n\n\n<a href=\"https://soundcloud.com/tricx\" target=\"_blank\">\n<img src=\"/images/scloud.png\" alt=\"image\">\n</a>\n\n&nbsp;&nbsp;&nbsp;\n<a href=\"https://github.com/tricx\" target=\"_blank\">\n<img src=\"/images/gh.png\" alt=\"image\">\n</a>\n<br /><br />\n\n<a href=\"http://www.mutttricx.net\" target=\"_blank\"><b>MuttTricx</b></a>\n\n\n\n</p>\n\n\n\n\n\t</div>\n\n\t<div class=\"span6\">\n\n\t\n</p>\n\t</div>\n\n<p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p>\n\n\n", "dir"=>"/", "name"=>"links.html", "path"=>"links.html", "url"=>"/links"} -->
 
 
 
