@@ -20,7 +20,7 @@ JB :
 <p>
 	2013<br />
 	Speech - Intervention - Machine<br />
-	in cooperation with <a href="http://www.kunst-und-raederwerk.de/" target="_blank" style="text-decoration:none; color: blue"><i>Christoph Freidhöfer</i></a> <br /><br />			
+	in cooperation with <a href="http://www.kunst-und-raederwerk.de/" target="_blank" style="text-decoration:none; color: grey"><i>Christoph Freidhöfer</i></a> <br /><br />			
 	The robot moves around the exhibition space, orienting itself based on the events, records the speech of other visitors and articulates clever sayings.
 	Two parabolic microphones using the shielding function of the foam 'hair' to measure the current db-amplitude and detect the direction from where the loudest 
 	content is suspected. There the robot takes on its journey and takes snapshots of conversations. Otherwise it is striking sayings as for example: 
@@ -35,7 +35,7 @@ JB :
 <img src="{{ site.url }}/images/ottosmops_small.jpg" alt="image">
 
 <p> <br /> <br />Fanpostkarte von 
-	<a href="http://www.heterotypia/" target="_blank" style="text-decoration:none; color: blue">
+	<a href="http://www.heterotypia/" target="_blank" style="text-decoration:none; color: grey">
 	<i>Natalie Deewan</i></a>
 </p>
 

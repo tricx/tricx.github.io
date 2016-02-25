@@ -243,7 +243,7 @@ make independent layouts for every page?
     background-color: pink;
 }
 #navi_pages4 > a {
-    background: yellow;
+    background: grey;
     color: black !important;
 }
 #navi_pages4 > a:focus,

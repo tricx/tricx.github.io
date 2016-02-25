@@ -21,7 +21,7 @@ JB :
 <p>
     2012<br />
 	Soundinstallation<br /><br />
-	in cooperation with <a href="http://www.praxistest.cc/" target="_blank" style="text-decoration:none; color: blue"><i>Paul_Reza Klein</i></a><br />
+	in cooperation with <a href="http://www.praxistest.cc/" target="_blank" style="text-decoration:none; color: grey"><i>Paul_Reza Klein</i></a><br />
 	A toy police car in free fall at the exhibition Dimensions Variable # at Mo.ë.<br /><br />
 </p>
 
