@@ -1,5 +1,6 @@
 
 http://tricx.github.io/about
+http://tricx.github.io/about_old
 http://tricx.github.io/atom.xml
 http://tricx.github.io/audio
 http://tricx.github.io/blog
@@ -7,6 +8,7 @@ http://tricx.github.io/
 http://tricx.github.io/links
 http://tricx.github.io/live
 http://tricx.github.io/now
+http://tricx.github.io/now_old
 http://tricx.github.io/posts
 http://tricx.github.io/rss.xml
 http://tricx.github.io/sitemap.txt
