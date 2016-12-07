@@ -4,7 +4,7 @@
  <title>Tricx</title>
  <link href="http://tricx.github.io/" rel="self"/>
  <link href="http://tricx.github.io"/>
- <updated>2016-09-25T17:15:09+02:00</updated>
+ <updated>2016-12-08T03:39:02+08:00</updated>
  <id>http://tricx.github.io</id>
  <author>
    <name>Paul Gruendorfer</name>
@@ -15,7 +15,7 @@
  <entry>
    <title>Live2016</title>
    <link href="http://tricx.github.io/2016/02/23/live2016"/>
-   <updated>2016-02-23T00:00:00+01:00</updated>
+   <updated>2016-02-23T00:00:00+08:00</updated>
    <id>http://tricx.github.io/2016/02/23/live2016</id>
    <content type="html">
 &lt;p&gt;At the moment I am mainly working and experimenting with sound, music and art interventions that make noise. I am interested in live-electronics, instrument building, real time audio programming languages and some other things!!
@@ -26,39 +26,42 @@ listen to recordings on &lt;a href=&quot;https://soundcloud.com/cabaretpoulet&qu
 paul(AT)lefant.net&lt;br /&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;br /&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;p&gt;live at cabaret poulet #2, mo.ë, sept 2016
+&lt;br /&gt;
+
+&lt;video width=&quot;100%&quot; height=&quot;464&quot; controls=&quot;&quot;&gt;
+  &lt;source src=&quot;/images/cabaret_poulet_small.mp4&quot; type=&quot;video/mp4&quot; /&gt;
+&lt;/video&gt;
+&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;br /&gt;&lt;/p&gt;
 &lt;p&gt;live at struma+iodine, rhiz, jun 2016
 &lt;br /&gt;
 &lt;iframe width=&quot;100%&quot; height=&quot;384&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot; webkitallowfullscreen=&quot;&quot; src=&quot;http://player.vimeo.com/video/170353789?title=0&amp;amp;byline=0&amp;amp;portrait=0&quot;&gt;
 &lt;/iframe&gt;
-&lt;br /&gt;
-&lt;br /&gt;
+&lt;br /&gt;&lt;br /&gt;
+&lt;/p&gt;
 
-
-
-&lt;p&gt;uncanny jenny /w réka kutas at aftershow, mo.e, feb 2016
+&lt;p&gt;uncanny jenny /w réka kutas at aftershow, mo.ë, feb 2016
 &lt;br /&gt;
 &lt;iframe width=&quot;100%&quot; height=&quot;105&quot; scrolling=&quot;no&quot; frameborder=&quot;no&quot; src=&quot;https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/250469064&amp;amp;color=000000&amp;amp;auto_play=false&amp;amp;hide_related=false&amp;amp;show_comments=true&amp;amp;show_user=true&amp;amp;show_reposts=false&quot;&gt;&lt;/iframe&gt;
-&lt;br /&gt;
-
-&lt;br /&gt;
+&lt;br /&gt;&lt;br /&gt;
 &lt;/p&gt;
-&lt;img src=&quot;/images/reka_moe_aftershow1.jpg&quot; alt=&quot;image&quot; /&gt;
-&lt;font color=&quot;grey&quot;&gt;soundcheck, aftershow, mo.e, feb 2016   (c)Julia Tazreiter&lt;/font&gt; 
-&lt;br /&gt;
-&lt;br /&gt;
-&lt;br /&gt;
-&lt;br /&gt;
 
+&lt;p&gt;&lt;img src=&quot;/images/reka_moe_aftershow1.jpg&quot; alt=&quot;image&quot; /&gt;
+&lt;font color=&quot;grey&quot;&gt;soundcheck, aftershow, mo.ë, feb 2016   (c)Julia Tazreiter&lt;/font&gt; 
+&lt;br /&gt;
+&lt;br /&gt;
+&lt;br /&gt;
+&lt;br /&gt;&lt;/p&gt;
 
-
-&lt;/p&gt;
 </content>
  </entry>
  
  <entry>
    <title>Triptychon_of_lost_media_part1</title>
    <link href="http://tricx.github.io/2015/06/21/triptychon_of_lost_media_part1"/>
-   <updated>2015-06-21T00:00:00+02:00</updated>
+   <updated>2015-06-21T00:00:00+08:00</updated>
    <id>http://tricx.github.io/2015/06/21/triptychon_of_lost_media_part1</id>
    <content type="html">
 &lt;h4&gt;&lt;a href=&quot;/2015/06/21/triptychon_of_lost_media_part1&quot;&gt;Triptychon of lost media - I&lt;/a&gt;&lt;/h4&gt;
@@ -105,7 +108,7 @@ in June 2015.
  <entry>
    <title>In_a_room</title>
    <link href="http://tricx.github.io/2013/12/11/in_a_room"/>
-   <updated>2013-12-11T00:00:00+01:00</updated>
+   <updated>2013-12-11T00:00:00+08:00</updated>
    <id>http://tricx.github.io/2013/12/11/in_a_room</id>
    <content type="html">
 &lt;h4&gt;&lt;a href=&quot;/2013/12/11/in_a_room&quot;&gt;In a room ..&lt;/a&gt;&lt;/h4&gt;
@@ -131,7 +134,7 @@ Filtered noise areas, quiet creak, some prominent sound particles, (no open stri
  <entry>
    <title>On_a_wire</title>
    <link href="http://tricx.github.io/2013/12/10/on_a_wire"/>
-   <updated>2013-12-10T00:00:00+01:00</updated>
+   <updated>2013-12-10T00:00:00+08:00</updated>
    <id>http://tricx.github.io/2013/12/10/on_a_wire</id>
    <content type="html">
 &lt;h4&gt;&lt;a href=&quot;/2013/12/10/on_a_wire&quot;&gt;On a wire&lt;/a&gt;&lt;/h4&gt;
@@ -159,7 +162,7 @@ Acoustic Input (e-Zither, cymbals, contact microphones, microphone input of othe
  <entry>
    <title>Pachinko</title>
    <link href="http://tricx.github.io/2013/10/29/pachinko"/>
-   <updated>2013-10-29T00:00:00+01:00</updated>
+   <updated>2013-10-29T00:00:00+08:00</updated>
    <id>http://tricx.github.io/2013/10/29/pachinko</id>
    <content type="html">
 &lt;h4&gt;&lt;a href=&quot;/2013/10/29/pachinko&quot;&gt;Pachinko&lt;/a&gt;&lt;/h4&gt;
@@ -181,7 +184,7 @@ Acoustic Input (e-Zither, cymbals, contact microphones, microphone input of othe
  <entry>
    <title>Ottos_mops</title>
    <link href="http://tricx.github.io/2013/10/28/ottos_mops"/>
-   <updated>2013-10-28T00:00:00+01:00</updated>
+   <updated>2013-10-28T00:00:00+08:00</updated>
    <id>http://tricx.github.io/2013/10/28/ottos_mops</id>
    <content type="html">
 &lt;h4&gt;&lt;a href=&quot;/2013/10/28/ottos_mops&quot;&gt;Ottos Mops&lt;/a&gt;&lt;/h4&gt;
@@ -216,7 +219,7 @@ Acoustic Input (e-Zither, cymbals, contact microphones, microphone input of othe
  <entry>
    <title>A_car_from_above</title>
    <link href="http://tricx.github.io/2013/10/26/a_car_from_above"/>
-   <updated>2013-10-26T00:00:00+02:00</updated>
+   <updated>2013-10-26T00:00:00+08:00</updated>
    <id>http://tricx.github.io/2013/10/26/a_car_from_above</id>
    <content type="html">
 &lt;h4&gt;&lt;a href=&quot;/2013/10/26/a_car_from_above&quot;&gt;A Car from ABove&lt;/a&gt;&lt;/h4&gt;
@@ -237,7 +240,7 @@ Acoustic Input (e-Zither, cymbals, contact microphones, microphone input of othe
  <entry>
    <title>Wilhelms_punk</title>
    <link href="http://tricx.github.io/2013/10/25/wilhelms_punk"/>
-   <updated>2013-10-25T00:00:00+02:00</updated>
+   <updated>2013-10-25T00:00:00+08:00</updated>
    <id>http://tricx.github.io/2013/10/25/wilhelms_punk</id>
    <content type="html">
 &lt;h4&gt;&lt;a href=&quot;/2013/10/25/wilhelms_punk&quot;&gt;Wilhelm&#39;s Punk&lt;/a&gt;&lt;/h4&gt;
@@ -263,7 +266,7 @@ The sounds of a cassette recorder itself, of a simple oscillator circuit, and a 
  <entry>
    <title>Platte_x</title>
    <link href="http://tricx.github.io/2013/10/24/platte_x"/>
-   <updated>2013-10-24T00:00:00+02:00</updated>
+   <updated>2013-10-24T00:00:00+08:00</updated>
    <id>http://tricx.github.io/2013/10/24/platte_x</id>
    <content type="html">
 &lt;h4&gt;&lt;a href=&quot;/2013/10/24/platte_x&quot;&gt;Platte X&lt;/a&gt;&lt;/h4&gt;
@@ -286,7 +289,7 @@ Movements, vibrations the plate receives are amplified and played back into the 
  <entry>
    <title>Ancient_ancient_world</title>
    <link href="http://tricx.github.io/2013/10/23/ancient_ancient_world"/>
-   <updated>2013-10-23T00:00:00+02:00</updated>
+   <updated>2013-10-23T00:00:00+08:00</updated>
    <id>http://tricx.github.io/2013/10/23/ancient_ancient_world</id>
    <content type="html">
 &lt;h4&gt;&lt;a href=&quot;/2013/10/23/ancient_ancient_world&quot;&gt;Ancient Ancient World&lt;/a&gt;&lt;/h4&gt;
@@ -322,7 +325,7 @@ The titles of the images are taken form the newspaper Bazar, VW Bus T3, Toyota, 
  <entry>
    <title>Zweistimmige_inventionen</title>
    <link href="http://tricx.github.io/2013/10/22/zweistimmige_inventionen"/>
-   <updated>2013-10-22T00:00:00+02:00</updated>
+   <updated>2013-10-22T00:00:00+08:00</updated>
    <id>http://tricx.github.io/2013/10/22/zweistimmige_inventionen</id>
    <content type="html">
 &lt;h4&gt;&lt;a href=&quot;/2013/10/22/zweistimmige_inventionen&quot;&gt;Zweistimmige Inventionen&lt;/a&gt;&lt;/h4&gt;
@@ -357,7 +360,7 @@ Considerations to the themes, areas and associations, which could form some of t
  <entry>
    <title>Bikes_and_birds</title>
    <link href="http://tricx.github.io/2013/10/21/bikes_and_birds"/>
-   <updated>2013-10-21T00:00:00+02:00</updated>
+   <updated>2013-10-21T00:00:00+08:00</updated>
    <id>http://tricx.github.io/2013/10/21/bikes_and_birds</id>
    <content type="html">
 &lt;h4&gt;&lt;a href=&quot;/2013/10/21/bikes_and_birds&quot;&gt;Bikes and Birds&lt;/a&gt;&lt;/h4&gt;
@@ -389,7 +392,7 @@ Birds in a cage.&lt;br /&gt;&lt;br /&gt;
  <entry>
    <title>Derive</title>
    <link href="http://tricx.github.io/2013/10/20/derive"/>
-   <updated>2013-10-20T00:00:00+02:00</updated>
+   <updated>2013-10-20T00:00:00+08:00</updated>
    <id>http://tricx.github.io/2013/10/20/derive</id>
    <content type="html">
 &lt;h4&gt;&lt;a href=&quot;/2013/10/20/derive&quot;&gt;Derive&lt;/a&gt;&lt;/h4&gt;
@@ -431,7 +434,7 @@ Architecture is an object of the social conditions, as it assigns humans to thei
  <entry>
    <title>Noircir</title>
    <link href="http://tricx.github.io/2013/10/18/noircir"/>
-   <updated>2013-10-18T00:00:00+02:00</updated>
+   <updated>2013-10-18T00:00:00+08:00</updated>
    <id>http://tricx.github.io/2013/10/18/noircir</id>
    <content type="html">
 &lt;h4&gt;&lt;a href=&quot;/2013/10/18/noircir&quot;&gt;Noircir&lt;/a&gt;&lt;/h4&gt;
@@ -460,7 +463,7 @@ With oil paint, chalk, and edding I wrote on a canvas (250cm x 180cm). The text 
  <entry>
    <title>Undefined_falling_objects</title>
    <link href="http://tricx.github.io/2013/10/17/undefined_falling_objects"/>
-   <updated>2013-10-17T00:00:00+02:00</updated>
+   <updated>2013-10-17T00:00:00+08:00</updated>
    <id>http://tricx.github.io/2013/10/17/undefined_falling_objects</id>
    <content type="html">
 &lt;h4&gt;&lt;a href=&quot;/2013/10/17/undefined_falling_objects&quot;&gt;Undefined Falling Objects&lt;/a&gt;&lt;/h4&gt;
@@ -487,7 +490,7 @@ The film loop shows permanently turning maple seeds, in density and speed variab
  <entry>
    <title>Rasenmaeher</title>
    <link href="http://tricx.github.io/2013/10/16/rasenmaeher"/>
-   <updated>2013-10-16T00:00:00+02:00</updated>
+   <updated>2013-10-16T00:00:00+08:00</updated>
    <id>http://tricx.github.io/2013/10/16/rasenmaeher</id>
    <content type="html">
 &lt;h4&gt;&lt;a href=&quot;/2013/10/16/rasenmaeher&quot;&gt;Rasenmaeher&lt;/a&gt;&lt;/h4&gt;
