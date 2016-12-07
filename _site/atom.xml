@@ -4,7 +4,7 @@
  <title>Tricx</title>
  <link href="http://tricx.github.io/" rel="self"/>
  <link href="http://tricx.github.io"/>
- <updated>2016-12-08T03:39:02+08:00</updated>
+ <updated>2016-12-08T03:46:42+08:00</updated>
  <id>http://tricx.github.io</id>
  <author>
    <name>Paul Gruendorfer</name>
@@ -29,7 +29,7 @@ paul(AT)lefant.net&lt;br /&gt;&lt;/p&gt;
 &lt;p&gt;live at cabaret poulet #2, mo.ë, sept 2016
 &lt;br /&gt;
 
-&lt;video width=&quot;100%&quot; height=&quot;464&quot; controls=&quot;&quot;&gt;
+&lt;video width=&quot;100%&quot; height=&quot;100%&quot; controls=&quot;&quot;&gt;
   &lt;source src=&quot;/images/cabaret_poulet_small.mp4&quot; type=&quot;video/mp4&quot; /&gt;
 &lt;/video&gt;
 &lt;/p&gt;
