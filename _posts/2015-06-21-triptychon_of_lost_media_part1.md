@@ -52,7 +52,7 @@ in June 2015.
 <img src="{{ site.url }}/images/triptychon_concert1.jpg" alt="image">
 <font color="grey">(c) Philip Gerlach<br /></font> 
 
-<img src="{{ site.url }}/images/triptychon_concert2.jpg" alt="image">
+<img src="{{ site.url }}/images/triptychon_concert2_smaller.jpg" alt="image">
 
 
 
