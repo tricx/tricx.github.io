@@ -27,8 +27,14 @@ JB :
 	the most popular occupations for men / women or a quote from 'Alte Meister' by Thomas Bernhard.<br /><br />
 </p>
 
+<video width="100%" height="100%" controls>
+  <source src="{{ site.url }}/images/ottosmops.mp4" type="video/mp4">
+</video>
+
+{% comment %}
 <iframe width="100%" height="384" frameborder="0" allowfullscreen="" webkitallowfullscreen="" src="http://player.vimeo.com/video/66463893?title=0&amp;byline=0&amp;portrait=0">
 </iframe>
+{% endcomment %}
 
 <p> <br />Ottos Mops at 'What The Shop'<br /></p>
 

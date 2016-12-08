@@ -4,7 +4,7 @@
  <title>Tricx</title>
  <link href="http://tricx.github.io/" rel="self"/>
  <link href="http://tricx.github.io"/>
- <updated>2016-12-08T23:38:36+08:00</updated>
+ <updated>2016-12-08T23:59:05+08:00</updated>
  <id>http://tricx.github.io</id>
  <author>
    <name>Paul Gruendorfer</name>
@@ -177,8 +177,10 @@ Acoustic Input (e-Zither, cymbals, contact microphones, microphone input of othe
 	With this automaton the sound of the room and the Pachinko itself is recorded, triggered, generated and manipulated in realtime without the use of prerecorded sounds (except one tribute-soundfile). Controlled by sensors, the Pachinko becomes an uncontrollable and absurd Interface, as you never know what the machine will do next.&lt;br /&gt;&lt;br /&gt;
 &lt;/p&gt;
 
-&lt;iframe width=&quot;100%&quot; height=&quot;384&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot; webkitallowfullscreen=&quot;&quot; src=&quot;http://player.vimeo.com/video/35173457?title=0&amp;amp;byline=0&amp;amp;portrait=0&quot;&gt;
-&lt;/iframe&gt;
+&lt;video width=&quot;100%&quot; height=&quot;100%&quot; controls=&quot;&quot;&gt;
+  &lt;source src=&quot;/images/pachinko.mp4&quot; type=&quot;video/mp4&quot; /&gt;
+&lt;/video&gt;
+
 </content>
  </entry>
  
@@ -200,8 +202,9 @@ Acoustic Input (e-Zither, cymbals, contact microphones, microphone input of othe
 	the most popular occupations for men / women or a quote from &#39;Alte Meister&#39; by Thomas Bernhard.&lt;br /&gt;&lt;br /&gt;
 &lt;/p&gt;
 
-&lt;iframe width=&quot;100%&quot; height=&quot;384&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot; webkitallowfullscreen=&quot;&quot; src=&quot;http://player.vimeo.com/video/66463893?title=0&amp;amp;byline=0&amp;amp;portrait=0&quot;&gt;
-&lt;/iframe&gt;
+&lt;video width=&quot;100%&quot; height=&quot;100%&quot; controls=&quot;&quot;&gt;
+  &lt;source src=&quot;/images/ottosmops.mp4&quot; type=&quot;video/mp4&quot; /&gt;
+&lt;/video&gt;
 
 &lt;p&gt; &lt;br /&gt;Ottos Mops at &#39;What The Shop&#39;&lt;br /&gt;&lt;/p&gt;
 

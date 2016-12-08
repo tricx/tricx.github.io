@@ -5,8 +5,8 @@
         <description>Tricx - Paul Gruendorfer</description>
         <link>http://tricx.github.io</link>
         <link>http://tricx.github.io</link>
-        <lastBuildDate>2016-12-08T23:38:36+08:00</lastBuildDate>
-        <pubDate>2016-12-08T23:38:36+08:00</pubDate>
+        <lastBuildDate>2016-12-08T23:59:05+08:00</lastBuildDate>
+        <pubDate>2016-12-08T23:59:05+08:00</pubDate>
         <ttl>1800</ttl>
 
 
@@ -172,8 +172,10 @@ Acoustic Input (e-Zither, cymbals, contact microphones, microphone input of othe
 	With this automaton the sound of the room and the Pachinko itself is recorded, triggered, generated and manipulated in realtime without the use of prerecorded sounds (except one tribute-soundfile). Controlled by sensors, the Pachinko becomes an uncontrollable and absurd Interface, as you never know what the machine will do next.&lt;br /&gt;&lt;br /&gt;
 &lt;/p&gt;
 
-&lt;iframe width=&quot;100%&quot; height=&quot;384&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot; webkitallowfullscreen=&quot;&quot; src=&quot;http://player.vimeo.com/video/35173457?title=0&amp;amp;byline=0&amp;amp;portrait=0&quot;&gt;
-&lt;/iframe&gt;
+&lt;video width=&quot;100%&quot; height=&quot;100%&quot; controls=&quot;&quot;&gt;
+  &lt;source src=&quot;/images/pachinko.mp4&quot; type=&quot;video/mp4&quot; /&gt;
+&lt;/video&gt;
+
 </description>
                 <link>http://tricx.github.io/2013/10/29/pachinko</link>
                 <guid>http://tricx.github.io/2013/10/29/pachinko</guid>
@@ -195,8 +197,9 @@ Acoustic Input (e-Zither, cymbals, contact microphones, microphone input of othe
 	the most popular occupations for men / women or a quote from &#39;Alte Meister&#39; by Thomas Bernhard.&lt;br /&gt;&lt;br /&gt;
 &lt;/p&gt;
 
-&lt;iframe width=&quot;100%&quot; height=&quot;384&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot; webkitallowfullscreen=&quot;&quot; src=&quot;http://player.vimeo.com/video/66463893?title=0&amp;amp;byline=0&amp;amp;portrait=0&quot;&gt;
-&lt;/iframe&gt;
+&lt;video width=&quot;100%&quot; height=&quot;100%&quot; controls=&quot;&quot;&gt;
+  &lt;source src=&quot;/images/ottosmops.mp4&quot; type=&quot;video/mp4&quot; /&gt;
+&lt;/video&gt;
 
 &lt;p&gt; &lt;br /&gt;Ottos Mops at &#39;What The Shop&#39;&lt;br /&gt;&lt;/p&gt;
 
