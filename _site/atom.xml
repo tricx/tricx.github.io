@@ -4,7 +4,7 @@
  <title>Tricx</title>
  <link href="http://tricx.github.io/" rel="self"/>
  <link href="http://tricx.github.io"/>
- <updated>2016-12-08T23:20:16+08:00</updated>
+ <updated>2016-12-08T23:38:36+08:00</updated>
  <id>http://tricx.github.io</id>
  <author>
    <name>Paul Gruendorfer</name>
@@ -91,8 +91,9 @@ in June 2015.
 
 &lt;p&gt;&lt;img src=&quot;/images/triptychon_moe1.jpg&quot; alt=&quot;image&quot; /&gt;&lt;/p&gt;
 
-&lt;iframe width=&quot;100%&quot; height=&quot;384&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot; webkitallowfullscreen=&quot;&quot; src=&quot;http://player.vimeo.com/video/132323972?title=0&amp;amp;byline=0&amp;amp;portrait=0&quot;&gt;
-&lt;/iframe&gt;
+&lt;video width=&quot;100%&quot; height=&quot;100%&quot; controls=&quot;&quot;&gt;
+  &lt;source src=&quot;/images/triptychon_of_lost_media.mp4&quot; type=&quot;video/mp4&quot; /&gt;
+&lt;/video&gt;
 
 &lt;p&gt;&lt;img src=&quot;/images/triptychon_moe2.jpg&quot; alt=&quot;image&quot; /&gt;
 &lt;img src=&quot;/images/triptychon_moe3.jpg&quot; alt=&quot;image&quot; /&gt;
