@@ -15,12 +15,13 @@ http://tricx.github.io/sitemap.txt
 http://tricx.github.io/tags
 http://tricx.github.io/visual
 
+http://tricx.github.io/2017/02/18/triptychon_of_lost_media_partII
 http://tricx.github.io/2016/02/23/live2016
-http://tricx.github.io/2015/06/21/triptychon_of_lost_media_part1
+http://tricx.github.io/2016/01/21/triptychon_of_lost_media_part1
+http://tricx.github.io/2013/12/28/ottos_mops
 http://tricx.github.io/2013/12/11/in_a_room
 http://tricx.github.io/2013/12/10/on_a_wire
-http://tricx.github.io/2013/10/29/pachinko
-http://tricx.github.io/2013/10/28/ottos_mops
+http://tricx.github.io/2013/10/27/pachinko
 http://tricx.github.io/2013/10/26/a_car_from_above
 http://tricx.github.io/2013/10/25/wilhelms_punk
 http://tricx.github.io/2013/10/24/platte_x
