@@ -58,6 +58,7 @@ in June 2015.
 <p> <br />Installation View: MemphisMemphis<br /></p>
 <img src="{{ site.url }}/images/tolm_small.jpg" alt="image">
 <img src="{{ site.url }}/images/tolm2_small.jpg" alt="image">
+<font color="grey">(c) Florian Voggeneder<br /></font>
 
 {% comment %}
 <img src="{{ site.url }}/images/triptychon_moe3.jpg" alt="image">
