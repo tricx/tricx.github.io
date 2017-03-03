@@ -28,8 +28,7 @@ In cooperation with <i>Ye Shangda</i>
 assistance: Hu Xinru (explorations), Chao Fu-Le (base camp)
 <br /><br />			
 
-As a sculptural intervention, the 'attractor' positioned under the power lines connects to it's surroundings and reacts to changes in the electric field. It concentrates on transitory places and signals or areas that seem to be hidden from general perception. In certain areas in Feijiacun those fields exist and can be detected with neon light.
-It's shaped by the constellations of architectural settings, houses, trees, flat spaces and interacts with people walking by.
+As a site specific intervention, the 'attractor' is positioned under the power lines, connects to it's surroundings and reacts to changes in the electric field. In certain areas in Feijiacun those fields exist and can be detected with neon light. It's shaped by the constellations of the architectural setting. Different density is found at flat spaces, next to houses or trees, on rooftops. The scuplpture is lightend by the electric current it is surrounded by and detects the disturbances when people are passing it. This intervention deals with the processes happening at transitory places and signals or areas that seem to be hidden from general perception.
 </p>
 
 <br />
