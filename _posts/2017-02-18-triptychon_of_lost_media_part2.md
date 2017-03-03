@@ -20,11 +20,10 @@ JB :
 <p>
 	2016 / 2017<br />
 	Sound - Installation<br />
-	Radio, Transmitter, electric current
+	Radio, Transmitter, electric current, microcontroller, relais
 	<br /><br />			
 <b>	
-AM Feld / Soviet Noise<br />
-Flash
+AM Feld / Soviet Noise
 </b>
 <br /><br />
 
@@ -33,6 +32,11 @@ This is the second part of the series 'Triptychon of lost media'. It concerns th
 <br /><br />
 For 'AM Field / Soviet Noise' a radiosignal was created to transmit 30 minutes of empty audio tapes, produced 1989. Portable radio receivers where supplied to detect the information of a 'soviet environment' in a current 'russian reality'. In cooperation with <a href="www.alexanderfelch.net/" target="_blank" style="text-decoration:none; color: grey"><i>Alexander Felch</i></a>
 <br /><br />
+
+<b>	
+Flash
+</b>
+
 'Flash' was an audio-visual installation for camera flash, radio transmitter and changing electric current, shown in the last exhibition of Black Bridge artist village in Beijing, which soon will be demolished due to changing rent index.
 </p>
 
