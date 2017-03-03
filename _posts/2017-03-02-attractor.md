@@ -35,9 +35,9 @@ It's shaped by the constellations of architectural settings, houses, trees, flat
 <br />
 <p> <br />Installation View Feijiacun<br /></p>
 
-<img src="{{ site.url }}/images/attractor_screen_small.jpg" alt="image"><br />
-<img src="{{ site.url }}/images/attractor_doku_small.jpg" alt="image"><br />
-<img src="{{ site.url }}/images/attractor_close_small.jpg" alt="image"><br />
+<img src="{{ site.url }}/images/attractor_screen_small.jpg" alt="image">
+<img src="{{ site.url }}/images/attractor_doku_small.jpg" alt="image">
+<img src="{{ site.url }}/images/attractor_close_small.jpg" alt="image">
 <img src="{{ site.url }}/images/attractor_day_small.jpg" alt="image">
 
 {% comment %}
