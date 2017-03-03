@@ -22,16 +22,14 @@ JB :
 Site Specific  - Light Installation<br />
 Neon Light, cables, metal/wood structure, electric current<br />
 Feijiacun, Beijing<br />
-In cooperation with <a href="www.alexanderfelch.net/" target="_blank" style="text-decoration:none; color: grey"><i>Ye Shangda</i></a><br />
+
+In cooperation with <color: grey><i>Ye Shangda</i></color: grey>
+<br />
 assistance: Hu Xinru (explorations), Chao Fu-Le(base camp)
 <br /><br />			
-<b>	
-Attractor
-</b>
-<br /><br />
+
 As a sculptural intervention, the 'attractor' positioned under the power lines connects to it's surroundings and reacts to changes in the electric field. It concentrates on transitory places and signals or areas that seem to be hidden from general perception. In certain areas in Feijiacun those fields exist and can be detected with neon light.
 It's shaped by the constellations of architectural settings, houses, trees, flat spaces and interacts with people walking by.
-
 </p>
 
 <br />
