@@ -49,7 +49,7 @@ Flash
 
 <img src="{{ site.url }}/images/radio_blackbridge.jpg" alt="image">
 
-<video preload="none" width="100%" height="100%" controls>
+<video preload="metadata" width="100%" height="100%" controls>
   <source src="{{ site.url }}/images/flash_small.mp4" type="video/mp4">
 </video>
 
