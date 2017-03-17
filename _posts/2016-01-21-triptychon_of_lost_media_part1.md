@@ -38,27 +38,27 @@ in June 2015.
 	<br /><br />
 </p>
 
-<p> <br />Installation View: moe, Schaukasten XII<br /></p>
+<p> <br />Installation View: MemphisMemphis<br /></p>
+<img src="{{ site.url }}/images/tolm_small.jpg" alt="image">
+<img src="{{ site.url }}/images/tolm2_small.jpg" alt="image">
+<font color="grey">(c) Florian Voggeneder<br /></font>
 
-<img src="{{ site.url }}/images/triptychon_moe1.jpg" alt="image">
+<p> <br />Installation View: moe, Schaukasten XII<br /></p>
 
 <video preload="metadata" poster="{{ site.url }}/images/tripty1_poster_small.jpg" width="100%" height="100%" controls>
   <source src="{{ site.url }}/images/triptychon_of_lost_media.mp4" type="video/mp4">
 </video>
+
+<img src="{{ site.url }}/images/triptychon_moe1.jpg" alt="image">
+<img src="{{ site.url }}/images/triptychon_moe2.jpg" alt="image">
+<img src="{{ site.url }}/images/triptychon_concert1.jpg" alt="image">
+<font color="grey">(c) Philip Gerlach<br /></font>
 
 
 {% comment %}
 <iframe width="100%" height="384" frameborder="0" allowfullscreen="" webkitallowfullscreen="" src="http://player.vimeo.com/video/132323972?title=0&amp;byline=0&amp;portrait=0">
 </iframe>
 {% endcomment %}
-
-<img src="{{ site.url }}/images/triptychon_moe2.jpg" alt="image">
-<img src="{{ site.url }}/images/triptychon_concert1.jpg" alt="image">
-<font color="grey">(c) Philip Gerlach<br /></font>
-<p> <br />Installation View: MemphisMemphis<br /></p>
-<img src="{{ site.url }}/images/tolm_small.jpg" alt="image">
-<img src="{{ site.url }}/images/tolm2_small.jpg" alt="image">
-<font color="grey">(c) Florian Voggeneder<br /></font>
 
 {% comment %}
 <img src="{{ site.url }}/images/triptychon_moe3.jpg" alt="image">
