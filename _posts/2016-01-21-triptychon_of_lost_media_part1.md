@@ -42,7 +42,7 @@ in June 2015.
 
 <img src="{{ site.url }}/images/triptychon_moe1.jpg" alt="image">
 
-<video preload="metadata" width="100%" height="100%" controls>
+<video preload="metadata" poster="{{ site.url }}/images/tripty1_poster_small.jpg" width="100%" height="100%" controls>
   <source src="{{ site.url }}/images/triptychon_of_lost_media.mp4" type="video/mp4">
 </video>
 
