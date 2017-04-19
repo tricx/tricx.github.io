@@ -1,0 +1,65 @@
+---
+layout: page
+title : archive
+header : tricx - archive
+group: navigation
+---
+
+{% comment %}
+dirty hack to override css from here: change link color to white, container-narrow to black, background-image etc.
+{% endcomment %}
+
+
+
+<head>
+<style>
+body{
+  background-image:none;
+  background-color: black !important;
+}
+a {color:rgb(200,200,200);
+}
+.container-narrow {background-color: black; color:rgb(200,200,200);
+}
+.navbar-inner
+{   
+    color:white !important;
+    background-color: black !important;
+}
+</style>
+</head>
+
+
+{% comment %}
+<div class="page-header">
+  <h3>ARCHIVE</h3>	
+</div>
+{% endcomment %}
+
+
+
+<div>
+{% for tag in site.tags %} 
+  {% if page.title == tag[0] %}
+  
+      {% comment %}
+      <ul class="unstyled">
+          {% assign pages_list = tag[1] %}  
+          {% include JB/pages_list %}
+      </ul>
+      {{tag[1]}}
+      {% endcomment %}
+
+  {% for items in tag[1] %}
+    <div class="distance">
+      <hr>
+      {{items.content}}
+    </div>
+
+  {% endfor %}
+        
+  {% endif %}
+{% endfor %}
+</div>
+
+

@@ -124,10 +124,11 @@ JB :
 
   # pages in navbar ( no subcategories)
   navi_pages:
-     - "Audio"
-     - "Visual"
+     - "Works"
+     - "Archive"
      - "About"
      - "Now"
+     
     
   # pages with subcategories in navbar
   navi_categories:
@@ -135,8 +136,8 @@ JB :
 
   # pages on the sidebar
   navi_pages_sidebar:
-    - "Visual"
-    - "Audio"
+     - "Works"
+     - "Archive"
 
   # sidebar items, if 'show_worktitle_sidebar: true' (in pages, posts layout -defs)
   works_projects_list: 
@@ -157,13 +158,9 @@ JB :
   links_list:
    - ["Tricx at SC", "https://soundcloud.com/tricx"]
    - ["Tricx at GH", "https://github.com/tricx"]
-   - ["MuttTricx", "http://www.mutttricx.net"]
-#    - ["MuttTricx at bandcamp", "http://mutttricx.bandcamp.com"]
     
   links_list_friends:
-    - ["Sophie Dvorak", "http://www.sophiedvorak.net"]
     - ["Christoph Freidhöfer", "http://kunst-und-raederwerk.de"]
-    - ["Fabian Linzberger", "http://lefant.net/"] 
 
 
 markdown: kramdown

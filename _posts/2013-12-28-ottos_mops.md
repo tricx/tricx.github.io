@@ -2,7 +2,7 @@
 published: true
 layout: post
 show_worktitle_sidebar: true
-tags: audio visual
+tags: works
 JB :
   analytics : false
 ---
@@ -27,6 +27,13 @@ JB :
 	the most popular occupations for men / women or a quote from 'Alte Meister' by Thomas Bernhard.<br /><br />
 </p>
 
+<video preload="metadata" poster="{{ site.url }}/images/ottos_mops_poster_small.jpg" width="100%" height="100%" controls>
+  <source src="{{ site.url }}/images/ottosmops.mp4" type="video/mp4">
+</video>
+
+<p> <br />Ottos Mops at 'What The Shop'<br /></p>
+<img src="{{ site.url }}/images/ottosmops_small.jpg" alt="image">
+
 <p> <br /> <br />Fanpostkarte von 
 	<a href="http://www.heterotypia/" target="_blank" style="text-decoration:none; color: grey">
 	<i>Natalie Deewan</i></a>
@@ -35,13 +42,6 @@ JB :
 <img src="{{ site.url }}/images/petit_conferencier_card_II.jpg" alt="image">
 
 
-<p> <br />Ottos Mops at 'What The Shop'<br /></p>
-<img src="{{ site.url }}/images/ottosmops_small.jpg" alt="image">
-
-
-<video preload="metadata" poster="{{ site.url }}/images/ottos_mops_poster_small.jpg" width="100%" height="100%" controls>
-  <source src="{{ site.url }}/images/ottosmops.mp4" type="video/mp4">
-</video>
 
 {% comment %}
 <iframe width="100%" height="384" frameborder="0" allowfullscreen="" webkitallowfullscreen="" src="http://player.vimeo.com/video/66463893?title=0&amp;byline=0&amp;portrait=0">

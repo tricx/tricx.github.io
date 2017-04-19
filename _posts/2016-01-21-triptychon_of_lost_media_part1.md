@@ -2,7 +2,7 @@
 published: true
 layout: post
 show_worktitle_sidebar: true
-tags: audio visual
+tags: works
 JB :
   analytics : false
 ---
@@ -49,10 +49,8 @@ in June 2015.
   <source src="{{ site.url }}/images/triptychon_of_lost_media.mp4" type="video/mp4">
 </video>
 
-<img src="{{ site.url }}/images/triptychon_moe1.jpg" alt="image">
-<img src="{{ site.url }}/images/triptychon_moe2.jpg" alt="image">
-<img src="{{ site.url }}/images/triptychon_concert1.jpg" alt="image">
-<font color="grey">(c) Philip Gerlach<br /></font>
+<img src="{{ site.url }}/images/triptychon_moe4.jpg" alt="image">
+
 
 
 {% comment %}
@@ -61,9 +59,13 @@ in June 2015.
 {% endcomment %}
 
 {% comment %}
+<img src="{{ site.url }}/images/triptychon_moe1.jpg" alt="image">
+<img src="{{ site.url }}/images/triptychon_moe2.jpg" alt="image">
 <img src="{{ site.url }}/images/triptychon_moe3.jpg" alt="image">
 <img src="{{ site.url }}/images/triptychon_moe4.jpg" alt="image">
 <img src="{{ site.url }}/images/triptychon_concert2_smaller.jpg" alt="image">
+<img src="{{ site.url }}/images/triptychon_concert1.jpg" alt="image">
+<font color="grey">(c) Philip Gerlach<br /></font>
 {% endcomment %}
 
 
