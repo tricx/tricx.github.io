@@ -12,12 +12,11 @@ JB :
 {% for post in site.posts %}
 	{% assign pt = post.title | downcase %}
 	{% if 'in_a_room' == pt %}
-<h4><a href="{{ BASE_PATH }}{{ post.url }}">In a room ..</a></h4>
+<h4><a href="{{ BASE_PATH }}{{ post.url }}">Audio - Visuelle Performance / Faux Terrain - Claudia Larcher</a></h4>
 	{% endif %}
 {% endfor %}
 
 <p>
-Audio - Visuelle Performance / Faux Terrain - Claudia Larcher<br />
 since 2015<br />
 microscope camera, lichens / organic material, real-time audio software / Supercollider, projektor, soundsystem<br /><br />
 
