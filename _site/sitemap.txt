@@ -1,9 +1,7 @@
 
 http://tricx.github.io/about
-http://tricx.github.io/about_old
 http://tricx.github.io/archive
 http://tricx.github.io/atom.xml
-http://tricx.github.io/audio
 http://tricx.github.io/blog
 http://tricx.github.io/
 http://tricx.github.io/links
@@ -13,13 +11,12 @@ http://tricx.github.io/now_old
 http://tricx.github.io/posts
 http://tricx.github.io/rss.xml
 http://tricx.github.io/sitemap.txt
+http://tricx.github.io/sound
 http://tricx.github.io/tags
-http://tricx.github.io/visual
 http://tricx.github.io/works
 
 http://tricx.github.io/2017/03/02/attractor
 http://tricx.github.io/2017/02/18/triptychon_of_lost_media_part2
-http://tricx.github.io/2016/02/23/live
 http://tricx.github.io/2016/01/21/triptychon_of_lost_media_part1
 http://tricx.github.io/2013/12/28/ottos_mops
 http://tricx.github.io/2013/12/27/pachinko
@@ -37,3 +34,5 @@ http://tricx.github.io/2013/10/18/noircir
 http://tricx.github.io/2013/10/17/undefined_falling_objects
 http://tricx.github.io/2013/10/16/rasenmaeher
 http://tricx.github.io/2013/10/01/flieger
+http://tricx.github.io/2010/02/24/sound
+http://tricx.github.io/2010/02/23/about

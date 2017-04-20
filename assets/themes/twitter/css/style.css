@@ -226,28 +226,41 @@ make independent layouts for every page?
     background-color: grey;
     /*background-color: pink;*/
 }
+
 #navi_pages2 > a {
-    background: black;
+    background: lightgrey;
+    color:grey;
     /*color: red !important;*/
 }
 #navi_pages2 > a:focus,
 #navi_pages2 > a:hover {
-    background-color: grey;
+
+    background-color: black;
 }
+
 #navi_pages3 > a {
-    background: lightblue;
-    color: red !important;
+    background: white;
+    /*color: red !important;*/
 }
 #navi_pages3 > a:focus,
 #navi_pages3 > a:hover {
-    background-color: pink;
+    background-color: black;
 }
+
 #navi_pages4 > a {
-    background: grey;
-    color: black !important;
+    background: lightblue;
+    color: red !important;
 }
 #navi_pages4 > a:focus,
 #navi_pages4 > a:hover {
+    background-color: pink;
+}
+#navi_pages5 > a {
+    background: grey;
+    color: black !important;
+}
+#navi_pages5 > a:focus,
+#navi_pages5 > a:hover {
     background-color: red;
 }
 
