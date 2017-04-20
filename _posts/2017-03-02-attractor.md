@@ -34,12 +34,18 @@ As a site specific intervention, the 'attractor' is positioned under the power l
 <br />
 <p> <br />Installation View Feijiacun<br /></p>
 <img src="{{ site.url }}/images/attractor_day_small1.jpg" alt="image">
-<img src="{{ site.url }}/images/attractor_screen_test.jpg" alt="image">
+
+<video preload="metadata" poster="{{ site.url }}/images/attractor_screen_test" width="100%" height="100%" controls>
+  <source src="{{ site.url }}/images/attractor_small.mp4" type="video/mp4">
+</video>
+
 <img src="{{ site.url }}/images/attractor_close_test.jpg" alt="image">
 <img src="{{ site.url }}/images/attractor_doku_small2.jpg" alt="image">
 
 
 {% comment %}
+<img src="{{ site.url }}/images/attractor_screen_test.jpg" alt="image">
+
 <img src="{{ site.url }}/images/attractor_day_small1.jpg" alt="image">
 <img src="{{ site.url }}/images/attractor_close_small1.jpg" alt="image">
 <img src="{{ site.url }}/images/attractor_doku_small1.jpg" alt="image">
