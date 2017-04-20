@@ -29,7 +29,6 @@ JB :
   <source src="{{ site.url }}/images/acab_small.mp4" type="video/mp4">
 </video>
 
-<img src="{{ site.url }}/images/acab1.jpg" alt="image">
 
 {% comment %}
 
