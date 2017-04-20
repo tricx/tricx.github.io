@@ -22,7 +22,7 @@ JB :
 	Sound - Installation<br />
 	in cooperation with <a href="http://www.kunst-und-raederwerk.de/" target="_blank" style="text-decoration:none; color: grey"><i>Christoph Freidhöfer</i></a> <br /><br />			
 	
-Metal plates, contact microphones, transducers generate feedback.
+metal plates, contact microphones, transducers generate feedback.
 <br /><br />
 This is the first part of the series 'Triptychon of lost media'. It concerns the examination of emitter and receiver and explores extended techniques of sound generation and playback. The theme emitter / receiver is the conceptual theoretical framework for the work series but also correlates to the applied techniques of how sound and material is shaped.
 <br /><br />

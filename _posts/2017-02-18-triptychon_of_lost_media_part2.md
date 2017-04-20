@@ -20,7 +20,7 @@ JB :
 <p>
 	2016 / 2017<br />
 	Sound - Installation<br />
-	Radio, Transmitter, electric current, microcontroller, relais
+	radio, transmitter, electric current, microcontroller, relais
 	<br /><br />			
 <b>	
 AM Feld / Soviet Noise

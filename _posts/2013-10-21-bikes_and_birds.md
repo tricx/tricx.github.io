@@ -19,7 +19,7 @@ JB :
 
 <p>
 2008<br />
-Video (6mn 30)<br /><br />
+video (6mn 30)<br /><br />
 
 The video shows the traces of the tires of a bicycle, during a ride through the city. The traces appear like oscillating lines that lay over the erratic movements and interferences of the structure of the ground. The audio track gives an anticipation of the urban surrounding, interferences between the noise of the pedals and the events on the street occur.<br /><br />
 </p>

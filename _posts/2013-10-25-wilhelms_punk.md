@@ -21,7 +21,7 @@ JB :
 <br />
 	Performance<br />
 	2011<br />
-	Taperecorder/Oscillators/frog<br /><br />
+	taperecorder / oscillators / frog<br /><br />
 The sounds of a cassette recorder itself, of a simple oscillator circuit, and a wooden frog are recorded on an empty tapeloop. The name Wilhelm's Punk is inspired by the piece Williams Mix of John Cage which uses pre-recorded sounds that are randomly selected and mounted on tape. For the piece Willhelm's punk only sounds that occur during the performance are recorded on tape.
 (short sample of the tape).<br /><br />
 </p>
