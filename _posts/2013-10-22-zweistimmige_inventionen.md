@@ -37,7 +37,7 @@ Considerations to the themes, areas and associations, which could form some of t
 <p> <br />exhibition view:<br /></p>
 
 <img src="{{ site.url }}/images/schaukel1.jpg" alt="image">
-<p>&nbsp;</p>
+<p></p>
 <img src="{{ site.url }}/images/schaukel2.jpg" alt="image">
-<p>&nbsp;</p>
+<p></p>
 <img src="{{ site.url }}/images/schaukel3.jpg" alt="image">

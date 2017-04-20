@@ -42,6 +42,7 @@ Flash
 <p> <br />Installation View: Alexandrinsky Theater New Stage<br /></p>
 
 <img src="{{ site.url }}/images/radio_stp2.jpg" alt="image">
+<p></p>
 <img src="{{ site.url }}/images/radio_stp3.jpg" alt="image">
 
 

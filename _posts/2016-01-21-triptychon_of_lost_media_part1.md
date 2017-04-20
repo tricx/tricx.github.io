@@ -40,6 +40,7 @@ in June 2015.
 
 <p> <br />Installation View: MemphisMemphis<br /></p>
 <img src="{{ site.url }}/images/tolm_small.jpg" alt="image">
+<p></p>
 <img src="{{ site.url }}/images/tolm2_small.jpg" alt="image">
 <font color="grey">(c) Florian Voggeneder<br /></font>
 

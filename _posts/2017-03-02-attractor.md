@@ -40,6 +40,7 @@ As a site specific intervention, the 'attractor' is positioned under the power l
 </video>
 
 <img src="{{ site.url }}/images/attractor_close_small.jpg" alt="image">
+<p></p>
 <img src="{{ site.url }}/images/attractor_doku_small2.jpg" alt="image">
 
 

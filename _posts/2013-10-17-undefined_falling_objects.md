@@ -34,7 +34,7 @@ The film loop shows permanently turning maple seeds, in density and speed variab
 
 <p> <br />still image:<br /></p>
 <img src="{{ site.url }}/images/ufo1.jpg" alt="image">
-<p>&nbsp;</p>
+<p></p>
 <p> <br />exhibition view (Flakleitturm Arenbergpark):<br /></p>
 <img src="{{ site.url }}/images/ufo.jpg" alt="image">
 
