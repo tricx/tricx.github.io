@@ -107,6 +107,7 @@ html {
 /*doesn't make a difference - hr with black background is not displayed with size:1px*/
 hr {
   height:1px !important;
+  background-color:black !important;
 }
 /*.linewhite {
   position: absolute;

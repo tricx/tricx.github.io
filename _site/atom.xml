@@ -4,7 +4,7 @@
  <title>Tricx</title>
  <link href="http://tricx.github.io/" rel="self"/>
  <link href="http://tricx.github.io"/>
- <updated>2017-04-23T20:18:21+02:00</updated>
+ <updated>2017-04-26T15:36:29+02:00</updated>
  <id>http://tricx.github.io</id>
  <author>
    <name>Paul Gruendorfer</name>
@@ -608,6 +608,15 @@ Happening during the entrance examinations at the academy of fine arts Vienna.&l
    <updated>2010-02-24T00:00:00+01:00</updated>
    <id>http://tricx.github.io/2010/02/24/sound</id>
    <content type="html">
+&lt;p&gt;lecture / performance at alexandrinsky theater, St Petersburg, nov 2016&lt;br /&gt;
+&lt;br /&gt;
+amplifiers, filter, analoguemodules, real-time audio software / Supercollider, contact microphones&lt;br /&gt;
+Electronic circuits are interconnected to cause semi-natural entities, autonomous organisms, half-animals. The electronic machine functions as an organic entity, voice and articulation is generated through loops in feedback networks. Continuous ecosystems, archaic animal-noise-transmission, onomatopoeia.&lt;br /&gt;&lt;/p&gt;
+
+&lt;video preload=&quot;metadata&quot; poster=&quot;/images/alex_poster.jpg&quot; width=&quot;100%&quot; height=&quot;100%&quot; controls=&quot;&quot;&gt;
+  &lt;source src=&quot;/images/alex_small.mp4&quot; type=&quot;video/mp4&quot; /&gt;
+&lt;/video&gt;
+
 &lt;p&gt;&lt;br /&gt;&lt;br /&gt;
 live at cabaret poulet #2, mo.ë, sept 2016&lt;br /&gt;
 &lt;video preload=&quot;metadata&quot; poster=&quot;/images/cb_poster_small.jpg&quot; width=&quot;100%&quot; height=&quot;100%&quot; controls=&quot;&quot;&gt;
@@ -633,16 +642,6 @@ live at parallel, 2015&lt;br /&gt;
 &lt;/video&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;
-lecture / performance at alexandrinsky theater, St Petersburg, nov 2016&lt;br /&gt;
-&lt;br /&gt;
-amplifiers, filter, analoguemodules, real-time audio software / Supercollider, contact microphones&lt;br /&gt;
-Electronic circuits are interconnected to cause semi-natural entities, autonomous organisms, half-animals. The electronic machine functions as an organic entity, voice and articulation is generated through loops in feedback networks. Continuous ecosystems, archaic animal-noise-transmission, onomatopoeia.&lt;br /&gt;&lt;/p&gt;
-
-&lt;video preload=&quot;metadata&quot; poster=&quot;/images/alex_poster.jpg&quot; width=&quot;100%&quot; height=&quot;100%&quot; controls=&quot;&quot;&gt;
-  &lt;source src=&quot;/images/alex_small.mp4&quot; type=&quot;video/mp4&quot; /&gt;
-&lt;/video&gt;
-
-&lt;p&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;
 some other stuff on:&lt;br /&gt;
 &lt;a href=&quot;https://soundcloud.com/cabaretpoulet&quot; style=&quot;color:red&quot; target=&quot;_blank&quot;&gt; SOUNDCLOUD &lt;/a&gt;&lt;/p&gt;
 
@@ -655,14 +654,19 @@ some other stuff on:&lt;br /&gt;
    <updated>2010-02-23T00:00:00+01:00</updated>
    <id>http://tricx.github.io/2010/02/23/about</id>
    <content type="html">
-&lt;p&gt;At the moment I am mainly using process-related setups to explore sonic worlds and to realise site specific interventions. I am developing real time audio systems, that act autonomous or in reference to the spatial constellation. While considering the encounters between analog and digital, structured or improvised elements, I am focusing on the abstract occurrence of sound and its physical impact.&lt;br /&gt;
+&lt;font color=&quot;grey&quot;&gt;
+At the moment Paul Gründorfer is using process-related setups to explore sonic worlds and to realise site specific interventions, developing real time audio systems, that act autonomous or in reference to the spatial constellation. While considering the encounters between analog and digital, structured or improvised elements, he is focusing on the abstract occurrence of sound and its physical impact.&lt;br /&gt;
 Electronic circuits are interconnected to cause semi-natural entities, autonomous organisms. Voice and articulation are generated through loops in feedback networks. Onomatopoeia.&lt;br /&gt;
-Artistic activities examine the connections of acoustic and visual transmitter - receiver networks. The topic transmitter - receiver is assumed as a conceptual framework for process-related experiments with of sound, light and transmission of information, but also refers to the applied research methods themselves.&lt;/p&gt;
+Artistic activities examine the connections of acoustic and visual transmitter - receiver networks. The topic transmitter - receiver is assumed as a conceptual framework for process-related experiments with of sound, light and transmission of information, but also refers to the applied research methods themselves.
+&lt;/font&gt;
 
 &lt;p&gt;&lt;br /&gt;
-&lt;br /&gt;
+&lt;br /&gt;&lt;/p&gt;
+
+&lt;font color=&quot;grey&quot;&gt;
 contact:&lt;br /&gt;
-paul[at]lefant.net&lt;br /&gt;&lt;/p&gt;
+paul[at]lefant.net&lt;br /&gt;
+&lt;/font&gt;
 
 </content>
  </entry>

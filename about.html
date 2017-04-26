@@ -6,6 +6,29 @@ group: navigation
 show_worktitle_sidebar: true
 ---
 
+
+<head>
+<style>
+body{
+  background-image:none;
+  background-color: black !important;
+}
+a {color:rgb(200,200,200);
+}
+.container-narrow {background-color: black; color:rgb(200,200,200);
+}
+.navbar-inner
+{   
+    color:white !important;
+    background-color: black !important;
+}
+</style>
+</head>
+
+
+
+{% comment %}
+
 <head>
 <style>
 a {color:rgb(200,200,200);
@@ -17,7 +40,6 @@ a {color:rgb(200,200,200);
 
 
 
-{% comment %}
 <div class="page-header">
 	   {% comment %}
       <h3>{{ page.title }} {% if page.tagline %} <small>{{ page.tagline }}</small>{% endif %}</h3>
