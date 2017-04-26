@@ -5,8 +5,8 @@
         <description>Tricx - Paul Gruendorfer</description>
         <link>http://tricx.github.io</link>
         <link>http://tricx.github.io</link>
-        <lastBuildDate>2017-04-26T15:36:29+02:00</lastBuildDate>
-        <pubDate>2017-04-26T15:36:29+02:00</pubDate>
+        <lastBuildDate>2017-04-26T16:38:20+02:00</lastBuildDate>
+        <pubDate>2017-04-26T16:38:20+02:00</pubDate>
         <ttl>1800</ttl>
 
 
@@ -649,19 +649,32 @@ some other stuff on:&lt;br /&gt;
         <item>
                 <title>About</title>
                 <description>
-&lt;font color=&quot;grey&quot;&gt;
+&lt;div style=&quot;font-weight:lighter&quot;&gt;
+
+
 At the moment Paul Gründorfer is using process-related setups to explore sonic worlds and to realise site specific interventions, developing real time audio systems, that act autonomous or in reference to the spatial constellation. While considering the encounters between analog and digital, structured or improvised elements, he is focusing on the abstract occurrence of sound and its physical impact.&lt;br /&gt;
 Electronic circuits are interconnected to cause semi-natural entities, autonomous organisms. Voice and articulation are generated through loops in feedback networks. Onomatopoeia.&lt;br /&gt;
 Artistic activities examine the connections of acoustic and visual transmitter - receiver networks. The topic transmitter - receiver is assumed as a conceptual framework for process-related experiments with of sound, light and transmission of information, but also refers to the applied research methods themselves.
-&lt;/font&gt;
 
-&lt;p&gt;&lt;br /&gt;
-&lt;br /&gt;&lt;/p&gt;
 
-&lt;font color=&quot;grey&quot;&gt;
+
+
+
+
+
+&lt;br /&gt;
+&lt;br /&gt;
+
+
 contact:&lt;br /&gt;
 paul[at]lefant.net&lt;br /&gt;
-&lt;/font&gt;
+
+
+
+
+
+
+&lt;/div&gt;
 
 </description>
                 <link>http://tricx.github.io/2010/02/23/about</link>

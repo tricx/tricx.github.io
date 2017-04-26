@@ -5,6 +5,11 @@
           border-radius: 0 !important;
 }
 
+/*  -webkit-font-smoothing: antialiased;
+  -moz-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  -o-font-smoothing: antialiased;*/
+
 body {
   margin: 0; 
   font: 12.5px/16.5px "Helvetica", Helvetica, Arial, sans-serif;
@@ -107,7 +112,6 @@ html {
 /*doesn't make a difference - hr with black background is not displayed with size:1px*/
 hr {
   height:1px !important;
-  background-color:black !important;
 }
 /*.linewhite {
   position: absolute;
@@ -214,6 +218,7 @@ make independent layouts for every page?
     font-size: 13px;
     text-decoration: none;
     text-shadow: none;
+    font-weight:normal !important;
     /*text-shadow: 0 1px 0 #FFFFFF;*/
 }
 
@@ -401,6 +406,7 @@ a {
   /*font-size: 13px;*/
   /*text-decoration: none;*/
   text-decoration: underline;
+
 }
 a:hover,
 a:focus {
