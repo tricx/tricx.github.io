@@ -28,14 +28,14 @@ AM Feld / Soviet Noise
 <br />
 This is the second part of the series 'Triptychon of lost media'. It concerns the examination of emitter and receiver and explores extended techniques of sound generation and playback. The theme emitter / receiver is the conceptual theoretical framework for the work series but also correlates to the applied techniques of how sound and material is shaped.
 <br /><br />
-For 'AM Field / Soviet Noise' a radiosignal was created to transmit 30 minutes of empty audio tapes, produced 1989. Portable radio receivers where supplied to detect the information of a 'soviet environment' in a current 'russian reality'. In cooperation with <a href="www.alexanderfelch.net/" target="_blank" style="text-decoration:none; color: grey"><i>Alexander Felch</i></a>
+For 'AM Field / Soviet Noise' a radiosignal was created to transmit 30 minutes of empty audio tapes, produced 1989. Portable radio receivers where supplied to detect the signals of the audio tapes from the 'soviet environment'. In cooperation with <a href="www.alexanderfelch.net/" target="_blank" style="text-decoration:none; color: grey"><i>Alexander Felch</i></a>
 <br /><br />
 
 <b>	
 Flash
 </b>
 <br />
-'Flash' was an audio-visual installation for camera flash, radio transmitter and changing electric current, shown in the last exhibition of Black Bridge artist village in Beijing, which soon will be demolished due to changing rent index.
+'Flash' was an audio-visual installation for camera flash, radio transmitter and changing electric current, shown in the last exhibition of Black Bridge artist village in Beijing, which will be abandoned due to restructuring of the region.
 </p>
 
 <br />
