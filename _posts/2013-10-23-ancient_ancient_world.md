@@ -18,8 +18,7 @@ JB :
 {% endfor %}
 
 <p>
-2009/10<br />
-Installation<br />
+Installation / 2009/10<br />
 photography on baryt paper, car paint, pages of the newspaper Bazar<br /><br />
 
 Exhibition text:<br />
@@ -33,7 +32,7 @@ In opposition to this haiku, which was tagged on the wall, are several photograp
 
 The different elements of the installation are tested on coherence and diverging analogies. The documentary elements are bound to a realistic representation, even though only the translation into the context of all parts sketches a picture. Intentions are hidden to the viewer at first sight and can only be reconstructed by individual associations of a possible conception.<br />
 
-The titles of the images are taken form the newspaper Bazar, VW Bus T3, Toyota, Audi 80, VW Golf, Pickup (unknown) and also defined the value(price!) of the photographs itself.<br /><br />
+The titles of the images are taken form the newspaper Bazar, VW Bus T3, Toyota, Audi 80, VW Golf, Pickup (unknown) and also defined the value(price!) of the photographs.<br /><br />
 </p>
 
 <img src="{{ site.url }}/images/ancient1.jpg" alt="image">

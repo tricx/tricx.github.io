@@ -18,8 +18,7 @@ JB :
 {% endfor %}
 
 <p>
-2006<br />
-Landart - performance<br />
+Landart - performance / 2006<br />
 video (17mn 15)<br /><br />
 
 Working title: “Eine Einstellung zur Arbeit”<br /><br />

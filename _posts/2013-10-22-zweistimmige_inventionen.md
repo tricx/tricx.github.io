@@ -17,9 +17,12 @@ JB :
 	{% endif %}
 {% endfor %}
 
+
+
+
+
 <p>
-2008<br />
-Installation<br /><br />
+Site Specific Installation / 2008<br /><br />
 
 The installation “Zweistimmige Inventionen” has been designed for the Prospekthof Semperdepot of the Academy of Fine Arts Vienna and consists of the following components:<br /><br />
 
@@ -27,7 +30,7 @@ A swing from a playground that was extended with hawsers (ropes) from the roof f
 
 A hi-fi system / ghetto blaster.<br />
 
-The recordings of the fifteen Two-Part Inventions and one Three-Part Sinfonia of J.S.Bach, that I have learned for this work and recorded myself.<br />
+The recordings of the fifteen Two-Part Inventions and one Three-Part Sinfonia of J.S.Bach, which I have learned for this work and recorded myself.<br />
 
 A framed image that shows the wooden framework for a swing at a playground, where the swing is missing and the ground is covered with additional soil.<br />
 

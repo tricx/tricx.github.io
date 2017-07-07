@@ -12,8 +12,8 @@ JB :
 
 {% for post in site.posts %}
 	{% assign pt = post.title | downcase %}
-	{% if 'bikes_and_birds' == pt %}
-<h4><a href="{{ BASE_PATH }}{{ post.url }}">Bikes and Birds</a></h4>
+	{% if 'bicycle_and_birds' == pt %}
+<h4><a href="{{ BASE_PATH }}{{ post.url }}">Bicycle and Birds</a></h4>
 	{% endif %}
 {% endfor %}
 

@@ -18,8 +18,7 @@ JB :
 {% endfor %}
 
 <p>
-2006<br />
-Film - Installation<br />
+Film - Installation / 2006<br />
 super8-loop (3mn10)<br /><br />
 
 The concept for both Super8 Film and Installation settings was developed and realised for one of the rooms of the bunker Flakleitturm Arenbergpark in Vienna.<br />
