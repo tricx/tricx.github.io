@@ -62,10 +62,3 @@ As a site specific intervention the Attractor is built in a public space, connec
 {% comment %}
 <font color="grey">(c)<br /></font>
 {% endcomment %}
-
-
-{% comment %}
-As a site specific intervention, the 'attractor' is positioned under the power lines, connects to it's surroundings and reacts to changes in the electric field. In certain areas in Feijiacun those fields exist and can be detected with strip light. It's shaped by the constellations of the architectural setting. Different density is found at flat spaces, next to houses or trees, on rooftops. The sculpture is lightend by the electric current it is surrounded by and detects the disturbances when people are passing. It deals with the processes happening at transitory areas and reveals signals that seem to be hidden from general perception.
-{% endcomment %}
-
-

@@ -18,14 +18,13 @@ JB :
 {% endfor %}
 
 <p>
-	2013 - ongoing<br />
-	Speech - Intervention - Animal<br />
-	in cooperation with <a href="http://www.kunst-und-raederwerk.de/" target="_blank" style="text-decoration:none; color: grey"><i>Christoph Freidhöfer</i></a> <br /><br />			
-	The robot moves around the exhibition space, orienting itself based on the events, records the speech of other visitors and articulates clever sayings.
-	Two parabolic microphones using the shielding function of the foam 'hair' to measure the current db-amplitude and detect the direction from where the loudest 
-	content is suspected. There the robot takes on its journey and takes snapshots of conversations. Otherwise it is striking sayings as for example: 
-	the most popular occupations for men / women or a quote from 'Alte Meister' by Thomas Bernhard.<br /><br />
+Ottos Mops<br />
+Speech - Intervention - Animal / 2013 - ongoing<br />
+loudspeaker, parabolic microphones, micro controller, motor<br />
+in cooperation with <a href="http://www.kunst-und-raederwerk.de/" target="_blank" style="text-decoration:none; color: grey"><i>Christoph Freidhöfer</i></a> <br /><br />
+The robot moves around the exhibition space, orienting itself based on the events, records the speech of other visitors and articulates clever sayings. Using its two parabolic microphone ‘ears’ with the help of the shielding function of the foam ‘hairstyle’ it listens to the most interesting events and moves in direction to where it suspects appealing things to happen. There the robot takes on its journey, remembering snippets of conversations. Otherwise it is striking sayings like ‘the most popular occupations for men and women’ or a quote from ‘Alte Meister’ by Thomas Bernhard.
 </p>
+
 
 <video preload="metadata" poster="{{ site.url }}/images/ottos_mops_poster_small.jpg" width="100%" height="100%" controls>
   <source src="{{ site.url }}/images/ottosmops.mp4" type="video/mp4">
