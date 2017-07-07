@@ -27,10 +27,11 @@ microscope camera, lichens / organic material, real-time audio software / Superc
 
 <img src="{{ site.url }}/images/theuncannyjenny_small.jpg" alt="image">
 
+{% comment %}
 <video preload="metadata" poster="{{ site.url }}/images/faux_poster.jpg" width="100%" height="100%" controls>
   <source src="{{ site.url }}/images/fauxterrain_small.mp4" type="video/mp4">
 </video>
-
+{% endcomment %}
 
 
 {% comment %}

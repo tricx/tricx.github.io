@@ -45,18 +45,20 @@ in June 2015.
 
 <p> <br />Installation View: moe, Schaukasten XII<br /></p>
 
+{% comment %}
 <video preload="metadata" poster="{{ site.url }}/images/tripty1_poster_small.jpg" width="100%" height="100%" controls>
   <source src="{{ site.url }}/images/triptychon_of_lost_media.mp4" type="video/mp4">
 </video>
+{% endcomment %}
 
 <img src="{{ site.url }}/images/triptychon_moe4.jpg" alt="image">
 
 
 
-{% comment %}
+
 <iframe width="100%" height="384" frameborder="0" allowfullscreen="" webkitallowfullscreen="" src="http://player.vimeo.com/video/132323972?title=0&amp;byline=0&amp;portrait=0">
 </iframe>
-{% endcomment %}
+
 
 {% comment %}
 <img src="{{ site.url }}/images/triptychon_moe1.jpg" alt="image">
