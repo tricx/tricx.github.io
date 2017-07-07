@@ -30,7 +30,6 @@ assistance: Hu Xinru (explorations), Chao Fu-Le (base camp)
 As a site specific intervention the Attractor is built in a public space, connects to its sur- roundings and reacts to changes in the electric field. In certain areas in Feijiacun, due to power poles and electrical substations, electric fields build up and can be detected with strip light. They are shaped by the constellations of the architectural setting. Different expansion is found on flat spaces, next to houses, near to trees or on rooftops. The sculpture is not connected to power, but lighted by the electric current it is surrounded by and detects the disturbances when people are passing. It deals with the processes happening in transitory areas and reveals signals that seem to be hidden from general perception.
 </p>
 
-<br />
 <p> <br />Installation View Feijiacun<br /></p>
 <img src="{{ site.url }}/images/attractor_day_small1.jpg" alt="image">
 

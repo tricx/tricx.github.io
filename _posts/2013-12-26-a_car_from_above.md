@@ -18,7 +18,6 @@ JB :
 {% endfor %}
 
 <p>
-A Car from ABove<br />
 toy car, cable, coil, high ceiling / 2012<br />
 in cooperation with <a href="http://www.praxistest.cc/" target="_blank" style="text-decoration:none; color: grey"><i>Paul_Reza Klein</i></a><br />
 

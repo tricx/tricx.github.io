@@ -18,7 +18,6 @@ JB :
 {% endfor %}
 
 <p>
-Ottos Mops<br />
 Speech - Intervention - Animal / 2013 - ongoing<br />
 loudspeaker, parabolic microphones, micro controller, motor<br />
 in cooperation with <a href="http://www.kunst-und-raederwerk.de/" target="_blank" style="text-decoration:none; color: grey"><i>Christoph Freidhöfer</i></a> <br /><br />

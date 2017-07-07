@@ -20,8 +20,7 @@ JB :
 
 
 <p>
-Triptychon of lost media - part I<br />
-Sound - Installation 2015/16<br />
+Sound - Installation / 2015/16<br />
 metal plates, contact microphones, transducers generate feedback.<br />
 in cooperation with <a href="http://www.kunst-und-raederwerk.de/" target="_blank" style="text-decoration:none; color: grey"><i>Christoph Freidhöfer</i></a> <br /><br />
 
@@ -34,7 +33,7 @@ and took part at the sound-festival
 	<a href="http://unsafeandsounds.com/" target="_blank" style="text-decoration:none; color: grey">
 	<i>unsafe+sounds </i></a>
 in June 2015.
-	<br /><br />
+<br />
 </p>
 
 
