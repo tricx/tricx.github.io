@@ -18,8 +18,7 @@ JB :
 {% endfor %}
 
 <p>
-2017<br />
-Site Specific  - Light Installation<br />
+Site Specific  - Light Installation / 2017<br />
 fluorescent tubes, cables, metal/wood structure, electric current<br />
 Feijiacun, Beijing<br />
 
@@ -28,7 +27,7 @@ In cooperation with <i>Ye Shangda</i>
 assistance: Hu Xinru (explorations), Chao Fu-Le (base camp)
 <br /><br />			
 
-As a site specific intervention, the 'attractor' is positioned under the power lines, connects to it's surroundings and reacts to changes in the electric field. In certain areas in Feijiacun those fields exist and can be detected with strip light. It's shaped by the constellations of the architectural setting. Different density is found at flat spaces, next to houses or trees, on rooftops. The sculpture is lightend by the electric current it is surrounded by and detects the disturbances when people are passing. It deals with the processes happening at transitory areas and reveals signals that seem to be hidden from general perception.
+As a site specific intervention the Attractor is built in a public space, connects to its sur- roundings and reacts to changes in the electric field. In certain areas in Feijiacun, due to power poles and electrical substations, electric fields build up and can be detected with strip light. They are shaped by the constellations of the architectural setting. Different expansion is found on flat spaces, next to houses, near to trees or on rooftops. The sculpture is not connected to power, but lighted by the electric current it is surrounded by and detects the disturbances when people are passing. It deals with the processes happening in transitory areas and reveals signals that seem to be hidden from general perception.
 </p>
 
 <br />
@@ -65,5 +64,8 @@ As a site specific intervention, the 'attractor' is positioned under the power l
 {% endcomment %}
 
 
+{% comment %}
+As a site specific intervention, the 'attractor' is positioned under the power lines, connects to it's surroundings and reacts to changes in the electric field. In certain areas in Feijiacun those fields exist and can be detected with strip light. It's shaped by the constellations of the architectural setting. Different density is found at flat spaces, next to houses or trees, on rooftops. The sculpture is lightend by the electric current it is surrounded by and detects the disturbances when people are passing. It deals with the processes happening at transitory areas and reveals signals that seem to be hidden from general perception.
+{% endcomment %}
 
 
