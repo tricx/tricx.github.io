@@ -24,11 +24,10 @@ in cooperation with <a href="http://www.kunst-und-raederwerk.de/" target="_blank
 The robot moves around the exhibition space, orienting itself based on the events, records the speech of other visitors and articulates clever sayings. Using its two parabolic microphone ‘ears’ with the help of the shielding function of the foam ‘hairstyle’ it listens to the most interesting events and moves in direction to where it suspects appealing things to happen. There the robot takes on its journey, remembering snippets of conversations. Otherwise it is striking sayings like ‘the most popular occupations for men and women’ or a quote from ‘Alte Meister’ by Thomas Bernhard.<br /><br />
 </p>
 
-{% comment %}
+
 <video preload="metadata" poster="{{ site.url }}/images/ottos_mops_poster_small.jpg" width="100%" height="100%" controls>
   <source src="{{ site.url }}/images/ottosmops.mp4" type="video/mp4">
 </video>
-{% endcomment %}
 
 <p> <br />Ottos Mops at 'What The Shop'<br /></p>
 <img src="{{ site.url }}/images/ottosmops_small.jpg" alt="image">
@@ -42,10 +41,10 @@ The robot moves around the exhibition space, orienting itself based on the event
 
 
 
-
+{% comment %}
 <iframe width="100%" height="384" frameborder="0" allowfullscreen="" webkitallowfullscreen="" src="http://player.vimeo.com/video/66463893?title=0&amp;byline=0&amp;portrait=0">
 </iframe>
-
+{% endcomment %}
 
 
 

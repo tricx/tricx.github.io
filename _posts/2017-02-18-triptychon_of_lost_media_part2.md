@@ -39,11 +39,10 @@ The project AM-Feld / Soviet Noise, is a cooperation with <a href="www.alexander
 
 <img src="{{ site.url }}/images/radio_blackbridge.jpg" alt="image">
 
-{% comment %}
 <video preload="metadata" poster="{{ site.url }}/images/flash_poster_small.jpg" width="100%" height="100%" controls>
   <source src="{{ site.url }}/images/flash_small.mp4" type="video/mp4">
 </video>
-{% endcomment %}
+
 
 
 {% comment %}
