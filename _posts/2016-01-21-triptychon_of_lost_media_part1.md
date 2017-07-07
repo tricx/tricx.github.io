@@ -17,17 +17,16 @@ JB :
 	{% endif %}
 {% endfor %}
 
+
+
 <p>
-	2015 / 2016<br />
-	Sound - Installation<br />
-	in cooperation with <a href="http://www.kunst-und-raederwerk.de/" target="_blank" style="text-decoration:none; color: grey"><i>Christoph Freidhöfer</i></a> <br /><br />			
-	
-metal plates, contact microphones, transducers generate feedback.
-<br /><br />
-This is the first part of the series 'Triptychon of lost media'. It concerns the examination of emitter and receiver and explores extended techniques of sound generation and playback. The theme emitter / receiver is the conceptual theoretical framework for the work series but also correlates to the applied techniques of how sound and material is shaped.
-<br /><br />
-Metal plates are used as tone generators as well as loudspeakers due to feedback that emerges from applying transducers and contact microphones to the surface. The installation deals with the propagation of sound in space and feedback between transmitter and receiver.
-<br />
+Triptychon of lost media - part I<br />
+Sound - Installation 2015/16<br />
+metal plates, contact microphones, transducers generate feedback.<br />
+in cooperation with <a href="http://www.kunst-und-raederwerk.de/" target="_blank" style="text-decoration:none; color: grey"><i>Christoph Freidhöfer</i></a> <br /><br />
+
+This is the first part of the series ‘Triptychon of lost media’. It deals with the examination of emitter and receiver and explores extended techniques of sound generation and playback. The theme ‘emitter-receiver’ is the conceptual theoretical framework for the work series but also correlates to the applied techniques of how sound and material is shaped.<br /><br />
+Metal plates are used as tone generators as well as loudspeakers due to feedback that emerges from applying transducers and contact microphones to the surface. Due to the more or less chaotic vibration of the metal sheets and low amplification, the spectrum moves between the sound of fanfares and thunder. The installation deals with the propagation of sound in space and feedback between transmitter and receiver.<br />
 The project was developed for 
 	<a href="http://www.moe-vienna.org/" target="_blank" style="text-decoration:none; color: grey">
 	<i>moe, Schaukasten XII </i></a>
@@ -37,6 +36,7 @@ and took part at the sound-festival
 in June 2015.
 	<br /><br />
 </p>
+
 
 <p> <br />Installation View: MemphisMemphis<br /></p>
 <img src="{{ site.url }}/images/tolm_small.jpg" alt="image">
@@ -68,5 +68,33 @@ in June 2015.
 <img src="{{ site.url }}/images/triptychon_concert1.jpg" alt="image">
 <font color="grey">(c) Philip Gerlach<br /></font>
 {% endcomment %}
+
+
+
+{% comment %}
+<p>
+	2015 / 2016<br />
+	Sound - Installation<br />
+	in cooperation with <a href="http://www.kunst-und-raederwerk.de/" target="_blank" style="text-decoration:none; color: grey"><i>Christoph Freidhöfer</i></a> <br /><br />			
+	
+metal plates, contact microphones, transducers generate feedback.
+<br /><br />
+This is the first part of the series 'Triptychon of lost media'. It concerns the examination of emitter and receiver and explores extended techniques of sound generation and playback. The theme emitter / receiver is the conceptual theoretical framework for the work series but also correlates to the applied techniques of how sound and material is shaped.
+<br /><br />
+Metal plates are used as tone generators as well as loudspeakers due to feedback that emerges from applying transducers and contact microphones to the surface. The installation deals with the propagation of sound in space and feedback between transmitter and receiver.
+<br />
+The project was developed for 
+	<a href="http://www.moe-vienna.org/" target="_blank" style="text-decoration:none; color: grey">
+	<i>moe, Schaukasten XII </i></a>
+and took part at the sound-festival
+	<a href="http://unsafeandsounds.com/" target="_blank" style="text-decoration:none; color: grey">
+	<i>unsafe+sounds </i></a>
+in June 2015.
+	<br /><br />
+</p>
+
+{% endcomment %}
+
+
 
 
