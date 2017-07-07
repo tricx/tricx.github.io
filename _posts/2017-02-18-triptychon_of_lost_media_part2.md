@@ -18,8 +18,8 @@ JB :
 {% endfor %}
 
 <p>
-<b>	Flash, AM-Feld / Soviet Noise</b><br />
-Audio Visual Installations 2016/17<br />
+<b>Flash, AM-Feld / Soviet Noise</b><br />
+Audio Visual Installations / 2016/17<br />
 radio, transmitter, electric current, camera flash, micro controller, relais, electromagnetic field<br /><br />
 
 Flash is an audio-visual installation for camera flash, radio transmitter and changing electric current, shown in the last exhibition of Black Bridge artist village in Beijing, before it got abandoned due to re- structuring of the region. The flashes interfere with the electromagnetic field and thereby influence the signals detected by the radio receivers. The fluctuations of the power grid, which occur quite frequently in Beijing, push the radio transmitter out of resonance and produce an unstable field.<br /><br />
