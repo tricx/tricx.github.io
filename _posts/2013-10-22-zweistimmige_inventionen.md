@@ -2,7 +2,7 @@
 published: true
 layout: post
 show_worktitle_sidebar: true
-tags: archive
+tags: works
 JB :
   analytics : false
 ---
