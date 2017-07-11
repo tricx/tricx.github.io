@@ -125,7 +125,7 @@ JB :
   # pages in navbar ( no subcategories)
   navi_pages:
      - "Works"
-     - "Archive"
+  #   - "Archive"
      - "Sound"
      - "About"
      - "Now"
@@ -138,7 +138,7 @@ JB :
   # pages on the sidebar
   navi_pages_sidebar:
      - "Works"
-     - "Archive"
+  #   - "Archive"
 
   # sidebar items, if 'show_worktitle_sidebar: true' (in pages, posts layout -defs)
   works_projects_list: 
