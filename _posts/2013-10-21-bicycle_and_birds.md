@@ -25,8 +25,8 @@ The video shows the traces of the tires of a bicycle, during a ride through the 
 </p>
 
 
-<video preload="metadata" poster="{{ site.url }}/images/birds_poster.jpg" width="100%" height="100%" controls>
-  <source src="{{ site.url }}/images/bikes_small.mp4" type="video/mp4">
+<video preload="metadata" poster="{{ site.url }}/images/bike_poster.jpg" width="100%" height="100%" controls>
+  <source src="{{ site.url }}/images/bike_small.mp4" type="video/mp4">
 </video>
 
 
