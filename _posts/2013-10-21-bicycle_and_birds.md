@@ -25,9 +25,15 @@ The video shows the traces of the tires of a bicycle, during a ride through the 
 </p>
 
 
+<video preload="metadata" poster="{{ site.url }}/images/birds_poster.jpg" width="100%" height="100%" controls>
+  <source src="{{ site.url }}/images/bikes_small.mp4" type="video/mp4">
+</video>
+
+
+{% comment %}
 <iframe width="100%" height="384" frameborder="0" allowfullscreen="" webkitallowfullscreen="" src="http://player.vimeo.com/video/84548536?title=0&amp;byline=0&amp;portrait=0">
 </iframe>
-
+{% endcomment %}
 
 {% comment %}
 <p> <br /><br /></p>
@@ -44,7 +50,7 @@ Videoloop (4mn)<br /><br />
 Birds in a cage.<br /><br />
 </p>
 
-<video preload="metadata" poster="{{ site.url }}/images/birds_poster2.jpg" width="100%" height="100%" controls>
+<video preload="metadata" poster="{{ site.url }}/images/birds_poster.jpg" width="100%" height="100%" controls>
   <source src="{{ site.url }}/images/birds_small.mp4" type="video/mp4">
 </video>
 
