@@ -43,6 +43,7 @@ As a site specific intervention the Attractor is built in a public space, connec
 <img src="{{ site.url }}/images/attractor_close_small.jpg" alt="image">
 <p></p>
 <img src="{{ site.url }}/images/attractor_doku_small2.jpg" alt="image">
+<img src="{{ site.url }}/images/attractor_test_small.jpg" alt="image">
 
 
 {% comment %}
