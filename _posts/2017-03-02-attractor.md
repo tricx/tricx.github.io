@@ -31,8 +31,6 @@ As a site specific intervention the Attractor is built in a public space, connec
 </p>
 
 <p> <br />Installation View Feijiacun<br /></p>
-<img src="{{ site.url }}/images/attractor_day_small1.jpg" alt="image">
-
 
 <video preload="metadata" poster="{{ site.url }}/images/attractor_poster.jpg" width="100%" height="100%" controls>
   <source src="{{ site.url }}/images/attractor_small.mp4" type="video/mp4">
@@ -43,8 +41,10 @@ As a site specific intervention the Attractor is built in a public space, connec
 <img src="{{ site.url }}/images/attractor_close_small.jpg" alt="image">
 <p></p>
 <img src="{{ site.url }}/images/attractor_doku_small2.jpg" alt="image">
+<p></p>
 <img src="{{ site.url }}/images/attractor_test_small.jpg" alt="image">
-
+<p></p>
+<img src="{{ site.url }}/images/attractor_day_small1.jpg" alt="image">
 
 {% comment %}
 <img src="{{ site.url }}/images/attractor_screen_small1.jpg" alt="image">
