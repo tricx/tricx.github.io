@@ -28,14 +28,14 @@ Flash is an audio-visual installation for camera flash, radio transmitter and ch
 The project AM-Feld / Soviet Noise, is a cooperation with <a href="www.alexanderfelch.net/" target="_blank" style="text-decoration:none; color: grey"><i>Alexander Felch</i></a> which took place in St. Petersburg. It is the second part of the series ‘Triptychon of lost media’ and concerns the examination of emitter and receiver and explores extended techniques of sound generation and playback. The theme ‘emitter-receiver’ is the conceptual theoretical framework for the work series, but also correlates to the applied techniques of how sound and material are shaped. For ‘AM Field / Soviet Noise’ a radio signal was created to transmit 30 minutes of empty audio tapes, produced 1989. Portable radio receivers where supplied to detect the signals of the audio tapes from the ‘soviet environment’. The work is referencing russian protagonists like Velimir Khleb- nikov (author of the futuristic essay ‘radio of the future’), Alexander Stepanovic Popov (pioneer of radio technology) and UVB-76 (a short wave transmitter, sending a buzz tone since ~1975). There are several portable radio receivers in the room, whose position can also be changed by the visitors. The installation is based on the idea of the Acousmonium, a multi-channel loud- speaker sound system developed by Francois Bayle in the ‘Groupe de Recherches Musicales’ for Radio France 1974. But in contrast to the concept of a composition for fixed loudspeakers, the visitors, equipped with a portable radio receiver, are the players of a ‘loudspeaker orchestra’ themselves. They can move with the radio receivers in the zone of transmission. Several short- range transmitters, all at the same transmission frequency, are positioned at different locations in the room. Each transmitter covers a specific area, which can be received separately, but also modulated by possible interferences. The various transmission distances can be monitored by the movement in the space, thus resulting in a constantly changing configuration.
 </p>
 
-<p> <br />Installation View: Alexandrinsky Theater New Stage<br /></p>
+<p> <br />Installation View: <b>AM-Feld / Soviet Noise</b>, Alexandrinsky Theater New Stage<br /></p>
 
 <img src="{{ site.url }}/images/radio_stp2.jpg" alt="image">
 <p></p>
 <img src="{{ site.url }}/images/radio_stp3.jpg" alt="image">
 
 
-<p> <br />Installation View: Black Bridge Village<br /></p>
+<p> <br />Installation View: <b>Flash</b>, Black Bridge Village<br /></p>
 
 <img src="{{ site.url }}/images/radio_blackbridge.jpg" alt="image">
 
