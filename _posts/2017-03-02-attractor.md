@@ -20,7 +20,7 @@ JB :
 <p>
 Site Specific  - Light Installation / 2017<br />
 fluorescent tubes, cables, metal/wood structure, electric current<br />
-Feijiacun, Beijing<br />
+Feijiacun, Beijing[CN]<br />
 
 In cooperation with <i>Ye Shangda</i>
 <br />

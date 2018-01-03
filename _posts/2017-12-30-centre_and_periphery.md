@@ -20,7 +20,7 @@ JB :
 <p>
 Site Specific Investigations / 2017<br />
 kite, cables, transistor amplifier for vlf-signals, recorder<br />
-Magellan Region: Cerro Sombrero, Parque Karukinka, Puerto Williams, Cape Horn [CHILE]<br />
+Magellan Region: Cerro Sombrero, Parque Karukinka, Puerto Williams, Cape Horn [CL]<br />
 during a research journey together with Nicolás Spencer<br />
 recommendations for the kite construction by <i>Fritz Harich, Jan Houtermans, Sophie Dvořák</i>
 <br /><br />			
