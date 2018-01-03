@@ -34,11 +34,13 @@ Dieses Spannungsfeld nahm das Projekt Centre and Periphery auf, um sich mit der 
 </p>
 
 
-<img src="{{ site.url }}/images/drachen_bahia_inutil_small.jpg" alt="image">
-<p></p>
 <img src="{{ site.url }}/images/drachen_parque_karukinka_small.jpg" alt="image">
 <p></p>
 <img src="{{ site.url }}/images/drachen_cape_horn_small.jpg" alt="image">
+<p></p>
+<img src="{{ site.url }}/images/drachen_bahia_inutil_small.jpg" alt="image">
+<p></p>
+<img src="{{ site.url }}/images/drachen_puerto_williams_small.jpg" alt="image">
 <p></p>
 <img src="{{ site.url }}/images/drachen_cape_horn2_small.jpg" alt="image">
 <p></p>
