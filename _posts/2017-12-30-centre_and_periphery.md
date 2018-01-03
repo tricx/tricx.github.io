@@ -12,8 +12,8 @@ JB :
 
 {% for post in site.posts %}
 	{% assign pt = post.title | downcase %}
-	{% if 'volantin_vlf' == pt %}
-<h4><a href="{{ BASE_PATH }}{{ post.url }}">Volantin VLF</a></h4>
+	{% if 'centre_and_periphery' == pt %}
+<h4><a href="{{ BASE_PATH }}{{ post.url }}">Centre and Periphery</a></h4>
 	{% endif %}
 {% endfor %}
 
@@ -76,8 +76,6 @@ Dieses Spannungsfeld nahm das Projekt Centre and Periphery auf, um sich mit der 
   <source src="{{ site.url }}/images/konfrontationen13.mp3" type="audio/mpeg">
   
 </audio>
-
-
 
 
 {% endcomment %}
