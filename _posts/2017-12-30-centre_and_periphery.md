@@ -35,8 +35,12 @@ Cerro Sombrero, Parque Karukinka, Puerto Williams, Cape Horn
 <a href="https://www.google.at/maps/place/Cape+Horn/@-55.7426745,-68.4746802,212647m/data=!3m1!1e3!4m5!3m4!1s0xbdac6cdebb562509:0x749830290d55919e!8m2!3d-55.983333!4d-67.2666668?dcr=0" target="_blank">Cape Horn</a> 
 [CL]<br />
 during a research journey together with Nicolás Spencer<br />
-recommendations for the kite construction by <i>Fritz Harich, Jan Houtermans, Sophie Dvořák</i>
+recommendations for the kite construction by <a href="http://www.fhg.at/kreativdrachen/index.php/startseite.html" target="_blank"><i>Fritz Harich</i></a><i>, Jan Houtermans, Sophie Dvořák</i>
 <br /><br />			
+
+
+
+
 
 
 VLF-Signale (very low frequency signals), die unter anderem durch meteologische Phänomene wie Gewitter und Blitze entstehen, wurden über einen Drachen mit Antenne detektiert und mit Hilfe eines hochempfindlichen Transistorverstärker hörbar gemacht. Die Aufnahmen entstanden während einer Recherchereise im Süden Chiles und auf Kap Horn.<br /><br />
