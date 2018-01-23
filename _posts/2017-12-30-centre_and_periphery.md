@@ -20,10 +20,24 @@ JB :
 <p>
 Site Specific Investigations / 2017<br />
 kite, cables, transistor amplifier for vlf-signals, recorder<br />
-Magellan Region: Cerro Sombrero, Parque Karukinka, Puerto Williams, Cape Horn [CL]<br />
+Magellan Region: 
+
+{% comment %}
+Cerro Sombrero, Parque Karukinka, Puerto Williams, Cape Horn
+{% endcomment %}
+
+<a href="https://www.google.at/maps/place/Cerro+Sombrero,+Primavera,+Magallanes+y+la+Ant%C3%A1rtica+Chilena+Region,+Chile/@-52.7640442,-69.8462031,124210m/data=!3m1!1e3!4m5!3m4!1s0xbdb477e8e7b694e3:0x7834f1e20a9d53fc!8m2!3d-52.764677!4d-69.2862343?dcr=0" target="_blank">Cerro Sombrero</a>, 
+
+<a href="https://www.google.at/maps/place/54%C2%B012'36.4%22S+68%C2%B043'28.7%22W/@-54.210059,-69.1739165,97287m/data=!3m1!1e3!4m13!1m6!3m5!1s0xbc4ce1fb107d20b9:0x58603d6d4545d2b8!2sKarukinka+Park!8m2!3d-54.1011451!4d-69.3567073!3m5!1s0x0:0x0!7e2!8m2!3d-54.2101145!4d-68.7246294?dcr=0" target="_blank">Parque Karukinka</a>, 
+
+<a href="https://www.google.at/maps/place/54%C2%B055'54.4%22S+67%C2%B039'17.7%22W/@-54.9317577,-67.7251158,14800m/data=!3m1!1e3!4m14!1m7!3m6!1s0xbc4eab9a9c58a64d:0x6228943461203c20!2sPuerto+Williams!3b1!8m2!3d-54.9166667!4d-67.6166667!3m5!1s0x0:0x0!7e2!8m2!3d-54.9317629!4d-67.6549037?dcr=0" target="_blank">Puerto Williams</a>, 
+
+<a href="https://www.google.at/maps/place/Cape+Horn/@-55.7426745,-68.4746802,212647m/data=!3m1!1e3!4m5!3m4!1s0xbdac6cdebb562509:0x749830290d55919e!8m2!3d-55.983333!4d-67.2666668?dcr=0" target="_blank">Cape Horn</a> 
+[CL]<br />
 during a research journey together with Nicolás Spencer<br />
 recommendations for the kite construction by <i>Fritz Harich, Jan Houtermans, Sophie Dvořák</i>
 <br /><br />			
+
 
 VLF-Signale (very low frequency signals), die unter anderem durch meteologische Phänomene wie Gewitter und Blitze entstehen, wurden über einen Drachen mit Antenne detektiert und mit Hilfe eines hochempfindlichen Transistorverstärker hörbar gemacht. Die Aufnahmen entstanden während einer Recherchereise im Süden Chiles und auf Kap Horn.<br /><br />
 
@@ -32,6 +46,9 @@ Dieses Spannungsfeld nahm das Projekt Centre and Periphery auf, um sich mit der 
 <br /><br />
 
 </p>
+
+
+
 
 
 <img src="{{ site.url }}/images/drachen_parque_karukinka_small.jpg" alt="image">
