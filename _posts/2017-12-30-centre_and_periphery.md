@@ -68,8 +68,12 @@ The project Center and Periphery picked up this field of tension in order to dea
 <img src="{{ site.url }}/images/drachen_recorder_small.jpg" alt="image">
 <p></p>
 <img src="{{ site.url }}/images/drachen_cape_horn_small.jpg" alt="image">
+
+{% comment %}
 <p></p>
 <img src="{{ site.url }}/images/drachen_bahia_inutil_small.jpg" alt="image">
+{% endcomment %}
+
 <p></p>
 <img src="{{ site.url }}/images/drachen_puerto_williams_small.jpg" alt="image">
 <p></p>
@@ -79,37 +83,8 @@ The project Center and Periphery picked up this field of tension in order to dea
 
 
 
-{% comment %}
-
-<p> <br />Installation View<br /></p>
-<img src="{{ site.url }}/images/am_room_small.jpg" alt="image">
 
 
-<video preload="metadata" poster="{{ site.url }}/images/am_night_poster.jpg" width="100%" height="100%" controls>
-  <source src="{{ site.url }}/images/am_night.mp4" type="video/mp4">
-</video>
-
-<br />
-<p></p>
-<audio controls style="width: 100%">
-  <source src="{{ site.url }}/images/konfrontationen10.mp3" type="audio/mpeg">	
-</audio>
-
-
-<p></p>
-<audio controls style="width: 100%">
-  <source src="{{ site.url }}/images/konfrontationen11.mp3" type="audio/mpeg">
-</audio>
-
-
-<p></p>
-<audio controls style="width: 100%">
-  <source src="{{ site.url }}/images/konfrontationen13.mp3" type="audio/mpeg">
-  
-</audio>
-
-
-{% endcomment %}
 
 
 {% comment %}
