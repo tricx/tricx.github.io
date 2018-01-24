@@ -73,7 +73,8 @@ The project Centre and Periphery picked up this field of tension in order to dea
 <p></p>
 <img src="{{ site.url }}/images/drachen_bahia_inutil_small.jpg" alt="image">
 {% endcomment %}
-
+<p></p>
+<img src="{{ site.url }}/images/drachen_map.jpg" alt="image">
 <p></p>
 <img src="{{ site.url }}/images/drachen_puerto_williams_small.jpg" alt="image">
 <p></p>
