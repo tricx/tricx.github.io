@@ -42,8 +42,9 @@ VLF-Signale (very low frequency signals), die unter anderem durch meteologische 
 
 excerpts of vlf-recordings at different locations:
 <p></p>
-<audio controls style="width: 100%">
-  <source src="{{ site.url }}/images/vlf_recordings.mp3" type="audio/mpeg">	
+<audio controls style="width: 100%" preload="none">
+  <source src="{{ site.url }}/images/vlf_recordings_small.mp3" type="audio/mpeg">
+
 </audio>
 <br /><br />
 
