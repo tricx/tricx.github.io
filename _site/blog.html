@@ -75,14 +75,6 @@ Works.htlm
 
         
 
-Archive.htlm
-
-
-
-----------here
-
-        
-
 Sound.htlm
 
 
@@ -122,28 +114,21 @@ Now.htlm
   
     
 
-      <li id="navi_pages2"><a href="/archive.html">Archive</a></li>
+      <li id="navi_pages2"><a href="/sound.html">Sound</a></li>
     
     
 
   
     
 
-      <li id="navi_pages3"><a href="/sound.html">Sound</a></li>
+      <li id="navi_pages3"><a href="/about.html">About</a></li>
     
     
 
   
     
 
-      <li id="navi_pages4"><a href="/about.html">About</a></li>
-    
-    
-
-  
-    
-
-      <li id="navi_pages5"><a href="/now.html">Now</a></li>
+      <li id="navi_pages4"><a href="/now.html">Now</a></li>
     
     
 
@@ -184,6 +169,10 @@ Now.htlm
       	
       	<li><a href="/archive">archive</a></li>
       	
+      
+    
+  
+    
       
     
   
@@ -346,7 +335,7 @@ Now.htlm
     <footer>
    <!--   <div class="indent-text">
          <p>the impressum
-        &copy;2017 Paul Gruendorfer
+        &copy;2018 Paul Gruendorfer
         </p> 
       </div> -->
       <div class="distance2">&nbsp;</div>
@@ -359,7 +348,7 @@ Now.htlm
     <!-- page:
 
 
-{"layout"=>"page", "title"=>"Blog", "header"=>"Blog", "category"=>"Links", "content"=>"\n<div class=\"page-header\">\n  <h3>Blog </h3>\n</div>\n\n<div>\n \n  \n \n  \n \n  \n \n  \n\n</div>\n\n<div class=\"pagination\">\n    <ul>\n      <li><a href=\"/news.html\">News</a></li>\n    </ul>\n  </div>\n\n", "dir"=>"/", "name"=>"blog.md", "path"=>"blog.md", "url"=>"/blog"} -->
+{"layout"=>"page", "title"=>"Blog", "header"=>"Blog", "category"=>"Links", "content"=>"{% include JB/setup %}\n\n<div class=\"page-header\">\n  <h3>{{ page.title }} {% if page.tagline %} <small>{{ page.tagline }}</small>{% endif %}</h3>\n</div>\n\n\n\n<div>\n{% for tag in site.tags %} \n  {% if page.title == tag[0] %}\n  <ul class=\"unstyled\">\n{% comment %}\n    {% assign pages_list = tag[1] %}  \n    {% include JB/pages_list %}\n{% endcomment %}  \n    <br />\n  </ul>\n  {{tag[1]}}<br /><br />\n  {% endif %}\n{% endfor %}\n</div>\n\n<div class=\"pagination\">\n    <ul>\n      <li><a href=\"/news.html\">News</a></li>\n    </ul>\n  </div>\n   \n{% include JB/comments %}", "dir"=>"/", "name"=>"blog.md", "path"=>"blog.md", "url"=>"/blog"} -->
 
 
 

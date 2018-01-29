@@ -4,13 +4,126 @@
  <title>Tricx</title>
  <link href="http://tricx.github.io/" rel="self"/>
  <link href="http://tricx.github.io"/>
- <updated>2017-04-26T16:38:20+02:00</updated>
+ <updated>2018-01-29T15:36:00+01:00</updated>
  <id>http://tricx.github.io</id>
  <author>
    <name>Paul Gruendorfer</name>
    <email>paul@lefant.net</email>
  </author>
 
+ 
+ <entry>
+   <title>Centre_and_periphery</title>
+   <link href="http://tricx.github.io/2017/12/30/centre_and_periphery"/>
+   <updated>2017-12-30T00:00:00+01:00</updated>
+   <id>http://tricx.github.io/2017/12/30/centre_and_periphery</id>
+   <content type="html">
+&lt;h4&gt;&lt;a href=&quot;/2017/12/30/centre_and_periphery&quot;&gt;Centre and Periphery&lt;/a&gt;&lt;/h4&gt;
+
+&lt;p&gt;
+Site Specific Investigations / 2017&lt;br /&gt;
+kite, cables, transistor amplifier for vlf-signals, recorder&lt;br /&gt;
+Magellan Region: 
+
+&lt;a href=&quot;https://www.google.com/maps/d/viewer?mid=1XpvfosYWesGQJuFXftfUxj0jkXOMgJxW&amp;amp;ll=-54.71579617013983%2C-67.3250555921021&amp;amp;z=7&quot; target=&quot;_blank&quot;&gt;Cerro Sombrero, Parque Karukinka, Puerto Williams, Cape Horn &lt;/a&gt; 
+
+
+
+[CL]&lt;br /&gt;
+during a research journey together with Nicolás Spencer&lt;br /&gt;
+recommendations for the kite construction by &lt;a href=&quot;http://www.fhg.at/kreativdrachen/index.php/startseite.html&quot; target=&quot;_blank&quot;&gt;&lt;i&gt;Fritz Harich&lt;/i&gt;&lt;/a&gt;&lt;i&gt;, Jan Houtermans, Sophie Dvořák&lt;/i&gt;
+&lt;br /&gt;&lt;br /&gt;			
+
+
+Very low frequency signals (VLF-signals), which are can be caused by meteorological phenomena such as thunderstorms and lightning, were detected by a kite with an antenna and made audible through the use of a high sensitive transistor amplifier. The recordings were taken during a research trip in southern part of Chile and on Cape Horn.&lt;br /&gt;&lt;br /&gt;
+
+excerpts of vlf-recordings at different locations:
+&lt;p&gt;&lt;/p&gt;
+&lt;audio controls=&quot;&quot; style=&quot;width: 100%&quot; preload=&quot;none&quot;&gt;
+  &lt;source src=&quot;http://localhost:4000/images/vlf_recordings_small.mp3&quot; type=&quot;audio/mpeg&quot; /&gt;
+&lt;/audio&gt;
+
+&lt;br /&gt;&lt;br /&gt;
+
+Among other things, the tour in the Magellan region in Chile dealt with the question of how places can be recorded in terms of sound, and whether topology can be taken as a starting point for experiments with sound. The route first went from Punta Arenas to Cerro Sombrero and Parque Karukinka in the Tierra del Fuego region and then by sea to Puerto Williams and Cape Horn, covering parts of the Strait of Magellan, which was discovered during the first circumnavigation of the world in 1520 and also sailed by Charles Darwin on the 1834 expedition on the HMS Beagle. The Magellan region in Chile is, on a global scale, a remote territory and only marginally populated. Of the indigenous peoples who used to live there, who were exterminated by diseases and planned expulsions, there is no comprehensive documentation available. Martin Gusinde, an Austrian anthropologist and missionary, undertook several expeditions between 1918 and 1924 to explore the indigenous tribes of the Yagan, leaving behind a small photo collection and other records. Now, in addition to the large port facilities and the production stations of the state-owned oil company ENAP in the region around Punta Arenas, in the south at Puerto Williams mainly military bases, nature parks and sporadic tourist stations can be found. In between there are large uninhabited and inaccessible zones that can only be seen passing by with transport ships.&lt;br /&gt;
+The project Centre and Periphery picked up this field of tension in order to deal with the region and its topology abstractly and audibly. Based on the idea that all places are now decoded by modern communication technologies (geosatellites, radar, marine systems, measuring stations, ..) and are connected in a synchronized way in a global network, spatial specifics have been searched for signals that occur only in remote places and are otherwise inaudible. Following the meaning of periphéro &quot;carrying around&quot; (ancient greek: carrying around, environment,..), a mobile sculpture and measuring station was constructed in the form of a kite to pick up VLF signals. VLF signals are electromagnetic waves that are reflected by the ionosphere and triggered by meteorological phenomena such as thunderstorms or lightning. Persistent strong winds from the Antarctic and the extreme weather conditions on site were both a prerequisite, as well as theme for this project.
+
+&lt;br /&gt;&lt;br /&gt;
+
+&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;http://localhost:4000/images/drachen_parque_karukinka_small.jpg&quot; alt=&quot;image&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;http://localhost:4000/images/drachen_antenna_small.jpg&quot; alt=&quot;image&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;http://localhost:4000/images/drachen_recorder_small.jpg&quot; alt=&quot;image&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;http://localhost:4000/images/drachen_cape_horn_small.jpg&quot; alt=&quot;image&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;http://localhost:4000/images/drachen_map.jpg&quot; alt=&quot;image&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;http://localhost:4000/images/drachen_puerto_williams_small.jpg&quot; alt=&quot;image&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;http://localhost:4000/images/drachen_cape_horn2_small.jpg&quot; alt=&quot;image&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;http://localhost:4000/images/drachen_barco_small.jpg&quot; alt=&quot;image&quot; /&gt;&lt;/p&gt;
+
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Am_land</title>
+   <link href="http://tricx.github.io/2017/07/24/am_land"/>
+   <updated>2017-07-24T00:00:00+02:00</updated>
+   <id>http://tricx.github.io/2017/07/24/am_land</id>
+   <content type="html">
+&lt;h4&gt;&lt;a href=&quot;/2017/07/24/am_land&quot;&gt;AM Land&lt;/a&gt;&lt;/h4&gt;
+
+&lt;p&gt;
+Site Specific Installation / 2017&lt;br /&gt;
+am transmitter, radio, cables, wood object, space blanket&lt;br /&gt;
+Konfrontationen, Nickelsdorf[AT]&lt;br /&gt;
+
+with the assistance of &lt;i&gt;Sophie Dvořák&lt;/i&gt;
+&lt;br /&gt;&lt;br /&gt;			
+
+Explorations of an AM transmitter - receiver circuit and investigations of signals between centre and periphery. Portable radio receivers will play the game of chance and detect signals from close by and distant areas.
+&lt;br /&gt;&lt;br /&gt;
+
+[…] The things that we've learnt are no longer enough.&lt;br /&gt;
+No language, just sound, that's all we need know, to synchronise&lt;br /&gt;
+Love to the beat of the show. [...]&lt;br /&gt;
+(Joy Division, Transmission)
+
+&lt;/p&gt;
+
+&lt;p&gt; &lt;br /&gt;Installation View&lt;br /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;http://localhost:4000/images/am_room_small.jpg&quot; alt=&quot;image&quot; /&gt;&lt;/p&gt;
+
+&lt;video preload=&quot;metadata&quot; poster=&quot;http://localhost:4000/images/am_night_poster.jpg&quot; width=&quot;100%&quot; height=&quot;100%&quot; controls=&quot;&quot;&gt;
+  &lt;source src=&quot;http://localhost:4000/images/am_night.mp4&quot; type=&quot;video/mp4&quot; /&gt;
+&lt;/video&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;audio controls=&quot;&quot; style=&quot;width: 100%&quot; preload=&quot;none&quot;&gt;
+  &lt;source src=&quot;http://localhost:4000/images/konfrontationen10.mp3&quot; type=&quot;audio/mpeg&quot; /&gt;	
+&lt;/audio&gt;
+
+&lt;p&gt;&lt;/p&gt;
+&lt;audio controls=&quot;&quot; style=&quot;width: 100%&quot; preload=&quot;none&quot;&gt;
+  &lt;source src=&quot;http://localhost:4000/images/konfrontationen11.mp3&quot; type=&quot;audio/mpeg&quot; /&gt;
+&lt;/audio&gt;
+
+&lt;p&gt;&lt;/p&gt;
+&lt;audio controls=&quot;&quot; style=&quot;width: 100%&quot; preload=&quot;none&quot;&gt;
+  &lt;source src=&quot;http://localhost:4000/images/konfrontationen13.mp3&quot; type=&quot;audio/mpeg&quot; /&gt;
+  
+&lt;/audio&gt;
+
+</content>
+ </entry>
  
  <entry>
    <title>Attractor</title>
@@ -21,30 +134,31 @@
 &lt;h4&gt;&lt;a href=&quot;/2017/03/02/attractor&quot;&gt;Attractor&lt;/a&gt;&lt;/h4&gt;
 
 &lt;p&gt;
-2017&lt;br /&gt;
-Site Specific  - Light Installation&lt;br /&gt;
+Site Specific  - Light Installation / 2017&lt;br /&gt;
 fluorescent tubes, cables, metal/wood structure, electric current&lt;br /&gt;
-Feijiacun, Beijing&lt;br /&gt;
+Feijiacun, Beijing[CN]&lt;br /&gt;
 
 In cooperation with &lt;i&gt;Ye Shangda&lt;/i&gt;
 &lt;br /&gt;
-assistance: Hu Xinru (explorations), Chao Fu-Le (base camp)
+assistance: Hu Xinru, Chao Fu-Le
 &lt;br /&gt;&lt;br /&gt;			
 
-As a site specific intervention, the &#39;attractor&#39; is positioned under the power lines, connects to it&#39;s surroundings and reacts to changes in the electric field. In certain areas in Feijiacun those fields exist and can be detected with strip light. It&#39;s shaped by the constellations of the architectural setting. Different density is found at flat spaces, next to houses or trees, on rooftops. The sculpture is lightend by the electric current it is surrounded by and detects the disturbances when people are passing. It deals with the processes happening at transitory areas and reveals signals that seem to be hidden from general perception.
+As a site specific intervention the Attractor is built in a public space, connects to its surroundings and reacts to changes in the electric field. In certain areas in Feijiacun, due to power poles and electrical substations, electric fields build up and can be detected with strip light. They are shaped by the constellations of the architectural setting. Different expansion is found on flat spaces, next to houses, near to trees or on rooftops. The sculpture is not connected to power, but lighted by the electric current it is surrounded by and detects the disturbances when people are passing. It deals with the processes happening in transitory areas and reveals signals that seem to be hidden from general perception.
 &lt;/p&gt;
 
-&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
 &lt;p&gt; &lt;br /&gt;Installation View Feijiacun&lt;br /&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&quot;/images/attractor_day_small1.jpg&quot; alt=&quot;image&quot; /&gt;&lt;/p&gt;
 
-&lt;video preload=&quot;metadata&quot; poster=&quot;/images/attractor_poster.jpg&quot; width=&quot;100%&quot; height=&quot;100%&quot; controls=&quot;&quot;&gt;
-  &lt;source src=&quot;/images/attractor_small.mp4&quot; type=&quot;video/mp4&quot; /&gt;
+&lt;video preload=&quot;metadata&quot; poster=&quot;http://localhost:4000/images/attractor_poster.jpg&quot; width=&quot;100%&quot; height=&quot;100%&quot; controls=&quot;&quot;&gt;
+  &lt;source src=&quot;http://localhost:4000/images/attractor_small.mp4&quot; type=&quot;video/mp4&quot; /&gt;
 &lt;/video&gt;
 
-&lt;p&gt;&lt;img src=&quot;/images/attractor_close_small.jpg&quot; alt=&quot;image&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;http://localhost:4000/images/attractor_close_small.jpg&quot; alt=&quot;image&quot; /&gt;&lt;/p&gt;
 &lt;p&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&quot;/images/attractor_doku_small2.jpg&quot; alt=&quot;image&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;http://localhost:4000/images/attractor_doku_small2.jpg&quot; alt=&quot;image&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;http://localhost:4000/images/attractor_test_small.jpg&quot; alt=&quot;image&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;http://localhost:4000/images/attractor_day_small1.jpg&quot; alt=&quot;image&quot; /&gt;&lt;/p&gt;
 
 </content>
  </entry>
@@ -58,39 +172,28 @@ As a site specific intervention, the &#39;attractor&#39; is positioned under the
 &lt;h4&gt;&lt;a href=&quot;/2017/02/18/triptychon_of_lost_media_part2&quot;&gt;Triptychon of lost media - II&lt;/a&gt;&lt;/h4&gt;
 
 &lt;p&gt;
-	2016 / 2017&lt;br /&gt;
-	Sound - Installation&lt;br /&gt;
-	radio, transmitter, electric current, microcontroller, relais
-	&lt;br /&gt;&lt;br /&gt;			
-&lt;b&gt;	
-AM Feld / Soviet Noise
-&lt;/b&gt;
-&lt;br /&gt;
-This is the second part of the series &#39;Triptychon of lost media&#39;. It concerns the examination of emitter and receiver and explores extended techniques of sound generation and playback. The theme emitter / receiver is the conceptual theoretical framework for the work series but also correlates to the applied techniques of how sound and material is shaped.
-&lt;br /&gt;&lt;br /&gt;
-For &#39;AM Field / Soviet Noise&#39; a radiosignal was created to transmit 30 minutes of empty audio tapes, produced 1989. Portable radio receivers where supplied to detect the information of a &#39;soviet environment&#39; in a current &#39;russian reality&#39;. In cooperation with &lt;a href=&quot;www.alexanderfelch.net/&quot; target=&quot;_blank&quot; style=&quot;text-decoration:none; color: grey&quot;&gt;&lt;i&gt;Alexander Felch&lt;/i&gt;&lt;/a&gt;
-&lt;br /&gt;&lt;br /&gt;
+&lt;b&gt;Flash, AM-Feld / Soviet Noise&lt;/b&gt;&lt;br /&gt;
+Audio Visual Installations / 2016/17&lt;br /&gt;
+radio, transmitter, electric current, camera flash, micro controller, relais, electromagnetic field&lt;br /&gt;&lt;br /&gt;
 
-&lt;b&gt;	
-Flash
-&lt;/b&gt;
-&lt;br /&gt;
-&#39;Flash&#39; was an audio-visual installation for camera flash, radio transmitter and changing electric current, shown in the last exhibition of Black Bridge artist village in Beijing, which soon will be demolished due to changing rent index.
+Flash is an audio-visual installation for camera flash, radio transmitter and changing electric current, shown in the last exhibition of Black Bridge artist village in Beijing, before it got abandoned due to re- structuring of the region. The flashes interfere with the electromagnetic field and thereby influence the signals detected by the radio receivers. The fluctuations of the power grid, which occur quite frequently in Beijing, push the radio transmitter out of resonance and produce an unstable field.&lt;br /&gt;&lt;br /&gt;
+
+
+The project AM-Feld / Soviet Noise, is a cooperation with &lt;a href=&quot;www.alexanderfelch.net/&quot; target=&quot;_blank&quot; style=&quot;text-decoration:none; color: grey&quot;&gt;&lt;i&gt;Alexander Felch&lt;/i&gt;&lt;/a&gt; which took place in St. Petersburg. It is the second part of the series ‘Triptychon of lost media’ and concerns the examination of emitter and receiver and explores extended techniques of sound generation and playback. The theme ‘emitter-receiver’ is the conceptual theoretical framework for the work series, but also correlates to the applied techniques of how sound and material are shaped. For ‘AM Field / Soviet Noise’ a radio signal was created to transmit 30 minutes of empty audio tapes, produced 1989. Portable radio receivers where supplied to detect the signals of the audio tapes from the ‘soviet environment’. The work is referencing russian protagonists like Velimir Khleb- nikov (author of the futuristic essay ‘radio of the future’), Alexander Stepanovic Popov (pioneer of radio technology) and UVB-76 (a short wave transmitter, sending a buzz tone since ~1975). There are several portable radio receivers in the room, whose position can also be changed by the visitors. The installation is based on the idea of the Acousmonium, a multi-channel loud- speaker sound system developed by Francois Bayle in the ‘Groupe de Recherches Musicales’ for Radio France 1974. But in contrast to the concept of a composition for fixed loudspeakers, the visitors, equipped with a portable radio receiver, are the players of a ‘loudspeaker orchestra’ themselves. They can move with the radio receivers in the zone of transmission. Several short- range transmitters, all at the same transmission frequency, are positioned at different locations in the room. Each transmitter covers a specific area, which can be received separately, but also modulated by possible interferences. The various transmission distances can be monitored by the movement in the space, thus resulting in a constantly changing configuration.
 &lt;/p&gt;
 
-&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
-&lt;p&gt; &lt;br /&gt;Installation View: Alexandrinsky Theater New Stage&lt;br /&gt;&lt;/p&gt;
+&lt;p&gt; &lt;br /&gt;Installation View: &lt;b&gt;AM-Feld / Soviet Noise&lt;/b&gt;, Alexandrinsky Theater New Stage, St. Petersburg&lt;br /&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;/images/radio_stp2.jpg&quot; alt=&quot;image&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;http://localhost:4000/images/radio_stp2.jpg&quot; alt=&quot;image&quot; /&gt;&lt;/p&gt;
 &lt;p&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&quot;/images/radio_stp3.jpg&quot; alt=&quot;image&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;http://localhost:4000/images/radio_stp3.jpg&quot; alt=&quot;image&quot; /&gt;&lt;/p&gt;
 
-&lt;p&gt; &lt;br /&gt;Installation View: Black Bridge Village&lt;br /&gt;&lt;/p&gt;
+&lt;p&gt; &lt;br /&gt;Installation View: &lt;b&gt;Flash&lt;/b&gt;, Black Bridge Village, Beijing&lt;br /&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;/images/radio_blackbridge.jpg&quot; alt=&quot;image&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;http://localhost:4000/images/radio_blackbridge.jpg&quot; alt=&quot;image&quot; /&gt;&lt;/p&gt;
 
-&lt;video preload=&quot;metadata&quot; poster=&quot;/images/flash_poster_small.jpg&quot; width=&quot;100%&quot; height=&quot;100%&quot; controls=&quot;&quot;&gt;
-  &lt;source src=&quot;/images/flash_small.mp4&quot; type=&quot;video/mp4&quot; /&gt;
+&lt;video preload=&quot;metadata&quot; poster=&quot;http://localhost:4000/images/flash_poster_small.jpg&quot; width=&quot;100%&quot; height=&quot;100%&quot; controls=&quot;&quot;&gt;
+  &lt;source src=&quot;http://localhost:4000/images/flash_small.mp4&quot; type=&quot;video/mp4&quot; /&gt;
 &lt;/video&gt;
 
 </content>
@@ -105,16 +208,12 @@ Flash
 &lt;h4&gt;&lt;a href=&quot;/2016/01/21/triptychon_of_lost_media_part1&quot;&gt;Triptychon of lost media - I&lt;/a&gt;&lt;/h4&gt;
 
 &lt;p&gt;
-	2015 / 2016&lt;br /&gt;
-	Sound - Installation&lt;br /&gt;
-	in cooperation with &lt;a href=&quot;http://www.kunst-und-raederwerk.de/&quot; target=&quot;_blank&quot; style=&quot;text-decoration:none; color: grey&quot;&gt;&lt;i&gt;Christoph Freidhöfer&lt;/i&gt;&lt;/a&gt; &lt;br /&gt;&lt;br /&gt;			
-	
-metal plates, contact microphones, transducers generate feedback.
-&lt;br /&gt;&lt;br /&gt;
-This is the first part of the series &#39;Triptychon of lost media&#39;. It concerns the examination of emitter and receiver and explores extended techniques of sound generation and playback. The theme emitter / receiver is the conceptual theoretical framework for the work series but also correlates to the applied techniques of how sound and material is shaped.
-&lt;br /&gt;&lt;br /&gt;
-Metal plates are used as tone generators as well as loudspeakers due to feedback that emerges from applying transducers and contact microphones to the surface. The installation deals with the propagation of sound in space and feedback between transmitter and receiver.
-&lt;br /&gt;
+Sound - Installation / 2015/16&lt;br /&gt;
+metal plates, contact microphones, transducers generate feedback.&lt;br /&gt;
+in cooperation with &lt;a href=&quot;http://www.kunst-und-raederwerk.de/&quot; target=&quot;_blank&quot; style=&quot;text-decoration:none; color: grey&quot;&gt;&lt;i&gt;Christoph Freidhöfer&lt;/i&gt;&lt;/a&gt; &lt;br /&gt;&lt;br /&gt;
+
+This is the first part of the series ‘Triptychon of lost media’. It deals with the examination of emitter and receiver and explores extended techniques of sound generation and playback. The theme ‘emitter-receiver’ is the conceptual theoretical framework for the work series but also correlates to the applied techniques of how sound and material is shaped.&lt;br /&gt;&lt;br /&gt;
+Metal plates are used as tone generators as well as loudspeakers due to feedback that emerges from applying transducers and contact microphones to the surface. Due to the more or less chaotic vibration of the metal sheets and low amplification, the spectrum moves between the sound of fanfares and thunder. The installation deals with the propagation of sound in space and feedback between transmitter and receiver.&lt;br /&gt;
 The project was developed for 
 	&lt;a href=&quot;http://www.moe-vienna.org/&quot; target=&quot;_blank&quot; style=&quot;text-decoration:none; color: grey&quot;&gt;
 	&lt;i&gt;moe, Schaukasten XII &lt;/i&gt;&lt;/a&gt;
@@ -122,22 +221,22 @@ and took part at the sound-festival
 	&lt;a href=&quot;http://unsafeandsounds.com/&quot; target=&quot;_blank&quot; style=&quot;text-decoration:none; color: grey&quot;&gt;
 	&lt;i&gt;unsafe+sounds &lt;/i&gt;&lt;/a&gt;
 in June 2015.
-	&lt;br /&gt;&lt;br /&gt;
+&lt;br /&gt;
 &lt;/p&gt;
 
 &lt;p&gt; &lt;br /&gt;Installation View: MemphisMemphis&lt;br /&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&quot;/images/tolm_small.jpg&quot; alt=&quot;image&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;http://localhost:4000/images/tolm_small.jpg&quot; alt=&quot;image&quot; /&gt;&lt;/p&gt;
 &lt;p&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&quot;/images/tolm2_small.jpg&quot; alt=&quot;image&quot; /&gt;
-&lt;font color=&quot;grey&quot;&gt;(c) Florian Voggeneder&lt;br /&gt;&lt;/font&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;http://localhost:4000/images/tolm2_small.jpg&quot; alt=&quot;image&quot; /&gt;&lt;/p&gt;
+&lt;font color=&quot;grey&quot;&gt;(c) Florian Voggeneder&lt;br /&gt;&lt;/font&gt;
 
 &lt;p&gt; &lt;br /&gt;Installation View: moe, Schaukasten XII&lt;br /&gt;&lt;/p&gt;
 
-&lt;video preload=&quot;metadata&quot; poster=&quot;/images/tripty1_poster_small.jpg&quot; width=&quot;100%&quot; height=&quot;100%&quot; controls=&quot;&quot;&gt;
-  &lt;source src=&quot;/images/triptychon_of_lost_media.mp4&quot; type=&quot;video/mp4&quot; /&gt;
+&lt;video preload=&quot;metadata&quot; poster=&quot;http://localhost:4000/images/tripty1_poster_small.jpg&quot; width=&quot;100%&quot; height=&quot;100%&quot; controls=&quot;&quot;&gt;
+  &lt;source src=&quot;http://localhost:4000/images/triptychon_of_lost_media.mp4&quot; type=&quot;video/mp4&quot; /&gt;
 &lt;/video&gt;
 
-&lt;p&gt;&lt;img src=&quot;/images/triptychon_moe4.jpg&quot; alt=&quot;image&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;http://localhost:4000/images/triptychon_moe4.jpg&quot; alt=&quot;image&quot; /&gt;&lt;/p&gt;
 
 </content>
  </entry>
@@ -151,28 +250,25 @@ in June 2015.
 &lt;h4&gt;&lt;a href=&quot;/2013/12/28/ottos_mops&quot;&gt;Ottos Mops&lt;/a&gt;&lt;/h4&gt;
 
 &lt;p&gt;
-	2013 - ongoing&lt;br /&gt;
-	Speech - Intervention - Animal&lt;br /&gt;
-	in cooperation with &lt;a href=&quot;http://www.kunst-und-raederwerk.de/&quot; target=&quot;_blank&quot; style=&quot;text-decoration:none; color: grey&quot;&gt;&lt;i&gt;Christoph Freidhöfer&lt;/i&gt;&lt;/a&gt; &lt;br /&gt;&lt;br /&gt;			
-	The robot moves around the exhibition space, orienting itself based on the events, records the speech of other visitors and articulates clever sayings.
-	Two parabolic microphones using the shielding function of the foam &#39;hair&#39; to measure the current db-amplitude and detect the direction from where the loudest 
-	content is suspected. There the robot takes on its journey and takes snapshots of conversations. Otherwise it is striking sayings as for example: 
-	the most popular occupations for men / women or a quote from &#39;Alte Meister&#39; by Thomas Bernhard.&lt;br /&gt;&lt;br /&gt;
+Speech - Intervention - Animal / 2013 - ongoing&lt;br /&gt;
+loudspeaker, parabolic microphones, micro controller, motor&lt;br /&gt;
+in cooperation with &lt;a href=&quot;http://www.kunst-und-raederwerk.de/&quot; target=&quot;_blank&quot; style=&quot;text-decoration:none; color: grey&quot;&gt;&lt;i&gt;Christoph Freidhöfer&lt;/i&gt;&lt;/a&gt; &lt;br /&gt;&lt;br /&gt;
+The robot moves around the exhibition space, orienting itself based on the events, records the speech of other visitors and articulates clever sayings. Using its two parabolic microphone ‘ears’ with the help of the shielding function of the foam ‘hairstyle’ it listens to the most interesting events and moves in direction to where it suspects appealing things to happen. There the robot takes on its journey, remembering snippets of conversations. Otherwise it is striking sayings like ‘the most popular occupations for men and women’ or a quote from ‘Alte Meister’ by Thomas Bernhard.&lt;br /&gt;&lt;br /&gt;
 &lt;/p&gt;
 
-&lt;video preload=&quot;metadata&quot; poster=&quot;/images/ottos_mops_poster_small.jpg&quot; width=&quot;100%&quot; height=&quot;100%&quot; controls=&quot;&quot;&gt;
-  &lt;source src=&quot;/images/ottosmops.mp4&quot; type=&quot;video/mp4&quot; /&gt;
+&lt;video preload=&quot;metadata&quot; poster=&quot;http://localhost:4000/images/ottos_mops_poster_small.jpg&quot; width=&quot;100%&quot; height=&quot;100%&quot; controls=&quot;&quot;&gt;
+  &lt;source src=&quot;http://localhost:4000/images/ottosmops.mp4&quot; type=&quot;video/mp4&quot; /&gt;
 &lt;/video&gt;
 
-&lt;p&gt; &lt;br /&gt;Ottos Mops at &#39;What The Shop&#39;&lt;br /&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&quot;/images/ottosmops_small.jpg&quot; alt=&quot;image&quot; /&gt;&lt;/p&gt;
+&lt;p&gt; &lt;br /&gt;Ottos Mops at 'What The Shop'&lt;br /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;http://localhost:4000/images/ottosmops_small.jpg&quot; alt=&quot;image&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt; &lt;br /&gt; &lt;br /&gt;Fanpostkarte von 
 	&lt;a href=&quot;http://www.heterotypia/&quot; target=&quot;_blank&quot; style=&quot;text-decoration:none; color: grey&quot;&gt;
 	&lt;i&gt;Natalie Deewan&lt;/i&gt;&lt;/a&gt;
 &lt;/p&gt;
-&lt;p&gt;&lt;img src=&quot;/images/petit_conferencier_card_I.jpg&quot; alt=&quot;image&quot; /&gt;
-&lt;img src=&quot;/images/petit_conferencier_card_II.jpg&quot; alt=&quot;image&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;http://localhost:4000/images/petit_conferencier_card_I.jpg&quot; alt=&quot;image&quot; /&gt;
+&lt;img src=&quot;http://localhost:4000/images/petit_conferencier_card_II.jpg&quot; alt=&quot;image&quot; /&gt;&lt;/p&gt;
 
 </content>
  </entry>
@@ -186,17 +282,14 @@ in June 2015.
 &lt;h4&gt;&lt;a href=&quot;/2013/12/27/pachinko&quot;&gt;Pachinko&lt;/a&gt;&lt;/h4&gt;
 
 &lt;p&gt;
-	2011 / 2012&lt;br /&gt;
-	Sound - Installation&lt;br /&gt;&lt;br /&gt;
-	
-	Pachinko is played by more than 30% of the Japanese population. 
-	It is based on the coincidental spreading of Pachinkoballs hitting certain positions, which lead to winnings. 
-	A peculiar feature in Pachinko game halls is the volume and the chaotically fluctuating sound. 
-	With this automaton the sound of the room and the Pachinko itself is recorded, triggered, generated and manipulated in realtime without the use of prerecorded sounds (except one tribute-soundfile). Controlled by sensors, the Pachinko becomes an uncontrollable and absurd Interface, as you never know what the machine will do next.&lt;br /&gt;&lt;br /&gt;
+Sound - Installation / 2011/12&lt;br /&gt;
+photocells, micro controller / arduino, real-time audio software, loudspeakers&lt;br /&gt;&lt;br /&gt;
+
+Pachinko is played by more than 30% of the Japanese population. It is based on the coincidental spreading of Pachinko balls hitting certain positions, which lead to winnings. A peculiar feature in Pachinko game halls is the volume and the chaotically fluctuating sound. With this automaton the sound of the surroundings and the Pachinko itself is recorded, triggered, generated and manipulated in realtime without the use of prerecorded sounds (except one tribute-soundfile). Controlled by sensors, the Pachinko becomes an uncontrollable and absurd interface, as you never know what the machine will do next.&lt;br /&gt;&lt;br /&gt;
 &lt;/p&gt;
 
-&lt;video preload=&quot;metadata&quot; poster=&quot;/images/pachinko_poster_small.jpg&quot; width=&quot;100%&quot; height=&quot;100%&quot; controls=&quot;&quot;&gt;
-  &lt;source src=&quot;/images/pachinko.mp4&quot; type=&quot;video/mp4&quot; /&gt;
+&lt;video preload=&quot;metadata&quot; poster=&quot;http://localhost:4000/images/pachinko_poster_small.jpg&quot; width=&quot;100%&quot; height=&quot;100%&quot; controls=&quot;&quot;&gt;
+  &lt;source src=&quot;http://localhost:4000/images/pachinko.mp4&quot; type=&quot;video/mp4&quot; /&gt;
 &lt;/video&gt;
 
 </content>
@@ -211,14 +304,14 @@ in June 2015.
 &lt;h4&gt;&lt;a href=&quot;/2013/12/26/a_car_from_above&quot;&gt;A Car from ABove&lt;/a&gt;&lt;/h4&gt;
 
 &lt;p&gt;
-    2012&lt;br /&gt;
-	Sound - Installation&lt;br /&gt;&lt;br /&gt;
-	in cooperation with &lt;a href=&quot;http://www.praxistest.cc/&quot; target=&quot;_blank&quot; style=&quot;text-decoration:none; color: grey&quot;&gt;&lt;i&gt;Paul_Reza Klein&lt;/i&gt;&lt;/a&gt;&lt;br /&gt;
-	A toy police car in free fall at the exhibition Dimensions Variable # at Mo.ë.&lt;br /&gt;&lt;br /&gt;
+toy car, cable, coil, high ceiling / 2012&lt;br /&gt;
+in cooperation with &lt;a href=&quot;http://www.praxistest.cc/&quot; target=&quot;_blank&quot; style=&quot;text-decoration:none; color: grey&quot;&gt;&lt;i&gt;Paul_Reza Klein&lt;/i&gt;&lt;/a&gt;&lt;br /&gt;
+
+A toy police car falls in free fall at the exhibition Dimensions Variable # at Mo.ë. When the car is switched on, the car‘s flashing lights start flashing and it sounds: ‘Police, do not move - [sound- effect: gunshot] - you are under arrest!’ The car is equipped with a conductive cable on a coil that is attached to the ceiling. At random time intervals, the car falls from the ceiling to shortly before the impact on the ground.&lt;br /&gt;&lt;br /&gt;
 &lt;/p&gt;
 
-&lt;video preload=&quot;metadata&quot; poster=&quot;/images/acab_poster.jpg&quot; width=&quot;100%&quot; height=&quot;100%&quot; controls=&quot;&quot;&gt;
-  &lt;source src=&quot;/images/acab_small.mp4&quot; type=&quot;video/mp4&quot; /&gt;
+&lt;video preload=&quot;metadata&quot; poster=&quot;http://localhost:4000/images/acab_poster.jpg&quot; width=&quot;100%&quot; height=&quot;100%&quot; controls=&quot;&quot;&gt;
+  &lt;source src=&quot;http://localhost:4000/images/acab_small.mp4&quot; type=&quot;video/mp4&quot; /&gt;
 &lt;/video&gt;
 
 </content>
@@ -241,10 +334,10 @@ microscope camera, lichens / organic material, real-time audio software / Superc
 
 &lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;/images/theuncannyjenny_small.jpg&quot; alt=&quot;image&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;http://localhost:4000/images/theuncannyjenny_small.jpg&quot; alt=&quot;image&quot; /&gt;&lt;/p&gt;
 
-&lt;video preload=&quot;metadata&quot; poster=&quot;/images/faux_poster.jpg&quot; width=&quot;100%&quot; height=&quot;100%&quot; controls=&quot;&quot;&gt;
-  &lt;source src=&quot;/images/fauxterrain_small.mp4&quot; type=&quot;video/mp4&quot; /&gt;
+&lt;video preload=&quot;metadata&quot; poster=&quot;http://localhost:4000/images/faux_poster.jpg&quot; width=&quot;100%&quot; height=&quot;100%&quot; controls=&quot;&quot;&gt;
+  &lt;source src=&quot;http://localhost:4000/images/fauxterrain_small.mp4&quot; type=&quot;video/mp4&quot; /&gt;
 &lt;/video&gt;
 
 </content>
@@ -259,19 +352,17 @@ microscope camera, lichens / organic material, real-time audio software / Superc
 &lt;h4&gt;&lt;a href=&quot;/2013/12/11/in_a_room&quot;&gt;In a room ..&lt;/a&gt;&lt;/h4&gt;
 
 &lt;p&gt;
-for violin, grains on a metal surface and live-electronics&lt;br /&gt;
-~8&#39; , 2012&lt;br /&gt;
-[violin is played by Barbara Lüneburg&lt;br /&gt;
-recorded at Echoraum, Wien]&lt;br /&gt;&lt;br /&gt;
+Composition for violin, grains on a metal surface and live-electronics ~8‘ , 2012&lt;br /&gt;
+[violin is played by Barbara Lüneburg, recorded at Echoraum, Wien]&lt;br /&gt;&lt;br /&gt;
 
-&quot;The piece consists of singular tones that fill the space horizontally and create a quiet ubiquitous drone&quot;
-Filtered noise areas, quiet creak, some prominent sound particles, (no open strings), minimal timbre (out of a grayscale evolve &quot;colours&quot;), microtonality vs. widely spaced intervals, grains, ..&lt;br /&gt;&lt;br /&gt;
+The piece consists of singular tones that fill the space horizontally and create a quiet ubiquitous drone. Filtered noise areas, quiet creak, some prominent sound particles, (no open strings), minimal timbre (out of a grayscale evolve „colours“), microtonality vs. widely spaced intervals, grains, ..&lt;br /&gt;Notation:&lt;br /&gt;
+The pitch of the violin results from the vertical position of the note within the score; i.e. high frequencies - low frequencies. The timeframe is also relative. The task of the electronics is to extract individual sections from the played parts of the violin and to filter them slightly by means of pitch shift or granular synthesis. Due to the division into 4 channels there are focal points, but they are selected loosely. The notation makes suggestions for this, but these are understood as indications.
 &lt;/p&gt;
 
-&lt;iframe width=&quot;100%&quot; height=&quot;105&quot; scrolling=&quot;no&quot; frameborder=&quot;no&quot; src=&quot;https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/124203709&amp;amp;color=000000&amp;amp;auto_play=false&amp;amp;hide_related=false&amp;amp;show_comments=true&amp;amp;show_user=true&amp;amp;show_reposts=false&quot;&gt;&lt;/iframe&gt;
+&lt;iframe width=&quot;100%&quot; height=&quot;105&quot; scrolling=&quot;no&quot; frameborder=&quot;no&quot; src=&quot;https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/124203709&amp;amp;color=000000&amp;amp;auto_play=false&amp;amp;hide_related=false&amp;amp;show_comments=true&amp;amp;show_user=true&amp;amp;show_reposts=false;&amp;amp;show_artwork=false&quot;&gt;&lt;/iframe&gt;
 
 &lt;p&gt;&lt;br /&gt;&lt;br /&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&quot;/images/echoraum2.jpg&quot; alt=&quot;image&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;http://localhost:4000/images/echoraum2.jpg&quot; alt=&quot;image&quot; /&gt;&lt;/p&gt;
 
 </content>
  </entry>
@@ -290,7 +381,7 @@ for diy-zither, cymbal, contact microphone, live granular synthesis&lt;br /&gt;
 
 &lt;/p&gt;
 
-&lt;iframe width=&quot;100%&quot; height=&quot;105&quot; scrolling=&quot;no&quot; frameborder=&quot;no&quot; src=&quot;https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/124206169&amp;amp;color=000000&amp;amp;auto_play=false&amp;amp;hide_related=false&amp;amp;show_comments=true&amp;amp;show_user=true&amp;amp;show_reposts=false&quot;&gt;&lt;/iframe&gt;
+&lt;iframe width=&quot;100%&quot; height=&quot;105&quot; scrolling=&quot;no&quot; frameborder=&quot;no&quot; src=&quot;https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/124206169&amp;amp;color=000000&amp;amp;auto_play=false&amp;amp;hide_related=false&amp;amp;show_comments=true&amp;amp;show_user=true&amp;amp;show_reposts=false;&amp;amp;show_artwork=false&quot;&gt;&lt;/iframe&gt;
 
 &lt;p&gt;
 This recording examplifies some of the sounds that can be played with an instrument I built.&lt;br /&gt;&lt;br /&gt; It consists of the following parts:&lt;br /&gt;
@@ -299,7 +390,7 @@ Acoustic Input (e-Zither, cymbals, contact microphones, microphone input of othe
 &lt;br /&gt;
 &lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;/images/zither.jpg&quot; alt=&quot;image&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;http://localhost:4000/images/zither.jpg&quot; alt=&quot;image&quot; /&gt;&lt;/p&gt;
 
 </content>
  </entry>
@@ -310,22 +401,20 @@ Acoustic Input (e-Zither, cymbals, contact microphones, microphone input of othe
    <updated>2013-10-25T00:00:00+02:00</updated>
    <id>http://tricx.github.io/2013/10/25/wilhelms_punk</id>
    <content type="html">
-&lt;h4&gt;&lt;a href=&quot;/2013/10/25/wilhelms_punk&quot;&gt;Wilhelm&#39;s Punk&lt;/a&gt;&lt;/h4&gt;
+&lt;h4&gt;&lt;a href=&quot;/2013/10/25/wilhelms_punk&quot;&gt;Wilhelm's Punk&lt;/a&gt;&lt;/h4&gt;
 
 &lt;p&gt;
-&lt;br /&gt;
-	Performance&lt;br /&gt;
-	2011&lt;br /&gt;
-	taperecorder / oscillators / frog&lt;br /&gt;&lt;br /&gt;
-The sounds of a cassette recorder itself, of a simple oscillator circuit, and a wooden frog are recorded on an empty tapeloop. The name Wilhelm&#39;s Punk is inspired by the piece Williams Mix of John Cage which uses pre-recorded sounds that are randomly selected and mounted on tape. For the piece Willhelm&#39;s punk only sounds that occur during the performance are recorded on tape.
-(short sample of the tape).&lt;br /&gt;&lt;br /&gt;
+Performance / 2011&lt;br /&gt;
+taperecorder, oscillators, frog&lt;br /&gt;&lt;br /&gt;
+Description of the setup:&lt;br /&gt;
+The sounds of a cassette recorder, a simple oscillator circuit and a wooden frog are recorded on an empty tape loop. The name Wilhelm‘s Punk refers to the piece Williams Mix by John Cage, in which pre-recorded and selected sounds are mounted on tape by a random system. For Wilhelm‘s Punk, sounds, which are produced during the performance are played on the tape loop and reproduced immediately. Each loop replay plays the already recorded fragments, takes up new ones and deletes older parts by accident.&lt;br /&gt;&lt;br /&gt;
 &lt;/p&gt;
 
-&lt;iframe width=&quot;100%&quot; height=&quot;105&quot; scrolling=&quot;no&quot; frameborder=&quot;no&quot; src=&quot;https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/124201065&amp;amp;color=000000&amp;amp;auto_play=false&amp;amp;hide_related=false&amp;amp;show_comments=true&amp;amp;show_user=true&amp;amp;show_reposts=false&quot;&gt;&lt;/iframe&gt;
+&lt;iframe width=&quot;100%&quot; height=&quot;105&quot; scrolling=&quot;no&quot; frameborder=&quot;no&quot; src=&quot;https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/124201065&amp;amp;color=000000&amp;amp;auto_play=false&amp;amp;hide_related=false&amp;amp;show_comments=true&amp;amp;show_user=true&amp;amp;show_reposts=false;&amp;amp;show_artwork=false&quot;&gt;&lt;/iframe&gt;
 
 &lt;p&gt; &lt;br /&gt;setup:&lt;br /&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;/images/wpunk_setup.jpg&quot; alt=&quot;image&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;http://localhost:4000/images/wpunk_setup.jpg&quot; alt=&quot;image&quot; /&gt;&lt;/p&gt;
 
 </content>
  </entry>
@@ -339,15 +428,14 @@ The sounds of a cassette recorder itself, of a simple oscillator circuit, and a 
 &lt;h4&gt;&lt;a href=&quot;/2013/10/24/platte_x&quot;&gt;Platte X&lt;/a&gt;&lt;/h4&gt;
 
 &lt;p&gt;
-2011&lt;br /&gt;
-Sound - Installation&lt;br /&gt;
+Sound - Installation / 2011&lt;br /&gt;
 a metal plate, a transducer, and a small amplifier&lt;br /&gt;&lt;br /&gt;
 
-This installation was done for 10th exhibition of &lt;a href=&quot;http://platte2000.blogspot.co.at/&quot; target=&quot;_blank&quot; style=&quot;text-decoration:none; color: grey&quot;&gt;&lt;i&gt;&#39;Platte&#39;&lt;/i&gt;&lt;/a&gt; &lt;br /&gt;
+This installation was done for 10th exhibition of &lt;a href=&quot;http://platte2000.blogspot.co.at/&quot; target=&quot;_blank&quot; style=&quot;text-decoration:none; color: grey&quot;&gt;&lt;i&gt;'Platte'&lt;/i&gt;&lt;/a&gt; &lt;br /&gt;
 Movements, vibrations the plate receives are amplified and played back into the room.&lt;br /&gt;&lt;br /&gt;
 &lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;/images/platte_small.jpg&quot; alt=&quot;image&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;http://localhost:4000/images/platte_small.jpg&quot; alt=&quot;image&quot; /&gt;&lt;/p&gt;
 
 </content>
  </entry>
@@ -361,8 +449,7 @@ Movements, vibrations the plate receives are amplified and played back into the 
 &lt;h4&gt;&lt;a href=&quot;/2013/10/23/ancient_ancient_world&quot;&gt;Ancient Ancient World&lt;/a&gt;&lt;/h4&gt;
 
 &lt;p&gt;
-2009/10&lt;br /&gt;
-Installation&lt;br /&gt;
+Installation / 2009/10&lt;br /&gt;
 photography on baryt paper, car paint, pages of the newspaper Bazar&lt;br /&gt;&lt;br /&gt;
 
 Exhibition text:&lt;br /&gt;
@@ -376,15 +463,15 @@ In opposition to this haiku, which was tagged on the wall, are several photograp
 
 The different elements of the installation are tested on coherence and diverging analogies. The documentary elements are bound to a realistic representation, even though only the translation into the context of all parts sketches a picture. Intentions are hidden to the viewer at first sight and can only be reconstructed by individual associations of a possible conception.&lt;br /&gt;
 
-The titles of the images are taken form the newspaper Bazar, VW Bus T3, Toyota, Audi 80, VW Golf, Pickup (unknown) and also defined the value(price!) of the photographs itself.&lt;br /&gt;&lt;br /&gt;
+The titles of the images are taken form the newspaper Bazar, VW Bus T3, Toyota, Audi 80, VW Golf, Pickup (unknown) and also defined the value(price!) of the photographs.&lt;br /&gt;&lt;br /&gt;
 &lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;/images/ancient1.jpg&quot; alt=&quot;image&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;http://localhost:4000/images/ancient1.jpg&quot; alt=&quot;image&quot; /&gt;&lt;/p&gt;
 &lt;p&gt;&amp;nbsp;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&quot;/images/ancient2.jpg&quot; alt=&quot;image&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;http://localhost:4000/images/ancient2.jpg&quot; alt=&quot;image&quot; /&gt;&lt;/p&gt;
 &lt;p&gt;&amp;nbsp;&lt;/p&gt;
 &lt;p&gt; &lt;br /&gt;exhibition view:&lt;br /&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&quot;/images/ancient_exhib.jpg&quot; alt=&quot;image&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;http://localhost:4000/images/ancient_exhib.jpg&quot; alt=&quot;image&quot; /&gt;&lt;/p&gt;
 </content>
  </entry>
  
@@ -397,8 +484,7 @@ The titles of the images are taken form the newspaper Bazar, VW Bus T3, Toyota, 
 &lt;h4&gt;&lt;a href=&quot;/2013/10/22/zweistimmige_inventionen&quot;&gt;Zweistimmige Inventionen&lt;/a&gt;&lt;/h4&gt;
 
 &lt;p&gt;
-2008&lt;br /&gt;
-Installation&lt;br /&gt;&lt;br /&gt;
+Site Specific Installation / 2008&lt;br /&gt;&lt;br /&gt;
 
 The installation “Zweistimmige Inventionen” has been designed for the Prospekthof Semperdepot of the Academy of Fine Arts Vienna and consists of the following components:&lt;br /&gt;&lt;br /&gt;
 
@@ -406,7 +492,7 @@ A swing from a playground that was extended with hawsers (ropes) from the roof f
 
 A hi-fi system / ghetto blaster.&lt;br /&gt;
 
-The recordings of the fifteen Two-Part Inventions and one Three-Part Sinfonia of J.S.Bach, that I have learned for this work and recorded myself.&lt;br /&gt;
+The recordings of the fifteen Two-Part Inventions and one Three-Part Sinfonia of J.S.Bach, which I have learned for this work and recorded myself.&lt;br /&gt;
 
 A framed image that shows the wooden framework for a swing at a playground, where the swing is missing and the ground is covered with additional soil.&lt;br /&gt;
 
@@ -415,21 +501,21 @@ Considerations to the themes, areas and associations, which could form some of t
 
 &lt;p&gt; &lt;br /&gt;exhibition view:&lt;br /&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;/images/schaukel1.jpg&quot; alt=&quot;image&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;http://localhost:4000/images/schaukel1.jpg&quot; alt=&quot;image&quot; /&gt;&lt;/p&gt;
 &lt;p&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&quot;/images/schaukel2.jpg&quot; alt=&quot;image&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;http://localhost:4000/images/schaukel2.jpg&quot; alt=&quot;image&quot; /&gt;&lt;/p&gt;
 &lt;p&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&quot;/images/schaukel3.jpg&quot; alt=&quot;image&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;http://localhost:4000/images/schaukel3.jpg&quot; alt=&quot;image&quot; /&gt;&lt;/p&gt;
 </content>
  </entry>
  
  <entry>
-   <title>Bikes_and_birds</title>
-   <link href="http://tricx.github.io/2013/10/21/bikes_and_birds"/>
+   <title>Bicycle_and_birds</title>
+   <link href="http://tricx.github.io/2013/10/21/bicycle_and_birds"/>
    <updated>2013-10-21T00:00:00+02:00</updated>
-   <id>http://tricx.github.io/2013/10/21/bikes_and_birds</id>
+   <id>http://tricx.github.io/2013/10/21/bicycle_and_birds</id>
    <content type="html">
-&lt;h4&gt;&lt;a href=&quot;/2013/10/21/bikes_and_birds&quot;&gt;Bikes and Birds&lt;/a&gt;&lt;/h4&gt;
+&lt;h4&gt;&lt;a href=&quot;/2013/10/21/bicycle_and_birds&quot;&gt;Bicycle and Birds&lt;/a&gt;&lt;/h4&gt;
 
 &lt;p&gt;
 2008&lt;br /&gt;
@@ -438,8 +524,9 @@ video (6mn 30)&lt;br /&gt;&lt;br /&gt;
 The video shows the traces of the tires of a bicycle, during a ride through the city. The traces appear like oscillating lines that lay over the erratic movements and interferences of the structure of the ground. The audio track gives an anticipation of the urban surrounding, interferences between the noise of the pedals and the events on the street occur.&lt;br /&gt;&lt;br /&gt;
 &lt;/p&gt;
 
-&lt;iframe width=&quot;100%&quot; height=&quot;384&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot; webkitallowfullscreen=&quot;&quot; src=&quot;http://player.vimeo.com/video/84548536?title=0&amp;amp;byline=0&amp;amp;portrait=0&quot;&gt;
-&lt;/iframe&gt;
+&lt;video preload=&quot;metadata&quot; poster=&quot;http://localhost:4000/images/bike_poster.jpg&quot; width=&quot;100%&quot; height=&quot;100%&quot; controls=&quot;&quot;&gt;
+  &lt;source src=&quot;http://localhost:4000/images/bike_small.mp4&quot; type=&quot;video/mp4&quot; /&gt;
+&lt;/video&gt;
 
 &lt;p&gt;
 &lt;br /&gt;&lt;br /&gt;
@@ -449,8 +536,9 @@ Videoloop (4mn)&lt;br /&gt;&lt;br /&gt;
 Birds in a cage.&lt;br /&gt;&lt;br /&gt;
 &lt;/p&gt;
 
-&lt;iframe width=&quot;100%&quot; height=&quot;384&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot; webkitallowfullscreen=&quot;&quot; src=&quot;http://player.vimeo.com/video/79397224?title=0&amp;amp;byline=0&amp;amp;portrait=0&quot;&gt;
-&lt;/iframe&gt;
+&lt;video preload=&quot;metadata&quot; poster=&quot;http://localhost:4000/images/birds_poster.jpg&quot; width=&quot;100%&quot; height=&quot;100%&quot; controls=&quot;&quot;&gt;
+  &lt;source src=&quot;http://localhost:4000/images/birds_small.mp4&quot; type=&quot;video/mp4&quot; /&gt;
+&lt;/video&gt;
 
 </content>
  </entry>
@@ -464,34 +552,31 @@ Birds in a cage.&lt;br /&gt;&lt;br /&gt;
 &lt;h4&gt;&lt;a href=&quot;/2013/10/20/derive&quot;&gt;Derive&lt;/a&gt;&lt;/h4&gt;
 
 &lt;p&gt;
-2008&lt;br /&gt;
-Installation&lt;br /&gt;
+Installation / 2008&lt;br /&gt;
 photography, baryt paper (copied from a super8 film)&lt;br /&gt;&lt;br /&gt;
 
 During a research on the impact of architectonic structures in the city of Glasgow, I filmed one roll of super8 film, which shows outlying areas and seemingly abandoned housing projects. This film was later copied to negative film, reproduced as scene stills on baryt paper. They were shown as an arrangement in a light box with an additional external light bulb.&lt;br /&gt;&lt;br /&gt;
 
-The technique the Situationists used to study urban areas is called psychogeography. The interaction of the researcher with the environment, architectural signs, specific regions or similarities of functional characteristics are tested, as the researchers draw an imaginary map with their motions and decisions - a kind of &#39;interactive motion parameter&#39;.&lt;br /&gt;
+The technique the Situationists used to study urban areas is called psychogeography. The interaction of the researcher with the environment, architectural signs, specific regions or similarities of functional characteristics are tested, as the researchers draw an imaginary map with their motions and decisions - a kind of ‘interactive motion parameter’.&lt;br /&gt;&lt;br /&gt;
 That means you have to expose yourself to random signs and let yourself be lead through them, to observe decision making (e.g. particularities that you are attracted to, which direction you choose etc.) to make both, individual operations, and the urban structure visible.&lt;br /&gt;&lt;br /&gt;
 
-In connection with the implementation of the aesthetic components of modern architecture, which was already overruled at the time of the construction of the “high rise buildings” in Glasgow, the readability and interpretation of the signs there is different compared to historically grown towns. 
-(As a model, housing projects in Marseille, realised from the plans of the architect Le Corbusier, provided a basis for this certain type of buildings in Glasgow.)
-That also affects the possibilities of differentiation.
+In connection with the implementation of the aesthetic components of modern architecture, which was already overruled at the time of the construction of the high rise buildings in Glasgow, the readability and interpretation of the signs there is different compared to historically grown towns. For example the basis for this certain type of buildings in Glasgow is provided by the housing projects in Marseille, realised from the plans of the architect Le Corbusier. That also affects the possibilities of differentiation. On the one hand, architecture proves as an archive of an economic and political condition at the date of its construction, then again it asks for a transfer into the actual time.
 &lt;br /&gt;
-On the one hand side architecture proves as an archive of an economic and political condition at the date of its construction, then again asks for a &#39;transfer&#39; into the actual time.&lt;br /&gt;
-Architecture is an object of the social conditions, as it assigns humans to their environment, structures interaction and proves the status of power. Despite the disappearance of all these uninhabited, decayed buildings and the restructuring of the urban sphere, those signs for the consequences of the &#39;efficiency&#39; will be more covered in the future, and the implemented signs and codes will eventually shift, but won’t stop to show their impact.&lt;br /&gt;&lt;br /&gt;
+On the one hand side architecture proves as an archive of an economic and political condition at the date of its construction, then again asks for a 'transfer' into the actual time.&lt;br /&gt;
+Architecture is an object of the social conditions, as it assigns humans to their environment, structures interaction and proves the status of power. Despite the disappearance of all these uninhabited, decayed buildings and the restructuring of the urban sphere, those signs for the consequences of the 'efficiency' will be more covered in the future, and the implemented signs and codes will eventually shift, but won’t stop to show their impact.&lt;br /&gt;&lt;br /&gt;
 &lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;/images/derive3.jpg&quot; alt=&quot;image&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;http://localhost:4000/images/derive3.jpg&quot; alt=&quot;image&quot; /&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;/images/derive1.jpg&quot; alt=&quot;image&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;http://localhost:4000/images/derive1.jpg&quot; alt=&quot;image&quot; /&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;/images/derive2.jpg&quot; alt=&quot;image&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;http://localhost:4000/images/derive2.jpg&quot; alt=&quot;image&quot; /&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;/images/derive7.jpg&quot; alt=&quot;image&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;http://localhost:4000/images/derive7.jpg&quot; alt=&quot;image&quot; /&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;/images/derive5.jpg&quot; alt=&quot;image&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;http://localhost:4000/images/derive5.jpg&quot; alt=&quot;image&quot; /&gt;&lt;/p&gt;
 &lt;p&gt; &lt;br /&gt;exhibition view:&lt;br /&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&quot;/images/derive6.jpg&quot; alt=&quot;image&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;http://localhost:4000/images/derive6.jpg&quot; alt=&quot;image&quot; /&gt;&lt;/p&gt;
 
 </content>
  </entry>
@@ -505,8 +590,7 @@ Architecture is an object of the social conditions, as it assigns humans to thei
 &lt;h4&gt;&lt;a href=&quot;/2013/10/18/noircir&quot;&gt;Noircir&lt;/a&gt;&lt;/h4&gt;
 
 &lt;p&gt;
-2007&lt;br /&gt;
-Performance&lt;br /&gt;
+Performance / 2007&lt;br /&gt;
 video, photography&lt;br /&gt;&lt;br /&gt;
 
 With oil paint, chalk, and edding I wrote on a canvas (250cm x 180cm). The text has been invented during the work process.&lt;br /&gt;
@@ -514,13 +598,13 @@ With oil paint, chalk, and edding I wrote on a canvas (250cm x 180cm). The text 
 
 &lt;p&gt; &lt;br /&gt;scenes:&lt;br /&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;/images/noircir1.jpg&quot; alt=&quot;image&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;http://localhost:4000/images/noircir1.jpg&quot; alt=&quot;image&quot; /&gt;&lt;/p&gt;
 &lt;p&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&quot;/images/noircir2.jpg&quot; alt=&quot;image&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;http://localhost:4000/images/noircir2.jpg&quot; alt=&quot;image&quot; /&gt;&lt;/p&gt;
 &lt;p&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&quot;/images/noircir3.jpg&quot; alt=&quot;image&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;http://localhost:4000/images/noircir3.jpg&quot; alt=&quot;image&quot; /&gt;&lt;/p&gt;
 &lt;p&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&quot;/images/noircir4.jpg&quot; alt=&quot;image&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;http://localhost:4000/images/noircir4.jpg&quot; alt=&quot;image&quot; /&gt;&lt;/p&gt;
 
 </content>
  </entry>
@@ -534,8 +618,7 @@ With oil paint, chalk, and edding I wrote on a canvas (250cm x 180cm). The text 
 &lt;h4&gt;&lt;a href=&quot;/2013/10/17/undefined_falling_objects&quot;&gt;Undefined Falling Objects&lt;/a&gt;&lt;/h4&gt;
 
 &lt;p&gt;
-2006&lt;br /&gt;
-Film - Installation&lt;br /&gt;
+Film - Installation / 2006&lt;br /&gt;
 super8-loop (3mn10)&lt;br /&gt;&lt;br /&gt;
 
 The concept for both Super8 Film and Installation settings was developed and realised for one of the rooms of the bunker Flakleitturm Arenbergpark in Vienna.&lt;br /&gt;
@@ -544,10 +627,10 @@ The film loop shows permanently turning maple seeds, in density and speed variab
 &lt;/p&gt;
 
 &lt;p&gt; &lt;br /&gt;still image:&lt;br /&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&quot;/images/ufo1.jpg&quot; alt=&quot;image&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;http://localhost:4000/images/ufo1.jpg&quot; alt=&quot;image&quot; /&gt;&lt;/p&gt;
 &lt;p&gt;&lt;/p&gt;
 &lt;p&gt; &lt;br /&gt;exhibition view (Flakleitturm Arenbergpark):&lt;br /&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&quot;/images/ufo.jpg&quot; alt=&quot;image&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;http://localhost:4000/images/ufo.jpg&quot; alt=&quot;image&quot; /&gt;&lt;/p&gt;
 
 </content>
  </entry>
@@ -561,8 +644,7 @@ The film loop shows permanently turning maple seeds, in density and speed variab
 &lt;h4&gt;&lt;a href=&quot;/2013/10/16/rasenmaeher&quot;&gt;Rasenmaeher&lt;/a&gt;&lt;/h4&gt;
 
 &lt;p&gt;
-2006&lt;br /&gt;
-Landart - performance&lt;br /&gt;
+Landart - performance / 2006&lt;br /&gt;
 video (17mn 15)&lt;br /&gt;&lt;br /&gt;
 
 Working title: “Eine Einstellung zur Arbeit”&lt;br /&gt;&lt;br /&gt;
@@ -571,7 +653,7 @@ A lawnmower driving in circles, mowing the grass. The camera position and angle 
 &lt;/p&gt;
 
 &lt;p&gt; &lt;br /&gt;still image:&lt;br /&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&quot;/images/rasenmaeher1.jpg&quot; alt=&quot;image&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;http://localhost:4000/images/rasenmaeher1.jpg&quot; alt=&quot;image&quot; /&gt;&lt;/p&gt;
 
 </content>
  </entry>
@@ -585,65 +667,18 @@ A lawnmower driving in circles, mowing the grass. The camera position and angle 
 &lt;h4&gt;&lt;a href=&quot;/2013/10/01/flieger&quot;&gt;Flieger&lt;/a&gt;&lt;/h4&gt;
 
 &lt;p&gt;
-2004&lt;br /&gt;
-Action&lt;br /&gt;
+Action / 2004&lt;br /&gt;
 paper planes&lt;br /&gt;&lt;br /&gt;
 
 Happening during the entrance examinations at the academy of fine arts Vienna.&lt;br /&gt;&lt;br /&gt;
 &lt;/p&gt;
 
 &lt;p&gt;video stills:&lt;br /&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&quot;/images/flieger.jpg&quot; alt=&quot;image&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;http://localhost:4000/images/flieger.jpg&quot; alt=&quot;image&quot; /&gt;&lt;/p&gt;
 &lt;p&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&quot;/images/flieger1.jpg&quot; alt=&quot;image&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;http://localhost:4000/images/flieger1.jpg&quot; alt=&quot;image&quot; /&gt;&lt;/p&gt;
 &lt;p&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&quot;/images/flieger2.jpg&quot; alt=&quot;image&quot; /&gt;&lt;/p&gt;
-
-</content>
- </entry>
- 
- <entry>
-   <title>Sound</title>
-   <link href="http://tricx.github.io/2010/02/24/sound"/>
-   <updated>2010-02-24T00:00:00+01:00</updated>
-   <id>http://tricx.github.io/2010/02/24/sound</id>
-   <content type="html">
-&lt;p&gt;lecture / performance at alexandrinsky theater, St Petersburg, nov 2016&lt;br /&gt;
-&lt;br /&gt;
-amplifiers, filter, analoguemodules, real-time audio software / Supercollider, contact microphones&lt;br /&gt;
-Electronic circuits are interconnected to cause semi-natural entities, autonomous organisms, half-animals. The electronic machine functions as an organic entity, voice and articulation is generated through loops in feedback networks. Continuous ecosystems, archaic animal-noise-transmission, onomatopoeia.&lt;br /&gt;&lt;/p&gt;
-
-&lt;video preload=&quot;metadata&quot; poster=&quot;/images/alex_poster.jpg&quot; width=&quot;100%&quot; height=&quot;100%&quot; controls=&quot;&quot;&gt;
-  &lt;source src=&quot;/images/alex_small.mp4&quot; type=&quot;video/mp4&quot; /&gt;
-&lt;/video&gt;
-
-&lt;p&gt;&lt;br /&gt;&lt;br /&gt;
-live at cabaret poulet #2, mo.ë, sept 2016&lt;br /&gt;
-&lt;video preload=&quot;metadata&quot; poster=&quot;/images/cb_poster_small.jpg&quot; width=&quot;100%&quot; height=&quot;100%&quot; controls=&quot;&quot;&gt;
-  &lt;source src=&quot;/images/cabaret_poulet_small.mp4&quot; type=&quot;video/mp4&quot; /&gt;
-&lt;/video&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;br /&gt;&lt;br /&gt;
-live at struma+iodine, rhiz, jun 2016&lt;br /&gt;
-&lt;video preload=&quot;metadata&quot; poster=&quot;/images/rhiz_poster_small.jpg&quot; width=&quot;100%&quot; height=&quot;100%&quot; controls=&quot;&quot;&gt;
-  &lt;source src=&quot;/images/rhiz_small.mp4&quot; type=&quot;video/mp4&quot; /&gt;
-&lt;/video&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;br /&gt;&lt;br /&gt;
-Audio - Visual Performance / Faux Terrain - Claudia Larcher, may 2016&lt;br /&gt;
-&lt;video preload=&quot;metadata&quot; poster=&quot;/images/faux_poster.jpg&quot; width=&quot;100%&quot; height=&quot;100%&quot; controls=&quot;&quot;&gt;
-  &lt;source src=&quot;/images/fauxterrain_small.mp4&quot; type=&quot;video/mp4&quot; /&gt;
-&lt;/video&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;br /&gt;&lt;br /&gt;
-live at parallel, 2015&lt;br /&gt;
-&lt;video preload=&quot;metadata&quot; poster=&quot;/images/parallel_poster.jpg&quot; width=&quot;100%&quot; height=&quot;100%&quot; controls=&quot;&quot;&gt;
-  &lt;source src=&quot;/images/parallel_small.mp4&quot; type=&quot;video/mp4&quot; /&gt;
-&lt;/video&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;
-some other stuff on:&lt;br /&gt;
-&lt;a href=&quot;https://soundcloud.com/cabaretpoulet&quot; style=&quot;color:red&quot; target=&quot;_blank&quot;&gt; SOUNDCLOUD &lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;http://localhost:4000/images/flieger2.jpg&quot; alt=&quot;image&quot; /&gt;&lt;/p&gt;
 
 </content>
  </entry>
@@ -659,7 +694,7 @@ some other stuff on:&lt;br /&gt;
 
 At the moment Paul Gründorfer is using process-related setups to explore sonic worlds and to realise site specific interventions, developing real time audio systems, that act autonomous or in reference to the spatial constellation. While considering the encounters between analog and digital, structured or improvised elements, he is focusing on the abstract occurrence of sound and its physical impact.&lt;br /&gt;
 Electronic circuits are interconnected to cause semi-natural entities, autonomous organisms. Voice and articulation are generated through loops in feedback networks. Onomatopoeia.&lt;br /&gt;
-Artistic activities examine the connections of acoustic and visual transmitter - receiver networks. The topic transmitter - receiver is assumed as a conceptual framework for process-related experiments with of sound, light and transmission of information, but also refers to the applied research methods themselves.
+Artistic activities examine the connections of acoustic and visual transmitter - receiver networks. The topic transmitter - receiver is assumed as a conceptual framework for process-related experiments with of sound, light and transmission of information, but also refers to the applied research methods.
 
 
 
@@ -672,7 +707,10 @@ Artistic activities examine the connections of acoustic and visual transmitter -
 
 
 contact:&lt;br /&gt;
-paul[at]lefant.net&lt;br /&gt;
+paul[at]lefant.net
+&lt;br /&gt;&lt;br /&gt;
+some other stuff on: &lt;a href=&quot;https://soundcloud.com/t_a-z&quot; style=&quot;color:red&quot; target=&quot;_blank&quot;&gt; SOUNDCLOUD&lt;/a&gt;
+
 
 
 

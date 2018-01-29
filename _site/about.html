@@ -75,14 +75,6 @@ Works.htlm
 
         
 
-Archive.htlm
-
-
-
-----------here
-
-        
-
 Sound.htlm
 
 
@@ -122,28 +114,21 @@ Now.htlm
   
     
 
-      <li id="navi_pages2"><a href="/archive.html">Archive</a></li>
+      <li id="navi_pages2"><a href="/sound.html">Sound</a></li>
     
     
 
   
     
 
-      <li id="navi_pages3"><a href="/sound.html">Sound</a></li>
+      <li id="navi_pages3"><a href="/about.html">About</a></li>
     
     
 
   
     
 
-      <li id="navi_pages4"><a href="/about.html">About</a></li>
-    
-    
-
-  
-    
-
-      <li id="navi_pages5"><a href="/now.html">Now</a></li>
+      <li id="navi_pages4"><a href="/now.html">Now</a></li>
     
     
 
@@ -184,6 +169,10 @@ Now.htlm
       	
       	<li><a href="/archive">archive</a></li>
       	
+      
+    
+  
+    
       
     
   
@@ -348,7 +337,7 @@ a {color:grey;
 
 At the moment Paul Gründorfer is using process-related setups to explore sonic worlds and to realise site specific interventions, developing real time audio systems, that act autonomous or in reference to the spatial constellation. While considering the encounters between analog and digital, structured or improvised elements, he is focusing on the abstract occurrence of sound and its physical impact.<br />
 Electronic circuits are interconnected to cause semi-natural entities, autonomous organisms. Voice and articulation are generated through loops in feedback networks. Onomatopoeia.<br />
-Artistic activities examine the connections of acoustic and visual transmitter - receiver networks. The topic transmitter - receiver is assumed as a conceptual framework for process-related experiments with of sound, light and transmission of information, but also refers to the applied research methods themselves.
+Artistic activities examine the connections of acoustic and visual transmitter - receiver networks. The topic transmitter - receiver is assumed as a conceptual framework for process-related experiments with of sound, light and transmission of information, but also refers to the applied research methods.
 
 
 
@@ -361,7 +350,10 @@ Artistic activities examine the connections of acoustic and visual transmitter -
 
 
 contact:<br />
-paul[at]lefant.net<br />
+paul[at]lefant.net
+<br /><br />
+some other stuff on: <a href="https://soundcloud.com/t_a-z" style="color:red" target="_blank"> SOUNDCLOUD</a>
+
 
 
 
@@ -407,7 +399,7 @@ paul[at]lefant.net<br />
     <footer>
    <!--   <div class="indent-text">
          <p>the impressum
-        &copy;2017 Paul Gruendorfer
+        &copy;2018 Paul Gruendorfer
         </p> 
       </div> -->
       <div class="distance2">&nbsp;</div>
@@ -420,7 +412,7 @@ paul[at]lefant.net<br />
     <!-- page:
 
 
-{"layout"=>"page", "title"=>"about", "header"=>"tricx - about", "group"=>"navigation", "show_worktitle_sidebar"=>true, "content"=>"<head>\n<style>\nbody{\n  background-image:none;\n  background-color: black !important;\n}\na {color:grey;\n}\n.container-narrow {background-color: black; color:#e6e6e6; font-weight:lighter;\n}\n.navbar-inner\n{   \n    color:white !important;\n    background-color: black !important;\n}\n</style>\n</head>\n\n\n\n\n\n\n\n\n<div>\n \n  \n  \n      \n\n\n  \n    <div class=\"distance\">\n      <hr>\n      \n<div style=\"font-weight:lighter\">\n\n\nAt the moment Paul Gründorfer is using process-related setups to explore sonic worlds and to realise site specific interventions, developing real time audio systems, that act autonomous or in reference to the spatial constellation. While considering the encounters between analog and digital, structured or improvised elements, he is focusing on the abstract occurrence of sound and its physical impact.<br />\nElectronic circuits are interconnected to cause semi-natural entities, autonomous organisms. Voice and articulation are generated through loops in feedback networks. Onomatopoeia.<br />\nArtistic activities examine the connections of acoustic and visual transmitter - receiver networks. The topic transmitter - receiver is assumed as a conceptual framework for process-related experiments with of sound, light and transmission of information, but also refers to the applied research methods themselves.\n\n\n\n\n\n\n\n<br />\n<br />\n\n\ncontact:<br />\npaul[at]lefant.net<br />\n\n\n\n\n\n\n</div>\n\n\n    </div>\n  \n        \n  \n \n  \n \n  \n \n  \n\n</div>\n\n\n\n\n\n\n\n\n\t\t\t\t", "dir"=>"/", "name"=>"about.html", "path"=>"about.html", "url"=>"/about"} -->
+{"layout"=>"page", "title"=>"about", "header"=>"tricx - about", "group"=>"navigation", "show_worktitle_sidebar"=>true, "content"=>"<head>\n<style>\nbody{\n  background-image:none;\n  background-color: black !important;\n}\na {color:grey;\n}\n.container-narrow {background-color: black; color:#e6e6e6; font-weight:lighter;\n}\n.navbar-inner\n{   \n    color:white !important;\n    background-color: black !important;\n}\n</style>\n</head>\n\n\n\n{% comment %}\n\n<head>\n<style>\na {color:rgb(200,200,200);\n}\n.container-narrow {background-color: black; color:rgb(200,200,200);\n}\n</style>\n</head>\n\n\n\n<div class=\"page-header\">\n\t   {% comment %}\n      <h3>{{ page.title }} {% if page.tagline %} <small>{{ page.tagline }}</small>{% endif %}</h3>\n  \t {% endcomment %}\n  <h3>VISUAL</h3>\n</div>\n\n\n\n{% endcomment %}\n\n\n\n\n<div>\n{% for tag in site.tags %} \n  {% if page.title == tag[0] %}\n  \n      {% comment %}\n      <ul class=\"unstyled\">\n          {% assign pages_list = tag[1] %}  \n          {% include JB/pages_list %}\n      </ul>\n      {{tag[1]}}\n      {% endcomment %}\n\n\n  {% for items in tag[1] %}\n    <div class=\"distance\">\n      <hr>\n      {{items.content}}\n    </div>\n  {% endfor %}\n        \n  {% endif %}\n{% endfor %}\n</div>\n\n\n\n\n{% comment %}\n      <h4><a href=\"{{ BASE_PATH }}{{ post.url }}\">{{ post.date | date_to_string }}</a></h4> \n    <h4><a href=\"{{ BASE_PATH }}{{ post.url }}\">{{ post.title }}</a></h4>\n\n    <p>&nbsp;</p>\n  {{post.content}}\n    <p>&nbsp;</p>\n{% endcomment %}\n\n\n\n\t\t\t\t", "dir"=>"/", "name"=>"about.html", "path"=>"about.html", "url"=>"/about"} -->
 
 
 
