@@ -46,8 +46,8 @@ excerpts of vlf-recordings at different locations:
 <p></p>
 <audio controls style="width: 100%" preload="none">
   <source src="{{ site.url }}/images/vlf_recordings_small.mp3" type="audio/mpeg">
-
 </audio>
+
 <br /><br />
 
 Among other things, the tour in the Magellan region in Chile dealt with the question of how places can be recorded in terms of sound, and whether topology can be taken as a starting point for experiments with sound. The route first went from Punta Arenas to Cerro Sombrero and Parque Karukinka in the Tierra del Fuego region and then by sea to Puerto Williams and Cape Horn, covering parts of the Strait of Magellan, which was discovered during the first circumnavigation of the world in 1520 and also sailed by Charles Darwin on the 1834 expedition on the HMS Beagle. The Magellan region in Chile is, on a global scale, a remote territory and only marginally populated. Of the indigenous peoples who used to live there, who were exterminated by diseases and planned expulsions, there is no comprehensive documentation available. Martin Gusinde, an Austrian anthropologist and missionary, undertook several expeditions between 1918 and 1924 to explore the indigenous tribes of the Yagan, leaving behind a small photo collection and other records. Now, in addition to the large port facilities and the production stations of the state-owned oil company ENAP in the region around Punta Arenas, in the south at Puerto Williams mainly military bases, nature parks and sporadic tourist stations can be found. In between there are large uninhabited and inaccessible zones that can only be seen passing by with transport ships.<br />
