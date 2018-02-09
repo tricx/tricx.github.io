@@ -17,13 +17,13 @@ JB :
 	{% endif %}
 {% endfor %}
 
+
+
+<embed src="{{ site.url }}/images/IFP_proposal.pdf" type="application/pdf" /><br /><br />
+
+<embed src="{{ site.url }}/images/IFP_Portfolio_EN_small.pdf" type="application/pdf" /><br /><br />
+
 <p>
-
-<embed src="{{ site.url }}/images/IFP_proposal.pdf" type="application/pdf" /><br />
-<p></p>
-<embed src="{{ site.url }}/images/IFP_Portfolio_EN_small.pdf" type="application/pdf" /><br />
-
-
 recording of pigeon whistles, Beijing 2012:<br />
 <p></p>
 <audio controls style="width: 100%" preload="none">
