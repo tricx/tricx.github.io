@@ -19,9 +19,9 @@ JB :
 
 <p>
 
-<embed src="{{ site.url }}/images/IFP_proposal.pdf" type="application/pdf" />
+<embed src="{{ site.url }}/images/IFP_proposal.pdf" type="application/pdf" /><br />
 <p></p>
-<embed src="{{ site.url }}/images/IFP_Portfolio_EN_small.pdf" type="application/pdf" />
+<embed src="{{ site.url }}/images/IFP_Portfolio_EN_small.pdf" type="application/pdf" /><br />
 
 
 recording of pigeon whistles, Beijing 2012:<br />
