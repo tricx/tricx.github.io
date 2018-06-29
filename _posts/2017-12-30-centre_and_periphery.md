@@ -65,18 +65,19 @@ The project Centre and Periphery picked up this field of tension in order to dea
 <p></p>
 <img src="{{ site.url }}/images/drachen_antenna_small.jpg" alt="image">
 <p></p>
-<img src="{{ site.url }}/images/drachen_recorder_small.jpg" alt="image">
-<p></p>
 <img src="{{ site.url }}/images/drachen_cape_horn_small.jpg" alt="image">
+<p></p>
 
 {% comment %}
-<p></p>
 <img src="{{ site.url }}/images/drachen_bahia_inutil_small.jpg" alt="image">
-{% endcomment %}
-<p></p>
-<img src="{{ site.url }}/images/drachen_map.jpg" alt="image">
 <p></p>
 <img src="{{ site.url }}/images/drachen_puerto_williams_small.jpg" alt="image">
+<p></p>
+{% endcomment %}
+
+<img src="{{ site.url }}/images/drachen_map.jpg" alt="image">
+<p></p>
+<img src="{{ site.url }}/images/drachen_recorder_small.jpg" alt="image">
 <p></p>
 <img src="{{ site.url }}/images/drachen_cape_horn2_small.jpg" alt="image">
 <p></p>
