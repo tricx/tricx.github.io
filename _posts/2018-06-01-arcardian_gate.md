@@ -40,13 +40,13 @@ The Arcadian Gate is a monumental construction built of gigantic awe inspiring l
 <img src="{{ site.url }}/images/arcardian_gate_night_sm.jpg" alt="image">
 
 
-{% comment %}
-
 <p></p>
 <audio controls style="width: 100%" preload="none">
-  <source src="{{ site.url }}/images/vlf_recordings_small.mp3" type="audio/mpeg">
+  <source src="{{ site.url }}/images/arcardian_gate_short.mp3" type="audio/mpeg">
 </audio>
 
+
+{% comment %}
 <p></p>
 <img src="{{ site.url }}/images/arcardian_gate_detector_sm.jpg" alt="image">
 {% endcomment %}
