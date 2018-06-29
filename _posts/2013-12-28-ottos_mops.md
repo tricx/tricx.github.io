@@ -36,8 +36,8 @@ The robot moves around the exhibition space, orienting itself based on the event
 	<a href="http://www.heterotypia/" target="_blank" style="text-decoration:none; color: grey">
 	<i>Natalie Deewan</i></a>
 </p>
-<img src="{{ site.url }}/images/petit_conferencier_card_I.jpg" alt="image">
-<img src="{{ site.url }}/images/petit_conferencier_card_II.jpg" alt="image">
+<img src="{{ site.url }}/images/petit_conferencier_card_I_sm.jpg" alt="image">
+<img src="{{ site.url }}/images/petit_conferencier_card_II_sm.jpg" alt="image">
 
 
 
