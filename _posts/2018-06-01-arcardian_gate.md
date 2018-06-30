@@ -12,7 +12,7 @@ JB :
 
 {% for post in site.posts %}
 	{% assign pt = post.title | downcase %}
-	{% if 'centre_and_periphery' == pt %}
+	{% if 'arcardian_gate' == pt %}
 <h4><a href="{{ BASE_PATH }}{{ post.url }}">Arcardian Gate / Limbo</a></h4>
 	{% endif %}
 {% endfor %}
