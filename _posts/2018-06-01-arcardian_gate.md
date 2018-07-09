@@ -28,7 +28,11 @@ Natural radio frequencies, that are caused by meteorological phenomena, are tran
 
 The western Gate of Ancient Messene, called Arcadian Gate, is preserved in relatively good condition and since the time of the early travelers it has become the symbol of the city depicted repeatedly on engravings.
 The Arcadian Gate is a monumental construction built of gigantic awe inspiring limestone blocks. Its shape is circular with two entrances, a double one in the interior and an external one, the latter being protected on either side by two square-shaped towers. The circular area inside the Gate has two niches, one on each side of the entrance where a Hermaic stele stood. God Hermes appears under his capacity as Propylaios, that is, the protector of Gates. Above the north niche one can read the following inscription: Κoιντος Πλώτιος Ευφημίων επεσκεύασεν Cointus Plotius Euphemion restored (the Gate).<br />
-(from http://wikimapia.org/4832019/Arcadian-Gate)
+
+(from
+<a href="http://wikimapia.org/4832019/Arcadian-Gate" target="_blank">
+http://wikimapia.org/4832019/Arcadian-Gate</a>
+) 
 <br /><br />
 
 
