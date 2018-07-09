@@ -56,9 +56,9 @@ The project Centre and Periphery picked up this field of tension in order to dea
 </p>
 
 This project was supported by the Embassy of Austria in Chile, BKA, and SKE - Austro Mechana
-<img src="{{ site.url }}/images/logo_embajada.png" alt="image" width="42">
-<img src="{{ site.url }}/images/logo_bka.png" alt="image" width="42">
-<img src="{{ site.url }}/images/logo_ske.jpg" alt="image" width="42">
+<img src="{{ site.url }}/images/logo_embajada.png" alt="image" width="62">
+<img src="{{ site.url }}/images/logo_bka.png" alt="image" width="62">
+<img src="{{ site.url }}/images/logo_ske.jpg" alt="image" width="62">
 
 <br /><br />
 
