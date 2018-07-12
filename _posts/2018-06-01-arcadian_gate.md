@@ -23,7 +23,7 @@ vlf antenna, audio modulated laser, solar-cell detector, loudspeaker<br />
 Tuned City, organised by Carsten Stabenow<br />
 Ancient Messene, Mavromati, Greece<br />
 
-<br /><br />
+<br />
 Natural radio frequencies, that are caused by meteorological phenomena, are transmitted by a laser through the Arcadian Gate of Ancient Messene and received on the other side of the walls by a detector. The detected sound is diffused by a loudspeaker and resonating through the gate.<br /><br />
 
 The western Gate of Ancient Messene, called Arcadian Gate, is preserved in relatively good condition and since the time of the early travelers it has become the symbol of the city depicted repeatedly on engravings.
