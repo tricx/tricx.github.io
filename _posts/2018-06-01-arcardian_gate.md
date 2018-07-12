@@ -21,7 +21,7 @@ JB :
 Site Specific Installation, 2018<br />
 vlf antenna, audio modulated laser, solar-cell detector, loudspeaker<br />
 Tuned City, organised by Carsten Stabenow<br />
-Ancient Messene, Mavromati, Greece
+Ancient Messene, Mavromati, Greece<br />
 
 <br /><br />
 Natural radio frequencies, that are caused by meteorological phenomena, are transmitted by a laser through the Arcardian Gate of Ancient Messene and received on the other side of the walls by a detector. The detected sound is diffused by a loudspeaker and resonating through the gate.<br /><br />
