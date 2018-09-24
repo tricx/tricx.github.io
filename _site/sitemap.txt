@@ -16,7 +16,10 @@ http://tricx.github.io/sound
 http://tricx.github.io/tags
 http://tricx.github.io/works
 
-http://tricx.github.io/2018/01/28/sound
+http://tricx.github.io/2018/06/28/sound
+http://tricx.github.io/2018/06/27/recording
+http://tricx.github.io/2018/06/01/arcardian_gate
+http://tricx.github.io/2018/05/27/pigeons
 http://tricx.github.io/2017/12/30/centre_and_periphery
 http://tricx.github.io/2017/07/24/am_land
 http://tricx.github.io/2017/03/02/attractor

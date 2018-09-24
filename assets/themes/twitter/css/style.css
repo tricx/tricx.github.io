@@ -34,35 +34,6 @@ body { padding-top: 25px; }
     body { padding-top: 25px; }
 }
 
-#moire1 {
-  position: fixed;
-  z-index: -100;
-  display: block;
-  width: 5000px;
-  height: 5000px;
-  left: -2000px;
-  top: -2000px;
-  background-image: url('/images/moire14.png');
-  background-repeat: repeat;
-  opacity: 0.13;
-  -webkit-filter: invert(100%);
-  -moz-filter: invert(100%);
-}
-#moire2 {
-  position: fixed;
-  z-index: -99;
-  display: block;
-  width: 4000px;
-  height: 4000px;
-  left: -2000px;
-  top: -2000px;
-  background-image: url('/images/moire14.png');
-  background-repeat: repeat;
-  opacity: 0.13;
-  -webkit-transform: rotate(3deg);
-  -webkit-filter: invert(100%);
-}
-
 
 /*---------------------------*/
 /*scrollbar permanent on*/
