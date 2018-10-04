@@ -41,6 +41,8 @@ http://wikimapia.org/4832019/Arcadian-Gate</a>
 <img src="{{ site.url }}/images/arcadian_gate_laser_sm.jpg" alt="image">
 <p></p>
 <img src="{{ site.url }}/images/arcadian_gate_night_sm.jpg" alt="image">
+<p></p>
+<img src="{{ site.url }}/images/arcadian_gate2a.jpg" alt="image">
 
 
 <p></p>
