@@ -5,8 +5,8 @@
         <description>Tricx - Paul Gruendorfer</description>
         <link>http://tricx.github.io</link>
         <link>http://tricx.github.io</link>
-        <lastBuildDate>2018-09-24T21:54:29+02:00</lastBuildDate>
-        <pubDate>2018-09-24T21:54:29+02:00</pubDate>
+        <lastBuildDate>2019-03-29T13:22:31+01:00</lastBuildDate>
+        <pubDate>2019-03-29T13:22:31+01:00</pubDate>
         <ttl>1800</ttl>
 
 
@@ -15,19 +15,19 @@
                 <description>
 &lt;h4&gt;Live&lt;/h4&gt;
 
-&lt;p&gt;lecture / performance at alexandrinsky theater, St Petersburg, nov 2016&lt;br /&gt;
+&lt;p&gt;live at umbral, Museo de Arte Contemporaneo Oaxaca [MX], dec 2018&lt;br /&gt;&lt;/p&gt;
+&lt;video preload=&quot;metadata&quot; poster=&quot;http://localhost:4000/images/umbral_maco.jpg&quot; width=&quot;100%&quot; height=&quot;100%&quot; controls=&quot;&quot;&gt;
+  &lt;source src=&quot;http://localhost:4000/images/umbral_maco.mp4&quot; type=&quot;video/mp4&quot; /&gt;
+&lt;/video&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;br /&gt;
+lecture / performance at alexandrinsky theater, St Petersburg [RU], nov 2016&lt;br /&gt;
 &lt;br /&gt;
 amplifiers, filter, analoguemodules, real-time audio software / Supercollider, contact microphones&lt;br /&gt;
 Electronic circuits are interconnected to cause semi-natural entities, autonomous organisms, half-animals. The electronic machine functions as an organic entity, voice and articulation is generated through loops in feedback networks. Continuous ecosystems, archaic animal-noise-transmission, onomatopoeia.&lt;br /&gt;&lt;/p&gt;
 
 &lt;video preload=&quot;metadata&quot; poster=&quot;http://localhost:4000/images/alex_poster.jpg&quot; width=&quot;100%&quot; height=&quot;100%&quot; controls=&quot;&quot;&gt;
   &lt;source src=&quot;http://localhost:4000/images/alex_small.mp4&quot; type=&quot;video/mp4&quot; /&gt;
-&lt;/video&gt;
-
-&lt;p&gt;&lt;br /&gt;&lt;br /&gt;
-live at cabaret poulet #2, mo.ë, sept 2016&lt;br /&gt;&lt;/p&gt;
-&lt;video preload=&quot;metadata&quot; poster=&quot;http://localhost:4000/images/cb_poster_small.jpg&quot; width=&quot;100%&quot; height=&quot;100%&quot; controls=&quot;&quot;&gt;
-  &lt;source src=&quot;http://localhost:4000/images/cabaret_poulet_small.mp4&quot; type=&quot;video/mp4&quot; /&gt;
 &lt;/video&gt;
 
 &lt;p&gt;&lt;br /&gt;&lt;br /&gt;
@@ -110,6 +110,8 @@ http://wikimapia.org/4832019/Arcadian-Gate&lt;/a&gt;
 &lt;img src=&quot;http://localhost:4000/images/arcadian_gate_laser_sm.jpg&quot; alt=&quot;image&quot; /&gt;
 &lt;p&gt;&lt;/p&gt;
 &lt;img src=&quot;http://localhost:4000/images/arcadian_gate_night_sm.jpg&quot; alt=&quot;image&quot; /&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;img src=&quot;http://localhost:4000/images/arcadian_gate2a.jpg&quot; alt=&quot;image&quot; /&gt;
 
 
 &lt;p&gt;&lt;/p&gt;
@@ -518,7 +520,10 @@ The piece consists of singular tones that fill the space horizontally and create
 The pitch of the violin results from the vertical position of the note within the score; i.e. high frequencies - low frequencies. The timeframe is also relative. The task of the electronics is to extract individual sections from the played parts of the violin and to filter them slightly by means of pitch shift or granular synthesis. Due to the division into 4 channels there are focal points, but they are selected loosely. The notation makes suggestions for this, but these are understood as indications.
 &lt;/p&gt;
 
-&lt;iframe width=&quot;100%&quot; height=&quot;105&quot; scrolling=&quot;no&quot; frameborder=&quot;no&quot; src=&quot;https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/124203709&amp;amp;color=000000&amp;amp;auto_play=false&amp;amp;hide_related=false&amp;amp;show_comments=true&amp;amp;show_user=true&amp;amp;show_reposts=false;&amp;amp;show_artwork=false&quot;&gt;&lt;/iframe&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;audio controls=&quot;&quot; style=&quot;width: 100%&quot; preload=&quot;none&quot;&gt;
+  &lt;source src=&quot;http://localhost:4000/images/inaroom.mp3&quot; type=&quot;audio/mpeg&quot; /&gt;
+&lt;/audio&gt;
 
 &lt;p&gt;&lt;br /&gt;&lt;br /&gt;&lt;/p&gt;
 &lt;p&gt;&lt;img src=&quot;http://localhost:4000/images/echoraum2.jpg&quot; alt=&quot;image&quot; /&gt;&lt;/p&gt;
@@ -535,19 +540,14 @@ The pitch of the violin results from the vertical position of the note within th
 &lt;h4&gt;&lt;a href=&quot;/2013/12/10/on_a_wire&quot;&gt;On a wire&lt;/a&gt;&lt;/h4&gt;
 
 &lt;p&gt;
-for diy-zither, cymbal, contact microphone, live granular synthesis&lt;br /&gt;
+for diy-zither, cymbal, contact microphone, live granular synthesis, live recording&lt;br /&gt;
 2013&lt;br /&gt;&lt;br /&gt;
-
 &lt;/p&gt;
 
-&lt;iframe width=&quot;100%&quot; height=&quot;105&quot; scrolling=&quot;no&quot; frameborder=&quot;no&quot; src=&quot;https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/124206169&amp;amp;color=000000&amp;amp;auto_play=false&amp;amp;hide_related=false&amp;amp;show_comments=true&amp;amp;show_user=true&amp;amp;show_reposts=false;&amp;amp;show_artwork=false&quot;&gt;&lt;/iframe&gt;
-
-&lt;p&gt;
-This recording examplifies some of the sounds that can be played with an instrument I built.&lt;br /&gt;&lt;br /&gt; It consists of the following parts:&lt;br /&gt;
-Sound Processing (live granular synthesis realised in SuperCollider running on the Computer)&lt;br /&gt;
-Acoustic Input (e-Zither, cymbals, contact microphones, microphone input of other sounds)&lt;br /&gt;
-&lt;br /&gt;
-&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;audio controls=&quot;&quot; style=&quot;width: 100%&quot; preload=&quot;none&quot;&gt;
+  &lt;source src=&quot;http://localhost:4000/images/onawire.mp3&quot; type=&quot;audio/mpeg&quot; /&gt;
+&lt;/audio&gt;
 
 &lt;p&gt;&lt;img src=&quot;http://localhost:4000/images/zither.jpg&quot; alt=&quot;image&quot; /&gt;&lt;/p&gt;
 
@@ -569,10 +569,12 @@ Description of the setup:&lt;br /&gt;
 The sounds of a cassette recorder, a simple oscillator circuit and a wooden frog are recorded on an empty tape loop. The name Wilhelm‘s Punk refers to the piece Williams Mix by John Cage, in which pre-recorded and selected sounds are mounted on tape by a random system. For Wilhelm‘s Punk, sounds, which are produced during the performance are played on the tape loop and reproduced immediately. Each loop replay plays the already recorded fragments, takes up new ones and deletes older parts by accident.&lt;br /&gt;&lt;br /&gt;
 &lt;/p&gt;
 
-&lt;iframe width=&quot;100%&quot; height=&quot;105&quot; scrolling=&quot;no&quot; frameborder=&quot;no&quot; src=&quot;https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/124201065&amp;amp;color=000000&amp;amp;auto_play=false&amp;amp;hide_related=false&amp;amp;show_comments=true&amp;amp;show_user=true&amp;amp;show_reposts=false;&amp;amp;show_artwork=false&quot;&gt;&lt;/iframe&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;audio controls=&quot;&quot; style=&quot;width: 100%&quot; preload=&quot;none&quot;&gt;
+  &lt;source src=&quot;http://localhost:4000/images/wilhelmspunk.mp3&quot; type=&quot;audio/mpeg&quot; /&gt;
+&lt;/audio&gt;
 
 &lt;p&gt; &lt;br /&gt;setup:&lt;br /&gt;&lt;/p&gt;
-
 &lt;p&gt;&lt;img src=&quot;http://localhost:4000/images/wpunk_setup.jpg&quot; alt=&quot;image&quot; /&gt;&lt;/p&gt;
 
 </description>
@@ -852,8 +854,7 @@ Happening during the entrance examinations at the academy of fine arts Vienna.&l
 
 Paul Gründorfer is using process-related setups to explore sonic worlds and to realise site specific interventions, developing real time audio systems, that act autonomous or in reference to the spatial constellation. While considering the encounters between analog and digital, structured or improvised elements, he is focusing on the abstract occurrence of sound and its physical impact.&lt;br /&gt;
 Electronic circuits are interconnected to cause semi-natural entities, autonomous organisms. Voice and articulation are generated through loops in feedback networks. Onomatopoeia.&lt;br /&gt;
-Artistic activities examine the connections of acoustic and visual transmitter - receiver networks. The topic transmitter - receiver is assumed as a conceptual framework for process-related experiments with of sound, light and transmission of information, but also refers to the applied research methods.
-
+His artistic activities examine variable connections between transmitter-receiver networks, which function as a conceptual framework for experimentation with sound and transmission of information.
 
 
 
