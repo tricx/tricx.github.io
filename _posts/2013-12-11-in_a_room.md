@@ -1,7 +1,7 @@
 ---
 published: true
 layout: post
-tags: sound
+tags: 
 JB :
   analytics : false
 ---
