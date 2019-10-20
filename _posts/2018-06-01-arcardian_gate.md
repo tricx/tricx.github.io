@@ -47,11 +47,17 @@ http://wikimapia.org/4832019/Arcadian-Gate</a>
 
 <p></p>
 <audio controls style="width: 100%" preload="none">
-  <source src="{{ site.url }}/images/arcadian_gate_short.mp3" type="audio/mpeg">
+  <source src="{{ site.url }}/images/arcadian_gate_doku.mp3" type="audio/mpeg">
 </audio>
 
 
 {% comment %}
+
+<p></p>
+<audio controls style="width: 100%" preload="none">
+  <source src="{{ site.url }}/images/arcadian_gate_short.mp3" type="audio/mpeg">
+</audio>
+
 <p></p>
 <img src="{{ site.url }}/images/arcadian_gate_detector_sm.jpg" alt="image">
 {% endcomment %}
