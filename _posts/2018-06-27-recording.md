@@ -29,7 +29,6 @@ recording of pigeon whistles, Beijing 2012:<br />
 <audio controls style="width: 100%" preload="none">
   <source src="{{ site.url }}/images/pigeon_whistles.mp3" type="audio/mpeg">
 </audio>
-
 </p>
 
 {% endcomment %}
