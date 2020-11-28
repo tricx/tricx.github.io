@@ -18,7 +18,7 @@ JB :
 {% endfor %}
 
 
-
+{% comment %}
 <embed height="100%" width="100%" src="{{ site.url }}/images/IFP_proposal.pdf" type="application/pdf" /><br /><br />
 
 <embed height="100%" width="100%" src="{{ site.url }}/images/IFP_Portfolio_EN_small.pdf" type="application/pdf" /><br /><br />
@@ -32,7 +32,16 @@ recording of pigeon whistles, Beijing 2012:<br />
 
 </p>
 
+{% endcomment %}
 
+<p>
+documentation of Acoustic Shadows, without human presence, 2020:<br />
+<p></p>
+<audio controls style="width: 100%" preload="none">
+  <source src="{{ site.url }}/images/acoustic_shadows_docu_no-presence.mp3" type="audio/mpeg">
+</audio>
+
+</p>
 
 
 

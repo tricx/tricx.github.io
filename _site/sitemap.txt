@@ -16,6 +16,8 @@ http://tricx.github.io/sound
 http://tricx.github.io/tags
 http://tricx.github.io/works
 
+http://tricx.github.io/2020/10/13/unterm_pflaster_liegt_der_strand
+http://tricx.github.io/2019/08/04/mononoke
 http://tricx.github.io/2018/06/28/sound
 http://tricx.github.io/2018/06/27/recording
 http://tricx.github.io/2018/06/01/arcardian_gate
@@ -28,10 +30,11 @@ http://tricx.github.io/2016/01/21/triptychon_of_lost_media_part1
 http://tricx.github.io/2013/12/28/ottos_mops
 http://tricx.github.io/2013/12/27/pachinko
 http://tricx.github.io/2013/12/26/a_car_from_above
+http://tricx.github.io/2013/12/14/works
+http://tricx.github.io/2013/12/13/wilhelms_punk
 http://tricx.github.io/2013/12/12/performance
 http://tricx.github.io/2013/12/11/in_a_room
 http://tricx.github.io/2013/12/10/on_a_wire
-http://tricx.github.io/2013/10/25/wilhelms_punk
 http://tricx.github.io/2013/10/24/platte_x
 http://tricx.github.io/2013/10/23/ancient_ancient_world
 http://tricx.github.io/2013/10/22/zweistimmige_inventionen
