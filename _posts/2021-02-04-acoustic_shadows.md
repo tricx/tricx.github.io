@@ -35,7 +35,7 @@ As an adaptive technological life-form, which spreads discretely but invasively,
 <p></p>
 <img src="{{ site.url }}/images/acoustic_shadows3_sm.jpg" alt="image">
 <p></p>
-<img src="{{ site.url }}/images/acoustic_shadows_pd.jpg" alt="image">
+<img src="{{ site.url }}/images/acoustic_shadows_pd.png" alt="image">
 <p></p>
 
 {% comment %}
