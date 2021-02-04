@@ -43,7 +43,6 @@ The text is translated to latin, so it resembles often used honorable mentions o
 </audio>
 {% endcomment %}
 
-
 {% comment %}
 <font color="grey">(c)<br /></font>
 {% endcomment %}
