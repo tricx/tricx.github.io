@@ -27,12 +27,6 @@ in cooperation with Dario Sanfilippo<br />
 Acoustic Shadows is an implementation of a complex adaptive system in an eco-systemic configuration. Through the implementation of a feedback system in the high-frequency domain, signals that oscillate at the threshold of the human perception are ‘scanning’ the area. Shadows or inaudible signals, which are created by human presence are influencing the state of the system and therefore change its behaviour, perturbing the system’s microphone-loudspeaker connection and self-modulation. The adaptations could be perceived more like a ghostlike appearance then an interactive reaction.
 <br /><br />
 As an adaptive technological life-form, which spreads discretely but invasively, filtering it’s environment and it could be perceived through the presumption of it’s inner process. As a circular system, it reacts to external influences, but also develops a life of its own. Almost like an abstract occult machine that meters the space to extend its own state.
-
-
-‘Unterm Pflaster liegt der Strand’, in it's original french version of "Sous les pavés, la plage" is attributed to the situationists. The phrase became one of the most popular slogans of the 1968 revolt around the world. ‘Unterm Pflaster liegt der Strand’ alludes to the fact that paving stones were often laid on a sand underground, and is also an invitation to use them. This slogan combines hedonism with activism.<br />
-With minimal resources, the display is staged as a museum view and placed in the context of activist action.
-The text is translated to latin, so it resembles often used honorable mentions on arcades and city monuments.
-
 <br /><br />
 
 <img src="{{ site.url }}/images/acoustic_shadows1_sm.jpg" alt="image">
