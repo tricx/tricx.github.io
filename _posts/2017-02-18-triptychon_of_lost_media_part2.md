@@ -30,9 +30,9 @@ The project AM-Feld / Soviet Noise, is a cooperation with <a href="www.alexander
 
 <p> <br />Installation View: <b>AM-Feld / Soviet Noise</b>, Alexandrinsky Theater New Stage, St. Petersburg<br /></p>
 
-<img src="{{ site.url }}/images/radio_stp2.jpg" alt="image">
+<img src="{{ site.url }}/images/radio_stp2_lg.jpg" alt="image">
 <p></p>
-<img src="{{ site.url }}/images/radio_stp3.jpg" alt="image">
+<img src="{{ site.url }}/images/radio_stp3_lg.jpg" alt="image">
 
 
 <p> <br />Installation View: <b>Flash</b>, Black Bridge Village, Beijing<br /></p>

@@ -21,8 +21,8 @@ JB :
 autonomous complex adaptive system, 2020/21<br />
 4 cardoid microphone, 4 horn speakers PA Comp 34S , 4 channel class D preamp  100W, PD-0.50-2<br />
 2 modular structures, tripods<br />
-dimensions variable<br /><br />
-in cooperation with Dario Sanfilippo<br />
+dimensions variable<br />
+in cooperation with Dario Sanfilippo<br /><br />
 
 Acoustic Shadows is an implementation of a complex adaptive system in an eco-systemic configuration. Through the implementation of a feedback system in the high-frequency domain, signals that oscillate at the threshold of the human perception are ‘scanning’ the area. Shadows or inaudible signals, which are created by human presence are influencing the state of the system and therefore change its behaviour, perturbing the system’s microphone-loudspeaker connection and self-modulation. The adaptations could be perceived more like a ghostlike appearance then an interactive reaction.
 <br /><br />

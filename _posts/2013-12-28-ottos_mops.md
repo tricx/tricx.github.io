@@ -30,7 +30,7 @@ The robot moves around the exhibition space, orienting itself based on the event
 </video>
 
 <p> <br />Ottos Mops at 'What The Shop'<br /></p>
-<img src="{{ site.url }}/images/ottosmops_small.jpg" alt="image">
+<img src="{{ site.url }}/images/ottosmops_small_lg.jpg" alt="image">
 
 <p> <br /> <br />Fanpostkarte von 
 	<a href="http://www.heterotypia/" target="_blank" style="text-decoration:none; color: grey">

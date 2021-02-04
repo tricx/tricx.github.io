@@ -5,6 +5,7 @@ http://tricx.github.io/atom.xml
 http://tricx.github.io/blog
 http://tricx.github.io/downloads
 http://tricx.github.io/
+http://tricx.github.io/index_old
 http://tricx.github.io/links
 http://tricx.github.io/live
 http://tricx.github.io/now
@@ -16,6 +17,8 @@ http://tricx.github.io/sound
 http://tricx.github.io/tags
 http://tricx.github.io/works
 
+http://tricx.github.io/2021/02/04/the_sea
+http://tricx.github.io/2021/02/04/acoustic_shadows
 http://tricx.github.io/2020/10/13/unterm_pflaster_liegt_der_strand
 http://tricx.github.io/2019/08/04/mononoke
 http://tricx.github.io/2018/06/28/sound
@@ -44,4 +47,5 @@ http://tricx.github.io/2013/10/18/noircir
 http://tricx.github.io/2013/10/17/undefined_falling_objects
 http://tricx.github.io/2013/10/16/rasenmaeher
 http://tricx.github.io/2013/10/01/flieger
+http://tricx.github.io/2010/02/23/index
 http://tricx.github.io/2010/02/23/about

@@ -1,65 +1,103 @@
 ---
 layout: page
-title: tricx.net
-header: tricx.net
+title : index
+header : tricx - index
+group: navigation
+show_worktitle_sidebar: true
 ---
-
-{% include JB/setup %}
-{% assign categories_list = site.categories %}
 
 
 <head>
 <style>
-a {color: white;
+
+{% comment %} 
+
+body{
+  background-image:none;
+  background-color: black !important;
 }
-.container-narrow {background-color: black;color:rgb(145, 58, 48)
-{% comment %}
-color:rgb(120,10,0);
+
 {% endcomment %}
+
+
+
+a {color:grey;
+}
+.container-narrow {background-color: black; color:#e6e6e6; font-weight:lighter;
+}
+.navbar-inner
+{   
+    color:white !important;
+    background-color: black !important;
 }
 </style>
 </head>
 
 
 
-<p style="font-size:14px" text-align="justify" align="right">
-<br /><br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-</p>
-
 {% comment %}
 
-\\\\\\\\\\\SITE SPECIFIC//////////<br />
-\\\\\\\\\\\TRANSMISSION//////////<br />
-|||||||refraction~~~~~~~~~~<br />
------cognition#####
-'''''''''
+<head>
+<style>
+a {color:rgb(200,200,200);
+}
+.container-narrow {background-color: black; color:rgb(200,200,200);
+}
+</style>
+</head>
 
 
-Next:<br /><br />
-18.11. - 8pm, Tricxikid, <a href="http://www.flat1.at/" target="_blank">Flat1</a>, 
-U-Bahn/Stadtbahnbogen 6-7 (U-Station Gumpendorferstr.) 1060 Vienna, [AT]<br />
+
+<div class="page-header">
+	   {% comment %}
+      <h3>{{ page.title }} {% if page.tagline %} <small>{{ page.tagline }}</small>{% endif %}</h3>
+  	 {% endcomment %}
+  <h3>VISUAL</h3>
+</div>
+
+
+
 {% endcomment %}
 
 
+
+
+<div>
+{% for tag in site.tags %} 
+  {% if page.title == tag[0] %}
+  
+      {% comment %}
+      <ul class="unstyled">
+          {% assign pages_list = tag[1] %}  
+          {% include JB/pages_list %}
+      </ul>
+      {{tag[1]}}
+      {% endcomment %}
+
+
+  {% for items in tag[1] %}
+    <div class="distance">
+      <hr>
+      {{items.content}}
+    </div>
+  {% endfor %}
+        
+  {% endif %}
+{% endfor %}
+</div>
+
+
+
+
 {% comment %}
-<img src="{{ site.url }}/images/terrortier6_big.jpg" alt="image">
+      <h4><a href="{{ BASE_PATH }}{{ post.url }}">{{ post.date | date_to_string }}</a></h4> 
+    <h4><a href="{{ BASE_PATH }}{{ post.url }}">{{ post.title }}</a></h4>
+
+    <p>&nbsp;</p>
+  {{post.content}}
+    <p>&nbsp;</p>
 {% endcomment %}
+
+
+
+				

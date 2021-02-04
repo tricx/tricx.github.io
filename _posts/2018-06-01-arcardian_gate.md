@@ -36,13 +36,13 @@ http://wikimapia.org/4832019/Arcadian-Gate</a>
 <br /><br />
 
 
-<img src="{{ site.url }}/images/arcadian_gate_detector_sm.jpg" alt="image">
+<img src="{{ site.url }}/images/arcadian_gate_detector_sm_lg.jpg" alt="image">
 <p></p>
-<img src="{{ site.url }}/images/arcadian_gate_laser_sm.jpg" alt="image">
+<img src="{{ site.url }}/images/arcadian_gate_laser_sm_lg.jpg" alt="image">
 <p></p>
-<img src="{{ site.url }}/images/arcadian_gate_night_sm.jpg" alt="image">
+<img src="{{ site.url }}/images/arcadian_gate_night_sm_lg.jpg" alt="image">
 <p></p>
-<img src="{{ site.url }}/images/arcadian_gate2a.jpg" alt="image">
+<img src="{{ site.url }}/images/arcadian_gate2a_lg.jpg" alt="image">
 
 
 <p></p>

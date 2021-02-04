@@ -5,10 +5,77 @@
         <description>Tricx - Paul Gruendorfer</description>
         <link>http://tricx.github.io</link>
         <link>http://tricx.github.io</link>
-        <lastBuildDate>2020-10-13T17:44:09+02:00</lastBuildDate>
-        <pubDate>2020-10-13T17:44:09+02:00</pubDate>
+        <lastBuildDate>2021-02-04T22:44:42+01:00</lastBuildDate>
+        <pubDate>2021-02-04T22:44:42+01:00</pubDate>
         <ttl>1800</ttl>
 
+
+        <item>
+                <title>The_sea</title>
+                <description>
+&lt;h4&gt;&lt;a href=&quot;/2020/10/13/unterm_pflaster_liegt_der_strand&quot;&gt;The sea&lt;/a&gt;&lt;/h4&gt;
+
+&lt;p&gt;
+generative audio installation, 2020/21&lt;br /&gt;
+2,5m cube, latex foil, motors
+PD-0.50-2&lt;br /&gt;
+with Leo Peschta&lt;br /&gt;
+&lt;br /&gt;&lt;br /&gt;
+
+in development&lt;br /&gt;
+
+
+
+&lt;img src=&quot;http://localhost:4000/images/the_sea1_sm.jpg&quot; alt=&quot;image&quot; /&gt;
+&lt;p&gt;&lt;/p&gt;
+
+
+
+
+
+&lt;/p&gt;
+</description>
+                <link>http://tricx.github.io/2021/02/04/the_sea</link>
+                <guid>http://tricx.github.io/2021/02/04/the_sea</guid>
+                <pubDate>2021-02-04T00:00:00+01:00</pubDate>
+        </item>
+
+        <item>
+                <title>Acoustic_shadows</title>
+                <description>
+&lt;h4&gt;&lt;a href=&quot;/2020/10/13/unterm_pflaster_liegt_der_strand&quot;&gt;Acoustic Shadows&lt;/a&gt;&lt;/h4&gt;
+
+&lt;p&gt;
+autonomous complex adaptive system, 2020/21&lt;br /&gt;
+4 cardoid microphone, 4 horn speakers PA Comp 34S , 4 channel class D preamp  100W, PD-0.50-2&lt;br /&gt;
+2 modular structures, tripods&lt;br /&gt;
+dimensions variable&lt;br /&gt;
+in cooperation with Dario Sanfilippo&lt;br /&gt;&lt;br /&gt;
+
+Acoustic Shadows is an implementation of a complex adaptive system in an eco-systemic configuration. Through the implementation of a feedback system in the high-frequency domain, signals that oscillate at the threshold of the human perception are ‘scanning’ the area. Shadows or inaudible signals, which are created by human presence are influencing the state of the system and therefore change its behaviour, perturbing the system’s microphone-loudspeaker connection and self-modulation. The adaptations could be perceived more like a ghostlike appearance then an interactive reaction.
+&lt;br /&gt;&lt;br /&gt;
+As an adaptive technological life-form, which spreads discretely but invasively, filtering it’s environment and it could be perceived through the presumption of it’s inner process. As a circular system, it reacts to external influences, but also develops a life of its own. Almost like an abstract occult machine that meters the space to extend its own state.
+&lt;br /&gt;&lt;br /&gt;
+
+&lt;img src=&quot;http://localhost:4000/images/acoustic_shadows1_sm.jpg&quot; alt=&quot;image&quot; /&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;img src=&quot;http://localhost:4000/images/acoustic_shadows2_sm.jpg&quot; alt=&quot;image&quot; /&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;img src=&quot;http://localhost:4000/images/acoustic_shadows3_sm.jpg&quot; alt=&quot;image&quot; /&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;img src=&quot;http://localhost:4000/images/acoustic_shadows_pd.png&quot; alt=&quot;image&quot; /&gt;
+&lt;p&gt;&lt;/p&gt;
+
+
+
+
+
+&lt;/p&gt;
+</description>
+                <link>http://tricx.github.io/2021/02/04/acoustic_shadows</link>
+                <guid>http://tricx.github.io/2021/02/04/acoustic_shadows</guid>
+                <pubDate>2021-02-04T00:00:00+01:00</pubDate>
+        </item>
 
         <item>
                 <title>Unterm_pflaster_liegt_der_strand</title>
@@ -16,7 +83,6 @@
 &lt;h4&gt;&lt;a href=&quot;/2020/10/13/unterm_pflaster_liegt_der_strand&quot;&gt;Unterm Pflaster liegt der Strand&lt;/a&gt;&lt;/h4&gt;
 
 &lt;p&gt;
-Unterm Pflaster liegt der Strand&lt;br /&gt;
 installation, public display, at &lt;a href=&quot;https:variable.cc&quot; target=&quot;_blank&quot;&gt;dimensions variable #, Semi Public Art&lt;/a&gt;, Vienna, Hietzing / 2020&lt;br /&gt;
 cobblestone, K&amp;amp;K Emblem, sand, adhesive foil, text&lt;br /&gt;
 &lt;br /&gt;
@@ -65,15 +131,17 @@ Reflections and Refractions of a laser that scans plastic bottles are translated
 
 &lt;br /&gt;&lt;br /&gt;
 
-&lt;img src=&quot;http://localhost:4000/images/mononoke_bot1.jpg&quot; alt=&quot;image&quot; /&gt;
+&lt;img src=&quot;http://localhost:4000/images/mononoke_bot1_lg.jpg&quot; alt=&quot;image&quot; /&gt;
 &lt;p&gt;&lt;/p&gt;
 &lt;p&gt;&lt;/p&gt;
-&lt;img src=&quot;http://localhost:4000/images/mononoke_bot2.jpg&quot; alt=&quot;image&quot; /&gt;
+&lt;img src=&quot;http://localhost:4000/images/mononoke_bot2_lg.jpg&quot; alt=&quot;image&quot; /&gt;
 &lt;p&gt;&lt;/p&gt;
 
-&lt;video preload=&quot;metadata&quot; width=&quot;100%&quot; height=&quot;100%&quot; controls=&quot;&quot;&gt;
+&lt;video preload=&quot;metadata&quot; poster=&quot;http://localhost:4000/images/mononoke_sm1.jpg&quot; width=&quot;100%&quot; height=&quot;100%&quot; controls=&quot;&quot;&gt;
   &lt;source src=&quot;http://localhost:4000/images/mononoke_sm1.mp4&quot; type=&quot;video/mp4&quot; /&gt;
 &lt;/video&gt;
+
+
 
 &lt;img src=&quot;http://localhost:4000/images/mononoke3_small.jpg&quot; alt=&quot;image&quot; /&gt;
 &lt;p&gt;&lt;/p&gt;
@@ -151,17 +219,11 @@ Audio - Visual Performance / Faux Terrain - Claudia Larcher, may 2016&lt;br /&gt
                 <description>
 &lt;h4&gt;&lt;a href=&quot;/2018/06/27/recording&quot;&gt;recording&lt;/a&gt;&lt;/h4&gt;
 
-&lt;embed height=&quot;100%&quot; width=&quot;100%&quot; src=&quot;http://localhost:4000/images/IFP_proposal.pdf&quot; type=&quot;application/pdf&quot; /&gt;
-&lt;p&gt;&lt;br /&gt;&lt;br /&gt;&lt;/p&gt;
-
-&lt;embed height=&quot;100%&quot; width=&quot;100%&quot; src=&quot;http://localhost:4000/images/IFP_Portfolio_EN_small.pdf&quot; type=&quot;application/pdf&quot; /&gt;
-&lt;p&gt;&lt;br /&gt;&lt;br /&gt;&lt;/p&gt;
-
 &lt;p&gt;
-recording of pigeon whistles, Beijing 2012:&lt;br /&gt;
+documentation of Acoustic Shadows, without human presence, 2020:&lt;br /&gt;
 &lt;p&gt;&lt;/p&gt;
 &lt;audio controls=&quot;&quot; style=&quot;width: 100%&quot; preload=&quot;none&quot;&gt;
-  &lt;source src=&quot;http://localhost:4000/images/pigeon_whistles.mp3&quot; type=&quot;audio/mpeg&quot; /&gt;
+  &lt;source src=&quot;http://localhost:4000/images/acoustic_shadows_docu_no-presence.mp3&quot; type=&quot;audio/mpeg&quot; /&gt;
 &lt;/audio&gt;
 
 &lt;/p&gt;
@@ -196,13 +258,13 @@ http://wikimapia.org/4832019/Arcadian-Gate&lt;/a&gt;
 &lt;br /&gt;&lt;br /&gt;
 
 
-&lt;img src=&quot;http://localhost:4000/images/arcadian_gate_detector_sm.jpg&quot; alt=&quot;image&quot; /&gt;
+&lt;img src=&quot;http://localhost:4000/images/arcadian_gate_detector_sm_lg.jpg&quot; alt=&quot;image&quot; /&gt;
 &lt;p&gt;&lt;/p&gt;
-&lt;img src=&quot;http://localhost:4000/images/arcadian_gate_laser_sm.jpg&quot; alt=&quot;image&quot; /&gt;
+&lt;img src=&quot;http://localhost:4000/images/arcadian_gate_laser_sm_lg.jpg&quot; alt=&quot;image&quot; /&gt;
 &lt;p&gt;&lt;/p&gt;
-&lt;img src=&quot;http://localhost:4000/images/arcadian_gate_night_sm.jpg&quot; alt=&quot;image&quot; /&gt;
+&lt;img src=&quot;http://localhost:4000/images/arcadian_gate_night_sm_lg.jpg&quot; alt=&quot;image&quot; /&gt;
 &lt;p&gt;&lt;/p&gt;
-&lt;img src=&quot;http://localhost:4000/images/arcadian_gate2a.jpg&quot; alt=&quot;image&quot; /&gt;
+&lt;img src=&quot;http://localhost:4000/images/arcadian_gate2a_lg.jpg&quot; alt=&quot;image&quot; /&gt;
 
 
 &lt;p&gt;&lt;/p&gt;
@@ -245,17 +307,17 @@ Besides this interest, there is the old tradition to let pigeons fly with specia
 
 &lt;br /&gt;&lt;br /&gt;
 
-&lt;video preload=&quot;metadata&quot; width=&quot;100%&quot; height=&quot;100%&quot; controls=&quot;&quot;&gt;
+&lt;video preload=&quot;metadata&quot; poster=&quot;http://localhost:4000/images/pigeons_small_down.jpg&quot; width=&quot;100%&quot; height=&quot;100%&quot; controls=&quot;&quot;&gt;
   &lt;source src=&quot;http://localhost:4000/images/pigeons_small_down.mp4&quot; type=&quot;video/mp4&quot; /&gt;
 &lt;/video&gt;
 
 
 
-&lt;img src=&quot;http://localhost:4000/images/pigeons_google_earth.jpg&quot; alt=&quot;image&quot; /&gt;
+&lt;img src=&quot;http://localhost:4000/images/pigeons_google_earth_lg.jpg&quot; alt=&quot;image&quot; /&gt;
 &lt;p&gt;&lt;/p&gt;
-&lt;img src=&quot;http://localhost:4000/images/pigeon_pipe_smaller.jpg&quot; alt=&quot;image&quot; /&gt;
+&lt;img src=&quot;http://localhost:4000/images/pigeon_pipe_smaller_lg.jpg&quot; alt=&quot;image&quot; /&gt;
 &lt;p&gt;&lt;/p&gt;
-&lt;img src=&quot;http://localhost:4000/images/pigeon_wing_smaller.jpg&quot; alt=&quot;image&quot; /&gt;
+&lt;img src=&quot;http://localhost:4000/images/pigeon_wing_smaller_lg.jpg&quot; alt=&quot;image&quot; /&gt;
 
 
 
@@ -306,16 +368,16 @@ The project Centre and Periphery picked up this field of tension in order to dea
 &lt;br /&gt;&lt;br /&gt;
 &lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;http://localhost:4000/images/drachen_parque_karukinka_small.jpg&quot; alt=&quot;image&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;http://localhost:4000/images/drachen_parque_karukinka_small_lg.jpg&quot; alt=&quot;image&quot; /&gt;&lt;/p&gt;
 &lt;p&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&quot;http://localhost:4000/images/drachen_antenna_small.jpg&quot; alt=&quot;image&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;http://localhost:4000/images/drachen_antenna_small_lg.jpg&quot; alt=&quot;image&quot; /&gt;&lt;/p&gt;
 &lt;p&gt;&lt;/p&gt;
 &lt;p&gt;&lt;img src=&quot;http://localhost:4000/images/drachen_cape_horn_small.jpg&quot; alt=&quot;image&quot; /&gt;&lt;/p&gt;
 &lt;p&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;http://localhost:4000/images/drachen_map.jpg&quot; alt=&quot;image&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;http://localhost:4000/images/drachen_map_lg.jpg&quot; alt=&quot;image&quot; /&gt;&lt;/p&gt;
 &lt;p&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&quot;http://localhost:4000/images/drachen_recorder_small.jpg&quot; alt=&quot;image&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;http://localhost:4000/images/drachen_recorder_small_lg.jpg&quot; alt=&quot;image&quot; /&gt;&lt;/p&gt;
 &lt;p&gt;&lt;/p&gt;
 &lt;p&gt;&lt;img src=&quot;http://localhost:4000/images/drachen_cape_horn2_small.jpg&quot; alt=&quot;image&quot; /&gt;&lt;/p&gt;
 &lt;p&gt;&lt;/p&gt;
@@ -404,13 +466,13 @@ As a site specific intervention the Attractor is built in a public space, connec
   &lt;source src=&quot;http://localhost:4000/images/attractor_small.mp4&quot; type=&quot;video/mp4&quot; /&gt;
 &lt;/video&gt;
 
-&lt;p&gt;&lt;img src=&quot;http://localhost:4000/images/attractor_close_small.jpg&quot; alt=&quot;image&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;http://localhost:4000/images/attractor_close_small_lg.jpg&quot; alt=&quot;image&quot; /&gt;&lt;/p&gt;
 &lt;p&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&quot;http://localhost:4000/images/attractor_doku_small2.jpg&quot; alt=&quot;image&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;http://localhost:4000/images/attractor_doku_small2_lg.jpg&quot; alt=&quot;image&quot; /&gt;&lt;/p&gt;
 &lt;p&gt;&lt;/p&gt;
 &lt;p&gt;&lt;img src=&quot;http://localhost:4000/images/attractor_test_small.jpg&quot; alt=&quot;image&quot; /&gt;&lt;/p&gt;
 &lt;p&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&quot;http://localhost:4000/images/attractor_day_small1.jpg&quot; alt=&quot;image&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;http://localhost:4000/images/attractor_day_small1_lg.jpg&quot; alt=&quot;image&quot; /&gt;&lt;/p&gt;
 
 </description>
                 <link>http://tricx.github.io/2017/03/02/attractor</link>
@@ -436,9 +498,9 @@ The project AM-Feld / Soviet Noise, is a cooperation with &lt;a href=&quot;www.a
 
 &lt;p&gt; &lt;br /&gt;Installation View: &lt;b&gt;AM-Feld / Soviet Noise&lt;/b&gt;, Alexandrinsky Theater New Stage, St. Petersburg&lt;br /&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;http://localhost:4000/images/radio_stp2.jpg&quot; alt=&quot;image&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;http://localhost:4000/images/radio_stp2_lg.jpg&quot; alt=&quot;image&quot; /&gt;&lt;/p&gt;
 &lt;p&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&quot;http://localhost:4000/images/radio_stp3.jpg&quot; alt=&quot;image&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;http://localhost:4000/images/radio_stp3_lg.jpg&quot; alt=&quot;image&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt; &lt;br /&gt;Installation View: &lt;b&gt;Flash&lt;/b&gt;, Black Bridge Village, Beijing&lt;br /&gt;&lt;/p&gt;
 
@@ -488,7 +550,7 @@ in June 2015.
   &lt;source src=&quot;http://localhost:4000/images/triptychon_of_lost_media.mp4&quot; type=&quot;video/mp4&quot; /&gt;
 &lt;/video&gt;
 
-&lt;p&gt;&lt;img src=&quot;http://localhost:4000/images/triptychon_moe4.jpg&quot; alt=&quot;image&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;http://localhost:4000/images/triptychon_moe4_lg.jpg&quot; alt=&quot;image&quot; /&gt;&lt;/p&gt;
 
 </description>
                 <link>http://tricx.github.io/2016/01/21/triptychon_of_lost_media_part1</link>
@@ -513,7 +575,7 @@ The robot moves around the exhibition space, orienting itself based on the event
 &lt;/video&gt;
 
 &lt;p&gt; &lt;br /&gt;Ottos Mops at 'What The Shop'&lt;br /&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&quot;http://localhost:4000/images/ottosmops_small.jpg&quot; alt=&quot;image&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;http://localhost:4000/images/ottosmops_small_lg.jpg&quot; alt=&quot;image&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt; &lt;br /&gt; &lt;br /&gt;Fanpostkarte von 
 	&lt;a href=&quot;http://www.heterotypia/&quot; target=&quot;_blank&quot; style=&quot;text-decoration:none; color: grey&quot;&gt;
@@ -575,7 +637,7 @@ A toy police car falls in free fall at the exhibition Dimensions Variable # at M
         <item>
                 <title>Works</title>
                 <description>
-&lt;h4&gt;Works&lt;/h4&gt;
+&lt;h4&gt;audio recordings&lt;/h4&gt;
 
 &lt;h4&gt;Wilhelm's Punk&lt;/h4&gt;
 &lt;p&gt;
@@ -667,7 +729,7 @@ microscope camera, lichens / organic material, real-time audio software / Superc
 
 &lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;http://localhost:4000/images/theuncannyjenny_small.jpg&quot; alt=&quot;image&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;http://localhost:4000/images/theuncannyjenny_small_lg.jpg&quot; alt=&quot;image&quot; /&gt;&lt;/p&gt;
 
 &lt;video preload=&quot;metadata&quot; poster=&quot;http://localhost:4000/images/faux_poster.jpg&quot; width=&quot;100%&quot; height=&quot;100%&quot; controls=&quot;&quot;&gt;
   &lt;source src=&quot;http://localhost:4000/images/fauxterrain_small.mp4&quot; type=&quot;video/mp4&quot; /&gt;
@@ -740,7 +802,7 @@ This installation was done for 10th exhibition of &lt;a href=&quot;http://platte
 Movements, vibrations the plate receives are amplified and played back into the room.&lt;br /&gt;&lt;br /&gt;
 &lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;http://localhost:4000/images/platte_small.jpg&quot; alt=&quot;image&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;http://localhost:4000/images/platte_small_lg.jpg&quot; alt=&quot;image&quot; /&gt;&lt;/p&gt;
 
 </description>
                 <link>http://tricx.github.io/2013/10/24/platte_x</link>
@@ -981,7 +1043,7 @@ Happening during the entrance examinations at the academy of fine arts Vienna.&l
 &lt;p&gt;video stills:&lt;br /&gt;&lt;/p&gt;
 &lt;p&gt;&lt;img src=&quot;http://localhost:4000/images/flieger.jpg&quot; alt=&quot;image&quot; /&gt;&lt;/p&gt;
 &lt;p&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&quot;http://localhost:4000/images/flieger1.jpg&quot; alt=&quot;image&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;http://localhost:4000/images/flieger1lg.jpg&quot; alt=&quot;image&quot; /&gt;&lt;/p&gt;
 &lt;p&gt;&lt;/p&gt;
 &lt;p&gt;&lt;img src=&quot;http://localhost:4000/images/flieger2.jpg&quot; alt=&quot;image&quot; /&gt;&lt;/p&gt;
 
@@ -992,13 +1054,53 @@ Happening during the entrance examinations at the academy of fine arts Vienna.&l
         </item>
 
         <item>
+                <title>Index</title>
+                <description>
+&lt;div style=&quot;font-weight:lighter&quot;&gt;
+
+Artistic work in the scope of conceptual and process art, site specific intervention, sound sculpture, performances. Paul Gründorfer is currently working on installations and interventions that deal with functional methods and question the spatial conditions. He develops process-related test structures and examines variable or unstable systems for their perceptibility and reception.
+&lt;br /&gt;
+&lt;br /&gt;
+&lt;br /&gt;
+&lt;br /&gt;
+&lt;br /&gt;
+&lt;br /&gt;
+&lt;br /&gt;
+&lt;br /&gt;
+&lt;br /&gt;
+&lt;br /&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;/div&gt;
+
+</description>
+                <link>http://tricx.github.io/2010/02/23/index</link>
+                <guid>http://tricx.github.io/2010/02/23/index</guid>
+                <pubDate>2010-02-23T00:00:00+01:00</pubDate>
+        </item>
+
+        <item>
                 <title>About</title>
                 <description>
 &lt;div style=&quot;font-weight:lighter&quot;&gt;
 
+Artistic work in the scope of conceptual and process art, site specific intervention, sound sculpture, performances. Paul Gründorfer is currently working on installations and interventions that deal with functional methods and question the spatial conditions. He develops process-related test structures and examines variable or unstable systems for their perceptibility and reception.
+&lt;br /&gt;&lt;br /&gt;
 
-Paul GRÜNDORFER explores sound as perceptional phenomena of action and reaction to site specific criteria. His works focus on processes that evolve within a space, where sound is considered not solely as an abstract medium, but also directly connects to, influences and mirrors the environment, and is therefore happening in the realm of social spheres. They deal with the instability of systems, questioning the role of control and reaction, and search for mechanisms that might be primarily hidden.
-
+currently active at: &lt;a href=&quot;https://www.variable.cc&quot; target=&quot;_blank&quot;&gt;dimensions variable #&lt;/a&gt;&lt;br /&gt;
+is co-founder: &lt;a href=&quot;http://zentrale.jetzt/&quot; target=&quot;_blank&quot;&gt;Zentrale&lt;/a&gt;&lt;br /&gt;
+was part of: &lt;a href=&quot;http://velak.klingt.org/&quot; target=&quot;_blank&quot;&gt;velak&lt;/a&gt;&lt;br /&gt;
 
 
 
@@ -1006,13 +1108,10 @@ Paul GRÜNDORFER explores sound as perceptional phenomena of action and reactio
 
 
 &lt;br /&gt;
-&lt;br /&gt;
-
-
 contact:&lt;br /&gt;
 paul[at]lefant.net
 &lt;br /&gt;&lt;br /&gt;
-some other stuff on: &lt;a href=&quot;https://soundcloud.com/t_a-z&quot; style=&quot;color:red&quot; target=&quot;_blank&quot;&gt; SOUNDCLOUD&lt;/a&gt;
+some other stuff on: &lt;a href=&quot;https://soundcloud.com/t_a-z&quot; style=&quot;color:grey&quot; target=&quot;_blank&quot;&gt; SOUNDCLOUD&lt;/a&gt;
 
 
 

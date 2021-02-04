@@ -49,7 +49,7 @@ in June 2015.
   <source src="{{ site.url }}/images/triptychon_of_lost_media.mp4" type="video/mp4">
 </video>
 
-<img src="{{ site.url }}/images/triptychon_moe4.jpg" alt="image">
+<img src="{{ site.url }}/images/triptychon_moe4_lg.jpg" alt="image">
 
 
 

@@ -59,9 +59,9 @@ The project Centre and Periphery picked up this field of tension in order to dea
 <br /><br />
 </p>
 
-<img src="{{ site.url }}/images/drachen_parque_karukinka_small.jpg" alt="image">
+<img src="{{ site.url }}/images/drachen_parque_karukinka_small_lg.jpg" alt="image">
 <p></p>
-<img src="{{ site.url }}/images/drachen_antenna_small.jpg" alt="image">
+<img src="{{ site.url }}/images/drachen_antenna_small_lg.jpg" alt="image">
 <p></p>
 <img src="{{ site.url }}/images/drachen_cape_horn_small.jpg" alt="image">
 <p></p>
@@ -73,9 +73,9 @@ The project Centre and Periphery picked up this field of tension in order to dea
 <p></p>
 {% endcomment %}
 
-<img src="{{ site.url }}/images/drachen_map.jpg" alt="image">
+<img src="{{ site.url }}/images/drachen_map_lg.jpg" alt="image">
 <p></p>
-<img src="{{ site.url }}/images/drachen_recorder_small.jpg" alt="image">
+<img src="{{ site.url }}/images/drachen_recorder_small_lg.jpg" alt="image">
 <p></p>
 <img src="{{ site.url }}/images/drachen_cape_horn2_small.jpg" alt="image">
 <p></p>
