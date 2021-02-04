@@ -12,7 +12,7 @@ JB :
 
 {% for post in site.posts %}
 	{% assign pt = post.title | downcase %}
-	{% if 'unterm_pflaster_liegt_der_strand' == pt %}
+	{% if 'acoustic_shadows' == pt %}
 <h4><a href="{{ BASE_PATH }}{{ post.url }}">Acoustic Shadows</a></h4>
 	{% endif %}
 {% endfor %}
