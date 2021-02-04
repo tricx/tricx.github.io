@@ -18,7 +18,6 @@ JB :
 {% endfor %}
 
 <p>
-Unterm Pflaster liegt der Strand<br />
 installation, public display, at <a href="https:variable.cc" target="_blank">dimensions variable #, Semi Public Art</a>, Vienna, Hietzing / 2020<br />
 cobblestone, K&K Emblem, sand, adhesive foil, text<br />
 <br />
