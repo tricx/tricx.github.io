@@ -20,8 +20,8 @@ body {
   text-align:justify;
 
   background-image: url('/images/glitch3.jpg');
-  /*background-size: 1040px 800px;*/
-  background-size: 2080px 1600px;
+  background-size: 1040px 800px;
+  /*background-size: 2080px 1600px;*/
 
   background-repeat: repeat;
   background-color: white;
