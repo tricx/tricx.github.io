@@ -13,15 +13,17 @@
 body {
   margin: 0; 
   /*font: 12.5px/16.5px "Helvetica", Helvetica, Arial, sans-serif;*/
-  font: 12.5px/16.5px "Roboto", Helvetica, Arial, sans-serif;
+  /*font: 13.5px/170% Roboto, sans-serif"*/
+  font: 13px/170% "Helvetica", sans-serif;
+  /*font: 12.5px/16.5px "Roboto", Helvetica, Arial, sans-serif;*/
   /*font: 11.5px/16px Verdana,​Arial,​sans-serif;*/
   /*font-family:  "Helvetica Neue", Helvetica, Arial, sans-serif;*/
   /*font-size: 13;*/
   text-align:justify;
 
   background-image: url('/images/glitch3.jpg');
-  background-size: 1040px 800px;
-  /*background-size: 2080px 1600px;*/
+  /*background-size: 1040px 800px;*/
+  background-size: 2080px 1600px;
 
   background-repeat: repeat;
   background-color: white;
