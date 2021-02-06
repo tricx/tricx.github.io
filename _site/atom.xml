@@ -4,7 +4,7 @@
  <title>Tricx</title>
  <link href="http://tricx.github.io/" rel="self"/>
  <link href="http://tricx.github.io"/>
- <updated>2021-02-04T22:44:42+01:00</updated>
+ <updated>2021-02-06T19:56:04+01:00</updated>
  <id>http://tricx.github.io</id>
  <author>
    <name>Paul Gruendorfer</name>
@@ -13,22 +13,68 @@
 
  
  <entry>
+   <title>Sound</title>
+   <link href="http://tricx.github.io/2021/02/05/sound"/>
+   <updated>2021-02-05T00:00:00+01:00</updated>
+   <id>http://tricx.github.io/2021/02/05/sound</id>
+   <content type="html">
+&lt;h4&gt;Live&lt;/h4&gt;
+
+&lt;p&gt;live at KGRN, Toyko[JP], jun 2019&lt;br /&gt;&lt;/p&gt;
+&lt;iframe width=&quot;100%&quot; height=&quot;580&quot; src=&quot;https://www.youtube.com/embed/zNmU3-4Da4w?start=213&amp;amp;autoplay=0&amp;amp;showinfo=0&amp;amp;rel=0&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+&lt;p&gt;&lt;br /&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;live at dotolim, Seoul[KR], apr 2019&lt;br /&gt;&lt;/p&gt;
+&lt;iframe width=&quot;100%&quot; height=&quot;580&quot; src=&quot;https://www.youtube.com/embed/nIPECke2uMI?start=332&amp;amp;autoplay=0&amp;amp;showinfo=0&amp;amp;rel=0&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+&lt;p&gt;&lt;br /&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;live at umbral, Museo de Arte Contemporaneo Oaxaca [MX], dec 2018&lt;br /&gt;&lt;/p&gt;
+&lt;video preload=&quot;metadata&quot; poster=&quot;http://localhost:4000/images/umbral_maco.jpg&quot; width=&quot;100%&quot; height=&quot;100%&quot; controls=&quot;&quot;&gt;
+  &lt;source src=&quot;http://localhost:4000/images/umbral_maco.mp4&quot; type=&quot;video/mp4&quot; /&gt;
+&lt;/video&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;br /&gt;
+lecture / performance at alexandrinsky theater, St Petersburg [RU], nov 2016&lt;br /&gt;
+&lt;br /&gt;
+amplifiers, filter, analoguemodules, real-time audio software / Supercollider, contact microphones&lt;br /&gt;
+Electronic circuits are interconnected to cause semi-natural entities, autonomous organisms, half-animals. The electronic machine functions as an organic entity, voice and articulation is generated through loops in feedback networks. Continuous ecosystems, archaic animal-noise-transmission, onomatopoeia.&lt;br /&gt;&lt;/p&gt;
+
+&lt;video preload=&quot;metadata&quot; poster=&quot;http://localhost:4000/images/alex_poster.jpg&quot; width=&quot;100%&quot; height=&quot;100%&quot; controls=&quot;&quot;&gt;
+  &lt;source src=&quot;http://localhost:4000/images/alex_small.mp4&quot; type=&quot;video/mp4&quot; /&gt;
+&lt;/video&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;br /&gt;
+live at struma+iodine, rhiz, jun 2016&lt;br /&gt;&lt;/p&gt;
+&lt;video preload=&quot;metadata&quot; poster=&quot;http://localhost:4000/images/rhiz_poster_small.jpg&quot; width=&quot;100%&quot; height=&quot;100%&quot; controls=&quot;&quot;&gt;
+  &lt;source src=&quot;http://localhost:4000/images/rhiz_small.mp4&quot; type=&quot;video/mp4&quot; /&gt;
+&lt;/video&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;br /&gt;
+Audio - Visual Performance / Faux Terrain - Claudia Larcher, may 2016&lt;br /&gt;&lt;/p&gt;
+&lt;video preload=&quot;metadata&quot; poster=&quot;http://localhost:4000/images/faux_poster_small.jpg&quot; width=&quot;100%&quot; height=&quot;100%&quot; controls=&quot;&quot;&gt;
+  &lt;source src=&quot;http://localhost:4000/images/fauxterrain_small.mp4&quot; type=&quot;video/mp4&quot; /&gt;
+&lt;/video&gt;
+&lt;p&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;/p&gt;
+
+</content>
+ </entry>
+ 
+ <entry>
    <title>The_sea</title>
    <link href="http://tricx.github.io/2021/02/04/the_sea"/>
    <updated>2021-02-04T00:00:00+01:00</updated>
    <id>http://tricx.github.io/2021/02/04/the_sea</id>
    <content type="html">
-&lt;h4&gt;&lt;a href=&quot;/2020/10/13/unterm_pflaster_liegt_der_strand&quot;&gt;The sea&lt;/a&gt;&lt;/h4&gt;
+&lt;h4&gt;&lt;a href=&quot;/2021/02/04/the_sea&quot;&gt;The sea&lt;/a&gt;&lt;/h4&gt;
 
 &lt;p&gt;
 generative audio installation, 2020/21&lt;br /&gt;
 2,5m cube, latex foil, motors
 PD-0.50-2&lt;br /&gt;
 with Leo Peschta&lt;br /&gt;
+&lt;br /&gt;
+in development
 &lt;br /&gt;&lt;br /&gt;
-
-in development&lt;br /&gt;
-
 
 
 &lt;img src=&quot;http://localhost:4000/images/the_sea1_sm.jpg&quot; alt=&quot;image&quot; /&gt;
@@ -48,7 +94,7 @@ in development&lt;br /&gt;
    <updated>2021-02-04T00:00:00+01:00</updated>
    <id>http://tricx.github.io/2021/02/04/acoustic_shadows</id>
    <content type="html">
-&lt;h4&gt;&lt;a href=&quot;/2020/10/13/unterm_pflaster_liegt_der_strand&quot;&gt;Acoustic Shadows&lt;/a&gt;&lt;/h4&gt;
+&lt;h4&gt;&lt;a href=&quot;/2021/02/04/acoustic_shadows&quot;&gt;Acoustic Shadows&lt;/a&gt;&lt;/h4&gt;
 
 &lt;p&gt;
 autonomous complex adaptive system, 2020/21&lt;br /&gt;
@@ -109,7 +155,6 @@ The text is translated to latin, so it resembles often used honorable mentions o
 
 
 
-
 &lt;/p&gt;
 </content>
  </entry>
@@ -162,77 +207,7 @@ Reflections and Refractions of a laser that scans plastic bottles are translated
 
 
 
-
-
-
 &lt;/p&gt;
-</content>
- </entry>
- 
- <entry>
-   <title>Sound</title>
-   <link href="http://tricx.github.io/2018/06/28/sound"/>
-   <updated>2018-06-28T00:00:00+02:00</updated>
-   <id>http://tricx.github.io/2018/06/28/sound</id>
-   <content type="html">
-&lt;h4&gt;Live&lt;/h4&gt;
-
-&lt;p&gt;live at KGRN, Toyko[JP], jun 2019&lt;br /&gt;&lt;/p&gt;
-&lt;iframe width=&quot;100%&quot; height=&quot;580&quot; src=&quot;https://www.youtube.com/embed/zNmU3-4Da4w?start=213&amp;amp;autoplay=0&amp;amp;showinfo=0&amp;amp;rel=0&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
-&lt;p&gt;&lt;br /&gt;&lt;br /&gt;&lt;/p&gt;
-
-&lt;p&gt;live at dotolim, Seoul[KR], apr 2019&lt;br /&gt;&lt;/p&gt;
-&lt;iframe width=&quot;100%&quot; height=&quot;580&quot; src=&quot;https://www.youtube.com/embed/nIPECke2uMI?start=332&amp;amp;autoplay=0&amp;amp;showinfo=0&amp;amp;rel=0&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
-&lt;p&gt;&lt;br /&gt;&lt;br /&gt;&lt;/p&gt;
-
-&lt;p&gt;live at umbral, Museo de Arte Contemporaneo Oaxaca [MX], dec 2018&lt;br /&gt;&lt;/p&gt;
-&lt;video preload=&quot;metadata&quot; poster=&quot;http://localhost:4000/images/umbral_maco.jpg&quot; width=&quot;100%&quot; height=&quot;100%&quot; controls=&quot;&quot;&gt;
-  &lt;source src=&quot;http://localhost:4000/images/umbral_maco.mp4&quot; type=&quot;video/mp4&quot; /&gt;
-&lt;/video&gt;
-
-&lt;p&gt;&lt;br /&gt;&lt;br /&gt;
-lecture / performance at alexandrinsky theater, St Petersburg [RU], nov 2016&lt;br /&gt;
-&lt;br /&gt;
-amplifiers, filter, analoguemodules, real-time audio software / Supercollider, contact microphones&lt;br /&gt;
-Electronic circuits are interconnected to cause semi-natural entities, autonomous organisms, half-animals. The electronic machine functions as an organic entity, voice and articulation is generated through loops in feedback networks. Continuous ecosystems, archaic animal-noise-transmission, onomatopoeia.&lt;br /&gt;&lt;/p&gt;
-
-&lt;video preload=&quot;metadata&quot; poster=&quot;http://localhost:4000/images/alex_poster.jpg&quot; width=&quot;100%&quot; height=&quot;100%&quot; controls=&quot;&quot;&gt;
-  &lt;source src=&quot;http://localhost:4000/images/alex_small.mp4&quot; type=&quot;video/mp4&quot; /&gt;
-&lt;/video&gt;
-
-&lt;p&gt;&lt;br /&gt;&lt;br /&gt;
-live at struma+iodine, rhiz, jun 2016&lt;br /&gt;&lt;/p&gt;
-&lt;video preload=&quot;metadata&quot; poster=&quot;http://localhost:4000/images/rhiz_poster_small.jpg&quot; width=&quot;100%&quot; height=&quot;100%&quot; controls=&quot;&quot;&gt;
-  &lt;source src=&quot;http://localhost:4000/images/rhiz_small.mp4&quot; type=&quot;video/mp4&quot; /&gt;
-&lt;/video&gt;
-
-&lt;p&gt;&lt;br /&gt;&lt;br /&gt;
-Audio - Visual Performance / Faux Terrain - Claudia Larcher, may 2016&lt;br /&gt;&lt;/p&gt;
-&lt;video preload=&quot;metadata&quot; poster=&quot;http://localhost:4000/images/faux_poster_small.jpg&quot; width=&quot;100%&quot; height=&quot;100%&quot; controls=&quot;&quot;&gt;
-  &lt;source src=&quot;http://localhost:4000/images/fauxterrain_small.mp4&quot; type=&quot;video/mp4&quot; /&gt;
-&lt;/video&gt;
-&lt;p&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;/p&gt;
-
-</content>
- </entry>
- 
- <entry>
-   <title>Recording</title>
-   <link href="http://tricx.github.io/2018/06/27/recording"/>
-   <updated>2018-06-27T00:00:00+02:00</updated>
-   <id>http://tricx.github.io/2018/06/27/recording</id>
-   <content type="html">
-&lt;h4&gt;&lt;a href=&quot;/2018/06/27/recording&quot;&gt;recording&lt;/a&gt;&lt;/h4&gt;
-
-&lt;p&gt;
-documentation of Acoustic Shadows, without human presence, 2020:&lt;br /&gt;
-&lt;p&gt;&lt;/p&gt;
-&lt;audio controls=&quot;&quot; style=&quot;width: 100%&quot; preload=&quot;none&quot;&gt;
-  &lt;source src=&quot;http://localhost:4000/images/acoustic_shadows_docu_no-presence.mp3&quot; type=&quot;audio/mpeg&quot; /&gt;
-&lt;/audio&gt;
-
-&lt;/p&gt;
-
 </content>
  </entry>
  
@@ -561,6 +536,32 @@ in June 2015.
  </entry>
  
  <entry>
+   <title>Performance</title>
+   <link href="http://tricx.github.io/2015/12/12/performance"/>
+   <updated>2015-12-12T00:00:00+01:00</updated>
+   <id>http://tricx.github.io/2015/12/12/performance</id>
+   <content type="html">
+&lt;h4&gt;&lt;a href=&quot;/2015/12/12/performance&quot;&gt;Audio - Visual Performance / Faux Terrain - Claudia Larcher&lt;/a&gt;&lt;/h4&gt;
+
+&lt;p&gt;
+since 2015&lt;br /&gt;
+microscope camera, lichens / organic material, real-time audio software / Supercollider, projektor, soundsystem&lt;br /&gt;&lt;br /&gt;
+
+- investigation and interaction with audio-visual material. Fragments of organisms such as lichens or tree bines and geological samples of a collection compiled by Claudia Larcher in the border region between Europe and Russia, on the Lithuanian peninsula Neringa, are categorized according to an abstract cartography. The material is re-arranged with the help of microscopes, contact microphones, coils, camera airbrakes, thus surveying the boundaries of scientific, geographical or geological aspects in a different context.&lt;br /&gt;&lt;br /&gt;
+
+
+&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;http://localhost:4000/images/theuncannyjenny_small_lg.jpg&quot; alt=&quot;image&quot; /&gt;&lt;/p&gt;
+
+&lt;video preload=&quot;metadata&quot; poster=&quot;http://localhost:4000/images/faux_poster.jpg&quot; width=&quot;100%&quot; height=&quot;100%&quot; controls=&quot;&quot;&gt;
+  &lt;source src=&quot;http://localhost:4000/images/fauxterrain_small.mp4&quot; type=&quot;video/mp4&quot; /&gt;
+&lt;/video&gt;
+
+</content>
+ </entry>
+ 
+ <entry>
    <title>Ottos_mops</title>
    <link href="http://tricx.github.io/2013/12/28/ottos_mops"/>
    <updated>2013-12-28T00:00:00+01:00</updated>
@@ -713,32 +714,6 @@ The sounds of a cassette recorder, a simple oscillator circuit and a wooden frog
 
 &lt;p&gt; &lt;br /&gt;setup:&lt;br /&gt;&lt;/p&gt;
 &lt;p&gt;&lt;img src=&quot;http://localhost:4000/images/wpunk_setup.jpg&quot; alt=&quot;image&quot; /&gt;&lt;/p&gt;
-
-</content>
- </entry>
- 
- <entry>
-   <title>Performance</title>
-   <link href="http://tricx.github.io/2013/12/12/performance"/>
-   <updated>2013-12-12T00:00:00+01:00</updated>
-   <id>http://tricx.github.io/2013/12/12/performance</id>
-   <content type="html">
-&lt;h4&gt;&lt;a href=&quot;/2013/12/12/performance&quot;&gt;Audio - Visual Performance / Faux Terrain - Claudia Larcher&lt;/a&gt;&lt;/h4&gt;
-
-&lt;p&gt;
-since 2015&lt;br /&gt;
-microscope camera, lichens / organic material, real-time audio software / Supercollider, projektor, soundsystem&lt;br /&gt;&lt;br /&gt;
-
-- investigation and interaction with audio-visual material. Fragments of organisms such as lichens or tree bines and geological samples of a collection compiled by Claudia Larcher in the border region between Europe and Russia, on the Lithuanian peninsula Neringa, are categorized according to an abstract cartography. The material is re-arranged with the help of microscopes, contact microphones, coils, camera airbrakes, thus surveying the boundaries of scientific, geographical or geological aspects in a different context.&lt;br /&gt;&lt;br /&gt;
-
-
-&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;http://localhost:4000/images/theuncannyjenny_small_lg.jpg&quot; alt=&quot;image&quot; /&gt;&lt;/p&gt;
-
-&lt;video preload=&quot;metadata&quot; poster=&quot;http://localhost:4000/images/faux_poster.jpg&quot; width=&quot;100%&quot; height=&quot;100%&quot; controls=&quot;&quot;&gt;
-  &lt;source src=&quot;http://localhost:4000/images/fauxterrain_small.mp4&quot; type=&quot;video/mp4&quot; /&gt;
-&lt;/video&gt;
 
 </content>
  </entry>
@@ -1103,8 +1078,8 @@ Artistic work in the scope of conceptual and process art, site specific interven
 Artistic work in the scope of conceptual and process art, site specific intervention, sound sculpture, performances. Paul Gründorfer is currently working on installations and interventions that deal with functional methods and question the spatial conditions. He develops process-related test structures and examines variable or unstable systems for their perceptibility and reception.
 &lt;br /&gt;&lt;br /&gt;
 
-currently active at: &lt;a href=&quot;https://www.variable.cc&quot; target=&quot;_blank&quot;&gt;dimensions variable #&lt;/a&gt;&lt;br /&gt;
-is co-founder: &lt;a href=&quot;http://zentrale.jetzt/&quot; target=&quot;_blank&quot;&gt;Zentrale&lt;/a&gt;&lt;br /&gt;
+currently active at: &lt;a href=&quot;http://www.variable.cc&quot; target=&quot;_blank&quot;&gt;dimensions variable #&lt;/a&gt;&lt;br /&gt;
+is co-founder of: &lt;a href=&quot;http://zentrale.jetzt/&quot; target=&quot;_blank&quot;&gt;Zentrale&lt;/a&gt;&lt;br /&gt;
 was part of: &lt;a href=&quot;http://velak.klingt.org/&quot; target=&quot;_blank&quot;&gt;velak&lt;/a&gt;&lt;br /&gt;
 
 
@@ -1116,7 +1091,7 @@ was part of: &lt;a href=&quot;http://velak.klingt.org/&quot; target=&quot;_blank
 contact:&lt;br /&gt;
 paul[at]lefant.net
 &lt;br /&gt;&lt;br /&gt;
-some other stuff on: &lt;a href=&quot;https://soundcloud.com/t_a-z&quot; style=&quot;color:grey&quot; target=&quot;_blank&quot;&gt; SOUNDCLOUD&lt;/a&gt;
+some other stuff on: &lt;a href=&quot;https://soundcloud.com/t_a-z&quot; style=&quot;color:grey&quot; target=&quot;_blank&quot;&gt;soundcloud&lt;/a&gt;
 
 
 
@@ -1125,6 +1100,26 @@ some other stuff on: &lt;a href=&quot;https://soundcloud.com/t_a-z&quot; style=&
 
 
 &lt;/div&gt;
+
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Recording</title>
+   <link href="http://tricx.github.io/2010/02/22/recording"/>
+   <updated>2010-02-22T00:00:00+01:00</updated>
+   <id>http://tricx.github.io/2010/02/22/recording</id>
+   <content type="html">
+&lt;h4&gt;&lt;a href=&quot;/2010/02/22/recording&quot;&gt;recording&lt;/a&gt;&lt;/h4&gt;
+
+&lt;p&gt;
+documentation of Acoustic Shadows, without human presence, 2020:&lt;br /&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;audio controls=&quot;&quot; style=&quot;width: 100%&quot; preload=&quot;none&quot;&gt;
+  &lt;source src=&quot;http://localhost:4000/images/acoustic_shadows_docu_no-presence.mp3&quot; type=&quot;audio/mpeg&quot; /&gt;
+&lt;/audio&gt;
+
+&lt;/p&gt;
 
 </content>
  </entry>
