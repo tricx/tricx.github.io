@@ -12,13 +12,14 @@ JB :
 {% for post in site.posts %}
 	{% assign pt = post.title | downcase %}
 	{% if 'performance' == pt %}
-<h4><a href="{{ BASE_PATH }}{{ post.url }}">Audio - Visual Performance / Faux Terrain - Claudia Larcher</a></h4>
+<h4><a href="{{ BASE_PATH }}{{ post.url }}">Audio - Visual Performance / Faux Terrain</a></h4>
 	{% endif %}
 {% endfor %}
 
 <p>
-since 2015<br />
-microscope camera, lichens / organic material, real-time audio software / Supercollider, projektor, soundsystem<br /><br />
+2015/16<br />
+microscope camera, lichens / organic material, real-time audio software / Supercollider, projektor, soundsystem<br />
+in cooperation with Claudia Larcher<br />
 
 - investigation and interaction with audio-visual material. Fragments of organisms such as lichens or tree bines and geological samples of a collection compiled by Claudia Larcher in the border region between Europe and Russia, on the Lithuanian peninsula Neringa, are categorized according to an abstract cartography. The material is re-arranged with the help of microscopes, contact microphones, coils, camera airbrakes, thus surveying the boundaries of scientific, geographical or geological aspects in a different context.<br /><br />
 
