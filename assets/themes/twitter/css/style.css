@@ -14,7 +14,7 @@ body {
   margin: 0; 
   /*font: 12.5px/16.5px "Helvetica", Helvetica, Arial, sans-serif;*/
   /*font: 13.5px/170% Roboto, sans-serif"*/
-  font: 13px/170% "Helvetica", sans-serif;
+  font: 13px/164% "Helvetica", sans-serif;
   /*font: 12.5px/16.5px "Roboto", Helvetica, Arial, sans-serif;*/
   /*font: 11.5px/16px Verdana,​Arial,​sans-serif;*/
   /*font-family:  "Helvetica Neue", Helvetica, Arial, sans-serif;*/
@@ -31,11 +31,50 @@ body {
   color:black;
   /*color: #1F0F0F;*/
   /*background-color: #f3edd2;*/
+  padding-top: 25px;
 }
 
-body { padding-top: 25px; }
-@media screen and (max-width: 720px) {
-    body { padding-top: 25px; }
+/*---------------------------*/
+/* Custom container */
+.container-narrow {
+  margin: 0 auto;
+  margin-left: 5%;
+  /*background-color: #FFFFF9;*/
+  background-color: white;
+  color: black;
+  /*max-width: 1145px;*/
+  max-width: 60%;
+  /*max-width: 1205px;*/
+}
+
+/*change spacing to hr*/
+/*.container-narrow > hr {
+  margin: 18px 0; }*/
+
+
+@media screen and (max-width: 960px) {
+  body { padding-top: 5px; }
+  
+    .container-narrow {
+  margin: 0 auto;
+  margin-left: 1%;
+  background-color: white;
+  color: black;
+  max-width: 97%;
+}
+}
+
+
+@media screen and (min-width: 1920px) {
+  body { padding-top: 25px; }
+  
+    .container-narrow {
+  margin: 0 auto;
+  margin-left: 10%;
+  background-color: white;
+  color: black;
+  max-width: 1250px;
+}
 }
 
 
@@ -46,29 +85,9 @@ html {
 }
 
 /*---------------------------*/
-/* Custom container */
-.container-narrow {
-  margin: 0 auto;
-  margin-left: 3%;
-  /*background-color: #FFFFF9;*/
-  background-color: white;
-  color: black;
-  /*max-width: 742px;*/
-  /*max-width: 922px;*/
-  /*max-width: 1145px;*/
-  max-width: 57%;
-  /*max-width: 1205px;*/
-
-}
-
-/*change spacing to hr*/
-/*.container-narrow > hr {
-  margin: 18px 0; }*/
-
-/*---------------------------*/
 /* indent text */
 .indent-text{
-  margin:4%;
+  margin:2%;
 }
 /* indent text for sidebar*/
 .indent-text2{
