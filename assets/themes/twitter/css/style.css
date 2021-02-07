@@ -34,6 +34,7 @@ body {
   padding-top: 25px;
 }
 
+
 /*---------------------------*/
 /* Custom container */
 .container-narrow {
@@ -50,6 +51,11 @@ body {
 /*change spacing to hr*/
 /*.container-narrow > hr {
   margin: 18px 0; }*/
+
+/*distance between different posts in works_projects, sound*/
+.distance{
+  margin-bottom: 110px;
+}
 
 
 @media screen and (max-width: 960px) {
@@ -103,11 +109,6 @@ html {
   margin-left: 7%;
   margin-right: 7%;
   margin-bottom: 0%
-}
-
-/*distance between different posts in works_projects, sound*/
-.distance{
-  margin-bottom: 110px;
 }
 
 /*distance between containers, default.html */
