@@ -64,13 +64,13 @@ body{
     <div class="parent"><div class="container-narrow-right">
     <ul>
       {% if page.previous %}
-        <li class="prev"><a href="{{ BASE_PATH }}{{ page.previous.url }}" title="{{ page.previous.title }}"><<</a></li>
+        <li class="prev"><a href="{{ BASE_PATH }}{{ page.previous.url }}" title="{{ page.previous.title }}">>></a></li>
       {% else %}
         <li class="prev disabled"><a>>></a></li>
       {% endif %}
 
       {% if page.next %}
-        <li class="next"><a href="{{ BASE_PATH }}{{ page.next.url }}" title="{{ page.next.title }}">>></a></li>
+        <li class="next"><a href="{{ BASE_PATH }}{{ page.next.url }}" title="{{ page.next.title }}"><<</a></li>
       {% else %}
         <li class="next disabled"><a><<</a>
           <!-- &rarr; -->
