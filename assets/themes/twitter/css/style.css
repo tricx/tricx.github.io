@@ -72,10 +72,10 @@ body {
 /* Custom container */  
     .container-narrow {
   margin: 0 auto;
-  margin-left: 10%;
+  margin-left: 8%;
   background-color: white;
   color: black;
-  max-width: 1650px;
+  max-width: 1750px;
 }
 /*distance between different posts in works_projects, sound*/
 .distance{
