@@ -31,7 +31,7 @@ body{
     <span>{{ page.date | date_to_long_string }}</span>
   </div>
 {% endcomment %}
-                
+             
                 
                   <!-- <div class="content"> -->
                           <hr>
@@ -61,37 +61,26 @@ body{
 
 
   <div class="pagination">
+    <div class="parent"><div class="container-narrow-right">
     <ul>
       {% if page.previous %}
-        <li class="prev"><a href="{{ BASE_PATH }}{{ page.previous.url }}" title="{{ page.previous.title }}">Previous</a></li>
+        <li class="prev"><a href="{{ BASE_PATH }}{{ page.previous.url }}" title="{{ page.previous.title }}"><<</a></li>
       {% else %}
-        <li class="prev disabled"><a>Previous</a></li>
+        <li class="prev disabled"><a><<</a></li>
       {% endif %}
 
       {% if page.next %}
-        <li class="next"><a href="{{ BASE_PATH }}{{ page.next.url }}" title="{{ page.next.title }}">Next</a></li>
+        <li class="next"><a href="{{ BASE_PATH }}{{ page.next.url }}" title="{{ page.next.title }}">>></a></li>
       {% else %}
-        <li class="next disabled"><a>Next</a>
+        <li class="next disabled"><a>>></a>
           <!-- &rarr; -->
       {% endif %}
       <!-- <li><a href="{{ BASE_PATH }}{{ site.JB.archive_path }}">Archive</a></li> -->
-{% comment %}
-  <li><a href="/news.html">News</a></li>
-{% endcomment %}
 
     </ul>
-  </div>   
+  </div></div></div>   
    
     {% include JB/comments %}
-
-{% comment %} 
-{% endcomment %}
-
-
-{% comment %}
-    </div>
-  </div>
-{% endcomment %}
 
 <!--div from indent-text-->
 </div>

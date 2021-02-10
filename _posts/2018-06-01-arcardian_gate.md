@@ -2,18 +2,19 @@
 published: true
 layout: post
 show_worktitle_sidebar: true
-tags: works
+tags: interventions
 JB :
   analytics : false
 ---
 
 {% include JB/setup %}
 
-
+<div class="container-parent">
+<div class="container-narrow-right">
 {% for post in site.posts %}
 	{% assign pt = post.title | downcase %}
 	{% if 'arcardian_gate' == pt %}
-<h4><a href="{{ BASE_PATH }}{{ post.url }}">Arcadian Gate</a></h4>
+<h4><a href="{{ BASE_PATH }}{{ post.url }}"></a>Arcadian Gate</h4>
 	{% endif %}
 {% endfor %}
 
@@ -34,8 +35,11 @@ The Arcadian Gate is a monumental construction built of gigantic awe inspiring l
 http://wikimapia.org/4832019/Arcadian-Gate</a>
 ) 
 <br /><br />
+</p>
+</div>
 
 
+<div class="container-narrow-left">
 <img src="{{ site.url }}/images/arcadian_gate_detector_sm_lg.jpg" alt="image">
 <p></p>
 <img src="{{ site.url }}/images/arcadian_gate_laser_sm_lg.jpg" alt="image">
@@ -51,8 +55,11 @@ http://wikimapia.org/4832019/Arcadian-Gate</a>
 </audio>
 
 
-{% comment %}
+</div>
+</div>
 
+
+{% comment %}
 <p></p>
 <audio controls style="width: 100%" preload="none">
   <source src="{{ site.url }}/images/arcadian_gate_short.mp3" type="audio/mpeg">
@@ -61,8 +68,6 @@ http://wikimapia.org/4832019/Arcadian-Gate</a>
 <p></p>
 <img src="{{ site.url }}/images/arcadian_gate_detector_sm.jpg" alt="image">
 {% endcomment %}
-
-
 
 
 {% comment %}

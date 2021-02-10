@@ -3,7 +3,7 @@
 <html lang="en">
   <head>
     <meta charset="utf-8">
-    <title>tricx - index</title>
+    <title>Paul Gründorfer</title>
     
     <meta name="author" content="Paul Gruendorfer">
 
@@ -66,7 +66,7 @@
 
         
 
-Works.htlm
+Interventions.htlm
 
 
 
@@ -74,7 +74,7 @@ Works.htlm
 
         
 
-Sound.htlm
+Live.htlm
 
 
 
@@ -82,15 +82,7 @@ Sound.htlm
 
         
 
-About.htlm
-
-
-
-----------here
-
-        
-
-Now.htlm
+CV.htlm
 
 
 
@@ -106,28 +98,21 @@ Now.htlm
   
     
 
-      <li id="navi_pages1"><a href="/works.html">Works</a></li>
+      <li id="navi_pages1"><a href="/interventions.html">Interventions</a></li>
     
     
 
   
     
 
-      <li id="navi_pages2"><a href="/sound.html">Sound</a></li>
+      <li id="navi_pages2"><a href="/live.html">Live</a></li>
     
     
 
   
     
 
-      <li id="navi_pages3"><a href="/about.html">About</a></li>
-    
-    
-
-  
-    
-
-      <li id="navi_pages4"><a href="/now.html">Now</a></li>
+      <li id="navi_pages3"><a href="/cv.html">CV</a></li>
     
     
 
@@ -158,14 +143,6 @@ Now.htlm
     
       
       	
-      	<li><a href="/about">about</a></li>
-      	
-      
-    
-  
-    
-      
-      	
       	<li><a href="/archive">archive</a></li>
       	
       
@@ -180,6 +157,22 @@ Now.htlm
     
   
     
+      
+      	
+      	<li><a href="/cv">cv</a></li>
+      	
+      
+    
+  
+    
+      
+    
+  
+    
+      
+      	
+      	<li><a href="/events">events</a></li>
+      	
       
     
   
@@ -198,6 +191,14 @@ Now.htlm
     
       
       	
+      	<li><a href="/interventions">interventions</a></li>
+      	
+      
+    
+  
+    
+      
+      	
       	<li><a href="/links">links</a></li>
       	
       
@@ -205,13 +206,13 @@ Now.htlm
   
     
       
+      	
+      	<li><a href="/live">live</a></li>
+      	
+      
     
   
     
-      
-      	
-      	<li><a href="/now">now</a></li>
-      	
       
     
   
@@ -242,23 +243,7 @@ Now.htlm
     
       
       	
-      	<li><a href="/sound">sound</a></li>
-      	
-      
-    
-  
-    
-      
-      	
       	<li><a href="/tags">Tags</a></li>
-      	
-      
-    
-  
-    
-      
-      	
-      	<li><a href="/works">works</a></li>
       	
       
     
@@ -278,6 +263,11 @@ Now.htlm
 </div>
 
 
+
+
+
+<!-- show sidebar with worktitles!!  -->
+<!-- assign 'show_worktitle_sidebar:' in posts or pages-layout-defs(e.g.title:sound) to show worktitles in sidebar -->
 
 
 
@@ -314,6 +304,12 @@ a {color:grey;
 }
 .container-narrow {background-color: black; color:#e6e6e6; font-weight:lighter;
 }
+
+
+@media screen and (min-width: 1100px) {
+  .container-narrow { max-width: 68%;}
+}
+
 .navbar-inner
 {   
     color:white !important;
@@ -334,6 +330,8 @@ a {color:grey;
   
  
   
+ 
+  
   
       
 
@@ -343,7 +341,7 @@ a {color:grey;
       <hr>
       
 <div style="font-weight:lighter">
-
+<br />
 Artistic work in the scope of conceptual and process art, site specific intervention, sound sculpture, performances. Paul Gründorfer is currently working on installations and interventions that deal with functional methods and question the spatial conditions. He develops process-related test structures and examines variable or unstable systems for their perceptibility and reception.
 <br />
 <br />
@@ -379,8 +377,6 @@ Artistic work in the scope of conceptual and process art, site specific interven
   
  
   
- 
-  
 
 </div>
 
@@ -400,19 +396,6 @@ Artistic work in the scope of conceptual and process art, site specific interven
 
 
                    <!-- </div> -->
-
-<!-- bottom section -->
-<div class="container-narrow"><div class="indent-text">
-    <hr>
-    <footer>
-   <!--   <div class="indent-text">
-         <p>the impressum
-        &copy;2021 Paul Gruendorfer
-        </p> 
-      </div> -->
-      <div class="distance2">&nbsp;</div>
-    </footer> 
-</div></div>
    
 
     </div>
@@ -420,7 +403,7 @@ Artistic work in the scope of conceptual and process art, site specific interven
     <!-- page:
 
 
-{"layout"=>"page", "title"=>"index", "header"=>"tricx - index", "group"=>"navigation", "show_worktitle_sidebar"=>true, "content"=>"<head>\n<style>\n\n{% comment %} \n\nbody{\n  background-image:none;\n  background-color: black !important;\n}\n\n{% endcomment %}\n\n\n\na {color:grey;\n}\n.container-narrow {background-color: black; color:#e6e6e6; font-weight:lighter;\n}\n.navbar-inner\n{   \n    color:white !important;\n    background-color: black !important;\n}\n</style>\n</head>\n\n\n\n{% comment %}\n\n<head>\n<style>\na {color:rgb(200,200,200);\n}\n.container-narrow {background-color: black; color:rgb(200,200,200);\n}\n</style>\n</head>\n\n\n\n<div class=\"page-header\">\n\t   {% comment %}\n      <h3>{{ page.title }} {% if page.tagline %} <small>{{ page.tagline }}</small>{% endif %}</h3>\n  \t {% endcomment %}\n  <h3>VISUAL</h3>\n</div>\n\n\n\n{% endcomment %}\n\n\n\n\n<div>\n{% for tag in site.tags %} \n  {% if page.title == tag[0] %}\n  \n      {% comment %}\n      <ul class=\"unstyled\">\n          {% assign pages_list = tag[1] %}  \n          {% include JB/pages_list %}\n      </ul>\n      {{tag[1]}}\n      {% endcomment %}\n\n\n  {% for items in tag[1] %}\n    <div class=\"distance\">\n      <hr>\n      {{items.content}}\n    </div>\n  {% endfor %}\n        \n  {% endif %}\n{% endfor %}\n</div>\n\n\n\n\n{% comment %}\n      <h4><a href=\"{{ BASE_PATH }}{{ post.url }}\">{{ post.date | date_to_string }}</a></h4> \n    <h4><a href=\"{{ BASE_PATH }}{{ post.url }}\">{{ post.title }}</a></h4>\n\n    <p>&nbsp;</p>\n  {{post.content}}\n    <p>&nbsp;</p>\n{% endcomment %}\n\n\n\n\t\t\t\t", "dir"=>"/", "name"=>"index.html", "path"=>"index.html", "url"=>"/"} -->
+{"layout"=>"page", "title"=>"index", "header"=>"Paul Gründorfer", "group"=>"navigation", "show_worktitle_sidebar"=>false, "content"=>"<head>\n<style>\n\n{% comment %} \n\nbody{\n  background-image:none;\n  background-color: black !important;\n}\n\n{% endcomment %}\n\n\n\na {color:grey;\n}\n.container-narrow {background-color: black; color:#e6e6e6; font-weight:lighter;\n}\n\n\n@media screen and (min-width: 1100px) {\n  .container-narrow { max-width: 68%;}\n}\n\n.navbar-inner\n{   \n    color:white !important;\n    background-color: black !important;\n}\n</style>\n</head>\n\n\n\n{% comment %}\n\n<head>\n<style>\na {color:rgb(200,200,200);\n}\n.container-narrow {background-color: black; color:rgb(200,200,200);\n}\n</style>\n</head>\n\n\n\n<div class=\"page-header\">\n\t   {% comment %}\n      <h3>{{ page.title }} {% if page.tagline %} <small>{{ page.tagline }}</small>{% endif %}</h3>\n  \t {% endcomment %}\n  <h3>VISUAL</h3>\n</div>\n\n\n\n{% endcomment %}\n\n\n\n\n<div>\n{% for tag in site.tags %} \n  {% if page.title == tag[0] %}\n  \n      {% comment %}\n      <ul class=\"unstyled\">\n          {% assign pages_list = tag[1] %}  \n          {% include JB/pages_list %}\n      </ul>\n      {{tag[1]}}\n      {% endcomment %}\n\n\n  {% for items in tag[1] %}\n    <div class=\"distance\">\n      <hr>\n      {{items.content}}\n    </div>\n  {% endfor %}\n        \n  {% endif %}\n{% endfor %}\n</div>\n\n\n\n\n{% comment %}\n      <h4><a href=\"{{ BASE_PATH }}{{ post.url }}\">{{ post.date | date_to_string }}</a></h4> \n    <h4><a href=\"{{ BASE_PATH }}{{ post.url }}\">{{ post.title }}</a></h4>\n\n    <p>&nbsp;</p>\n  {{post.content}}\n    <p>&nbsp;</p>\n{% endcomment %}\n\n\n\n\t\t\t\t", "dir"=>"/", "name"=>"index.html", "path"=>"index.html", "url"=>"/"} -->
 
 
 

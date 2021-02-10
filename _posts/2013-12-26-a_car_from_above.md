@@ -2,18 +2,19 @@
 published: true
 layout: post
 show_worktitle_sidebar: true
-tags: works
+tags: interventions
 JB :
   analytics : false
 ---
 
 {% include JB/setup %}
 
-
+<div class="container-parent">
+<div class="container-narrow-right">
 {% for post in site.posts %}
 	{% assign pt = post.title | downcase %}
 	{% if 'a_car_from_above' == pt %}
-<h4><a href="{{ BASE_PATH }}{{ post.url }}">A Car from ABove</a></h4>
+<h4><a href="{{ BASE_PATH }}{{ post.url }}"></a>A Car from ABove</h4>
 	{% endif %}
 {% endfor %}
 
@@ -23,12 +24,16 @@ in cooperation with <a href="http://www.praxistest.cc/" target="_blank" style="t
 
 A toy police car falls in free fall at the exhibition Dimensions Variable # at Mo.ë. When the car is switched on, the car‘s flashing lights start flashing and it sounds: ‘Police, do not move - [sound- effect: gunshot] - you are under arrest!’ The car is equipped with a conductive cable on a coil that is attached to the ceiling. At random time intervals, the car falls from the ceiling to shortly before the impact on the ground.<br /><br />
 </p>
+</div>
 
 
-<video preload="metadata" poster="{{ site.url }}/images/acab_poster.jpg" width="100%" height="100%" controls>
+<div class="container-narrow-left">
+<video preload="metadata" poster="{{ site.url }}/images/acab_poster.jpg" width="100%" height="auto" controls>
   <source src="{{ site.url }}/images/acab_small.mp4" type="video/mp4">
 </video>
 
+</div>
+</div>
 
 {% comment %}
 

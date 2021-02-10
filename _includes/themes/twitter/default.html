@@ -85,40 +85,46 @@
 
 
 
-{% comment %}
+
 <!-- show sidebar with worktitles!!  -->
 <!-- assign 'show_worktitle_sidebar:' in posts or pages-layout-defs(e.g.title:sound) to show worktitles in sidebar -->
 {% if page.show_worktitle_sidebar == true %}
 
 <!-- navbar on the side? or make a sublist on the sidebar? -->
     <div class="row-fluid">
-      <div class="well sidebar-nav sidebar-nav-fixed">
-          <ul class="nav">
-            <div class= "indent-text2">
-
-
+      <div class="sidebar-nav sidebar-nav-fixed">
+          <ul class="nav-list nav">
+            <!-- <div class= "indent-text2"> -->
+<!--             <div class='linkTitle'>
+              <p>Projects:<p\>
+            </div>
+            <br /> -->
 <!-- compare 'works_projects_list' titles in _config.yml to posts titles - when matching display title -->
 {% for post in site.posts %}
   {% for worktitle in site.JB.works_projects_list %}
     {% assign compare_worktitle = {{worktitle | downcase | replace: ' ', '_' }} %}
       {% assign pt = post.title | downcase %}
        {% if compare_worktitle == pt %}
-            <div class='newLink'>
-              <li class="active">
-              <a class ='linkNew' href="{{ BASE_PATH }}{{ post.url }}">{{ worktitle }}&nbsp;</a>
-            <br />
-            </div>
+            <!-- <div class='newLink'> -->
+              <!-- <li class="nav-list-item active" class={{ link.title == post.title }}> -->
+              <li class="nav-list-item active">
+              <!-- add div style here? -->
+
+              <a class ="linkNew" href="{{ BASE_PATH }}{{ post.url }}">{{ worktitle }}&nbsp;&nbsp;&nbsp;</a>
+            <!-- <br /> -->
+            <!-- </div> -->
       {% endif %}    
   {% endfor %}
 {% endfor %}
 
-          </div>
+          <!-- </div> -->
           </ul>
       </div>
     </div> 
 <!-- endif, show sidebar with worktitles -->
 {% endif %}
 
+{% comment %}
 {% endcomment %}
 
 
@@ -129,7 +135,7 @@
                   <!-- <div class="content"> -->
                           {{ content }}
                    <!-- </div> -->
-
+{% comment %}
 <!-- bottom section -->
 <div class="container-narrow"><div class="indent-text">
     <hr>
@@ -142,7 +148,7 @@
       <div class="distance2">&nbsp;</div>
     </footer> 
 </div></div>
-   
+{% endcomment %}   
 
     </div>
 

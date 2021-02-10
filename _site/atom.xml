@@ -4,7 +4,7 @@
  <title>Tricx</title>
  <link href="http://tricx.github.io/" rel="self"/>
  <link href="http://tricx.github.io"/>
- <updated>2021-02-07T19:39:15+01:00</updated>
+ <updated>2021-02-10T17:55:21+01:00</updated>
  <id>http://tricx.github.io</id>
  <author>
    <name>Paul Gruendorfer</name>
@@ -18,7 +18,8 @@
    <updated>2021-02-05T00:00:00+01:00</updated>
    <id>http://tricx.github.io/2021/02/05/sound</id>
    <content type="html">
-&lt;h4&gt;Live&lt;/h4&gt;
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;h4&gt;live / actions / performance&lt;/h4&gt;
 
 &lt;p&gt;live at KGRN, Toyko[JP], jun 2019&lt;br /&gt;&lt;/p&gt;
 &lt;iframe width=&quot;100%&quot; height=&quot;580&quot; src=&quot;https://www.youtube.com/embed/zNmU3-4Da4w?start=213&amp;amp;autoplay=0&amp;amp;showinfo=0&amp;amp;rel=0&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
@@ -50,7 +51,7 @@ live at struma+iodine, rhiz, jun 2016&lt;br /&gt;&lt;/p&gt;
 &lt;/video&gt;
 
 &lt;p&gt;&lt;br /&gt;&lt;br /&gt;
-Audio - Visual Performance / Faux Terrain - Claudia Larcher, may 2016&lt;br /&gt;&lt;/p&gt;
+Audio - Visual Performance / Faux Terrain - w / Claudia Larcher, may 2016&lt;br /&gt;&lt;/p&gt;
 &lt;video preload=&quot;metadata&quot; poster=&quot;http://localhost:4000/images/faux_poster_small.jpg&quot; width=&quot;100%&quot; height=&quot;100%&quot; controls=&quot;&quot;&gt;
   &lt;source src=&quot;http://localhost:4000/images/fauxterrain_small.mp4&quot; type=&quot;video/mp4&quot; /&gt;
 &lt;/video&gt;
@@ -65,7 +66,107 @@ Audio - Visual Performance / Faux Terrain - Claudia Larcher, may 2016&lt;br /&gt
    <updated>2021-02-04T00:00:00+01:00</updated>
    <id>http://tricx.github.io/2021/02/04/the_sea</id>
    <content type="html">
-&lt;h4&gt;&lt;a href=&quot;/2021/02/04/the_sea&quot;&gt;The sea&lt;/a&gt;&lt;/h4&gt;
+&lt;div class=&quot;container-parent&quot;&gt;
+&lt;div class=&quot;container-narrow-right&quot;&gt;
+
+	
+	
+
+	
+	
+&lt;h4&gt;&lt;a href=&quot;/2021/02/04/the_sea&quot;&gt;&lt;/a&gt;The Sea&lt;/h4&gt;
+	
+
+	
+	
+
+	
+	
+
+	
+	
+
+	
+	
+
+	
+	
+
+	
+	
+
+	
+	
+
+	
+	
+
+	
+	
+
+	
+	
+
+	
+	
+
+	
+	
+
+	
+	
+
+	
+	
+
+	
+	
+
+	
+	
+
+	
+	
+
+	
+	
+
+	
+	
+
+	
+	
+
+	
+	
+
+	
+	
+
+	
+	
+
+	
+	
+
+	
+	
+
+	
+	
+
+	
+	
+
+	
+	
+
+	
+	
+
+	
+	
+
 
 &lt;p&gt;
 generative audio installation, 2020/21&lt;br /&gt;
@@ -75,16 +176,17 @@ with Leo Peschta&lt;br /&gt;
 &lt;br /&gt;
 in development
 &lt;br /&gt;&lt;br /&gt;
+&lt;/p&gt;
+&lt;/div&gt;
 
 
+&lt;div class=&quot;container-narrow-left&quot;&gt;
 &lt;img src=&quot;http://localhost:4000/images/the_sea1_sm.jpg&quot; alt=&quot;image&quot; /&gt;
 &lt;p&gt;&lt;/p&gt;
 
+&lt;/div&gt;
+&lt;/div&gt;
 
-
-
-
-&lt;/p&gt;
 </content>
  </entry>
  
@@ -94,7 +196,107 @@ in development
    <updated>2021-02-04T00:00:00+01:00</updated>
    <id>http://tricx.github.io/2021/02/04/acoustic_shadows</id>
    <content type="html">
-&lt;h4&gt;&lt;a href=&quot;/2021/02/04/acoustic_shadows&quot;&gt;Acoustic Shadows&lt;/a&gt;&lt;/h4&gt;
+&lt;div class=&quot;container-parent&quot;&gt;
+&lt;div class=&quot;container-narrow-right&quot;&gt;
+
+	
+	
+
+	
+	
+
+	
+	
+&lt;h4&gt;&lt;a href=&quot;/2021/02/04/acoustic_shadows&quot;&gt;&lt;/a&gt;Acoustic Shadows&lt;/h4&gt;
+	
+
+	
+	
+
+	
+	
+
+	
+	
+
+	
+	
+
+	
+	
+
+	
+	
+
+	
+	
+
+	
+	
+
+	
+	
+
+	
+	
+
+	
+	
+
+	
+	
+
+	
+	
+
+	
+	
+
+	
+	
+
+	
+	
+
+	
+	
+
+	
+	
+
+	
+	
+
+	
+	
+
+	
+	
+
+	
+	
+
+	
+	
+
+	
+	
+
+	
+	
+
+	
+	
+
+	
+	
+
+	
+	
+
+	
+	
+
 
 &lt;p&gt;
 autonomous complex adaptive system, 2020/21&lt;br /&gt;
@@ -107,7 +309,11 @@ Acoustic Shadows is an implementation of a complex adaptive system in an eco-sys
 &lt;br /&gt;&lt;br /&gt;
 As an adaptive technological life-form, which spreads discretely but invasively, filtering it’s environment and it could be perceived through the presumption of it’s inner process. As a circular system, it reacts to external influences, but also develops a life of its own. Almost like an abstract occult machine that meters the space to extend its own state.
 &lt;br /&gt;&lt;br /&gt;
+&lt;/p&gt;
+&lt;/div&gt;
 
+
+&lt;div class=&quot;container-narrow-left&quot;&gt;
 &lt;img src=&quot;http://localhost:4000/images/acoustic_shadows1_sm.jpg&quot; alt=&quot;image&quot; /&gt;
 &lt;p&gt;&lt;/p&gt;
 &lt;img src=&quot;http://localhost:4000/images/acoustic_shadows2_sm.jpg&quot; alt=&quot;image&quot; /&gt;
@@ -116,12 +322,11 @@ As an adaptive technological life-form, which spreads discretely but invasively,
 &lt;p&gt;&lt;/p&gt;
 &lt;img src=&quot;http://localhost:4000/images/acoustic_shadows_pd.png&quot; alt=&quot;image&quot; /&gt;
 &lt;p&gt;&lt;/p&gt;
+&lt;br /&gt;&lt;br /&gt;
 
+&lt;/div&gt;
+&lt;/div&gt;
 
-
-
-
-&lt;/p&gt;
 </content>
  </entry>
  
@@ -131,7 +336,107 @@ As an adaptive technological life-form, which spreads discretely but invasively,
    <updated>2020-10-13T00:00:00+02:00</updated>
    <id>http://tricx.github.io/2020/10/13/unterm_pflaster_liegt_der_strand</id>
    <content type="html">
-&lt;h4&gt;&lt;a href=&quot;/2020/10/13/unterm_pflaster_liegt_der_strand&quot;&gt;Unterm Pflaster liegt der Strand&lt;/a&gt;&lt;/h4&gt;
+&lt;div class=&quot;container-parent&quot;&gt;
+&lt;div class=&quot;container-narrow-right&quot;&gt;
+
+	
+	
+
+	
+	
+
+	
+	
+
+	
+	
+&lt;h4&gt;&lt;a href=&quot;/2020/10/13/unterm_pflaster_liegt_der_strand&quot;&gt;&lt;/a&gt;Unterm Pflaster liegt der Strand&lt;/h4&gt;
+	
+
+	
+	
+
+	
+	
+
+	
+	
+
+	
+	
+
+	
+	
+
+	
+	
+
+	
+	
+
+	
+	
+
+	
+	
+
+	
+	
+
+	
+	
+
+	
+	
+
+	
+	
+
+	
+	
+
+	
+	
+
+	
+	
+
+	
+	
+
+	
+	
+
+	
+	
+
+	
+	
+
+	
+	
+
+	
+	
+
+	
+	
+
+	
+	
+
+	
+	
+
+	
+	
+
+	
+	
+
+	
+	
+
 
 &lt;p&gt;
 installation, public display, at &lt;a href=&quot;https:variable.cc&quot; target=&quot;_blank&quot;&gt;dimensions variable #, Semi Public Art&lt;/a&gt;, Vienna, Hietzing / 2020&lt;br /&gt;
@@ -140,22 +445,24 @@ cobblestone, K&amp;amp;K Emblem, sand, adhesive foil, text&lt;br /&gt;
 ‘Unterm Pflaster liegt der Strand’, in it's original french version of &quot;Sous les pavés, la plage&quot; is attributed to the situationists. The phrase became one of the most popular slogans of the 1968 revolt around the world. ‘Unterm Pflaster liegt der Strand’ alludes to the fact that paving stones were often laid on a sand underground, and is also an invitation to use them. This slogan combines hedonism with activism.&lt;br /&gt;
 With minimal resources, the display is staged as a museum view and placed in the context of activist action.
 The text is translated to latin, so it resembles often used honorable mentions on arcades and city monuments.
-
 &lt;br /&gt;&lt;br /&gt;
+&lt;/p&gt;
+&lt;/div&gt;
 
+
+&lt;div class=&quot;container-narrow-left&quot;&gt;
+&lt;img src=&quot;http://localhost:4000/images/pflaster_display_sm.jpg&quot; alt=&quot;image&quot; /&gt;
+&lt;p&gt;&lt;/p&gt;
 &lt;img src=&quot;http://localhost:4000/images/pflaster_brick_sm.jpg&quot; alt=&quot;image&quot; /&gt;
 &lt;p&gt;&lt;/p&gt;
 &lt;img src=&quot;http://localhost:4000/images/pflaster_display_people_sm.jpg&quot; alt=&quot;image&quot; /&gt;
 &lt;p&gt;&lt;/p&gt;
-&lt;img src=&quot;http://localhost:4000/images/pflaster_display_sm.jpg&quot; alt=&quot;image&quot; /&gt;
-&lt;p&gt;&lt;/p&gt;
 &lt;img src=&quot;http://localhost:4000/images/pflaster_display_wide_sm.jpg&quot; alt=&quot;image&quot; /&gt;
 &lt;p&gt;&lt;/p&gt;
 
+&lt;/div&gt;
+&lt;/div&gt;
 
-
-
-&lt;/p&gt;
 </content>
  </entry>
  
@@ -165,7 +472,107 @@ The text is translated to latin, so it resembles often used honorable mentions o
    <updated>2019-08-04T00:00:00+02:00</updated>
    <id>http://tricx.github.io/2019/08/04/mononoke</id>
    <content type="html">
-&lt;h4&gt;&lt;a href=&quot;/2019/08/04/mononoke&quot;&gt;MONO-NO-KE&lt;/a&gt;&lt;/h4&gt;
+&lt;div class=&quot;container-parent&quot;&gt;
+&lt;div class=&quot;container-narrow-right&quot;&gt;
+
+	
+	
+
+	
+	
+
+	
+	
+
+	
+	
+
+	
+	
+&lt;h4&gt;&lt;a href=&quot;/2019/08/04/mononoke&quot;&gt;&lt;/a&gt;MONO-NO-KE&lt;/h4&gt;
+	
+
+	
+	
+
+	
+	
+
+	
+	
+
+	
+	
+
+	
+	
+
+	
+	
+
+	
+	
+
+	
+	
+
+	
+	
+
+	
+	
+
+	
+	
+
+	
+	
+
+	
+	
+
+	
+	
+
+	
+	
+
+	
+	
+
+	
+	
+
+	
+	
+
+	
+	
+
+	
+	
+
+	
+	
+
+	
+	
+
+	
+	
+
+	
+	
+
+	
+	
+
+	
+	
+
+	
+	
+
 
 &lt;p&gt;
 sound installation / concert performance / intervention in public space, July 2019&lt;br /&gt;
@@ -177,17 +584,19 @@ acknowledgments: Tokyo Arts and Space, Ulla Rauter, Paul Reza Klein&lt;br /&gt;
 MONO-NO-KE is part of a series of works that deal with the transmission of sound and appearance of sound events relational to space. It draws its starting point from observations in the Sumida area in Tokyo, where plastic water bottles standing next to the houses, manufacturer buildings, or hidden in the corners or in the front of stores, are used as an everyday custom to scare cats and beasts away, apparently a neko-yoke. It is also connected to the belief in Yokai and Mononoke, which combine imaginary and scientific explanation about natural phaenomena and ghost like appearances, originating from old stories of the Heian period, but occurring again in current sci-fi, manga and game culture.
 &lt;br /&gt;
 Reflections and Refractions of a laser that scans plastic bottles are translated to sound through the interpretation of the refracted light. Sound is not generated but shaped by the appearance of light schemes in space. Refracted by the laser, detailed but always changing shapes appear. Those images are captured by a web-camera and translated via an IFFT process which results in an audible synthesized sound.
-
-
 &lt;br /&gt;&lt;br /&gt;
+&lt;/p&gt;
+&lt;/div&gt;
 
+
+&lt;div class=&quot;container-narrow-left&quot;&gt;
 &lt;img src=&quot;http://localhost:4000/images/mononoke_bot1_lg.jpg&quot; alt=&quot;image&quot; /&gt;
 &lt;p&gt;&lt;/p&gt;
 &lt;p&gt;&lt;/p&gt;
 &lt;img src=&quot;http://localhost:4000/images/mononoke_bot2_lg.jpg&quot; alt=&quot;image&quot; /&gt;
 &lt;p&gt;&lt;/p&gt;
 
-&lt;video preload=&quot;metadata&quot; poster=&quot;http://localhost:4000/images/mononoke_sm1.jpg&quot; width=&quot;100%&quot; height=&quot;100%&quot; controls=&quot;&quot;&gt;
+&lt;video preload=&quot;metadata&quot; poster=&quot;http://localhost:4000/images/mononoke_sm1.jpg&quot; width=&quot;100%&quot; height=&quot;auto&quot; controls=&quot;&quot;&gt;
   &lt;source src=&quot;http://localhost:4000/images/mononoke_sm1.mp4&quot; type=&quot;video/mp4&quot; /&gt;
 &lt;/video&gt;
 
@@ -205,9 +614,9 @@ Reflections and Refractions of a laser that scans plastic bottles are translated
 &lt;p&gt;&lt;/p&gt;
 
 
+&lt;/div&gt;
+&lt;/div&gt;
 
-
-&lt;/p&gt;
 </content>
  </entry>
  
@@ -217,7 +626,107 @@ Reflections and Refractions of a laser that scans plastic bottles are translated
    <updated>2018-06-01T00:00:00+02:00</updated>
    <id>http://tricx.github.io/2018/06/01/arcardian_gate</id>
    <content type="html">
-&lt;h4&gt;&lt;a href=&quot;/2018/06/01/arcardian_gate&quot;&gt;Arcadian Gate&lt;/a&gt;&lt;/h4&gt;
+&lt;div class=&quot;container-parent&quot;&gt;
+&lt;div class=&quot;container-narrow-right&quot;&gt;
+
+	
+	
+
+	
+	
+
+	
+	
+
+	
+	
+
+	
+	
+
+	
+	
+&lt;h4&gt;&lt;a href=&quot;/2018/06/01/arcardian_gate&quot;&gt;&lt;/a&gt;Arcadian Gate&lt;/h4&gt;
+	
+
+	
+	
+
+	
+	
+
+	
+	
+
+	
+	
+
+	
+	
+
+	
+	
+
+	
+	
+
+	
+	
+
+	
+	
+
+	
+	
+
+	
+	
+
+	
+	
+
+	
+	
+
+	
+	
+
+	
+	
+
+	
+	
+
+	
+	
+
+	
+	
+
+	
+	
+
+	
+	
+
+	
+	
+
+	
+	
+
+	
+	
+
+	
+	
+
+	
+	
+
+	
+	
+
 
 &lt;p&gt;
 Site Specific Installation, 2018&lt;br /&gt;
@@ -236,8 +745,11 @@ The Arcadian Gate is a monumental construction built of gigantic awe inspiring l
 http://wikimapia.org/4832019/Arcadian-Gate&lt;/a&gt;
 ) 
 &lt;br /&gt;&lt;br /&gt;
+&lt;/p&gt;
+&lt;/div&gt;
 
 
+&lt;div class=&quot;container-narrow-left&quot;&gt;
 &lt;img src=&quot;http://localhost:4000/images/arcadian_gate_detector_sm_lg.jpg&quot; alt=&quot;image&quot; /&gt;
 &lt;p&gt;&lt;/p&gt;
 &lt;img src=&quot;http://localhost:4000/images/arcadian_gate_laser_sm_lg.jpg&quot; alt=&quot;image&quot; /&gt;
@@ -253,13 +765,9 @@ http://wikimapia.org/4832019/Arcadian-Gate&lt;/a&gt;
 &lt;/audio&gt;
 
 
+&lt;/div&gt;
+&lt;/div&gt;
 
-
-
-
-
-
-&lt;/p&gt;
 </content>
  </entry>
  
@@ -269,7 +777,107 @@ http://wikimapia.org/4832019/Arcadian-Gate&lt;/a&gt;
    <updated>2018-05-27T00:00:00+02:00</updated>
    <id>http://tricx.github.io/2018/05/27/pigeons</id>
    <content type="html">
-&lt;h4&gt;&lt;a href=&quot;/2018/05/27/pigeons&quot;&gt;鸽子&lt;/a&gt;&lt;/h4&gt;
+&lt;div class=&quot;container-parent&quot;&gt;
+&lt;div class=&quot;container-narrow-right&quot;&gt;
+
+	
+	
+
+	
+	
+
+	
+	
+
+	
+	
+
+	
+	
+
+	
+	
+
+	
+	
+&lt;h4&gt;&lt;a href=&quot;/2018/05/27/pigeons&quot;&gt;&lt;/a&gt;鸽子&lt;/h4&gt;
+	
+
+	
+	
+
+	
+	
+
+	
+	
+
+	
+	
+
+	
+	
+
+	
+	
+
+	
+	
+
+	
+	
+
+	
+	
+
+	
+	
+
+	
+	
+
+	
+	
+
+	
+	
+
+	
+	
+
+	
+	
+
+	
+	
+
+	
+	
+
+	
+	
+
+	
+	
+
+	
+	
+
+	
+	
+
+	
+	
+
+	
+	
+
+	
+	
+
+	
+	
+
 
 &lt;p&gt;
 39.891582, 116.391015&lt;br /&gt;
@@ -284,13 +892,16 @@ with the support of Shayan, Yi-Chi Wang and TGIS
 The video shows a 360 degree scan of an Hutong area in Dashila, Beijing. It is considered a ‘red flight zone’, where the use of drones is prohibited due to the proximity to forbidden city and Tiananmen, Beijing. 
 The old Hutong quarters are quite narrow and form a complex mesh of adaptions to the old traditional buildings, that organically grew over the years, that they have been open to the people. On some of the houses rooftops flocks of pigeons have their shelter. Those pigeons are mostly trained to participate in pigeon racings, and are therefore held with a lot of care, as pigeon racing turned out to be a gambling sport, that is also connected to wealthy people and yield high profits. It is said that the main goal for flight competition is not about money but honour, but there seems to be an evolving business going on with pigeon breeders, traders, pirating and betting offices. A worldwide market that evolved especially in China to unite economical, cultural, social and industrial interests to breed the best pigeons to achieve victories in the races. 
 Besides this interest, there is the old tradition to let pigeons fly with special designed flutes, that get attached to the tail of the pigeons. Some of the flutes date back to the Qing dynasty and are still remade as collectibles to value the old handcraft. There are four types of whistles - tube, star, calabash and stareye types, that produce drone like tones up to pentatonic scales. When a flock of birds flies with the flutes attached, it appears as they mark a territory by circling in a certain orbit, diffusing the flute sound in a 3 dimensional spacial way.
-
 &lt;br /&gt;&lt;br /&gt;
+&lt;/p&gt;
+&lt;/div&gt;
 
-&lt;video preload=&quot;metadata&quot; poster=&quot;http://localhost:4000/images/pigeons_small_down.jpg&quot; width=&quot;100%&quot; height=&quot;100%&quot; controls=&quot;&quot;&gt;
+
+
+&lt;div class=&quot;container-narrow-left&quot;&gt;
+&lt;video preload=&quot;metadata&quot; poster=&quot;http://localhost:4000/images/pigeons_small_down.jpg&quot; width=&quot;100%&quot; height=&quot;auto&quot; controls=&quot;&quot;&gt;
   &lt;source src=&quot;http://localhost:4000/images/pigeons_small_down.mp4&quot; type=&quot;video/mp4&quot; /&gt;
 &lt;/video&gt;
-
 
 
 &lt;img src=&quot;http://localhost:4000/images/pigeons_google_earth_lg.jpg&quot; alt=&quot;image&quot; /&gt;
@@ -300,9 +911,9 @@ Besides this interest, there is the old tradition to let pigeons fly with specia
 &lt;img src=&quot;http://localhost:4000/images/pigeon_wing_smaller_lg.jpg&quot; alt=&quot;image&quot; /&gt;
 
 
+&lt;/div&gt;
+&lt;/div&gt;
 
-
-&lt;/p&gt;
 </content>
  </entry>
  
@@ -312,7 +923,107 @@ Besides this interest, there is the old tradition to let pigeons fly with specia
    <updated>2017-12-30T00:00:00+01:00</updated>
    <id>http://tricx.github.io/2017/12/30/centre_and_periphery</id>
    <content type="html">
-&lt;h4&gt;&lt;a href=&quot;/2017/12/30/centre_and_periphery&quot;&gt;Centre and Periphery&lt;/a&gt;&lt;/h4&gt;
+&lt;div class=&quot;container-parent&quot;&gt;
+&lt;div class=&quot;container-narrow-right&quot;&gt;
+
+	
+	
+
+	
+	
+
+	
+	
+
+	
+	
+
+	
+	
+
+	
+	
+
+	
+	
+
+	
+	
+&lt;h4&gt;&lt;a href=&quot;/2017/12/30/centre_and_periphery&quot;&gt;&lt;/a&gt;Centre and Periphery&lt;/h4&gt;
+	
+
+	
+	
+
+	
+	
+
+	
+	
+
+	
+	
+
+	
+	
+
+	
+	
+
+	
+	
+
+	
+	
+
+	
+	
+
+	
+	
+
+	
+	
+
+	
+	
+
+	
+	
+
+	
+	
+
+	
+	
+
+	
+	
+
+	
+	
+
+	
+	
+
+	
+	
+
+	
+	
+
+	
+	
+
+	
+	
+
+	
+	
+
+	
+	
+
 
 &lt;p&gt;
 Site Specific Investigations / 2017&lt;br /&gt;
@@ -347,21 +1058,30 @@ Among other things, the tour in the Magellan region in Chile dealt with the ques
 The project Centre and Periphery picked up this field of tension in order to deal with the region and its topology abstractly and audibly. Based on the idea that all places are now decoded by modern communication technologies (geosatellites, radar, marine systems, measuring stations, ..) and are connected in a synchronized way in a global network, spatial specifics have been searched for signals that occur only in remote places and are otherwise inaudible. Following the meaning of periphéro &quot;carrying around&quot; (ancient greek: carrying around, environment,..), a mobile sculpture and measuring station was constructed in the form of a kite to pick up VLF signals. VLF signals are electromagnetic waves that are reflected by the ionosphere and triggered by meteorological phenomena such as thunderstorms or lightning. Persistent strong winds from the Antarctic and the extreme weather conditions on site were both a prerequisite, as well as theme for this project.
 &lt;br /&gt;&lt;br /&gt;
 &lt;/p&gt;
+&lt;/div&gt;
 
-&lt;p&gt;&lt;img src=&quot;http://localhost:4000/images/drachen_parque_karukinka_small_lg.jpg&quot; alt=&quot;image&quot; /&gt;&lt;/p&gt;
+
+&lt;div class=&quot;container-narrow-left&quot;&gt;
+&lt;img src=&quot;http://localhost:4000/images/drachen_parque_karukinka_small_lg.jpg&quot; alt=&quot;image&quot; /&gt;
 &lt;p&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&quot;http://localhost:4000/images/drachen_antenna_small_lg.jpg&quot; alt=&quot;image&quot; /&gt;&lt;/p&gt;
+&lt;img src=&quot;http://localhost:4000/images/drachen_antenna_small_lg.jpg&quot; alt=&quot;image&quot; /&gt;
 &lt;p&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&quot;http://localhost:4000/images/drachen_cape_horn_small.jpg&quot; alt=&quot;image&quot; /&gt;&lt;/p&gt;
+&lt;img src=&quot;http://localhost:4000/images/drachen_cape_horn_small.jpg&quot; alt=&quot;image&quot; /&gt;
 &lt;p&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;http://localhost:4000/images/drachen_map_lg.jpg&quot; alt=&quot;image&quot; /&gt;&lt;/p&gt;
+
+
+&lt;img src=&quot;http://localhost:4000/images/drachen_map_lg.jpg&quot; alt=&quot;image&quot; /&gt;
 &lt;p&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&quot;http://localhost:4000/images/drachen_recorder_small_lg.jpg&quot; alt=&quot;image&quot; /&gt;&lt;/p&gt;
+&lt;img src=&quot;http://localhost:4000/images/drachen_recorder_small_lg.jpg&quot; alt=&quot;image&quot; /&gt;
 &lt;p&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&quot;http://localhost:4000/images/drachen_cape_horn2_small.jpg&quot; alt=&quot;image&quot; /&gt;&lt;/p&gt;
+&lt;img src=&quot;http://localhost:4000/images/drachen_cape_horn2_small.jpg&quot; alt=&quot;image&quot; /&gt;
 &lt;p&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&quot;http://localhost:4000/images/drachen_barco_small.jpg&quot; alt=&quot;image&quot; /&gt;&lt;/p&gt;
+&lt;img src=&quot;http://localhost:4000/images/drachen_barco_small.jpg&quot; alt=&quot;image&quot; /&gt;
+
+
+&lt;/div&gt;
+&lt;/div&gt;
 
 </content>
  </entry>
@@ -372,7 +1092,107 @@ The project Centre and Periphery picked up this field of tension in order to dea
    <updated>2017-07-24T00:00:00+02:00</updated>
    <id>http://tricx.github.io/2017/07/24/am_land</id>
    <content type="html">
-&lt;h4&gt;&lt;a href=&quot;/2017/07/24/am_land&quot;&gt;AM Land&lt;/a&gt;&lt;/h4&gt;
+&lt;div class=&quot;container-parent&quot;&gt;
+&lt;div class=&quot;container-narrow-right&quot;&gt;
+
+	
+	
+
+	
+	
+
+	
+	
+
+	
+	
+
+	
+	
+
+	
+	
+
+	
+	
+
+	
+	
+
+	
+	
+&lt;h4&gt;&lt;a href=&quot;/2017/07/24/am_land&quot;&gt;&lt;/a&gt;AM Land&lt;/h4&gt;
+	
+
+	
+	
+
+	
+	
+
+	
+	
+
+	
+	
+
+	
+	
+
+	
+	
+
+	
+	
+
+	
+	
+
+	
+	
+
+	
+	
+
+	
+	
+
+	
+	
+
+	
+	
+
+	
+	
+
+	
+	
+
+	
+	
+
+	
+	
+
+	
+	
+
+	
+	
+
+	
+	
+
+	
+	
+
+	
+	
+
+	
+	
+
 
 &lt;p&gt;
 Site Specific Installation / 2017&lt;br /&gt;
@@ -389,32 +1209,40 @@ Explorations of an AM transmitter - receiver circuit and investigations of signa
 No language, just sound, that's all we need know, to synchronise&lt;br /&gt;
 Love to the beat of the show. [...]&lt;br /&gt;
 (Joy Division, Transmission)
-
 &lt;/p&gt;
+&lt;/div&gt;
 
+
+&lt;div class=&quot;container-narrow-left&quot;&gt;
+&lt;img src=&quot;http://localhost:4000/images/am_room_small.jpg&quot; alt=&quot;image&quot; /&gt;
 &lt;p&gt; &lt;br /&gt;Installation View&lt;br /&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&quot;http://localhost:4000/images/am_room_small.jpg&quot; alt=&quot;image&quot; /&gt;&lt;/p&gt;
 
-&lt;video preload=&quot;metadata&quot; poster=&quot;http://localhost:4000/images/am_night_poster.jpg&quot; width=&quot;100%&quot; height=&quot;100%&quot; controls=&quot;&quot;&gt;
+&lt;video preload=&quot;metadata&quot; poster=&quot;http://localhost:4000/images/am_night_poster.jpg&quot; width=&quot;100%&quot; height=&quot;auto&quot; controls=&quot;&quot;&gt;
   &lt;source src=&quot;http://localhost:4000/images/am_night.mp4&quot; type=&quot;video/mp4&quot; /&gt;
 &lt;/video&gt;
 
-&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+
+&lt;br /&gt;
 &lt;p&gt;&lt;/p&gt;
 &lt;audio controls=&quot;&quot; style=&quot;width: 100%&quot; preload=&quot;none&quot;&gt;
   &lt;source src=&quot;http://localhost:4000/images/konfrontationen10.mp3&quot; type=&quot;audio/mpeg&quot; /&gt;	
 &lt;/audio&gt;
+
 
 &lt;p&gt;&lt;/p&gt;
 &lt;audio controls=&quot;&quot; style=&quot;width: 100%&quot; preload=&quot;none&quot;&gt;
   &lt;source src=&quot;http://localhost:4000/images/konfrontationen11.mp3&quot; type=&quot;audio/mpeg&quot; /&gt;
 &lt;/audio&gt;
 
+
 &lt;p&gt;&lt;/p&gt;
 &lt;audio controls=&quot;&quot; style=&quot;width: 100%&quot; preload=&quot;none&quot;&gt;
   &lt;source src=&quot;http://localhost:4000/images/konfrontationen13.mp3&quot; type=&quot;audio/mpeg&quot; /&gt;
-  
 &lt;/audio&gt;
+
+&lt;/div&gt;
+&lt;/div&gt;
 
 </content>
  </entry>
@@ -425,7 +1253,107 @@ Love to the beat of the show. [...]&lt;br /&gt;
    <updated>2017-03-02T00:00:00+01:00</updated>
    <id>http://tricx.github.io/2017/03/02/attractor</id>
    <content type="html">
-&lt;h4&gt;&lt;a href=&quot;/2017/03/02/attractor&quot;&gt;Attractor&lt;/a&gt;&lt;/h4&gt;
+&lt;div class=&quot;container-parent&quot;&gt;
+&lt;div class=&quot;container-narrow-right&quot;&gt;
+
+	
+	
+
+	
+	
+
+	
+	
+
+	
+	
+
+	
+	
+
+	
+	
+
+	
+	
+
+	
+	
+
+	
+	
+
+	
+	
+&lt;h4&gt;&lt;a href=&quot;/2017/03/02/attractor&quot;&gt;&lt;/a&gt;Attractor&lt;/h4&gt;
+	
+
+	
+	
+
+	
+	
+
+	
+	
+
+	
+	
+
+	
+	
+
+	
+	
+
+	
+	
+
+	
+	
+
+	
+	
+
+	
+	
+
+	
+	
+
+	
+	
+
+	
+	
+
+	
+	
+
+	
+	
+
+	
+	
+
+	
+	
+
+	
+	
+
+	
+	
+
+	
+	
+
+	
+	
+
+	
+	
+
 
 &lt;p&gt;
 Site Specific  - Light Installation / 2017&lt;br /&gt;
@@ -439,34 +1367,140 @@ assistance: Hu Xinru, Chao Fu-Le
 
 As a site specific intervention the Attractor is built in a public space, connects to its surroundings and reacts to changes in the electric field. In certain areas in Feijiacun, due to power poles and electrical substations, electric fields build up and can be detected with strip light. They are shaped by the constellations of the architectural setting. Different expansion is found on flat spaces, next to houses, near to trees or on rooftops. The sculpture is not connected to power, but lighted by the electric current it is surrounded by and detects the disturbances when people are passing. It deals with the processes happening in transitory areas and reveals signals that seem to be hidden from general perception.
 &lt;/p&gt;
+&lt;/div&gt;
 
-&lt;p&gt; &lt;br /&gt;Installation View Feijiacun&lt;br /&gt;&lt;/p&gt;
 
-&lt;video preload=&quot;metadata&quot; poster=&quot;http://localhost:4000/images/attractor_poster.jpg&quot; width=&quot;100%&quot; height=&quot;100%&quot; controls=&quot;&quot;&gt;
+&lt;div class=&quot;container-narrow-left&quot;&gt;
+&lt;video preload=&quot;metadata&quot; poster=&quot;http://localhost:4000/images/attractor_poster.jpg&quot; width=&quot;100%&quot; height=&quot;auto&quot; controls=&quot;&quot;&gt;
   &lt;source src=&quot;http://localhost:4000/images/attractor_small.mp4&quot; type=&quot;video/mp4&quot; /&gt;
 &lt;/video&gt;
+&lt;p&gt; &lt;br /&gt;Installation View Feijiacun&lt;br /&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;http://localhost:4000/images/attractor_close_small_lg.jpg&quot; alt=&quot;image&quot; /&gt;&lt;/p&gt;
+
+&lt;img src=&quot;http://localhost:4000/images/attractor_close_small_lg.jpg&quot; alt=&quot;image&quot; /&gt;
 &lt;p&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&quot;http://localhost:4000/images/attractor_doku_small2_lg.jpg&quot; alt=&quot;image&quot; /&gt;&lt;/p&gt;
+&lt;img src=&quot;http://localhost:4000/images/attractor_doku_small2_lg.jpg&quot; alt=&quot;image&quot; /&gt;
 &lt;p&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&quot;http://localhost:4000/images/attractor_test_small.jpg&quot; alt=&quot;image&quot; /&gt;&lt;/p&gt;
+&lt;img src=&quot;http://localhost:4000/images/attractor_test_small.jpg&quot; alt=&quot;image&quot; /&gt;
 &lt;p&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&quot;http://localhost:4000/images/attractor_day_small1_lg.jpg&quot; alt=&quot;image&quot; /&gt;&lt;/p&gt;
+&lt;img src=&quot;http://localhost:4000/images/attractor_day_small1_lg.jpg&quot; alt=&quot;image&quot; /&gt;
+
+&lt;/div&gt;
+&lt;/div&gt;
 
 </content>
  </entry>
  
  <entry>
-   <title>Triptychon_of_lost_media_part2</title>
-   <link href="http://tricx.github.io/2017/02/18/triptychon_of_lost_media_part2"/>
+   <title>Flash</title>
+   <link href="http://tricx.github.io/2017/02/18/flash"/>
    <updated>2017-02-18T00:00:00+01:00</updated>
-   <id>http://tricx.github.io/2017/02/18/triptychon_of_lost_media_part2</id>
+   <id>http://tricx.github.io/2017/02/18/flash</id>
    <content type="html">
-&lt;h4&gt;&lt;a href=&quot;/2017/02/18/triptychon_of_lost_media_part2&quot;&gt;Triptychon of lost media - II&lt;/a&gt;&lt;/h4&gt;
+&lt;div class=&quot;container-parent&quot;&gt;
+&lt;div class=&quot;container-narrow-right&quot;&gt;
+
+	
+	
+
+	
+	
+
+	
+	
+
+	
+	
+
+	
+	
+
+	
+	
+
+	
+	
+
+	
+	
+
+	
+	
+
+	
+	
+
+	
+	
+&lt;h4&gt;&lt;a href=&quot;/2017/02/18/flash&quot;&gt;&lt;/a&gt;Flash&lt;/h4&gt;
+	
+
+	
+	
+
+	
+	
+
+	
+	
+
+	
+	
+
+	
+	
+
+	
+	
+
+	
+	
+
+	
+	
+
+	
+	
+
+	
+	
+
+	
+	
+
+	
+	
+
+	
+	
+
+	
+	
+
+	
+	
+
+	
+	
+
+	
+	
+
+	
+	
+
+	
+	
+
+	
+	
+
+	
+	
+
 
 &lt;p&gt;
-&lt;b&gt;Flash, AM-Feld / Soviet Noise&lt;/b&gt;&lt;br /&gt;
+&lt;b&gt;Triptychon of lost media - II, Flash, AM-Feld / Soviet Noise&lt;/b&gt;&lt;br /&gt;
 Audio Visual Installations / 2016/17&lt;br /&gt;
 radio, transmitter, electric current, camera flash, micro controller, relais, electromagnetic field&lt;br /&gt;&lt;br /&gt;
 
@@ -475,31 +1509,135 @@ Flash is an audio-visual installation for camera flash, radio transmitter and ch
 
 The project AM-Feld / Soviet Noise, is a cooperation with &lt;a href=&quot;www.alexanderfelch.net/&quot; target=&quot;_blank&quot; style=&quot;text-decoration:none; color: grey&quot;&gt;&lt;i&gt;Alexander Felch&lt;/i&gt;&lt;/a&gt; which took place in St. Petersburg. It is the second part of the series ‘Triptychon of lost media’ and concerns the examination of emitter and receiver and explores extended techniques of sound generation and playback. The theme ‘emitter-receiver’ is the conceptual theoretical framework for the work series, but also correlates to the applied techniques of how sound and material are shaped. For ‘AM Field / Soviet Noise’ a radio signal was created to transmit 30 minutes of empty audio tapes, produced 1989. Portable radio receivers where supplied to detect the signals of the audio tapes from the ‘soviet environment’. The work is referencing russian protagonists like Velimir Khleb- nikov (author of the futuristic essay ‘radio of the future’), Alexander Stepanovic Popov (pioneer of radio technology) and UVB-76 (a short wave transmitter, sending a buzz tone since ~1975). There are several portable radio receivers in the room, whose position can also be changed by the visitors. The installation is based on the idea of the Acousmonium, a multi-channel loud- speaker sound system developed by Francois Bayle in the ‘Groupe de Recherches Musicales’ for Radio France 1974. But in contrast to the concept of a composition for fixed loudspeakers, the visitors, equipped with a portable radio receiver, are the players of a ‘loudspeaker orchestra’ themselves. They can move with the radio receivers in the zone of transmission. Several short- range transmitters, all at the same transmission frequency, are positioned at different locations in the room. Each transmitter covers a specific area, which can be received separately, but also modulated by possible interferences. The various transmission distances can be monitored by the movement in the space, thus resulting in a constantly changing configuration.
 &lt;/p&gt;
+&lt;/div&gt;
 
+&lt;div class=&quot;container-narrow-left&quot;&gt;
+&lt;img src=&quot;http://localhost:4000/images/radio_stp2_lg.jpg&quot; alt=&quot;image&quot; /&gt;
 &lt;p&gt; &lt;br /&gt;Installation View: &lt;b&gt;AM-Feld / Soviet Noise&lt;/b&gt;, Alexandrinsky Theater New Stage, St. Petersburg&lt;br /&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;http://localhost:4000/images/radio_stp2_lg.jpg&quot; alt=&quot;image&quot; /&gt;&lt;/p&gt;
 &lt;p&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&quot;http://localhost:4000/images/radio_stp3_lg.jpg&quot; alt=&quot;image&quot; /&gt;&lt;/p&gt;
-
+&lt;img src=&quot;http://localhost:4000/images/radio_stp3_lg.jpg&quot; alt=&quot;image&quot; /&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;img src=&quot;http://localhost:4000/images/radio_blackbridge.jpg&quot; alt=&quot;image&quot; /&gt;
 &lt;p&gt; &lt;br /&gt;Installation View: &lt;b&gt;Flash&lt;/b&gt;, Black Bridge Village, Beijing&lt;br /&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;http://localhost:4000/images/radio_blackbridge.jpg&quot; alt=&quot;image&quot; /&gt;&lt;/p&gt;
-
-&lt;video preload=&quot;metadata&quot; poster=&quot;http://localhost:4000/images/flash_poster_small.jpg&quot; width=&quot;100%&quot; height=&quot;100%&quot; controls=&quot;&quot;&gt;
+&lt;video preload=&quot;metadata&quot; poster=&quot;http://localhost:4000/images/flash_poster_small.jpg&quot; width=&quot;100%&quot; height=&quot;auto&quot; controls=&quot;&quot;&gt;
   &lt;source src=&quot;http://localhost:4000/images/flash_small.mp4&quot; type=&quot;video/mp4&quot; /&gt;
 &lt;/video&gt;
+
+&lt;/div&gt;
+&lt;/div&gt;
 
 </content>
  </entry>
  
  <entry>
-   <title>Triptychon_of_lost_media_part1</title>
-   <link href="http://tricx.github.io/2016/01/21/triptychon_of_lost_media_part1"/>
+   <title>Triptychon_of_lost_media</title>
+   <link href="http://tricx.github.io/2016/01/21/triptychon_of_lost_media"/>
    <updated>2016-01-21T00:00:00+01:00</updated>
-   <id>http://tricx.github.io/2016/01/21/triptychon_of_lost_media_part1</id>
+   <id>http://tricx.github.io/2016/01/21/triptychon_of_lost_media</id>
    <content type="html">
-&lt;h4&gt;&lt;a href=&quot;/2016/01/21/triptychon_of_lost_media_part1&quot;&gt;Triptychon of lost media - I&lt;/a&gt;&lt;/h4&gt;
+&lt;div class=&quot;container-parent&quot;&gt;
+&lt;div class=&quot;container-narrow-right&quot;&gt;
+
+	
+	
+
+	
+	
+
+	
+	
+
+	
+	
+
+	
+	
+
+	
+	
+
+	
+	
+
+	
+	
+
+	
+	
+
+	
+	
+
+	
+	
+
+	
+	
+&lt;h4&gt;&lt;a href=&quot;/2016/01/21/triptychon_of_lost_media&quot;&gt;&lt;/a&gt;Triptychon of lost media - I&lt;/h4&gt;
+	
+
+	
+	
+
+	
+	
+
+	
+	
+
+	
+	
+
+	
+	
+
+	
+	
+
+	
+	
+
+	
+	
+
+	
+	
+
+	
+	
+
+	
+	
+
+	
+	
+
+	
+	
+
+	
+	
+
+	
+	
+
+	
+	
+
+	
+	
+
+	
+	
+
+	
+	
+
+	
+	
+
+
+
 
 &lt;p&gt;
 Sound - Installation / 2015/16&lt;br /&gt;
@@ -517,46 +1655,158 @@ and took part at the sound-festival
 in June 2015.
 &lt;br /&gt;
 &lt;/p&gt;
+&lt;/div&gt;
 
+
+&lt;div class=&quot;container-narrow-left&quot;&gt;
+
+&lt;img src=&quot;http://localhost:4000/images/tolm_small.jpg&quot; alt=&quot;image&quot; /&gt;
 &lt;p&gt; &lt;br /&gt;Installation View: MemphisMemphis&lt;br /&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&quot;http://localhost:4000/images/tolm_small.jpg&quot; alt=&quot;image&quot; /&gt;&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&quot;http://localhost:4000/images/tolm2_small.jpg&quot; alt=&quot;image&quot; /&gt;&lt;/p&gt;
+&lt;img src=&quot;http://localhost:4000/images/tolm2_small.jpg&quot; alt=&quot;image&quot; /&gt;
 &lt;font color=&quot;grey&quot;&gt;(c) Florian Voggeneder&lt;br /&gt;&lt;/font&gt;
 
 &lt;p&gt; &lt;br /&gt;Installation View: moe, Schaukasten XII&lt;br /&gt;&lt;/p&gt;
 
-&lt;video preload=&quot;metadata&quot; poster=&quot;http://localhost:4000/images/tripty1_poster_small.jpg&quot; width=&quot;100%&quot; height=&quot;100%&quot; controls=&quot;&quot;&gt;
+&lt;video preload=&quot;metadata&quot; poster=&quot;http://localhost:4000/images/tripty1_poster_small.jpg&quot; width=&quot;100%&quot; height=&quot;auto&quot; controls=&quot;&quot;&gt;
   &lt;source src=&quot;http://localhost:4000/images/triptychon_of_lost_media.mp4&quot; type=&quot;video/mp4&quot; /&gt;
 &lt;/video&gt;
 
-&lt;p&gt;&lt;img src=&quot;http://localhost:4000/images/triptychon_moe4_lg.jpg&quot; alt=&quot;image&quot; /&gt;&lt;/p&gt;
+&lt;img src=&quot;http://localhost:4000/images/triptychon_moe4_lg.jpg&quot; alt=&quot;image&quot; /&gt;
+
+&lt;/div&gt;
+&lt;/div&gt;
 
 </content>
  </entry>
  
  <entry>
-   <title>Performance</title>
-   <link href="http://tricx.github.io/2015/12/12/performance"/>
+   <title>Faux_terrain</title>
+   <link href="http://tricx.github.io/2015/12/12/faux_terrain"/>
    <updated>2015-12-12T00:00:00+01:00</updated>
-   <id>http://tricx.github.io/2015/12/12/performance</id>
+   <id>http://tricx.github.io/2015/12/12/faux_terrain</id>
    <content type="html">
-&lt;h4&gt;&lt;a href=&quot;/2015/12/12/performance&quot;&gt;Audio - Visual Performance / Faux Terrain - Claudia Larcher&lt;/a&gt;&lt;/h4&gt;
+&lt;div class=&quot;container-parent&quot;&gt;
+&lt;div class=&quot;container-narrow-right&quot;&gt;
+
+	
+	
+
+	
+	
+
+	
+	
+
+	
+	
+
+	
+	
+
+	
+	
+
+	
+	
+
+	
+	
+
+	
+	
+
+	
+	
+
+	
+	
+
+	
+	
+
+	
+	
+&lt;h4&gt;&lt;a href=&quot;/2015/12/12/faux_terrain&quot;&gt;&lt;/a&gt;Audio - Visual Performance / Faux Terrain&lt;/h4&gt;
+	
+
+	
+	
+
+	
+	
+
+	
+	
+
+	
+	
+
+	
+	
+
+	
+	
+
+	
+	
+
+	
+	
+
+	
+	
+
+	
+	
+
+	
+	
+
+	
+	
+
+	
+	
+
+	
+	
+
+	
+	
+
+	
+	
+
+	
+	
+
+	
+	
+
+	
+	
+
 
 &lt;p&gt;
-since 2015&lt;br /&gt;
-microscope camera, lichens / organic material, real-time audio software / Supercollider, projektor, soundsystem&lt;br /&gt;&lt;br /&gt;
-
+2015/16&lt;br /&gt;
+microscope camera, lichens / organic material, real-time audio software / Supercollider, projektor, soundsystem&lt;br /&gt;
+in cooperation with Claudia Larcher&lt;br /&gt;
+&lt;br /&gt;
 - investigation and interaction with audio-visual material. Fragments of organisms such as lichens or tree bines and geological samples of a collection compiled by Claudia Larcher in the border region between Europe and Russia, on the Lithuanian peninsula Neringa, are categorized according to an abstract cartography. The material is re-arranged with the help of microscopes, contact microphones, coils, camera airbrakes, thus surveying the boundaries of scientific, geographical or geological aspects in a different context.&lt;br /&gt;&lt;br /&gt;
-
-
 &lt;/p&gt;
+&lt;/div&gt;
 
-&lt;p&gt;&lt;img src=&quot;http://localhost:4000/images/theuncannyjenny_small_lg.jpg&quot; alt=&quot;image&quot; /&gt;&lt;/p&gt;
 
-&lt;video preload=&quot;metadata&quot; poster=&quot;http://localhost:4000/images/faux_poster.jpg&quot; width=&quot;100%&quot; height=&quot;100%&quot; controls=&quot;&quot;&gt;
+&lt;div class=&quot;container-narrow-left&quot;&gt;
+&lt;img src=&quot;http://localhost:4000/images/theuncannyjenny_small_lg.jpg&quot; alt=&quot;image&quot; /&gt;
+&lt;p&gt;&lt;/p&gt;
+
+&lt;video preload=&quot;metadata&quot; poster=&quot;http://localhost:4000/images/faux_poster.jpg&quot; width=&quot;100%&quot; height=&quot;auto&quot; controls=&quot;&quot;&gt;
   &lt;source src=&quot;http://localhost:4000/images/fauxterrain_small.mp4&quot; type=&quot;video/mp4&quot; /&gt;
 &lt;/video&gt;
+
+&lt;/div&gt;
+&lt;/div&gt;
 
 </content>
  </entry>
@@ -567,7 +1817,107 @@ microscope camera, lichens / organic material, real-time audio software / Superc
    <updated>2013-12-28T00:00:00+01:00</updated>
    <id>http://tricx.github.io/2013/12/28/ottos_mops</id>
    <content type="html">
-&lt;h4&gt;&lt;a href=&quot;/2013/12/28/ottos_mops&quot;&gt;Ottos Mops&lt;/a&gt;&lt;/h4&gt;
+&lt;div class=&quot;container-parent&quot;&gt;
+&lt;div class=&quot;container-narrow-right&quot;&gt;
+
+	
+	
+
+	
+	
+
+	
+	
+
+	
+	
+
+	
+	
+
+	
+	
+
+	
+	
+
+	
+	
+
+	
+	
+
+	
+	
+
+	
+	
+
+	
+	
+
+	
+	
+
+	
+	
+&lt;h4&gt;&lt;a href=&quot;/2013/12/28/ottos_mops&quot;&gt;&lt;/a&gt;Ottos Mops&lt;/h4&gt;
+	
+
+	
+	
+
+	
+	
+
+	
+	
+
+	
+	
+
+	
+	
+
+	
+	
+
+	
+	
+
+	
+	
+
+	
+	
+
+	
+	
+
+	
+	
+
+	
+	
+
+	
+	
+
+	
+	
+
+	
+	
+
+	
+	
+
+	
+	
+
+	
+	
+
 
 &lt;p&gt;
 Speech - Intervention - Animal / 2013 - ongoing&lt;br /&gt;
@@ -575,20 +1925,27 @@ loudspeaker, parabolic microphones, micro controller, motor&lt;br /&gt;
 in cooperation with &lt;a href=&quot;http://www.kunst-und-raederwerk.de/&quot; target=&quot;_blank&quot; style=&quot;text-decoration:none; color: grey&quot;&gt;&lt;i&gt;Christoph Freidhöfer&lt;/i&gt;&lt;/a&gt; &lt;br /&gt;&lt;br /&gt;
 The robot moves around the exhibition space, orienting itself based on the events, records the speech of other visitors and articulates clever sayings. Using its two parabolic microphone ‘ears’ with the help of the shielding function of the foam ‘hairstyle’ it listens to the most interesting events and moves in direction to where it suspects appealing things to happen. There the robot takes on its journey, remembering snippets of conversations. Otherwise it is striking sayings like ‘the most popular occupations for men and women’ or a quote from ‘Alte Meister’ by Thomas Bernhard.&lt;br /&gt;&lt;br /&gt;
 &lt;/p&gt;
+&lt;/div&gt;
 
-&lt;video preload=&quot;metadata&quot; poster=&quot;http://localhost:4000/images/ottos_mops_poster_small.jpg&quot; width=&quot;100%&quot; height=&quot;100%&quot; controls=&quot;&quot;&gt;
+
+&lt;div class=&quot;container-narrow-left&quot;&gt;
+&lt;video preload=&quot;metadata&quot; poster=&quot;http://localhost:4000/images/ottos_mops_poster_small.jpg&quot; width=&quot;100%&quot; height=&quot;auto&quot; controls=&quot;&quot;&gt;
   &lt;source src=&quot;http://localhost:4000/images/ottosmops.mp4&quot; type=&quot;video/mp4&quot; /&gt;
 &lt;/video&gt;
 
+
 &lt;p&gt; &lt;br /&gt;Ottos Mops at 'What The Shop'&lt;br /&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&quot;http://localhost:4000/images/ottosmops_small_lg.jpg&quot; alt=&quot;image&quot; /&gt;&lt;/p&gt;
+&lt;img src=&quot;http://localhost:4000/images/ottosmops_small_lg.jpg&quot; alt=&quot;image&quot; /&gt;
 
 &lt;p&gt; &lt;br /&gt; &lt;br /&gt;Fanpostkarte von 
 	&lt;a href=&quot;http://www.heterotypia/&quot; target=&quot;_blank&quot; style=&quot;text-decoration:none; color: grey&quot;&gt;
 	&lt;i&gt;Natalie Deewan&lt;/i&gt;&lt;/a&gt;
 &lt;/p&gt;
-&lt;p&gt;&lt;img src=&quot;http://localhost:4000/images/petit_conferencier_card_I_sm.jpg&quot; alt=&quot;image&quot; /&gt;
-&lt;img src=&quot;http://localhost:4000/images/petit_conferencier_card_II_sm.jpg&quot; alt=&quot;image&quot; /&gt;&lt;/p&gt;
+&lt;img src=&quot;http://localhost:4000/images/petit_conferencier_card_I_sm.jpg&quot; alt=&quot;image&quot; /&gt;
+&lt;img src=&quot;http://localhost:4000/images/petit_conferencier_card_II_sm.jpg&quot; alt=&quot;image&quot; /&gt;
+
+&lt;/div&gt;
+&lt;/div&gt;
 
 </content>
  </entry>
@@ -599,7 +1956,108 @@ The robot moves around the exhibition space, orienting itself based on the event
    <updated>2013-12-27T00:00:00+01:00</updated>
    <id>http://tricx.github.io/2013/12/27/pachinko</id>
    <content type="html">
-&lt;h4&gt;&lt;a href=&quot;/2013/12/27/pachinko&quot;&gt;Pachinko&lt;/a&gt;&lt;/h4&gt;
+&lt;div class=&quot;container-parent&quot;&gt;
+&lt;div class=&quot;container-narrow-right&quot;&gt;
+
+	
+	
+
+	
+	
+
+	
+	
+
+	
+	
+
+	
+	
+
+	
+	
+
+	
+	
+
+	
+	
+
+	
+	
+
+	
+	
+
+	
+	
+
+	
+	
+
+	
+	
+
+	
+	
+
+	
+	
+&lt;h4&gt;&lt;a href=&quot;/2013/12/27/pachinko&quot;&gt;&lt;/a&gt;Pachinko&lt;/h4&gt;
+	
+
+	
+	
+
+	
+	
+
+	
+	
+
+	
+	
+
+	
+	
+
+	
+	
+
+	
+	
+
+	
+	
+
+	
+	
+
+	
+	
+
+	
+	
+
+	
+	
+
+	
+	
+
+	
+	
+
+	
+	
+
+	
+	
+
+	
+	
+
+
 
 &lt;p&gt;
 Sound - Installation / 2011/12&lt;br /&gt;
@@ -607,10 +2065,17 @@ photocells, micro controller / arduino, real-time audio software, loudspeakers&l
 
 Pachinko is played by more than 30% of the Japanese population. It is based on the coincidental spreading of Pachinko balls hitting certain positions, which lead to winnings. A peculiar feature in Pachinko game halls is the volume and the chaotically fluctuating sound. With this automaton the sound of the surroundings and the Pachinko itself is recorded, triggered, generated and manipulated in realtime without the use of prerecorded sounds (except one tribute-soundfile). Controlled by sensors, the Pachinko becomes an uncontrollable and absurd interface, as you never know what the machine will do next.&lt;br /&gt;&lt;br /&gt;
 &lt;/p&gt;
+&lt;/div&gt;
 
-&lt;video preload=&quot;metadata&quot; poster=&quot;http://localhost:4000/images/pachinko_poster_small.jpg&quot; width=&quot;100%&quot; height=&quot;100%&quot; controls=&quot;&quot;&gt;
+
+&lt;div class=&quot;container-narrow-left&quot;&gt;
+&lt;video preload=&quot;metadata&quot; poster=&quot;http://localhost:4000/images/pachinko_poster_small.jpg&quot; width=&quot;100%&quot; height=&quot;auto&quot; controls=&quot;&quot;&gt;
   &lt;source src=&quot;http://localhost:4000/images/pachinko.mp4&quot; type=&quot;video/mp4&quot; /&gt;
 &lt;/video&gt;
+
+
+&lt;/div&gt;
+&lt;/div&gt;
 
 </content>
  </entry>
@@ -621,7 +2086,107 @@ Pachinko is played by more than 30% of the Japanese population. It is based on t
    <updated>2013-12-26T00:00:00+01:00</updated>
    <id>http://tricx.github.io/2013/12/26/a_car_from_above</id>
    <content type="html">
-&lt;h4&gt;&lt;a href=&quot;/2013/12/26/a_car_from_above&quot;&gt;A Car from ABove&lt;/a&gt;&lt;/h4&gt;
+&lt;div class=&quot;container-parent&quot;&gt;
+&lt;div class=&quot;container-narrow-right&quot;&gt;
+
+	
+	
+
+	
+	
+
+	
+	
+
+	
+	
+
+	
+	
+
+	
+	
+
+	
+	
+
+	
+	
+
+	
+	
+
+	
+	
+
+	
+	
+
+	
+	
+
+	
+	
+
+	
+	
+
+	
+	
+
+	
+	
+&lt;h4&gt;&lt;a href=&quot;/2013/12/26/a_car_from_above&quot;&gt;&lt;/a&gt;A Car from ABove&lt;/h4&gt;
+	
+
+	
+	
+
+	
+	
+
+	
+	
+
+	
+	
+
+	
+	
+
+	
+	
+
+	
+	
+
+	
+	
+
+	
+	
+
+	
+	
+
+	
+	
+
+	
+	
+
+	
+	
+
+	
+	
+
+	
+	
+
+	
+	
+
 
 &lt;p&gt;
 toy car, cable, coil, high ceiling / 2012&lt;br /&gt;
@@ -629,10 +2194,16 @@ in cooperation with &lt;a href=&quot;http://www.praxistest.cc/&quot; target=&quo
 
 A toy police car falls in free fall at the exhibition Dimensions Variable # at Mo.ë. When the car is switched on, the car‘s flashing lights start flashing and it sounds: ‘Police, do not move - [sound- effect: gunshot] - you are under arrest!’ The car is equipped with a conductive cable on a coil that is attached to the ceiling. At random time intervals, the car falls from the ceiling to shortly before the impact on the ground.&lt;br /&gt;&lt;br /&gt;
 &lt;/p&gt;
+&lt;/div&gt;
 
-&lt;video preload=&quot;metadata&quot; poster=&quot;http://localhost:4000/images/acab_poster.jpg&quot; width=&quot;100%&quot; height=&quot;100%&quot; controls=&quot;&quot;&gt;
+
+&lt;div class=&quot;container-narrow-left&quot;&gt;
+&lt;video preload=&quot;metadata&quot; poster=&quot;http://localhost:4000/images/acab_poster.jpg&quot; width=&quot;100%&quot; height=&quot;auto&quot; controls=&quot;&quot;&gt;
   &lt;source src=&quot;http://localhost:4000/images/acab_small.mp4&quot; type=&quot;video/mp4&quot; /&gt;
 &lt;/video&gt;
+
+&lt;/div&gt;
+&lt;/div&gt;
 
 </content>
  </entry>
@@ -693,12 +2264,1092 @@ for diy-zither, cymbal, contact microphone, live granular synthesis, live record
  </entry>
  
  <entry>
-   <title>Wilhelms_punk</title>
-   <link href="http://tricx.github.io/2013/12/13/wilhelms_punk"/>
+   <title>Platte_x</title>
+   <link href="http://tricx.github.io/2013/12/13/platte_x"/>
    <updated>2013-12-13T00:00:00+01:00</updated>
-   <id>http://tricx.github.io/2013/12/13/wilhelms_punk</id>
+   <id>http://tricx.github.io/2013/12/13/platte_x</id>
    <content type="html">
-&lt;h4&gt;&lt;a href=&quot;/2013/12/13/wilhelms_punk&quot;&gt;Wilhelm's Punk&lt;/a&gt;&lt;/h4&gt;
+&lt;div class=&quot;container-parent&quot;&gt;
+&lt;div class=&quot;container-narrow-right&quot;&gt;
+
+	
+	
+
+	
+	
+
+	
+	
+
+	
+	
+
+	
+	
+
+	
+	
+
+	
+	
+
+	
+	
+
+	
+	
+
+	
+	
+
+	
+	
+
+	
+	
+
+	
+	
+
+	
+	
+
+	
+	
+
+	
+	
+
+	
+	
+
+	
+	
+&lt;h4&gt;&lt;a href=&quot;/2013/12/13/platte_x&quot;&gt;&lt;/a&gt;Platte X&lt;/h4&gt;
+	
+
+	
+	
+
+	
+	
+
+	
+	
+
+	
+	
+
+	
+	
+
+	
+	
+
+	
+	
+
+	
+	
+
+	
+	
+
+	
+	
+
+	
+	
+
+	
+	
+
+	
+	
+
+	
+	
+
+
+&lt;p&gt;
+Sound - Installation / 2011&lt;br /&gt;
+a metal plate, a transducer, and a small amplifier&lt;br /&gt;&lt;br /&gt;
+
+This installation was done for 10th exhibition of &lt;a href=&quot;http://platte2000.blogspot.co.at/&quot; target=&quot;_blank&quot; style=&quot;text-decoration:none; color: grey&quot;&gt;&lt;i&gt;'Platte'&lt;/i&gt;&lt;/a&gt; &lt;br /&gt;
+Movements, vibrations the plate receives are amplified and played back into the room.&lt;br /&gt;&lt;br /&gt;
+&lt;/p&gt;
+&lt;/div&gt;
+
+
+&lt;div class=&quot;container-narrow-left&quot;&gt;
+&lt;img src=&quot;http://localhost:4000/images/platte_small_lg.jpg&quot; alt=&quot;image&quot; /&gt;
+
+&lt;/div&gt;
+&lt;/div&gt;
+
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Zweistimmige_inventionen</title>
+   <link href="http://tricx.github.io/2013/10/22/zweistimmige_inventionen"/>
+   <updated>2013-10-22T00:00:00+02:00</updated>
+   <id>http://tricx.github.io/2013/10/22/zweistimmige_inventionen</id>
+   <content type="html">
+&lt;div class=&quot;container-parent&quot;&gt;
+&lt;div class=&quot;container-narrow-right&quot;&gt;
+
+	
+	
+
+	
+	
+
+	
+	
+
+	
+	
+
+	
+	
+
+	
+	
+
+	
+	
+
+	
+	
+
+	
+	
+
+	
+	
+
+	
+	
+
+	
+	
+
+	
+	
+
+	
+	
+
+	
+	
+
+	
+	
+
+	
+	
+
+	
+	
+
+	
+	
+&lt;h4&gt;&lt;a href=&quot;/2013/10/22/zweistimmige_inventionen&quot;&gt;&lt;/a&gt;Zweistimmige Inventionen&lt;/h4&gt;
+	
+
+	
+	
+
+	
+	
+
+	
+	
+
+	
+	
+
+	
+	
+
+	
+	
+
+	
+	
+
+	
+	
+
+	
+	
+
+	
+	
+
+	
+	
+
+	
+	
+
+	
+	
+
+
+
+
+
+
+&lt;p&gt;
+Site Specific Installation / 2008&lt;br /&gt;&lt;br /&gt;
+
+The installation “Zweistimmige Inventionen” has been designed for the Prospekthof Semperdepot of the Academy of Fine Arts Vienna and consists of the following components:&lt;br /&gt;&lt;br /&gt;
+
+A swing from a playground that was extended with hawsers (ropes) from the roof framework to the ground.&lt;br /&gt;
+
+A hi-fi system / ghetto blaster.&lt;br /&gt;
+
+The recordings of the fifteen Two-Part Inventions and one Three-Part Sinfonia of J.S.Bach, which I have learned for this work and recorded myself.&lt;br /&gt;
+
+A framed image that shows the wooden framework for a swing at a playground, where the swing is missing and the ground is covered with additional soil.&lt;br /&gt;
+
+Considerations to the themes, areas and associations, which could form some of the questions the Installation “Zweistimmige Inventionen” poses, are accompanying the work as a virtual art-theory handout.&lt;br /&gt;
+&lt;/p&gt;
+&lt;/div&gt;
+
+
+&lt;div class=&quot;container-narrow-left&quot;&gt;
+&lt;img src=&quot;http://localhost:4000/images/schaukel1.jpg&quot; alt=&quot;image&quot; /&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;img src=&quot;http://localhost:4000/images/schaukel2.jpg&quot; alt=&quot;image&quot; /&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;img src=&quot;http://localhost:4000/images/schaukel3.jpg&quot; alt=&quot;image&quot; /&gt;
+&lt;p&gt;exhibition views Semperdepot, Akademie der bildenden Künste, Wien&lt;/p&gt;
+
+&lt;/div&gt;
+&lt;/div&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Bicycle_and_birds</title>
+   <link href="http://tricx.github.io/2013/10/21/bicycle_and_birds"/>
+   <updated>2013-10-21T00:00:00+02:00</updated>
+   <id>http://tricx.github.io/2013/10/21/bicycle_and_birds</id>
+   <content type="html">
+&lt;div class=&quot;container-parent&quot;&gt;
+&lt;div class=&quot;container-narrow-right&quot;&gt;
+
+	
+	
+
+	
+	
+
+	
+	
+
+	
+	
+
+	
+	
+
+	
+	
+
+	
+	
+
+	
+	
+
+	
+	
+
+	
+	
+
+	
+	
+
+	
+	
+
+	
+	
+
+	
+	
+
+	
+	
+
+	
+	
+
+	
+	
+
+	
+	
+
+	
+	
+
+	
+	
+&lt;h4&gt;&lt;a href=&quot;/2013/10/21/bicycle_and_birds&quot;&gt;&lt;/a&gt;Bicycle and Birds&lt;/h4&gt;
+	
+
+	
+	
+
+	
+	
+
+	
+	
+
+	
+	
+
+	
+	
+
+	
+	
+
+	
+	
+
+	
+	
+
+	
+	
+
+	
+	
+
+	
+	
+
+	
+	
+
+
+&lt;p&gt;
+2008&lt;br /&gt;
+video (6mn 30)&lt;br /&gt;&lt;br /&gt;
+
+The video shows the traces of the tires of a bicycle, during a ride through the city. The traces appear like oscillating lines that lay over the erratic movements and interferences of the structure of the ground. The audio track gives an anticipation of the urban surrounding, interferences between the noise of the pedals and the events on the street occur.&lt;br /&gt;&lt;br /&gt;
+&lt;/p&gt;
+
+
+&lt;p&gt;
+2008&lt;br /&gt;
+Videoloop (4mn)&lt;br /&gt;
+
+Birds in a cage.&lt;br /&gt;&lt;br /&gt;
+&lt;/p&gt;
+&lt;/div&gt;
+
+
+&lt;div class=&quot;container-narrow-left&quot;&gt;
+&lt;video preload=&quot;metadata&quot; poster=&quot;http://localhost:4000/images/bike_poster.jpg&quot; width=&quot;100%&quot; height=&quot;auto&quot; controls=&quot;&quot;&gt;
+  &lt;source src=&quot;http://localhost:4000/images/bike_small.mp4&quot; type=&quot;video/mp4&quot; /&gt;
+&lt;/video&gt;
+
+&lt;video preload=&quot;metadata&quot; poster=&quot;http://localhost:4000/images/birds_poster.jpg&quot; width=&quot;100%&quot; height=&quot;auto&quot; controls=&quot;&quot;&gt;
+  &lt;source src=&quot;http://localhost:4000/images/birds_small.mp4&quot; type=&quot;video/mp4&quot; /&gt;
+&lt;/video&gt;
+
+&lt;/div&gt;
+&lt;/div&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Flieger</title>
+   <link href="http://tricx.github.io/2013/10/01/flieger"/>
+   <updated>2013-10-01T00:00:00+02:00</updated>
+   <id>http://tricx.github.io/2013/10/01/flieger</id>
+   <content type="html">
+&lt;div class=&quot;container-parent&quot;&gt;
+&lt;div class=&quot;container-narrow-right&quot;&gt;
+
+	
+	
+
+	
+	
+
+	
+	
+
+	
+	
+
+	
+	
+
+	
+	
+
+	
+	
+
+	
+	
+
+	
+	
+
+	
+	
+
+	
+	
+
+	
+	
+
+	
+	
+
+	
+	
+
+	
+	
+
+	
+	
+
+	
+	
+
+	
+	
+
+	
+	
+
+	
+	
+
+	
+	
+&lt;h4&gt;&lt;a href=&quot;/2013/10/01/flieger&quot;&gt;&lt;/a&gt;Flieger&lt;/h4&gt;
+	
+
+	
+	
+
+	
+	
+
+	
+	
+
+	
+	
+
+	
+	
+
+	
+	
+
+	
+	
+
+	
+	
+
+	
+	
+
+	
+	
+
+	
+	
+
+
+&lt;p&gt;
+Action / 2004&lt;br /&gt;
+paper planes&lt;br /&gt;&lt;br /&gt;
+
+Happening during the entrance examinations at the academy of fine arts Vienna.&lt;br /&gt;&lt;br /&gt;
+&lt;/p&gt;
+&lt;/div&gt;
+
+
+
+&lt;div class=&quot;container-narrow-left&quot;&gt;
+&lt;img src=&quot;http://localhost:4000/images/flieger.jpg&quot; alt=&quot;image&quot; /&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;img src=&quot;http://localhost:4000/images/flieger1lg.jpg&quot; alt=&quot;image&quot; /&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;img src=&quot;http://localhost:4000/images/flieger2.jpg&quot; alt=&quot;image&quot; /&gt;
+
+&lt;/div&gt;
+&lt;/div&gt;
+
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Index</title>
+   <link href="http://tricx.github.io/2010/02/23/index"/>
+   <updated>2010-02-23T00:00:00+01:00</updated>
+   <id>http://tricx.github.io/2010/02/23/index</id>
+   <content type="html">
+&lt;div style=&quot;font-weight:lighter&quot;&gt;
+&lt;br /&gt;
+Artistic work in the scope of conceptual and process art, site specific intervention, sound sculpture, performances. Paul Gründorfer is currently working on installations and interventions that deal with functional methods and question the spatial conditions. He develops process-related test structures and examines variable or unstable systems for their perceptibility and reception.
+&lt;br /&gt;
+&lt;br /&gt;
+&lt;br /&gt;
+&lt;br /&gt;
+&lt;br /&gt;
+&lt;br /&gt;
+&lt;br /&gt;
+&lt;br /&gt;
+&lt;br /&gt;
+&lt;br /&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;/div&gt;
+
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Cv</title>
+   <link href="http://tricx.github.io/2010/02/23/cv"/>
+   <updated>2010-02-23T00:00:00+01:00</updated>
+   <id>http://tricx.github.io/2010/02/23/cv</id>
+   <content type="html">
+&lt;div style=&quot;font-weight:lighter&quot;&gt;
+&lt;br /&gt;
+Artistic work in the scope of conceptual and process art, site specific intervention, sound sculpture, performances. Paul Gründorfer is currently working on installations and interventions that deal with functional methods and question the spatial conditions. He develops process-related test structures and examines variable or unstable systems for their perceptibility and reception.
+&lt;br /&gt;&lt;br /&gt;
+
+currently active at: &lt;a href=&quot;http://www.variable.cc&quot; style=&quot;color:grey&quot; target=&quot;_blank&quot;&gt;dimensions variable #&lt;/a&gt;&lt;br /&gt;
+is co-founder of: &lt;a href=&quot;http://zentrale.jetzt/&quot; style=&quot;color:grey&quot; target=&quot;_blank&quot;&gt;Zentrale&lt;/a&gt;&lt;br /&gt;
+was part of: &lt;a href=&quot;http://velak.klingt.org/&quot; style=&quot;color:grey&quot; target=&quot;_blank&quot;&gt;velak&lt;/a&gt;&lt;br /&gt;
+
+
+&lt;br /&gt;
+contact:&lt;br /&gt;
+paul[at]lefant.net
+&lt;br /&gt;&lt;br /&gt;
+some other stuff on: &lt;a href=&quot;https://soundcloud.com/t_a-z&quot; style=&quot;color:grey&quot; target=&quot;_blank&quot;&gt;soundcloud&lt;/a&gt;
+
+
+
+
+
+
+&lt;/div&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;div style=&quot;color:red&quot;&gt;NOW:&lt;/div&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;b&gt;2021&lt;/b&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;b&gt;2020&lt;/b&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;Sweet Spot, Jahresendzeitschokoladenhohlkörper, WUK, Vienna[AT], dec 14 2020&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;Intervention for Acousminimum, w / Thomas Gorbach, Echoraum, Vienna[AT], dec 5 2020&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;re-composed, Kunstkanal, Vienna[AT], oct 16 2020&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;dimensions variable# Semi Public Art (13*13.), Vienna[AT], oct 3 - nov 1 2020&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;Äquidistanz Festival, Republik Kuglmugl, sept 19 2020&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;sound-campus, Ars Electronica, Linz[AT], sept 11 2020&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;st-mn, w/ Mikko Savlea, Fiducia, Ostrava[CZ], mar 3 2020&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;st-mn, Punctum, Prag[CZ], feb 28 2020&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;st-mn, Bludny Kamen, Opava[CZ], feb 27, 2020&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;La Cueva, w/ Hugo Esquinca, Kirstine Elisa Kjeldsen, Eduardo Triviño Cely, Akademie der bildenen Künste, Semperdepot, Vienna[AT], feb 14 2020&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;Toxic Temple, w/ Margaret Unknown, AIL, Vienna[AT], feb 12 2020&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;AS-MR, w/ Clemens Hausch, Alte Schmiede, Vienna[AT], jan 17 2020&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;b&gt;2019&lt;/b&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;AS-MR, w/ Clemens Hausch, blöder dritter mittwoch, GrillX, Vienna[AT], dec 18 2019&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;live, w/ Clemens Hausch, Jahresendzeitschokoladenhohlkörper, WUK, Vienna[AT], nov 15 2019&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;oqko + Klammklang, West Germany, Berlin[DE], nov 5 2019&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;st, Tresor, Linz[AT], okt 24 2019&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;st, A4, Bratislava[SK], okt 23 2019&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;connex, radio interview by Michael Fischer, orange, Vienna[AT], okt 22 2019&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;MONO-NO-KE, Kagurane / KGR(n), Tokyo[JP], july 28 2019&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;trio w/ Takahiro Kawaguchi / Makoto Oshiro, ftftftf, Tokyo[JP], july 18 2019&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;open studio, TOKAS, Tokyo[JP], july 12-14 2019&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;artist talk, TOKAS, Tokyo[JP], july 13 2019&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;OTOOTO, w/ Toshimaru Nakamura, Tokyo[JP], july 6 2019&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;MONO-NO-KE, Kagurane / KGR(n), Tokyo[JP], june 25 2019&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;ftftftf, w/ Satoshi Ikeda +, Tokyo[JP], june 10 2019&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;Permian, w/ Makoto Oshiro, Tokyo[JP], june 7 2019&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;dotolim, Seoul[KR], april 26 2019&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;live w/ Clemens Hausch, wasser+himmel, Vienna[AT], march 8 2019&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;velakexport#19, venster99, Vienna[AT], feb 26 2019&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;verschub, pmk, Innsbruck[AT], feb 1 2019&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;b&gt;2018&lt;/b&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;Umbral w/ Arthur Henry Fork, Centro de Artes Vivas, Mexico City[MX], dec 6 2018&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;intervention, Monte Albán, Oaxaca[MX], dec 4 2018&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;Umbral, Museo de Arte Contemporáneo de Oaxaca, Oaxaca[MX], dec 3 2018&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;sonic territory, yope project space, Oaxaca[MX], dec 2-3 2018&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;smallforms, w/ MS MUTT, chateaux rouge, Vienna[AT], nov 23 2018&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;Transient Hole (variations) IX, furtherfield/cybersalon, London[UK], nov 16-17 2018&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;Sonic Territories, Seestadt, Vienna[AT], nov 10 2018&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;struma + iodine, Vienna[AT], nov 6 2018&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;La cueva del amigo sessions, Akademie der bildenen Künste Wien, Semperdepot, Vienna[AT], oct 25 2018&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;Retreat &amp;amp; Surrender, die schöne, Vienna[AT], oct 20 2018&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;Transient Hole (variations) VIII, GMK, Zagreb[HR], oct 6 2018&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;Transient Hole (variations) V, Spektrum, Berlin[DE], jul 7 2018&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;Transient Hole (variations) IV, fp24, Antwerp[BE], jun 18-21 2018&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;Z.V, Zentrale, Vienna[AT], jun 16 2018&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;LABOA, Vienna[AT], jun 9 2018&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;ZVA, fake / fakt, academy of fine arts, Vienna[AT], jun 8 2018&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;tuned city, Messene[GR], jun 1-3 2018&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;live w/ Steve Bates, Nicolas Spencer, Marc-Alexandre Reinhardt, Dom-ino, Mavromati[GR], may 30 2018&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;lecture Sonic Territories, TGIS, Beijing[CN], may 13 2018&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;lecture Sonic Territories, Academy of Fine Arts, Guangzhou[CN], apr 26 2018&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;teaching at Academy of Fine Arts, Guangzhou[CN], apr 16-28 2018&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;tripple circulation tour, w/ joak, Hui Ye, Hua Art Museum, Shenzhen[CN], apr 15 2018&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;tripple circulation tour, w/ joak, Hui Ye, Jing Art Space, Nanting Village, Guangzhou[CN], apr 14 2018&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;Klangmanifeste, Maschinenraum, Echoraum, Vienna[AT], jan 17-26 2018&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;b&gt;2017&lt;/b&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;Centre and Periphery, Tsonami Festival, Concepción[CL], dec 15 2017&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;La Picá del Gaviota, Acts Of Listening, / Nicolás Spencer + Bárbara Gonzáles, Tsonami Festival, Valparaíso[CL], dec 10 2017&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;T/A-S, w/ Nicolás Spencer, Tsonami Festival, Valparaíso[CL], dec 7 2017&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;La Picá del Zombie, Acts Of Listening, w/ Nicolás Spencer + Bárbara Gonzáles, Tsonami Festival, Valparaíso[CL], dec 6 2017&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;Lumen Festival, Punta Arenas[CL], nov ~22 2017&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;Audio Compostion for “Everything’s coming together while everything’s falling apart: Code Rood“, Oliver Ressler, 14 Min., 2017&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;Zentrale Versuchsantalt, 10 years moozak, Steinergasse8, Vienna[AT], oct 21 2017&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;Transient Hole (variations) I, Zentrale, Vienna[AT], oct 12-14 2017&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;T/A-Z, w/ Stefan Nussbaumer, Michael Fischer, bb15, Linz[AT], oct 6 2017&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;unsafe+sounds festival, Fluc, Vienna[AT], sept 24 2017&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;Death in the Afternoon, KS Room, Kornberg[AT], aug 13 2017&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;Wolkenkuckucksheim Festival, w/ Setzkasten extern, Chemnitz[DE], aug 8-12 2017&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;A Place To Stay, Konfrontationen, Nickelsdorf[AT], jul 20-23 2017&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;Klub Moozak, Au, Vienna[AT], jun 20 2017&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;N_I, w/ Patrick Schabus, Vienna Shorts, Metro Kino, Vienna[AT], jun 3 2017&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;T/A-Z, w/ Michael Fischer, Cafe Korb, Vienna[AT], may 31 2017&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;Himmelfart, moe, Vienna[AT], may 26 2017&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;ada w/ Leo Peschta, ada, Vienna [AT], may 19 2017&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;DaDaDaDa, moe, Vienna[AT], may 16 2017&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;Haus der elektronischen Künste, w/ Leo Peschta, Basel[CH], may 5 2017&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;Observatorium, w/ Philip Leitner, moe, Vienna[AT], apr 31 2017&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;der blöde dritte mittwoch, rhiz, Vienna[AT], apr 12 2017&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;open studio, red gate residency, Beijing[CN], feb 25 2017&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;live concert, fruityspace, Beijing[CN], 23 feb 2017&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;live concert, miji concert, Beijing[CN], 19 feb 2017&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;live concert, fruityspace, Beijing[CN], 20 jan 2017&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;Flash, exhibition at Black Bridge Village, Heiqiaocun, Beijing[CN], jan 17 2017&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;lecture, Ergao Dance Production Group, w/ Hui Ye, Guangzhou[CN], 12 - 13 jan 2017&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;live concert, Tong 3, w/ Hui Ye, Eric Wong &amp;amp; Mira Falk, Hong Kong[HK], 8 jan 2017&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;b&gt;2016&lt;/b&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;open studio, red gate residency, Beijing[CN], dec 17 2016&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;Klub Moozak, w/ Karl Salzmann, Thomas Wagensommerer, fluc, Vienna[AT], nov 30 2016&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;live concert, volna, St. Petersburg[RU], nov 26 2016&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;live concert / lecture, w/ Alexander Felch, Александринский театр и Новая сцена, St. Petersburg[RU], nov 23 2016&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;AM-Feld / Soviet-Noise, w/ Alexander Felch, Taiga, St. Petersburg[RU], nov 22 2016&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;Triptychon of lost media I, Memphis, Linz[AT], nov 15 2016&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;live concert, Trezor, Linz[AT], nov 15 2016&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;audio composition for video by Luiza Margan, Gallery Skola, Split[HR], nov 16 2016&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;Cabaret Poulet, w/ George Rei, Albert Mayr, Zentrale, Vienna[AT], oct 7 2016&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;Woanders Währenddessen, Seis[IT], sept 18 2016&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;live concert, Cabaret Poulet #2, w/ Mikko Savela, mo.ë, Vienna[AT], sept 2 2016&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;SGMK, w/ Tamara Wilhelm &amp;amp; Philip Leitner, Walcheturm, Zürich[CH], jul 29 2016&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;Uncanny Jenny, w/ Paal Nilssen-Love &amp;amp; Ken Vandermark, fluc, Vienna[AT], jun 9 2016&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;live concert, struma + iodine, rhiz, Vienna[AT], jun 7 2016&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;live performance w/ Claudia Larcher - Faux Terrain, Bildraum Bodensee, Bregenz[AT], may 31 2016&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;animal-voice-orchestra, coded cultures, Vienna[AT], may 26 2016&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;(In) The Abyssity Of The Grounds, mo.ë, Vienna[AT], apr 7 2016&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;(In) The Abyssity Of The Grounds, fluc, Vienna[AT], apr 6 2016&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;Uncanny Jenny, Wow!Signal!, Kramladen, Vienna[AT], mar 24 2016&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;Egotrip #27, mo.ë, Vienna[AT], mar 19 2016&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;After Show, w/ Réka Kutas, mo.ë, Vienna[AT], feb 18 2016&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;(In) The Abyssity Of The Grounds, mo.ë, Vienna[AT], jan 23 2016&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;Velak Export #12, live concert w/ Alan Courtis, Manuel Knapp, Pablo Sanz, Venster99, Vienna[AT], jan 7 2016&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;b&gt;2015&lt;/b&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;mo.ë, zum Auftakt des geordneten Verfahrens - Festwerk Gala, w/ Réka Kutas and Stefan Nussbaumer, Vienna[AT], dec 31 2015&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;Forte Fanculo - Margaret Unknown / Cabaret Poulet, Umami Live - Egotrip night 10, XB-liebig, Berlin[DE], dec 10 2015
+&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;mo.ë Schaukasten I-XII Katalogpräsentation, w/ Réka Kutas, Vienna[AT], nov 24 2015 &lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;Peng Peng Penguin, Secession, Vienna[AT], oct 21 2015 &lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;)))))((((( + Cabaret Poulet + Thiebault Imm, MultiTEST&amp;lt;/a&amp;gt;, dasWerk, Vienna[AT], oct 15 2015&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;Forte Fanculo - Margaret Unknown / Cabaret Poulet, Struma&amp;amp;Iodine w/ Gordon Ashworth, Mater Dolores, mo.ë, Vienna[AT], oct 10 2015&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;Forte Fanculo - Margaret Unknown / Cabaret Poulet, Fanfulla, Rom[IT], oct 5 2015&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;Forte Fanculo - Margaret Unknown / Cabaret Poulet, Multiversale II, Naples[IT], oct 4 2015&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;GIANNINI / STRAUSS / RUTZEN / KEBAB / POULET, Multiversale II, Naples[IT], oct 3 2015&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;Cabaret Poulet, Zeitzoo, Fluc, Vienna[AT], sep 28 2015&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;Velak Export #9&amp;lt;/a&amp;gt;: austrian experimental movies and A/V performances - w/ Claudia Larcher, Réka Kutas, Cinema Nova, Brussels[BE], sep 25 2015&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;Tricxikid, mo.ë-extended @ parallelvienna, Vienna[AT], sep 22 2015&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;Peng Peng Penguin, Stiegenhausmusik, Innsbruck[AT], sep 11 2015 &lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;Concert for the exhibition ‘In Hand’, Luiza Margan, pinacoteca, Vienna[AT], jun 18 2015 &lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;Triptychon of lost media I, mo.ë, Vienna[AT], Schaukasten XII, jun 8 - jun 30 2015 &lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;Triptychon of lost media I, unsafe+sounds / out of phase&amp;lt;/a&amp;gt;, Vienna[AT], jun 8 2015 &lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;Para Vision, wellwellwell, Vienna[AT], may 16 2015 &lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;velak-gala #87, Vienna[AT], apr 21 2015 &lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;Cabaret Poulet, Elektro Gönner, Vienna[AT], mar 10 2015&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;b&gt;2014&lt;/b&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;Tricxikid, Flat1, Vienna[AT], nov 18 2014&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;Cabaret Poulet #1, Transporter, Vienna[AT], oct 30 2014 &lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;live, mo.ë, Vienna[AT], jun 24 2014 
+&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;velak export at atelier claus, Bruxelles[BE] , jun 26-28 2014 &lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;Elak 50, Anker Expedithalle, Vienna[AT], jun 21 2014&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;Tricxikid, Kunstraum am Schauplatz, Vienna[AT], jun 20 2014&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;Tricxikid, GameBoy Music Club, rhiz, Vienna[AT], jun 5 2014&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;Tricxikid, Struma&amp;amp;Iodine&amp;lt;/a&amp;gt;, mo.ë, Vienna[AT], may 15 2014&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;Diebische Komplizen, Soundinstallation with Julian Palacz, at trezor, Vienna[AT], may 8 - june 25 2014&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;Ottos Mops at ‘It’s the poetry stupid ’, Galerie Peithner-Lichtenfels, Vienna[AT], apr 25 2014&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;b&gt;2013&lt;/b&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;Brain One and Two go for a walk, mo.ë, Vienna[AT], dec 3 2013&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;live, Klangkunsttage, Gallerie 12-14 Vienna[AT], sept 5 2013&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;next_generation 5.0, Karlsruhe[DE], jun 29 2013&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;What the shop, Vienna[AT], jun 14 2013&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;’..on a wire’, Brut, velak-gala, Vienna[AT], may 21 2013&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;nein, damit hat das gar nicht zu tun, ..
+/ trickikid spielt, Vienna[AT], apr 12 2013&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;‘Kontakt’ - Das Werk im Werk VI, Vienna[AT], apr 11 2013&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;Auf den Frühjahrsputz hauen, Das Werk, Vienna[AT], mar 30 2013&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;Brain One and Two go for a walk, CIAT, Berlin[DE], mar 16 2013&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;b&gt;2012&lt;/b&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;Dimensions Variable #, mo.ë, Vienna[AT], nov 18-24 2012&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;MuttTricx at Paraflows, Vienna[AT], sep 21 2012&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;The ultimate summer splash trash experience, mo.ë, Vienna[AT], jul 27 2012&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;In a room .., Hilltown New Music Festival, Hilltown&amp;lt;/a&amp;gt;[IR], jul 21 2012&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;Elak Concert, Echoraum, Vienna[AT], jun 29 2012&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;Concept Stage #4, Steim Amsterdam[NL], jun 7 2012&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;Cyberduck, listening cities symposium, Vienna[AT], may 30 2012&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;live solo concert, Kontroll, Kunst_Halle Getreidemarkt, Vienna[AT], mar 28 2012&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;Crazy Chinese Dragon, Fanny Mendelson Saal, Vienna[AT], feb 2 2012&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;b&gt;2011&lt;/b&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;Klangmanifeste, Echoraum, Vienna[AT], 2-14 dec 2011&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;Duos, Verein 08, Vienna[AT], jun 23 2011&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;Wilhelm`s Punk, Alte Schmiede, Vienna[AT], jun 22 2011&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;live concert w/ Michael Zacherl, Brut, velak-gala,
+Vienna[AT], jun 14 2011&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;Singuhr-Hoergalerie: inferno ma non troppo, GroßerWasserspeicher,
+Berlin[GER], jun 2011&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;Platte X, mo.ë, Vienna[AT], apr 2011&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;Crazy Moving Circus Band - the kidnapped baby performance- conducted by Staffan Mossenmark,
+Vienna[AT], jan 2011&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;live solo concert, Dream Machine, Technisches Museum, Vienna[AT], jan 2011&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;b&gt;2010&lt;/b&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;MuttTricx at Sauna 2010, Brut, Vienna[AT], nov 2010&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;Wolokolamsker Chaussee IV - KJDT, Kabelwerk, Vienna[AT], dec 2010&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;Vienna Noise Orchestra, Galerie Prisma, Bolzano[IT], apr 2010&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;Ausstellung 6, Galerie Bäckerstraße 4, Vienna[AT], jan 2010&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;b&gt;2009&lt;/b&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;Tombolare, Klasse Sieverding and Friends, tombolare-happening at UdK,
+Berlin[DE], dec 2009&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;Take#1 a ride, Artpoint, Vienna[AT], nov 2009&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;¿Quien la cortó? CCC, Buenos Aires[AR], jun 2009&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;b&gt;2008&lt;/b&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;Scoop 08, Momentum Photogalerie, Vienna[AT], jul 2008&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;Diplomarbeiten 07.08, Academy of Fine Arts, Vienna[AT], jun 2008&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;Wir sind schlecht im Jetzt, contemporary, Vienna[AT], jun 2008&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;Kaleidoscreen, DemoRaum, Academy of Fine Arts, Vienna[AT], mar 2008&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;Rundgang 08, Academy of Fine Arts, Vienna[AT], jan 2008&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;b&gt;2007&lt;/b&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;Rundgang07, Academy of Fine Arts, Vienna[AT], jan 2007&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;Don’t look back, Galerie Gauche, Paris[FR], jan 2007&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;b&gt;2006&lt;/b&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;TAG DER OFFENEN TÜR. 50 Positionen im Flakleitturm Arenbergpark, Flakleitturm Arenbergpark, Vienna[AT], 2006&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;Rundgang06, Academy of Fine Arts, Vienna[AT], 2006&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;
+__________
+&lt;br /&gt;&lt;br /&gt;
+&lt;b&gt;MuttTricx:&lt;/b&gt;&lt;br /&gt;
+
+Ljublana - AKC Metelkova Mesto, 6.9.2013 &lt;br /&gt; 
+Hattendorf - Container, 7.9.2014 &lt;br /&gt;
+Wien - Rhiz, 8.9.2013 &lt;br /&gt;
+Brno - Boro, 10.9.2013 &lt;br /&gt;             
+Praha - cafe na pul cesty, 11.9.2013 &lt;br /&gt;
+Dresden - Ballroom Studios, 12.9.2013 &lt;br /&gt;
+Berlin - Bei Ruth, 13.9.2013 &lt;br /&gt;
+Hamburg - Centro Sociale, 14.9.2013 &lt;br /&gt;
+
+Volksstimmefest Prater, Vienna[AT], aug 31 2013&lt;br /&gt;
+
+Klangfestival Gallneukirchen[AT], aug 10 2013&lt;br /&gt;
+        
+what decent noise, probably, Vienna[AT], may 31 2013&lt;br /&gt;
+        
+MuttTricx LP release, concert at Ragnarhof, Vienna[AT], may 11 2013&lt;br /&gt;
+        
+Sofie se bavi, České Budějovice[CZ], apr 17 2013&lt;br /&gt;
+        
+PLENTOR KID will come out on &quot;3 YEARS 
+Comfortzone, compilation CRYSTALIZED&quot; release concert, rhiz, Vienna[AT], dec 14 2012&lt;br /&gt;
+          
+VBKÖ, Maysedergasse 2, 1010 Vienna[AT], dec 13 2012, 7pm&lt;br /&gt;
+
+zach records party,  Kapu Linz[AT], jan 11 2013&lt;br /&gt;
+        
+Paraflows, das weisse haus, Vienna[AT], sep 21 2012&lt;br /&gt;
+        
+mo.ë, Vienna[AT], jul 27 2012&amp;nbsp; w/ Pyroman&lt;br /&gt;
+
+unbirthday – unrecords, rhiz, Vienna[AT], jun 08 2012&lt;br /&gt;
+        
+Garage Kunsthaus&amp;lt;/a&amp;gt;, Graz[AT], may 12 2012&lt;br /&gt;
+          
+rhiz, Vienna[AT], jan 15 2012, premium sunday with dj trashterrier&lt;br /&gt;
+
+Sub, Kaiser Franz Josef Kai 66 8010 Graz[AT], dec 9 2011&amp;nbsp; w/ RUNES / NA&lt;br /&gt;
+        
+Shelter, Vienna[AT], nov 29 2011&amp;nbsp; w/ Thermo-Fill and Kosmoprolet&lt;br /&gt;
+        
+&quot;Kollektiv Akt III&quot; / mo.ë, Vienna[AT], apr 15 2011&lt;br /&gt;
+        
+Shelter, Vienna[AT], feb 24 2011&lt;br /&gt;
+        
+Trost-Label-Night w/ TV Buddhas, Pilots, Chelsea, Vienna[AT], dec 20 2010&lt;br /&gt;
+
+Brut, Vienna[AT], oct 15 2010&lt;br /&gt;
+&lt;br /&gt;&lt;br /&gt;
+&lt;/p&gt;
+
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Recording</title>
+   <link href="http://tricx.github.io/2010/02/22/recording"/>
+   <updated>2010-02-22T00:00:00+01:00</updated>
+   <id>http://tricx.github.io/2010/02/22/recording</id>
+   <content type="html">
+&lt;h4&gt;&lt;a href=&quot;/2010/02/22/recording&quot;&gt;recording&lt;/a&gt;&lt;/h4&gt;
+
+&lt;p&gt;
+documentation of Acoustic Shadows, without human presence, 2020:&lt;br /&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;audio controls=&quot;&quot; style=&quot;width: 100%&quot; preload=&quot;none&quot;&gt;
+  &lt;source src=&quot;http://localhost:4000/images/acoustic_shadows_docu_no-presence.mp3&quot; type=&quot;audio/mpeg&quot; /&gt;
+&lt;/audio&gt;
+
+&lt;/p&gt;
+
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Wilhelms_punk</title>
+   <link href="http://tricx.github.io/2009/12/12/wilhelms_punk"/>
+   <updated>2009-12-12T00:00:00+01:00</updated>
+   <id>http://tricx.github.io/2009/12/12/wilhelms_punk</id>
+   <content type="html">
+&lt;h4&gt;&lt;a href=&quot;/2009/12/12/wilhelms_punk&quot;&gt;Wilhelm's Punk&lt;/a&gt;&lt;/h4&gt;
 
 &lt;p&gt;
 Performance / 2011&lt;br /&gt;
@@ -720,11 +3371,11 @@ The sounds of a cassette recorder, a simple oscillator circuit and a wooden frog
  
  <entry>
    <title>In_a_room</title>
-   <link href="http://tricx.github.io/2013/12/11/in_a_room"/>
-   <updated>2013-12-11T00:00:00+01:00</updated>
-   <id>http://tricx.github.io/2013/12/11/in_a_room</id>
+   <link href="http://tricx.github.io/2009/12/11/in_a_room"/>
+   <updated>2009-12-11T00:00:00+01:00</updated>
+   <id>http://tricx.github.io/2009/12/11/in_a_room</id>
    <content type="html">
-&lt;h4&gt;&lt;a href=&quot;/2013/12/11/in_a_room&quot;&gt;In a room ..&lt;/a&gt;&lt;/h4&gt;
+&lt;h4&gt;&lt;a href=&quot;/2009/12/11/in_a_room&quot;&gt;In a room ..&lt;/a&gt;&lt;/h4&gt;
 
 &lt;p&gt;
 Composition for violin, grains on a metal surface and live-electronics ~8‘ , 2012&lt;br /&gt;
@@ -747,11 +3398,11 @@ The pitch of the violin results from the vertical position of the note within th
  
  <entry>
    <title>On_a_wire</title>
-   <link href="http://tricx.github.io/2013/12/10/on_a_wire"/>
-   <updated>2013-12-10T00:00:00+01:00</updated>
-   <id>http://tricx.github.io/2013/12/10/on_a_wire</id>
+   <link href="http://tricx.github.io/2009/12/10/on_a_wire"/>
+   <updated>2009-12-10T00:00:00+01:00</updated>
+   <id>http://tricx.github.io/2009/12/10/on_a_wire</id>
    <content type="html">
-&lt;h4&gt;&lt;a href=&quot;/2013/12/10/on_a_wire&quot;&gt;On a wire&lt;/a&gt;&lt;/h4&gt;
+&lt;h4&gt;&lt;a href=&quot;/2009/12/10/on_a_wire&quot;&gt;On a wire&lt;/a&gt;&lt;/h4&gt;
 
 &lt;p&gt;
 for diy-zither, cymbal, contact microphone, live granular synthesis, live recording&lt;br /&gt;
@@ -767,33 +3418,12 @@ for diy-zither, cymbal, contact microphone, live granular synthesis, live record
  </entry>
  
  <entry>
-   <title>Platte_x</title>
-   <link href="http://tricx.github.io/2013/10/24/platte_x"/>
-   <updated>2013-10-24T00:00:00+02:00</updated>
-   <id>http://tricx.github.io/2013/10/24/platte_x</id>
-   <content type="html">
-&lt;h4&gt;&lt;a href=&quot;/2013/10/24/platte_x&quot;&gt;Platte X&lt;/a&gt;&lt;/h4&gt;
-
-&lt;p&gt;
-Sound - Installation / 2011&lt;br /&gt;
-a metal plate, a transducer, and a small amplifier&lt;br /&gt;&lt;br /&gt;
-
-This installation was done for 10th exhibition of &lt;a href=&quot;http://platte2000.blogspot.co.at/&quot; target=&quot;_blank&quot; style=&quot;text-decoration:none; color: grey&quot;&gt;&lt;i&gt;'Platte'&lt;/i&gt;&lt;/a&gt; &lt;br /&gt;
-Movements, vibrations the plate receives are amplified and played back into the room.&lt;br /&gt;&lt;br /&gt;
-&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;http://localhost:4000/images/platte_small_lg.jpg&quot; alt=&quot;image&quot; /&gt;&lt;/p&gt;
-
-</content>
- </entry>
- 
- <entry>
    <title>Ancient_ancient_world</title>
-   <link href="http://tricx.github.io/2013/10/23/ancient_ancient_world"/>
-   <updated>2013-10-23T00:00:00+02:00</updated>
-   <id>http://tricx.github.io/2013/10/23/ancient_ancient_world</id>
+   <link href="http://tricx.github.io/2009/10/23/ancient_ancient_world"/>
+   <updated>2009-10-23T00:00:00+02:00</updated>
+   <id>http://tricx.github.io/2009/10/23/ancient_ancient_world</id>
    <content type="html">
-&lt;h4&gt;&lt;a href=&quot;/2013/10/23/ancient_ancient_world&quot;&gt;Ancient Ancient World&lt;/a&gt;&lt;/h4&gt;
+&lt;h4&gt;&lt;a href=&quot;/2009/10/23/ancient_ancient_world&quot;&gt;Ancient Ancient World&lt;/a&gt;&lt;/h4&gt;
 
 &lt;p&gt;
 Installation / 2009/10&lt;br /&gt;
@@ -823,80 +3453,12 @@ The titles of the images are taken form the newspaper Bazar, VW Bus T3, Toyota, 
  </entry>
  
  <entry>
-   <title>Zweistimmige_inventionen</title>
-   <link href="http://tricx.github.io/2013/10/22/zweistimmige_inventionen"/>
-   <updated>2013-10-22T00:00:00+02:00</updated>
-   <id>http://tricx.github.io/2013/10/22/zweistimmige_inventionen</id>
-   <content type="html">
-&lt;h4&gt;&lt;a href=&quot;/2013/10/22/zweistimmige_inventionen&quot;&gt;Zweistimmige Inventionen&lt;/a&gt;&lt;/h4&gt;
-
-&lt;p&gt;
-Site Specific Installation / 2008&lt;br /&gt;&lt;br /&gt;
-
-The installation “Zweistimmige Inventionen” has been designed for the Prospekthof Semperdepot of the Academy of Fine Arts Vienna and consists of the following components:&lt;br /&gt;&lt;br /&gt;
-
-A swing from a playground that was extended with hawsers (ropes) from the roof framework to the ground.&lt;br /&gt;
-
-A hi-fi system / ghetto blaster.&lt;br /&gt;
-
-The recordings of the fifteen Two-Part Inventions and one Three-Part Sinfonia of J.S.Bach, which I have learned for this work and recorded myself.&lt;br /&gt;
-
-A framed image that shows the wooden framework for a swing at a playground, where the swing is missing and the ground is covered with additional soil.&lt;br /&gt;
-
-Considerations to the themes, areas and associations, which could form some of the questions the Installation “Zweistimmige Inventionen” poses, are accompanying the work as a virtual art-theory handout.&lt;br /&gt;
-&lt;/p&gt;
-
-&lt;p&gt; &lt;br /&gt;exhibition view:&lt;br /&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;http://localhost:4000/images/schaukel1.jpg&quot; alt=&quot;image&quot; /&gt;&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&quot;http://localhost:4000/images/schaukel2.jpg&quot; alt=&quot;image&quot; /&gt;&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&quot;http://localhost:4000/images/schaukel3.jpg&quot; alt=&quot;image&quot; /&gt;&lt;/p&gt;
-</content>
- </entry>
- 
- <entry>
-   <title>Bicycle_and_birds</title>
-   <link href="http://tricx.github.io/2013/10/21/bicycle_and_birds"/>
-   <updated>2013-10-21T00:00:00+02:00</updated>
-   <id>http://tricx.github.io/2013/10/21/bicycle_and_birds</id>
-   <content type="html">
-&lt;h4&gt;&lt;a href=&quot;/2013/10/21/bicycle_and_birds&quot;&gt;Bicycle and Birds&lt;/a&gt;&lt;/h4&gt;
-
-&lt;p&gt;
-2008&lt;br /&gt;
-video (6mn 30)&lt;br /&gt;&lt;br /&gt;
-
-The video shows the traces of the tires of a bicycle, during a ride through the city. The traces appear like oscillating lines that lay over the erratic movements and interferences of the structure of the ground. The audio track gives an anticipation of the urban surrounding, interferences between the noise of the pedals and the events on the street occur.&lt;br /&gt;&lt;br /&gt;
-&lt;/p&gt;
-
-&lt;video preload=&quot;metadata&quot; poster=&quot;http://localhost:4000/images/bike_poster.jpg&quot; width=&quot;100%&quot; height=&quot;100%&quot; controls=&quot;&quot;&gt;
-  &lt;source src=&quot;http://localhost:4000/images/bike_small.mp4&quot; type=&quot;video/mp4&quot; /&gt;
-&lt;/video&gt;
-
-&lt;p&gt;
-&lt;br /&gt;&lt;br /&gt;
-2008&lt;br /&gt;
-Videoloop (4mn)&lt;br /&gt;&lt;br /&gt;
-
-Birds in a cage.&lt;br /&gt;&lt;br /&gt;
-&lt;/p&gt;
-
-&lt;video preload=&quot;metadata&quot; poster=&quot;http://localhost:4000/images/birds_poster.jpg&quot; width=&quot;100%&quot; height=&quot;100%&quot; controls=&quot;&quot;&gt;
-  &lt;source src=&quot;http://localhost:4000/images/birds_small.mp4&quot; type=&quot;video/mp4&quot; /&gt;
-&lt;/video&gt;
-
-</content>
- </entry>
- 
- <entry>
    <title>Derive</title>
-   <link href="http://tricx.github.io/2013/10/20/derive"/>
-   <updated>2013-10-20T00:00:00+02:00</updated>
-   <id>http://tricx.github.io/2013/10/20/derive</id>
+   <link href="http://tricx.github.io/2009/10/20/derive"/>
+   <updated>2009-10-20T00:00:00+02:00</updated>
+   <id>http://tricx.github.io/2009/10/20/derive</id>
    <content type="html">
-&lt;h4&gt;&lt;a href=&quot;/2013/10/20/derive&quot;&gt;Derive&lt;/a&gt;&lt;/h4&gt;
+&lt;h4&gt;&lt;a href=&quot;/2009/10/20/derive&quot;&gt;Derive&lt;/a&gt;&lt;/h4&gt;
 
 &lt;p&gt;
 Installation / 2008&lt;br /&gt;
@@ -930,11 +3492,11 @@ Architecture is an object of the social conditions, as it assigns humans to thei
  
  <entry>
    <title>Noircir</title>
-   <link href="http://tricx.github.io/2013/10/18/noircir"/>
-   <updated>2013-10-18T00:00:00+02:00</updated>
-   <id>http://tricx.github.io/2013/10/18/noircir</id>
+   <link href="http://tricx.github.io/2009/10/18/noircir"/>
+   <updated>2009-10-18T00:00:00+02:00</updated>
+   <id>http://tricx.github.io/2009/10/18/noircir</id>
    <content type="html">
-&lt;h4&gt;&lt;a href=&quot;/2013/10/18/noircir&quot;&gt;Noircir&lt;/a&gt;&lt;/h4&gt;
+&lt;h4&gt;&lt;a href=&quot;/2009/10/18/noircir&quot;&gt;Noircir&lt;/a&gt;&lt;/h4&gt;
 
 &lt;p&gt;
 Performance / 2007&lt;br /&gt;
@@ -958,11 +3520,11 @@ With oil paint, chalk, and edding I wrote on a canvas (250cm x 180cm). The text 
  
  <entry>
    <title>Undefined_falling_objects</title>
-   <link href="http://tricx.github.io/2013/10/17/undefined_falling_objects"/>
-   <updated>2013-10-17T00:00:00+02:00</updated>
-   <id>http://tricx.github.io/2013/10/17/undefined_falling_objects</id>
+   <link href="http://tricx.github.io/2009/10/17/undefined_falling_objects"/>
+   <updated>2009-10-17T00:00:00+02:00</updated>
+   <id>http://tricx.github.io/2009/10/17/undefined_falling_objects</id>
    <content type="html">
-&lt;h4&gt;&lt;a href=&quot;/2013/10/17/undefined_falling_objects&quot;&gt;Undefined Falling Objects&lt;/a&gt;&lt;/h4&gt;
+&lt;h4&gt;&lt;a href=&quot;/2009/10/17/undefined_falling_objects&quot;&gt;Undefined Falling Objects&lt;/a&gt;&lt;/h4&gt;
 
 &lt;p&gt;
 Film - Installation / 2006&lt;br /&gt;
@@ -984,11 +3546,11 @@ The film loop shows permanently turning maple seeds, in density and speed variab
  
  <entry>
    <title>Rasenmaeher</title>
-   <link href="http://tricx.github.io/2013/10/16/rasenmaeher"/>
-   <updated>2013-10-16T00:00:00+02:00</updated>
-   <id>http://tricx.github.io/2013/10/16/rasenmaeher</id>
+   <link href="http://tricx.github.io/2009/10/16/rasenmaeher"/>
+   <updated>2009-10-16T00:00:00+02:00</updated>
+   <id>http://tricx.github.io/2009/10/16/rasenmaeher</id>
    <content type="html">
-&lt;h4&gt;&lt;a href=&quot;/2013/10/16/rasenmaeher&quot;&gt;Rasenmaeher&lt;/a&gt;&lt;/h4&gt;
+&lt;h4&gt;&lt;a href=&quot;/2009/10/16/rasenmaeher&quot;&gt;Rasenmaeher&lt;/a&gt;&lt;/h4&gt;
 
 &lt;p&gt;
 Landart - performance / 2006&lt;br /&gt;
@@ -1001,125 +3563,6 @@ A lawnmower driving in circles, mowing the grass. The camera position and angle 
 
 &lt;p&gt; &lt;br /&gt;still image:&lt;br /&gt;&lt;/p&gt;
 &lt;p&gt;&lt;img src=&quot;http://localhost:4000/images/rasenmaeher1.jpg&quot; alt=&quot;image&quot; /&gt;&lt;/p&gt;
-
-</content>
- </entry>
- 
- <entry>
-   <title>Flieger</title>
-   <link href="http://tricx.github.io/2013/10/01/flieger"/>
-   <updated>2013-10-01T00:00:00+02:00</updated>
-   <id>http://tricx.github.io/2013/10/01/flieger</id>
-   <content type="html">
-&lt;h4&gt;&lt;a href=&quot;/2013/10/01/flieger&quot;&gt;Flieger&lt;/a&gt;&lt;/h4&gt;
-
-&lt;p&gt;
-Action / 2004&lt;br /&gt;
-paper planes&lt;br /&gt;&lt;br /&gt;
-
-Happening during the entrance examinations at the academy of fine arts Vienna.&lt;br /&gt;&lt;br /&gt;
-&lt;/p&gt;
-
-&lt;p&gt;video stills:&lt;br /&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&quot;http://localhost:4000/images/flieger.jpg&quot; alt=&quot;image&quot; /&gt;&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&quot;http://localhost:4000/images/flieger1lg.jpg&quot; alt=&quot;image&quot; /&gt;&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&quot;http://localhost:4000/images/flieger2.jpg&quot; alt=&quot;image&quot; /&gt;&lt;/p&gt;
-
-</content>
- </entry>
- 
- <entry>
-   <title>Index</title>
-   <link href="http://tricx.github.io/2010/02/23/index"/>
-   <updated>2010-02-23T00:00:00+01:00</updated>
-   <id>http://tricx.github.io/2010/02/23/index</id>
-   <content type="html">
-&lt;div style=&quot;font-weight:lighter&quot;&gt;
-
-Artistic work in the scope of conceptual and process art, site specific intervention, sound sculpture, performances. Paul Gründorfer is currently working on installations and interventions that deal with functional methods and question the spatial conditions. He develops process-related test structures and examines variable or unstable systems for their perceptibility and reception.
-&lt;br /&gt;
-&lt;br /&gt;
-&lt;br /&gt;
-&lt;br /&gt;
-&lt;br /&gt;
-&lt;br /&gt;
-&lt;br /&gt;
-&lt;br /&gt;
-&lt;br /&gt;
-&lt;br /&gt;
-
-
-
-
-
-
-
-
-
-
-
-
-
-&lt;/div&gt;
-
-</content>
- </entry>
- 
- <entry>
-   <title>About</title>
-   <link href="http://tricx.github.io/2010/02/23/about"/>
-   <updated>2010-02-23T00:00:00+01:00</updated>
-   <id>http://tricx.github.io/2010/02/23/about</id>
-   <content type="html">
-&lt;div style=&quot;font-weight:lighter&quot;&gt;
-
-Artistic work in the scope of conceptual and process art, site specific intervention, sound sculpture, performances. Paul Gründorfer is currently working on installations and interventions that deal with functional methods and question the spatial conditions. He develops process-related test structures and examines variable or unstable systems for their perceptibility and reception.
-&lt;br /&gt;&lt;br /&gt;
-
-currently active at: &lt;a href=&quot;http://www.variable.cc&quot; target=&quot;_blank&quot;&gt;dimensions variable #&lt;/a&gt;&lt;br /&gt;
-is co-founder of: &lt;a href=&quot;http://zentrale.jetzt/&quot; target=&quot;_blank&quot;&gt;Zentrale&lt;/a&gt;&lt;br /&gt;
-was part of: &lt;a href=&quot;http://velak.klingt.org/&quot; target=&quot;_blank&quot;&gt;velak&lt;/a&gt;&lt;br /&gt;
-
-
-
-
-
-
-&lt;br /&gt;
-contact:&lt;br /&gt;
-paul[at]lefant.net
-&lt;br /&gt;&lt;br /&gt;
-some other stuff on: &lt;a href=&quot;https://soundcloud.com/t_a-z&quot; style=&quot;color:grey&quot; target=&quot;_blank&quot;&gt;soundcloud&lt;/a&gt;
-
-
-
-
-
-
-
-&lt;/div&gt;
-
-</content>
- </entry>
- 
- <entry>
-   <title>Recording</title>
-   <link href="http://tricx.github.io/2010/02/22/recording"/>
-   <updated>2010-02-22T00:00:00+01:00</updated>
-   <id>http://tricx.github.io/2010/02/22/recording</id>
-   <content type="html">
-&lt;h4&gt;&lt;a href=&quot;/2010/02/22/recording&quot;&gt;recording&lt;/a&gt;&lt;/h4&gt;
-
-&lt;p&gt;
-documentation of Acoustic Shadows, without human presence, 2020:&lt;br /&gt;
-&lt;p&gt;&lt;/p&gt;
-&lt;audio controls=&quot;&quot; style=&quot;width: 100%&quot; preload=&quot;none&quot;&gt;
-  &lt;source src=&quot;http://localhost:4000/images/acoustic_shadows_docu_no-presence.mp3&quot; type=&quot;audio/mpeg&quot; /&gt;
-&lt;/audio&gt;
-
-&lt;/p&gt;
 
 </content>
  </entry>

@@ -2,7 +2,7 @@
 published: true
 layout: post
 show_worktitle_sidebar: true
-tags: works
+tags: interventions
 JB :
   analytics : false
 ---
@@ -10,10 +10,12 @@ JB :
 {% include JB/setup %}
 
 
+<div class="container-parent">
+<div class="container-narrow-right">
 {% for post in site.posts %}
 	{% assign pt = post.title | downcase %}
 	{% if 'centre_and_periphery' == pt %}
-<h4><a href="{{ BASE_PATH }}{{ post.url }}">Centre and Periphery</a></h4>
+<h4><a href="{{ BASE_PATH }}{{ post.url }}"></a>Centre and Periphery</h4>
 	{% endif %}
 {% endfor %}
 
@@ -58,7 +60,10 @@ Among other things, the tour in the Magellan region in Chile dealt with the ques
 The project Centre and Periphery picked up this field of tension in order to deal with the region and its topology abstractly and audibly. Based on the idea that all places are now decoded by modern communication technologies (geosatellites, radar, marine systems, measuring stations, ..) and are connected in a synchronized way in a global network, spatial specifics have been searched for signals that occur only in remote places and are otherwise inaudible. Following the meaning of periphéro "carrying around" (ancient greek: carrying around, environment,..), a mobile sculpture and measuring station was constructed in the form of a kite to pick up VLF signals. VLF signals are electromagnetic waves that are reflected by the ionosphere and triggered by meteorological phenomena such as thunderstorms or lightning. Persistent strong winds from the Antarctic and the extreme weather conditions on site were both a prerequisite, as well as theme for this project.
 <br /><br />
 </p>
+</div>
 
+
+<div class="container-narrow-left">
 <img src="{{ site.url }}/images/drachen_parque_karukinka_small_lg.jpg" alt="image">
 <p></p>
 <img src="{{ site.url }}/images/drachen_antenna_small_lg.jpg" alt="image">
@@ -82,7 +87,8 @@ The project Centre and Periphery picked up this field of tension in order to dea
 <img src="{{ site.url }}/images/drachen_barco_small.jpg" alt="image">
 
 
-
+</div>
+</div>
 
 
 

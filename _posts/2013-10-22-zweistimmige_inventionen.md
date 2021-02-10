@@ -2,18 +2,19 @@
 published: true
 layout: post
 show_worktitle_sidebar: true
-tags: works
+tags: interventions
 JB :
   analytics : false
 ---
 
 {% include JB/setup %}
 
-
+<div class="container-parent">
+<div class="container-narrow-right">
 {% for post in site.posts %}
 	{% assign pt = post.title | downcase %}
 	{% if 'zweistimmige_inventionen' == pt %}
-<h4><a href="{{ BASE_PATH }}{{ post.url }}">Zweistimmige Inventionen</a></h4>
+<h4><a href="{{ BASE_PATH }}{{ post.url }}"></a>Zweistimmige Inventionen</h4>
 	{% endif %}
 {% endfor %}
 
@@ -36,11 +37,16 @@ A framed image that shows the wooden framework for a swing at a playground, wher
 
 Considerations to the themes, areas and associations, which could form some of the questions the Installation “Zweistimmige Inventionen” poses, are accompanying the work as a virtual art-theory handout.<br />
 </p>
+</div>
 
-<p> <br />exhibition view:<br /></p>
 
+<div class="container-narrow-left">
 <img src="{{ site.url }}/images/schaukel1.jpg" alt="image">
 <p></p>
 <img src="{{ site.url }}/images/schaukel2.jpg" alt="image">
 <p></p>
 <img src="{{ site.url }}/images/schaukel3.jpg" alt="image">
+<p>exhibition views Semperdepot, Akademie der bildenden Künste, Wien</p>
+
+</div>
+</div>

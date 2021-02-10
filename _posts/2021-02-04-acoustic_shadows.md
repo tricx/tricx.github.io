@@ -2,18 +2,19 @@
 published: true
 layout: post
 show_worktitle_sidebar: true
-tags: works
+tags: interventions
 JB :
   analytics : false
 ---
 
 {% include JB/setup %}
 
-
+<div class="container-parent">
+<div class="container-narrow-right">
 {% for post in site.posts %}
 	{% assign pt = post.title | downcase %}
 	{% if 'acoustic_shadows' == pt %}
-<h4><a href="{{ BASE_PATH }}{{ post.url }}">Acoustic Shadows</a></h4>
+<h4><a href="{{ BASE_PATH }}{{ post.url }}"></a>Acoustic Shadows</h4>
 	{% endif %}
 {% endfor %}
 
@@ -28,7 +29,11 @@ Acoustic Shadows is an implementation of a complex adaptive system in an eco-sys
 <br /><br />
 As an adaptive technological life-form, which spreads discretely but invasively, filtering it’s environment and it could be perceived through the presumption of it’s inner process. As a circular system, it reacts to external influences, but also develops a life of its own. Almost like an abstract occult machine that meters the space to extend its own state.
 <br /><br />
+</p>
+</div>
 
+
+<div class="container-narrow-left">
 <img src="{{ site.url }}/images/acoustic_shadows1_sm.jpg" alt="image">
 <p></p>
 <img src="{{ site.url }}/images/acoustic_shadows2_sm.jpg" alt="image">
@@ -37,6 +42,10 @@ As an adaptive technological life-form, which spreads discretely but invasively,
 <p></p>
 <img src="{{ site.url }}/images/acoustic_shadows_pd.png" alt="image">
 <p></p>
+<br /><br />
+
+</div>
+</div>
 
 {% comment %}
 <p></p>
@@ -49,3 +58,6 @@ As an adaptive technological life-form, which spreads discretely but invasively,
 {% comment %}
 <font color="grey">(c)<br /></font>
 {% endcomment %}
+
+
+

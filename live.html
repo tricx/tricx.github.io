@@ -1,0 +1,76 @@
+---
+layout: page
+title : live
+header : Paul Gründorfer
+group: navigation
+---
+
+{% comment %}
+dirty hack to override css from here: change link color to white, container-narrow to black, background-image etc.
+{% endcomment %}
+
+
+
+<head>
+<style>
+body{
+  background-image:none;
+  background-color: black !important;
+}
+a {color:grey;
+}
+.container-narrow {background-color: black; color:#e6e6e6; font-weight:lighter;
+}
+.navbar-inner
+{   
+    color:white !important;
+    background-color: black !important;
+}
+</style>
+</head>
+
+
+{% comment %}
+
+
+<head>
+<style>
+body{
+  background-image:none;
+  background-color: white !important;
+}
+</style>
+</head>
+
+<div class="page-header">
+  <h3>SOUND</h3>	
+</div>
+{% endcomment %}
+
+
+
+<div>
+{% for tag in site.tags %} 
+  {% if page.title == tag[0] %}
+  
+      {% comment %}
+      <ul class="unstyled">
+          {% assign pages_list = tag[1] %}  
+          {% include JB/pages_list %}
+      </ul>
+      {{tag[1]}}
+      {% endcomment %}
+
+  {% for items in tag[1] %}
+    <div class="distance">
+      <hr>
+      {{items.content}}
+    </div>
+
+  {% endfor %}
+        
+  {% endif %}
+{% endfor %}
+</div>
+
+

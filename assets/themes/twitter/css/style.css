@@ -13,24 +13,17 @@
 body {
   margin: 0; 
   /*font: 12.5px/16.5px "Helvetica", Helvetica, Arial, sans-serif;*/
-  /*font: 13.5px/170% Roboto, sans-serif"*/
-  font: 13px/164% "Helvetica", sans-serif;
-  /*font: 12.5px/16.5px "Roboto", Helvetica, Arial, sans-serif;*/
-  /*font: 11.5px/16px Verdana,​Arial,​sans-serif;*/
-  /*font-family:  "Helvetica Neue", Helvetica, Arial, sans-serif;*/
-  /*font-size: 13;*/
+  font: 14px/154% "FTBoyleMedium", Helvetica, sans-serif;
   text-align:justify;
 
-  background-image: url('/images/glitch3.jpg');
-  /*background-size: 1040px 800px;*/
+  /*background-image: url('/images/mononoke1.jpg');*/
+  background-image: url('/images/am_night_poster.jpg');
+  /*background-image: url('/images/glitch3.jpg');*/
   background-size: 2080px 1600px;
-
   background-repeat: repeat;
   background-color: white;
-  /*background-color: black;*/
   color:black;
   /*color: #1F0F0F;*/
-  /*background-color: #f3edd2;*/
   padding-top: 25px;
 }
 
@@ -39,13 +32,11 @@ body {
 /* Custom container */
 .container-narrow {
   margin: 0 auto;
-  margin-left: 5%;
+  margin-left: 7%;
   /*background-color: #FFFFF9;*/
   background-color: white;
   color: black;
-  /*max-width: 1145px;*/
-  max-width: 57%;
-  /*max-width: 1205px;*/
+  max-width: 85%;
 }
 
 /*change spacing to hr*/
@@ -54,23 +45,23 @@ body {
 
 /*distance between different posts in works_projects, sound*/
 .distance{
-  margin-bottom: 110px;
+  margin-bottom: 90px;
 }
 
 
-@media screen and (max-width: 960px) {
-  body { padding-top: 5px; }
+@media screen and (max-width: 1100px) {
+  body { padding-top: 25px; }
  /*---------------------------*/
 /* Custom container */ 
     .container-narrow {
   margin: 0 auto;
-  margin-left: 1%;
+  margin-left: 2%;
   background-color: white;
   color: black;
   max-width: 97%;
 }
 .distance{
-  margin-bottom: 80px;
+  margin-bottom: 60px;
 }
 }
 
@@ -84,12 +75,40 @@ body {
   margin-left: 10%;
   background-color: white;
   color: black;
-  max-width: 1250px;
+  max-width: 1450px;
 }
 /*distance between different posts in works_projects, sound*/
 .distance{
-  margin-bottom: 140px;
+  margin-bottom: 120px;
 }
+}
+
+.container-parent {
+  display: flex;
+}
+
+.container-narrow-left {
+  width: 65%;
+  order: 1;
+  margin: 0 auto;
+}
+
+.container-narrow-right {
+  width: 32%;
+  order: 2;
+  margin: 0 auto;
+}
+@media(max-width: 680px) {
+  .container-parent {
+    display: block;
+    padding: 1rem;
+  }
+  .container-narrow-left {
+    width: 100%;    
+  }
+  .container-narrow-right {
+    width: 100%;
+  }
 }
 
 
@@ -102,14 +121,15 @@ html {
 /*---------------------------*/
 /* indent text */
 .indent-text{
-  margin:2%;
+  margin:0%;
 }
 /* indent text for sidebar*/
 .indent-text2{
-  margin-top: 5%;
+  margin:20%;
+/*  margin-top: 5%;
   margin-left: 7%;
   margin-right: 7%;
-  margin-bottom: 0%
+  margin-bottom: 0%*/
 }
 
 /*distance between containers, default.html */
@@ -121,43 +141,6 @@ html {
 hr {
   height:1px !important;
 }
-/*.linewhite {
-  position: absolute;
-  background-color: white;
-  height: 1px;
-}*/
-
-
-/*---------------------------*/
-/*from 2.2.2*/
-.hero-unit{padding:60px;margin-bottom:30px;font-size:18px;font-weight:200;line-height:30px;color:inherit;background-color:#eeeeee;-webkit-border-radius:6px;-moz-border-radius:6px;border-radius:6px;}
-.hero-unit h1{margin-bottom:0;font-size:60px;line-height:1;color:inherit;letter-spacing:-1px;}
-.hero-unit li{line-height:30px;}
-/*added*/
-.hero-unit {
-  /*background-image:url('/images/galaxy.jpg');*/
-  background-size:cover;
-  height:38px;
-  opacity: 1.0;
-}
-/*different images instert to different pages - how to overcome margin from container-narrow?
-make independent layouts for every page?
-*/
-.imgH1 {
-  background-image:url('/images/galaxy.jpg');
-}
-.imgH2{
-  background-image:url('/images/panda.jpg');
-}
-.imgH3{
-  background-image:url('/images/train.jpg');
-}
-.imgH4{
-  background-image:url('/images/cover.jpg');
-}
-.imgH5{
-  background-image:url('/images/pachinko.jpg');
-}
 
 /*---------------------------*/
 /* fixed navbar to top - not used, instead wrapped in container-narrow */
@@ -168,22 +151,27 @@ make independent layouts for every page?
 }
 .navbar-inner
 {
-    background-color: #E5E5E5;
+    /*background-color: #E5E5E5;*/
+    /*background-color: #F2F2F2;*/
+    background-color: white;
+
     /* remove the gradient */
     background-image: none;
     background-repeat: no-repeat;
     filter: none;
     border:none;
-    text-decoration: none;
+    /*margin-right: 54px;*/
+
+    /*text-decoration: none;*/
     /* set font color to white */
     /*color: white;*/
     /*change min-height to adjust navbar height!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!*/
-    min-height: 34px;
+    min-height: 70px;
 }   
 /*change navbar items to the right */
 .navbar .nav {
-  float: right;
-  margin-right: 0;
+  float: left;
+/*  margin-right: 50px;*/
   /*background-color: azure;*/
 }
 
@@ -219,16 +207,28 @@ make independent layouts for every page?
 
 /*remove shadow of text!!!!!!!!!!*/
 .navbar .nav > li > a {
-    color: #777777;
+    font: 135%/70% "FTBoyleMedium", sans-serif;
+    font-weight: 500;
+    color: #012169;
     float: none;
-    /*change padding to adjust navbar height!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!*/
-    padding: 7.5px 10.25px;
-    font-size: 13.5px;
+    /*change padding to adjust, coordinate with navbar height!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!*/
+    padding: 10px 100px 10px 12px;
     text-decoration: none;
+    /*text-decoration: line-through;*/
     text-shadow: none;
     font-weight:normal !important;
     /*text-shadow: 0 1px 0 #FFFFFF;*/
 }
+
+@media(max-width: 680px) {
+  .navbar .nav > li > a {
+      padding: 10px 20px 10px 12px;
+  }
+}
+
+
+
+
 
 /*ids of the navigation items, forloop.index in pages_list_pages_html*/
 #navi_pages1 > a {
@@ -238,34 +238,22 @@ make independent layouts for every page?
 #navi_pages1 > a:focus,
 #navi_pages1 > a:hover {
     background-color: grey;
-    /*background-color: pink;*/
 }
 
 #navi_pages2 > a {
     background: lightgrey;
-    color:grey;
+    color: #012169;
     /*color: red !important;*/
 }
 #navi_pages2 > a:focus,
 #navi_pages2 > a:hover {
-
     background-color: black;
 }
-
-
-/*#navi_pages3 > a {
-    background: white;
-}
-
-#navi_pages3 > a:focus,
-#navi_pages3 > a:hover {
-    background-color: black;
-}
-*/
 
 #navi_pages3 > a {
     background: lightblue;
-    color: red !important;
+    /*color: red !important;*/
+    color: #012169;
 }
 #navi_pages3 > a:focus,
 #navi_pages3 > a:hover {
@@ -273,7 +261,8 @@ make independent layouts for every page?
 }
 #navi_pages4 > a {
     background: grey;
-    color: black !important;
+    /*color: black !important;*/
+    color: #012169;
 }
 #navi_pages4 > a:focus,
 #navi_pages4 > a:hover {
@@ -283,7 +272,8 @@ make independent layouts for every page?
 /*ids of the navigation items, forloop.index in pages_list_list, pages_list_links_list*/
 #navi_categories1 > a {
     background: red;
-    color: white !important;
+    /*color: white !important;*/
+    color: #012169;
 }
 #navi_categories1 > a:focus,
 #navi_categories1 > a:hover {
@@ -323,6 +313,295 @@ make independent layouts for every page?
   color: #999999;
   /*color: #ffffff;*/
 }
+
+
+/*---------------------------*/
+/*#########################################################################*/
+/* change link color */ 
+a {
+  color:grey;
+  /*color:#505050;*/
+  text-decoration: none;
+}
+a:hover,
+a:focus {
+  color: green;
+  text-decoration: none;
+  /*background-color: #E5E5E5;*/
+}
+
+
+/*links in sidebar*/
+.nav-list {
+  /*width: calc(100vh - 94px);*/
+  width:100vw;
+  display: flex;
+  transform-origin: bottom left;
+  transform: rotateZ(90deg);
+  padding-left: 20px;
+}
+
+.nav-list-item {
+  /*padding-bottom: 50px;*/
+  /*display: inline;*/
+}
+
+.linkNew {
+      /*font: 142%/70% "Helvetica", sans-serif;*/
+      font: 142%/70% "FTBoyleMedium", sans-serif;
+      font-weight: 400;  
+     /* font-style: italic;*/
+      /*display:block;*/
+      /*margin: 12px -10px 3px -15%;*/
+      text-align:left;
+      line-height: 0.7em;
+      color: #012169 !important;
+      background-color: white!important;
+      box-shadow: none;
+      text-shadow: none !important;
+      background-image: none;
+      background-repeat: no-repeat;
+      filter: none;
+      border:none;
+      box-shadow: none;
+      text-shadow: none;
+      text-decoration-style: none;
+      margin-bottom: 3%;
+  }
+.linkNew:hover{
+      /*color: #1C1C1C;*/
+      color: black !important;
+      /*background-color: #08f71f!important;*/
+}
+
+
+/*change sidebar padding*/
+.sidebar-nav {
+    padding: 0px 0;
+}
+/*remove when display it is too small*/
+.sidebar-nav-fixed {
+     /*margin-left: 0px;
+     padding-right: 0px;*/
+     /*position:fixed;*/
+     /*width:6%;*/
+     /*width:13%;*/
+     background-color: white;
+     line-height: 0.7em;
+ }
+
+/*sidebar media query!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!! */
+ /*@media (max-width: 767px) {*/
+ @media (max-width: 1100px) {
+     .sidebar-nav-fixed {
+      display: none;
+     }
+ }
+@media (min-width: 1105px) { 
+  .sidebar-nav-fixed{
+      position: auto;
+  } 
+}
+
+
+.linkTitle {
+      font: 152%/70% "FTBoyleMedium", sans-serif;
+      font-weight: 400;
+      color: #012169;
+      background-color: white;
+      display:block;
+      margin: 0px 50px 2px 0;
+      /*text-decoration: underline;*/
+      text-decoration: none;
+      text-align:right;
+}
+
+
+/*#########################################################################*/
+/*---------------------------*/
+/*sidebar*/
+/*.well{
+  margin-top: 90px;
+  background-color: #FAFAFA;
+  }*/
+.well {
+    background-color: white;
+    border: none;
+    border-radius: 0px;
+    box-shadow: none;
+    margin-top: 40px;
+/*more space with posts?*/
+    margin-bottom: 0px;
+    min-height: 0px;
+    padding: 0px;
+}
+/*change color of the links in sidebar*/
+/*.nav > li > a:hover, .nav > li > a {
+    color: black;
+    text-decoration: none;
+}*/
+/*.sidebar-nav-fixed {
+    padding: 9px 0;
+    position:fixed;
+    left:20px;
+    top:60px;
+    width:250px;
+}
+.row-fluid > .span-fixed-sidebar {
+    margin-left: 690px;
+}*/
+
+
+
+
+
+/*---------------------------*/
+/*#########################################################################*/
+p {
+   margin-top:5px;
+   margin-bottom:5px
+}
+/*.page-header h4 small{display:block;line-height:10px;}*/
+.page-header {
+  padding-bottom: 0px;
+  margin: 10px 0 30px;
+  border-bottom: 1.5px solid #eeeeee;
+ /*border-bottom:none !important;*/
+ /*font: 11px/16px "Didot", Helvetica, Arial, sans-serif;*/
+ font: 11px/16px "Helvetica", Helvetica, Arial, sans-serif;
+}
+.page-header h1 {
+    font-size: 25px;
+}
+
+h3,
+h4 {
+  margin: 10px 0;
+  font-family: inherit;
+  font-weight: 100;
+  font-size: 165%;
+}
+
+/*---------------------------*/
+.pagination {
+  background-color: none;
+  line-height: 0px;
+  text-decoration: none;
+  box-shadow: none;
+  font-size: 110%;
+  /*change position of << >> here !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!*/
+  float:right;
+}
+.pagination ul {
+  position: center;
+  text-decoration: none;
+  box-shadow: none;
+  font-size: 105%;
+}
+
+/*modification*/
+.pagination ul > li > a, .pagination ul > li > span {
+    -moz-border-bottom-colors: none;
+    -moz-border-left-colors: none;
+    -moz-border-right-colors: none;
+    -moz-border-top-colors: none;
+    /*background-color: #FFFFFF;*/
+    /*background-color: #E5E5E5;*/
+    background-color: #08f71f;
+    /*background-color: #E5E5E5;*/
+    border-color: #DDDDDD;
+    border-image: none;
+    /*border-style: solid;*/
+    border-style: none;
+    /*border-width: 1px 1px 1px 0;*/
+    /*border-width: 1.5px 1.5px 1.5px 0;*/
+    float: left;
+    line-height: 20px;
+    padding: 4px 12px;
+    text-decoration: none;
+    /*text-decoration: underline;*/
+    color: black !important;
+    box-shadow: none;
+    font-size: 105%;
+}
+.pagination ul > li > a:hover,
+.pagination ul > li > a:focus,
+.pagination ul > .active > a,
+.pagination ul > .active > span {
+  background-color: #f5f5f5;
+  /*color: red !important;*/
+  text-decoration: none;
+  box-shadow: none;
+  border-style: none;
+  font-size: 105%;
+}
+
+/*---------------------------*/
+.full-iframe {
+width:100%;
+border:none;
+}
+
+/*---------------------------*/
+/* posts index */
+.post > h3.title {
+  position: relative;
+  padding-top: 10px; }
+
+.post > h3.title span.date {
+  position: absolute;
+  right: 0;
+  font-size: 0.9em; }
+
+.post > .more {
+  margin: 10px 0;
+  text-align: left; }
+
+/* post-full*/
+.post-full .date {
+  margin-bottom: 20px;
+  font-weight: bold; }
+
+/* tag_box */
+.tag_box {
+  list-style: none;
+  margin-top: 0px;
+  /*margin: 0;*/
+  overflow: hidden;
+   }
+
+.tag_box li {
+  line-height: 28px; 
+}
+
+.tag_box li i {
+  opacity: 0.9; }
+
+.tag_box.inline li {
+  float:left; 
+  /*float: right;*/
+}
+
+.tag_box a {
+  padding: 3px 6px;
+  margin: 2px;
+  background: #eee;
+  color: #555;
+  border-radius: 3px;
+  text-decoration: none;
+  border: 1px dashed #cccccc; }
+
+.tag_box a span {
+  vertical-align: super;
+  font-size: 0.8em; }
+
+.tag_box a:hover {
+  background-color: #e5e5e5; }
+
+.tag_box a.active {
+  background: #57A957;
+  border: 1px solid #4c964d;
+  color: #FFF; }
 
 /*#########################################################################*/
 /*hover for dropdown - menus*/
@@ -407,240 +686,3 @@ left:10px;
    display: none;
  }
 }
-
-/*---------------------------*/
-/*#########################################################################*/
-/* change link color */ 
-a {
-  color:#505050;
-  /*font-size: 13px;*/
-  font-style: bold;
-  text-decoration: none;
-  /*text-decoration: underline;*/
-
-}
-a:hover,
-a:focus {
-  color: grey;
-  text-decoration: none;
-  /*background-color: #E5E5E5;*/
-}
-
-/*links in sidebar*/
-.linkNew {
-      font-size: 14px;
-      color:#505050;
-      /*background-color: #E5E5E5;*/
-      background-color: white;
-      display:block;
-      margin: -6px 0 0 0;
-      /*text-decoration: underline;*/
-      text-decoration: none;
-      text-align:left;
-  }
-.linkNew:hover{
-  color: grey;
-  background-color: #f5f5f5;
-  /*text-decoration: underline;*/
-  text-decoration: none;
-}
-
-/*#########################################################################*/
-/*---------------------------*/
-/*sidebar*/
-/*.well{
-  margin-top: 90px;
-  background-color: #FAFAFA;
-  }*/
-.well {
-    background-color: white;
-    border: none;
-    border-radius: 0px;
-    box-shadow: none;
-    margin-top: 40px;
-/*more space with posts?*/
-    margin-bottom: 0px;
-    min-height: 0px;
-    padding: 0px;
-}
-/*change color of the links in sidebar*/
-/*.nav > li > a:hover, .nav > li > a {
-    color: black;
-    text-decoration: none;
-}*/
-/*.sidebar-nav-fixed {
-    padding: 9px 0;
-    position:fixed;
-    left:20px;
-    top:60px;
-    width:250px;
-}
-.row-fluid > .span-fixed-sidebar {
-    margin-left: 690px;
-}*/
-
-/*change sidebar padding*/
-.sidebar-nav {
-    padding: 9px 0;
-}
-/*remove when display it is too small*/
-.sidebar-nav-fixed {
-     margin-left: 752px;
-     position:fixed;
-     width:15%;
- }
- /*@media (max-width: 767px) {*/
- @media (max-width: 920px) {
-     .sidebar-nav-fixed {
-      display: none;
-     }
- }
-@media (min-width: 870px) { 
-  .sidebar-nav-fixed{
-      position: auto;
-  } 
-}
-
-
-/*---------------------------*/
-/*#########################################################################*/
-p {
-   margin-top:5px;
-   margin-bottom:5px
-}
-/*.page-header h4 small{display:block;line-height:10px;}*/
-.page-header {
-  padding-bottom: 0px;
-  margin: 10px 0 30px;
-  border-bottom: 1.5px solid #eeeeee;
- /*border-bottom:none !important;*/
- /*font: 11px/16px "Didot", Helvetica, Arial, sans-serif;*/
- font: 11px/16px "Helvetica", Helvetica, Arial, sans-serif;
-}
-.page-header h1 {
-    font-size: 25px;
-}
-
-h3,
-h4 {
-  margin: 10px 0;
-  font-family: inherit;
-  font-weight: 100;
-  font-size: 165%;
-}
-
-/*---------------------------*/
-.pagination {
-  /*background-color: black;*/
-  background-color: none;
-  line-height: 0px;
-  /*display prev, next on the right side!!!!!!!!!!*/
-  /*text-align: right;*/
-}
-.pagination ul {
-  position: center;
-}
-
-/*modification*/
-.pagination ul > li > a, .pagination ul > li > span {
-    -moz-border-bottom-colors: none;
-    -moz-border-left-colors: none;
-    -moz-border-right-colors: none;
-    -moz-border-top-colors: none;
-    /*background-color: #FFFFFF;*/
-    background-color: #E5E5E5;
-    border-color: #DDDDDD;
-    border-image: none;
-    border-style: solid;
-    /*border-width: 1px 1px 1px 0;*/
-    border-width: 1.5px 1.5px 1.5px 0;
-    float: left;
-    line-height: 20px;
-    padding: 4px 12px;
-    /*text-decoration: none;*/
-    text-decoration: underline;
-    color: black !important;
-}
-.pagination ul > li > a:hover,
-.pagination ul > li > a:focus,
-.pagination ul > .active > a,
-.pagination ul > .active > span {
-  background-color: #f5f5f5;
-  color: red !important;
-}
-
-
-/*---------------------------*/
-/* footer text center to field? */
-/*.footer {
-  margin: 40%;
-}*/
-
-/*---------------------------*/
-.full-iframe {
-width:100%;
-border:none;
-}
-
-/*---------------------------*/
-/* posts index */
-.post > h3.title {
-  position: relative;
-  padding-top: 10px; }
-
-.post > h3.title span.date {
-  position: absolute;
-  right: 0;
-  font-size: 0.9em; }
-
-.post > .more {
-  margin: 10px 0;
-  text-align: left; }
-
-/* post-full*/
-.post-full .date {
-  margin-bottom: 20px;
-  font-weight: bold; }
-
-/* tag_box */
-.tag_box {
-  list-style: none;
-  margin-top: 0px;
-  /*margin: 0;*/
-  overflow: hidden;
-   }
-
-.tag_box li {
-  line-height: 28px; 
-}
-
-.tag_box li i {
-  opacity: 0.9; }
-
-.tag_box.inline li {
-  float:left; 
-  /*float: right;*/
-}
-
-.tag_box a {
-  padding: 3px 6px;
-  margin: 2px;
-  background: #eee;
-  color: #555;
-  border-radius: 3px;
-  text-decoration: none;
-  border: 1px dashed #cccccc; }
-
-.tag_box a span {
-  vertical-align: super;
-  font-size: 0.8em; }
-
-.tag_box a:hover {
-  background-color: #e5e5e5; }
-
-.tag_box a.active {
-  background: #57A957;
-  border: 1px solid #4c964d;
-  color: #FFF; }
-
-

@@ -124,12 +124,13 @@ JB :
 
   # pages in navbar ( no subcategories)
   navi_pages:
-     - "Works"
+     - "Interventions"
   #   - "Archive"
-     - "Sound"
-     - "About"
-     - "Now"
-     
+     - "Live"
+     - "CV"
+ #    - "events"
+ 
+  # pages get mapped with tag to title (e.g actions, interventions)  
     
   # pages with subcategories in navbar
   navi_categories:
@@ -142,17 +143,35 @@ JB :
 
   # sidebar items, if 'show_worktitle_sidebar: true' (in pages, posts layout -defs)
   works_projects_list: 
-    - "A Car from ABove"  
+    - "The Sea"  
+    - "Acoustic Shadows"  
+    - "Unterm Pflaster liegt der Strand"  
+    - "mononoke"
+    - "Arcardian Gate"
+    - "Pigeons"
+    - "Centre and Periphery"
+    - "AM Land"
+    - "Attractor"
+    - "Flash"
+    - "Triptychon of lost media"
+    - "Faux Terrain"
     - "Ottos Mops"
     - "Pachinko"
-    - "Derive"
-    - "Ancient Ancient World"
-    - "Zweistimmige Inventionen"
-    - "Undefined Falling Objects"
-    - "Noircir"
-    - "Rasenmaeher"
-    - "Bikes and Birds"
+    - "A Car from ABove"
     - "Platte X"
+    - "Zweistimmige Inventionen"
+    - "Bicycle and Birds"
+    - "Flieger"
+
+    
+
+#    - "Derive"
+#    - "Ancient Ancient World"
+#    - "Noircir"
+#    - "Undefined Falling Objects"
+#    - "Rasenmaeher"
+
+
 
 
   # add this links to dropdown-menu, or to page links
