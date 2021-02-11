@@ -271,7 +271,7 @@ CV.htlm
 
 
 <!-- navbar on the side? or make a sublist on the sidebar? -->
-    <div class="row-fluid">
+   <!--  <div class="row-fluid"> -->
       <div class="sidebar-nav sidebar-nav-fixed">
           <ul class="nav-list nav">
             <!-- <div class= "indent-text2"> -->
@@ -2952,7 +2952,7 @@ CV.htlm
           <!-- </div> -->
           </ul>
       </div>
-    </div> 
+<!--     </div>  -->
 <!-- endif, show sidebar with worktitles -->
 
 
@@ -2983,7 +2983,7 @@ CV.htlm
 <style>
 body{
   background-image:none;
-  background-color: white !important;
+  background-color: #eeedea!important;
 }
 </style>
 </head>
@@ -5737,7 +5737,7 @@ Happening during the entrance examinations at the academy of fine arts Vienna.<b
     <!-- page:
 
 
-{"layout"=>"page", "title"=>"interventions", "header"=>"Paul Gründorfer", "group"=>"navigation", "show_worktitle_sidebar"=>true, "content"=>"<head>\n<style>\nbody{\n  background-image:none;\n  background-color: white !important;\n}\n</style>\n</head>\n\n\n{% comment %}\n<div class=\"page-header\">\n\t   {% comment %}\n      <h3>{{ page.title }} {% if page.tagline %} <small>{{ page.tagline }}</small>{% endif %}</h3>\n  \t {% endcomment %}\n  <h3>VISUAL</h3>\n</div>\n{% endcomment %}\n\n\n<div>\n{% for tag in site.tags %} \n  {% if page.title == tag[0] %}\n  \n      {% comment %}\n      <ul class=\"unstyled\">\n          {% assign pages_list = tag[1] %}  \n          {% include JB/pages_list %}\n      </ul>\n      {{tag[1]}}\n      {% endcomment %}\n\n\n  {% for items in tag[1] %}\n    <div class=\"distance\">\n      <hr>\n      \n      {{items.content}}\n    </div>\n  {% endfor %}\n        \n  {% endif %}\n{% endfor %}\n</div>\n\n\n{% comment %}\n      <h4><a href=\"{{ BASE_PATH }}{{ post.url }}\">{{ post.date | date_to_string }}</a></h4> \n    <h4><a href=\"{{ BASE_PATH }}{{ post.url }}\">{{ post.title }}</a></h4>\n\n    <p>&nbsp;</p>\n  {{post.content}}\n    <p>&nbsp;</p>\n{% endcomment %}\n\n\n\n\t\t\t\t", "dir"=>"/", "name"=>"interventions.html", "path"=>"interventions.html", "url"=>"/interventions"} -->
+{"layout"=>"page", "title"=>"interventions", "header"=>"Paul Gründorfer", "group"=>"navigation", "show_worktitle_sidebar"=>true, "content"=>"<head>\n<style>\nbody{\n  background-image:none;\n  background-color: #eeedea!important;\n}\n</style>\n</head>\n\n\n{% comment %}\n<div class=\"page-header\">\n\t   {% comment %}\n      <h3>{{ page.title }} {% if page.tagline %} <small>{{ page.tagline }}</small>{% endif %}</h3>\n  \t {% endcomment %}\n  <h3>VISUAL</h3>\n</div>\n{% endcomment %}\n\n\n<div>\n{% for tag in site.tags %} \n  {% if page.title == tag[0] %}\n  \n      {% comment %}\n      <ul class=\"unstyled\">\n          {% assign pages_list = tag[1] %}  \n          {% include JB/pages_list %}\n      </ul>\n      {{tag[1]}}\n      {% endcomment %}\n\n\n  {% for items in tag[1] %}\n    <div class=\"distance\">\n      <hr>\n      \n      {{items.content}}\n    </div>\n  {% endfor %}\n        \n  {% endif %}\n{% endfor %}\n</div>\n\n\n{% comment %}\n      <h4><a href=\"{{ BASE_PATH }}{{ post.url }}\">{{ post.date | date_to_string }}</a></h4> \n    <h4><a href=\"{{ BASE_PATH }}{{ post.url }}\">{{ post.title }}</a></h4>\n\n    <p>&nbsp;</p>\n  {{post.content}}\n    <p>&nbsp;</p>\n{% endcomment %}\n\n\n\n\t\t\t\t", "dir"=>"/", "name"=>"interventions.html", "path"=>"interventions.html", "url"=>"/interventions"} -->
 
 
 

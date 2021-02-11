@@ -21,7 +21,7 @@ body {
   /*background-image: url('/images/glitch3.jpg');*/
   background-size: 2080px 1600px;
   background-repeat: repeat;
-  background-color: white;
+  background-color: #eeedea;
   color:black;
   /*color: #1F0F0F;*/
   padding-top: 25px;
@@ -31,10 +31,11 @@ body {
 /*---------------------------*/
 /* Custom container */
 .container-narrow {
-  margin: 0 auto;
+  /*margin: 0 auto;*/
   margin-left: 7%;
   /*background-color: #FFFFF9;*/
-  background-color: white;
+  /*background-color: #eeedea;*/
+  background-color: #eeedea;
   color: black;
   max-width: 85%;
 }
@@ -54,9 +55,9 @@ body {
  /*---------------------------*/
 /* Custom container */ 
     .container-narrow {
-  margin: 0 auto;
+  /*margin: 0 auto;*/
   margin-left: 2%;
-  background-color: white;
+  background-color: #eeedea;
   color: black;
   max-width: 97%;
 }
@@ -71,9 +72,9 @@ body {
 /*---------------------------*/
 /* Custom container */  
     .container-narrow {
-  margin: 0 auto;
+  /*margin: 0 auto;*/
   margin-left: 8%;
-  background-color: white;
+  background-color: #eeedea;
   color: black;
   max-width: 1800px;
 }
@@ -165,12 +166,13 @@ hr {
 /* set the background-color to red */
 .navbar{
     min-height: 30px;
+    margin-bottom: -50px !important;
 }
 .navbar-inner
 {
     /*background-color: #E5E5E5;*/
     /*background-color: #F2F2F2;*/
-    background-color: white;
+    background-color: #eeedea;
 
     /* remove the gradient */
     background-image: none;
@@ -184,6 +186,7 @@ hr {
     /*color: white;*/
     /*change min-height to adjust navbar height!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!*/
     min-height: 60px;
+    /*margin-bottom: -50px !important;*/
 }   
 /*change navbar items to the right */
 .navbar .nav {
@@ -250,7 +253,7 @@ hr {
 /*ids of the navigation items, forloop.index in pages_list_pages_html*/
 #navi_pages1 > a {
     /*background: lightgreen;*/
-    background: white;
+    background: #eeedea;
 }
 #navi_pages1 > a:focus,
 #navi_pages1 > a:hover {
@@ -373,7 +376,7 @@ a:focus {
       text-align:left;
       line-height: 0.7em;
       color: #012169 !important;
-      background-color: white!important;
+      background-color: #eeedea!important;
       box-shadow: none;
       text-shadow: none !important;
       background-image: none;
@@ -403,8 +406,10 @@ a:focus {
      /*position:fixed;*/
      /*width:6%;*/
      /*width:13%;*/
-     background-color: white;
+     background-color: #eeedea;
      line-height: 0.7em;
+     width:0% !important;
+     height:0% !important;
  }
 
 /*sidebar media query!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!! */
@@ -425,7 +430,7 @@ a:focus {
       font: 152%/70% "FTBoyleMedium", sans-serif;
       font-weight: 400;
       color: #012169;
-      background-color: white;
+      background-color: #eeedea;
       display:block;
       margin: 0px 50px 2px 0;
       /*text-decoration: underline;*/
