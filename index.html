@@ -1,33 +1,46 @@
 ---
 layout: page
 title : index
-header : Paul Gründorfer
+header : Paul Gründorfer - interventions/actions
 group: navigation
 show_worktitle_sidebar: false
 ---
 
-
+{% comment %}
 <head>
 <style>
-
-{% comment %} 
-
 body{
   background-image:none;
   background-color: black !important;
 }
+a {color:grey;
+}
+.container-narrow {background-color: black; color:#e6e6e6; font-weight:lighter;
+    
+}
 
+@media screen and (min-width: 1300px) {
+  .container-narrow { max-width: 68%;}
+}
+
+.navbar-inner
+{   
+    color:white !important;
+    background-color: black !important;
+}
+</style>
+</head>
 {% endcomment %}
 
 
-
-a {color:grey;
+<head>
+<style>
+a {color:#e6e6e6;
 }
 .container-narrow {background-color: black; color:#e6e6e6; font-weight:lighter;
 }
 
-
-@media screen and (min-width: 1100px) {
+@media screen and (min-width: 1300px) {
   .container-narrow { max-width: 68%;}
 }
 
@@ -42,7 +55,6 @@ a {color:grey;
 
 
 {% comment %}
-
 <head>
 <style>
 a {color:rgb(200,200,200);
@@ -52,17 +64,12 @@ a {color:rgb(200,200,200);
 </style>
 </head>
 
-
-
 <div class="page-header">
 	   {% comment %}
       <h3>{{ page.title }} {% if page.tagline %} <small>{{ page.tagline }}</small>{% endif %}</h3>
   	 {% endcomment %}
   <h3>VISUAL</h3>
 </div>
-
-
-
 {% endcomment %}
 
 

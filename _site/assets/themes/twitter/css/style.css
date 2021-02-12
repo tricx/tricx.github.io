@@ -21,9 +21,10 @@ body {
   /*background-image: url('/images/glitch3.jpg');*/
   background-size: 2080px 1600px;
   background-repeat: repeat;
-  background-color: #eeedea;
+  /*background-color: #eeedea;*/
+  /*background-color: #fafafa;*/
+  background-color: white;
   color:black;
-  /*color: #1F0F0F;*/
   padding-top: 25px;
 }
 
@@ -33,9 +34,9 @@ body {
 .container-narrow {
   /*margin: 0 auto;*/
   margin-left: 7%;
-  /*background-color: #FFFFF9;*/
   /*background-color: #eeedea;*/
-  background-color: #eeedea;
+  /*background-color: #fcfaf7;*/
+  background-color: white;
   color: black;
   max-width: 85%;
 }
@@ -46,6 +47,7 @@ body {
 
 /*distance between different posts in works_projects, sound*/
 .distance{
+  margin-top: -2.5%;
   margin-bottom: 80px;
 }
 
@@ -55,9 +57,8 @@ body {
  /*---------------------------*/
 /* Custom container */ 
     .container-narrow {
-  /*margin: 0 auto;*/
   margin-left: 2%;
-  background-color: #eeedea;
+  background-color: white;
   color: black;
   max-width: 97%;
 }
@@ -72,9 +73,8 @@ body {
 /*---------------------------*/
 /* Custom container */  
     .container-narrow {
-  /*margin: 0 auto;*/
   margin-left: 8%;
-  background-color: #eeedea;
+  background-color: white;
   color: black;
   max-width: 1800px;
 }
@@ -102,7 +102,8 @@ body {
 @media(max-width: 680px) {
   .container-parent {
     display: block;
-    padding: 1rem;
+    padding-right: 0.25rem;
+    /*padding: 0.75rem;*/
   }
   .container-narrow-left {
     width: 100%;    
@@ -114,7 +115,7 @@ body {
 
 .postnav {
   position: fixed;
-  top: 60px;
+  top: 35px;
   left: 0;
 }
 
@@ -172,7 +173,7 @@ hr {
 {
     /*background-color: #E5E5E5;*/
     /*background-color: #F2F2F2;*/
-    background-color: #eeedea;
+    background-color: white;
 
     /* remove the gradient */
     background-image: none;
@@ -180,19 +181,14 @@ hr {
     filter: none;
     border:none;
     /*margin-right: 54px;*/
-
-    /*text-decoration: none;*/
-    /* set font color to white */
-    /*color: white;*/
     /*change min-height to adjust navbar height!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!*/
-    min-height: 60px;
+    min-height: 50px;
     /*margin-bottom: -50px !important;*/
+
 }   
 /*change navbar items to the right */
 .navbar .nav {
   float: left;
-/*  margin-right: 50px;*/
-  /*background-color: azure;*/
 }
 
 /*remove shadow!!!!!!!!!!!*/
@@ -227,20 +223,38 @@ hr {
 
 /*remove shadow of text!!!!!!!!!!*/
 .navbar .nav > li > a {
-    font: 135%/70% "FTBoyleMedium", sans-serif;
+    font: 127%/70% "FTBoyleMedium", sans-serif;
     font-weight: 500;
     color: #012169;
     float: none;
     /*change padding to adjust, coordinate with navbar height!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!*/
-    padding: 10px 100px 10px 12px;
+    padding: 15px 100px 10px 12px;
     text-decoration: none;
     /*text-decoration: line-through;*/
     text-shadow: none;
     font-weight:normal !important;
     /*text-shadow: 0 1px 0 #FFFFFF;*/
 }
+/*680*/
+@media(max-width: 650px) {
+  .navbar .nav > li > a {
+      /*padding: 10px 0px 10px 12px;*/
+      font: 110%/70% "FTBoyleMedium", sans-serif;
+      padding: 10px 10px 10px 0px !important;
+  }
+}
 
-@media(max-width: 680px) {
+/*500*/
+@media(max-width: 480px) {
+  .navbar .nav > li > a {
+      /*padding: 10px 0px 10px 12px;*/
+      font: 90%/50% "FTBoyleMedium", sans-serif;
+      padding: 10px 2px 10px 0px !important;
+      /*font-weight:lighter !important;*/
+  }
+}
+
+@media(max-width: 1120px) {
   .navbar .nav > li > a {
       padding: 10px 20px 10px 12px;
   }
@@ -249,11 +263,11 @@ hr {
 
 
 
-
 /*ids of the navigation items, forloop.index in pages_list_pages_html*/
 #navi_pages1 > a {
     /*background: lightgreen;*/
-    background: #eeedea;
+    /*background: #eeedea;*/
+    background: #fcfaf7;
 }
 #navi_pages1 > a:focus,
 #navi_pages1 > a:hover {
@@ -261,7 +275,10 @@ hr {
 }
 
 #navi_pages2 > a {
-    background: lightgrey;
+    /*background: lightgrey;*/
+    background: #505050;
+    /*background: #505050;*/
+    /*background: black;*/
     color: #012169;
     /*color: red !important;*/
 }
@@ -271,13 +288,14 @@ hr {
 }
 
 #navi_pages3 > a {
-    background: lightblue;
+    /*background: lightblue;*/
+    background: pink;
     /*color: red !important;*/
     color: #012169;
 }
 #navi_pages3 > a:focus,
 #navi_pages3 > a:hover {
-    background-color: pink;
+    background-color: lightblue;
 }
 #navi_pages4 > a {
     background: grey;
@@ -368,7 +386,7 @@ a:focus {
 
 .linkNew {
       /*font: 142%/70% "Helvetica", sans-serif;*/
-      font: 142%/70% "FTBoyleMedium", sans-serif;
+      font: 127%/70% "FTBoyleMedium", sans-serif;
       font-weight: 400;  
      /* font-style: italic;*/
       /*display:block;*/
@@ -376,7 +394,7 @@ a:focus {
       text-align:left;
       line-height: 0.7em;
       color: #012169 !important;
-      background-color: #eeedea!important;
+      background-color: #fcfaf7!important;
       box-shadow: none;
       text-shadow: none !important;
       background-image: none;
@@ -406,7 +424,7 @@ a:focus {
      /*position:fixed;*/
      /*width:6%;*/
      /*width:13%;*/
-     background-color: #eeedea;
+     background-color: white;
      line-height: 0.7em;
      width:0% !important;
      height:0% !important;
@@ -426,53 +444,16 @@ a:focus {
 }
 
 
-.linkTitle {
-      font: 152%/70% "FTBoyleMedium", sans-serif;
+/*.linkTitle {
+      font: 127%/70% "FTBoyleMedium", sans-serif;
       font-weight: 400;
       color: #012169;
-      background-color: #eeedea;
+      background-color: white;
       display:block;
       margin: 0px 50px 2px 0;
-      /*text-decoration: underline;*/
       text-decoration: none;
       text-align:right;
-}
-
-
-/*#########################################################################*/
-/*---------------------------*/
-/*sidebar*/
-/*.well{
-  margin-top: 90px;
-  background-color: #FAFAFA;
-  }*/
-.well {
-    background-color: white;
-    border: none;
-    border-radius: 0px;
-    box-shadow: none;
-    margin-top: 40px;
-/*more space with posts?*/
-    margin-bottom: 0px;
-    min-height: 0px;
-    padding: 0px;
-}
-/*change color of the links in sidebar*/
-/*.nav > li > a:hover, .nav > li > a {
-    color: black;
-    text-decoration: none;
 }*/
-/*.sidebar-nav-fixed {
-    padding: 9px 0;
-    position:fixed;
-    left:20px;
-    top:60px;
-    width:250px;
-}
-.row-fluid > .span-fixed-sidebar {
-    margin-left: 690px;
-}*/
-
 
 
 
@@ -487,7 +468,7 @@ p {
 .page-header {
   padding-bottom: 0px;
   margin: 10px 0 30px;
-  border-bottom: 1.5px solid #eeeeee;
+  border-bottom: 1.5px solid #fafafa;
  /*border-bottom:none !important;*/
  /*font: 11px/16px "Didot", Helvetica, Arial, sans-serif;*/
  font: 11px/16px "Helvetica", Helvetica, Arial, sans-serif;
@@ -529,7 +510,8 @@ h4 {
     -moz-border-top-colors: none;
     
     /*background-color: white;*/
-    background-color: #f5f5f5;
+    /*background-color: #e3e2de;*/
+    background-color: #fcfaf7;
     /*background-color: #08f71f; /*green*/
     border-color: #DDDDDD;
     border-image: none;
@@ -557,6 +539,55 @@ h4 {
   border-style: none;
   font-size: 105%;
 }
+
+
+
+
+/*#########################################################################*/
+/*---------------------------*/
+/*sidebar*/
+/*.well{
+  margin-top: 90px;
+  background-color: #FAFAFA;
+  }*/
+.well {
+    background-color: white;
+    border: none;
+    border-radius: 0px;
+    box-shadow: none;
+    margin-top: 40px;
+/*more space with posts?*/
+    margin-bottom: 0px;
+    min-height: 0px;
+    padding: 0px;
+}
+/*change color of the links in sidebar*/
+/*.nav > li > a:hover, .nav > li > a {
+    color: black;
+    text-decoration: none;
+}*/
+/*.sidebar-nav-fixed {
+    padding: 9px 0;
+    position:fixed;
+    left:20px;
+    top:60px;
+    width:250px;
+}
+.row-fluid > .span-fixed-sidebar {
+    margin-left: 690px;
+}*/
+
+
+
+
+
+
+
+
+
+
+
+
 
 /*---------------------------*/
 .full-iframe {

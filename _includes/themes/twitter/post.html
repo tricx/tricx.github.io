@@ -2,7 +2,7 @@
 <style>
 body{
   background-image:none;
-  background-color: #eeedea !important;
+  background-color: white !important;
 }
 
 </style>
@@ -60,11 +60,6 @@ body{
     <div class="postnav">
     <!-- <div class="parent"><div class="container-narrow-right"> -->
     <ul>
-      {% if page.previous %}
-        <li class="prev"><a href="{{ BASE_PATH }}{{ page.previous.url }}" title="{{ page.previous.title }}">>></a></li>
-      {% else %}
-        <li class="prev disabled"><a>>></a></li>
-      {% endif %}
 
       {% if page.next %}
         <li class="next"><a href="{{ BASE_PATH }}{{ page.next.url }}" title="{{ page.next.title }}"><<</a></li>
@@ -73,6 +68,12 @@ body{
           <!-- &rarr; -->
       {% endif %}
       <!-- <li><a href="{{ BASE_PATH }}{{ site.JB.archive_path }}">Archive</a></li> -->
+      
+      {% if page.previous %}
+        <li class="prev"><a href="{{ BASE_PATH }}{{ page.previous.url }}" title="{{ page.previous.title }}">>></a></li>
+      {% else %}
+        <li class="prev disabled"><a>>></a></li>
+      {% endif %}
 
     </ul>
     </div>

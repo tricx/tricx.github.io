@@ -124,10 +124,10 @@ JB :
 
   # pages in navbar ( no subcategories)
   navi_pages:
-     - "Interventions"
+     - "Interventions-Works-Projects"
   #   - "Archive"
-     - "Live"
-     - "CV"
+     - "Live-Actions-Performance"
+     - "index"
  #    - "events"
  
   # pages get mapped with tag to title (e.g actions, interventions)  

@@ -41,7 +41,7 @@ As an adaptive technological life-form, which spreads discretely but invasively,
 <img src="{{ site.url }}/images/acoustic_shadows3_sm.jpg" alt="image">
 <p></p>
 <img src="{{ site.url }}/images/acoustic_shadows_pd.png" alt="image">
-<p></p>
+<p>display, 4 channel audio output, PD-0.50-2</p>
 <br /><br />
 
 </div>

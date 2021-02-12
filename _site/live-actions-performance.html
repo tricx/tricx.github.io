@@ -3,7 +3,7 @@
 <html lang="en">
   <head>
     <meta charset="utf-8">
-    <title>Paul Gründorfer</title>
+    <title>Paul Gründorfer - interventions/actions</title>
     
     <meta name="author" content="Paul Gruendorfer">
 
@@ -66,7 +66,7 @@
 
         
 
-Interventions.htlm
+Interventions-Works-Projects.htlm
 
 
 
@@ -74,7 +74,7 @@ Interventions.htlm
 
         
 
-Live.htlm
+Live-Actions-Performance.htlm
 
 
 
@@ -82,7 +82,7 @@ Live.htlm
 
         
 
-CV.htlm
+index.htlm
 
 
 
@@ -98,21 +98,21 @@ CV.htlm
   
     
 
-      <li id="navi_pages1"><a href="/interventions.html">Interventions</a></li>
+      <li id="navi_pages1"><a href="/interventions-works-projects.html">Interventions-Works-Projects</a></li>
     
     
 
   
     
 
-      <li id="navi_pages2"><a href="/live.html">Live</a></li>
+      <li id="navi_pages2"><a href="/live-actions-performance.html">Live-Actions-Performance</a></li>
     
     
 
   
     
 
-      <li id="navi_pages3"><a href="/cv.html">CV</a></li>
+      <li id="navi_pages3"><a href="/index.html">index</a></li>
     
     
 
@@ -158,14 +158,6 @@ CV.htlm
   
     
       
-      	
-      	<li><a href="/cv">cv</a></li>
-      	
-      
-    
-  
-    
-      
     
   
     
@@ -191,7 +183,7 @@ CV.htlm
     
       
       	
-      	<li><a href="/interventions">interventions</a></li>
+      	<li><a href="/interventions-works-projects">interventions</a></li>
       	
       
     
@@ -207,7 +199,7 @@ CV.htlm
     
       
       	
-      	<li class="active"><a href="/live" class="active">live</a></li>
+      	<li class="active"><a href="/live-actions-performance" class="active">live</a></li>
       	
       
     
@@ -329,8 +321,6 @@ a {color:grey;
   
  
   
- 
-  
   
       
 
@@ -403,7 +393,7 @@ Audio - Visual Performance / Faux Terrain - w / Claudia Larcher, may 2016<br /><
     <!-- page:
 
 
-{"layout"=>"page", "title"=>"live", "header"=>"Paul Gründorfer", "group"=>"navigation", "content"=>"{% comment %}\ndirty hack to override css from here: change link color to white, container-narrow to black, background-image etc.\n{% endcomment %}\n\n\n\n<head>\n<style>\nbody{\n  background-image:none;\n  background-color: black !important;\n}\na {color:grey;\n}\n.container-narrow {background-color: black; color:#e6e6e6; font-weight:lighter;\n}\n.navbar-inner\n{   \n    color:white !important;\n    background-color: black !important;\n}\n</style>\n</head>\n\n\n{% comment %}\n\n\n<head>\n<style>\nbody{\n  background-image:none;\n  background-color: white !important;\n}\n</style>\n</head>\n\n<div class=\"page-header\">\n  <h3>SOUND</h3>\t\n</div>\n{% endcomment %}\n\n\n\n<div>\n{% for tag in site.tags %} \n  {% if page.title == tag[0] %}\n  \n      {% comment %}\n      <ul class=\"unstyled\">\n          {% assign pages_list = tag[1] %}  \n          {% include JB/pages_list %}\n      </ul>\n      {{tag[1]}}\n      {% endcomment %}\n\n  {% for items in tag[1] %}\n    <div class=\"distance\">\n      <hr>\n      {{items.content}}\n    </div>\n\n  {% endfor %}\n        \n  {% endif %}\n{% endfor %}\n</div>\n\n\n", "dir"=>"/", "name"=>"live.html", "path"=>"live.html", "url"=>"/live"} -->
+{"layout"=>"page", "title"=>"live", "header"=>"Paul Gründorfer - interventions/actions", "group"=>"navigation", "content"=>"{% comment %}\ndirty hack to override css from here: change link color to white, container-narrow to black, background-image etc.\n{% endcomment %}\n\n\n\n<head>\n<style>\nbody{\n  background-image:none;\n  background-color: black !important;\n}\na {color:grey;\n}\n.container-narrow {background-color: black; color:#e6e6e6; font-weight:lighter;\n}\n.navbar-inner\n{   \n    color:white !important;\n    background-color: black !important;\n}\n</style>\n</head>\n\n\n{% comment %}\n\n\n<head>\n<style>\nbody{\n  background-image:none;\n  background-color: white !important;\n}\n</style>\n</head>\n\n<div class=\"page-header\">\n  <h3>SOUND</h3>\t\n</div>\n{% endcomment %}\n\n\n\n<div>\n{% for tag in site.tags %} \n  {% if page.title == tag[0] %}\n  \n      {% comment %}\n      <ul class=\"unstyled\">\n          {% assign pages_list = tag[1] %}  \n          {% include JB/pages_list %}\n      </ul>\n      {{tag[1]}}\n      {% endcomment %}\n\n  {% for items in tag[1] %}\n    <div class=\"distance\">\n      <hr>\n      {{items.content}}\n    </div>\n\n  {% endfor %}\n        \n  {% endif %}\n{% endfor %}\n</div>\n\n\n", "dir"=>"/", "name"=>"live-actions-performance.html", "path"=>"live-actions-performance.html", "url"=>"/live-actions-performance"} -->
 
 
 

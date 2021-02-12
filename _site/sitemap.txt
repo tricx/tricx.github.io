@@ -2,14 +2,13 @@
 http://tricx.github.io/archive
 http://tricx.github.io/atom.xml
 http://tricx.github.io/blog
-http://tricx.github.io/cv
 http://tricx.github.io/downloads
 http://tricx.github.io/events
 http://tricx.github.io/
 http://tricx.github.io/index_old
-http://tricx.github.io/interventions
+http://tricx.github.io/interventions-works-projects
 http://tricx.github.io/links
-http://tricx.github.io/live
+http://tricx.github.io/live-actions-performance
 http://tricx.github.io/live_old
 http://tricx.github.io/now_old
 http://tricx.github.io/posts
@@ -39,7 +38,6 @@ http://tricx.github.io/2013/10/22/zweistimmige_inventionen
 http://tricx.github.io/2013/10/21/bicycle_and_birds
 http://tricx.github.io/2013/10/01/flieger
 http://tricx.github.io/2010/02/23/index
-http://tricx.github.io/2010/02/23/cv
 http://tricx.github.io/2010/02/22/recording
 http://tricx.github.io/2009/12/12/wilhelms_punk
 http://tricx.github.io/2009/12/11/in_a_room

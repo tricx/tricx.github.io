@@ -4,7 +4,7 @@
  <title>Tricx</title>
  <link href="http://tricx.github.io/" rel="self"/>
  <link href="http://tricx.github.io"/>
- <updated>2021-02-11T22:10:23+01:00</updated>
+ <updated>2021-02-12T19:35:33+01:00</updated>
  <id>http://tricx.github.io</id>
  <author>
    <name>Paul Gruendorfer</name>
@@ -164,9 +164,6 @@ Audio - Visual Performance / Faux Terrain - w / Claudia Larcher, may 2016&lt;br 
 	
 	
 
-	
-	
-
 
 &lt;p&gt;
 generative audio installation, 2020/21&lt;br /&gt;
@@ -183,6 +180,10 @@ in development
 &lt;div class=&quot;container-narrow-left&quot;&gt;
 &lt;img src=&quot;http://localhost:4000/images/the_sea1_sm.jpg&quot; alt=&quot;image&quot; /&gt;
 &lt;p&gt;&lt;/p&gt;
+&lt;img src=&quot;http://localhost:4000/images/the_sea_graph.png&quot; alt=&quot;image&quot; /&gt;
+&lt;p&gt;graph for motor control, Leo Peschta&lt;/p&gt;
+
+
 
 &lt;/div&gt;
 &lt;/div&gt;
@@ -294,9 +295,6 @@ in development
 	
 	
 
-	
-	
-
 
 &lt;p&gt;
 autonomous complex adaptive system, 2020/21&lt;br /&gt;
@@ -321,7 +319,7 @@ As an adaptive technological life-form, which spreads discretely but invasively,
 &lt;img src=&quot;http://localhost:4000/images/acoustic_shadows3_sm.jpg&quot; alt=&quot;image&quot; /&gt;
 &lt;p&gt;&lt;/p&gt;
 &lt;img src=&quot;http://localhost:4000/images/acoustic_shadows_pd.png&quot; alt=&quot;image&quot; /&gt;
-&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;display, 4 channel audio output, PD-0.50-2&lt;/p&gt;
 &lt;br /&gt;&lt;br /&gt;
 
 &lt;/div&gt;
@@ -351,9 +349,6 @@ As an adaptive technological life-form, which spreads discretely but invasively,
 	
 	
 &lt;h4&gt;&lt;a href=&quot;/2020/10/13/unterm_pflaster_liegt_der_strand&quot;&gt;&lt;/a&gt;Unterm Pflaster liegt der Strand&lt;/h4&gt;
-	
-
-	
 	
 
 	
@@ -570,14 +565,11 @@ The text is translated to latin, so it resembles often used honorable mentions o
 	
 	
 
-	
-	
-
 
 &lt;p&gt;
 sound installation / concert performance / intervention in public space, July 2019&lt;br /&gt;
 at Tokyo Arts and Space residency, KGRN, sumida area in Tokyo, Japan&lt;br /&gt;
-acknowledgments: Tokyo Arts and Space, Ulla Rauter, Paul Reza Klein&lt;br /&gt;
+acknowledgments: Tokyo Arts and Space, &lt;a href=&quot;http://www.ullarauter.com/&quot; target=&quot;_blank&quot;&gt;Ulla Rauter&lt;/a&gt;, Paul Reza Klein&lt;br /&gt;
 &lt;br /&gt;
 
 
@@ -647,9 +639,6 @@ Reflections and Refractions of a laser that scans plastic bottles are translated
 	
 	
 &lt;h4&gt;&lt;a href=&quot;/2018/06/01/arcardian_gate&quot;&gt;&lt;/a&gt;Arcadian Gate&lt;/h4&gt;
-	
-
-	
 	
 
 	
@@ -875,9 +864,6 @@ http://wikimapia.org/4832019/Arcadian-Gate&lt;/a&gt;
 	
 	
 
-	
-	
-
 
 &lt;p&gt;
 39.891582, 116.391015&lt;br /&gt;
@@ -950,9 +936,6 @@ Besides this interest, there is the old tradition to let pigeons fly with specia
 	
 	
 &lt;h4&gt;&lt;a href=&quot;/2017/12/30/centre_and_periphery&quot;&gt;&lt;/a&gt;Centre and Periphery&lt;/h4&gt;
-	
-
-	
 	
 
 	
@@ -1190,9 +1173,6 @@ The project Centre and Periphery picked up this field of tension in order to dea
 	
 	
 
-	
-	
-
 
 &lt;p&gt;
 Site Specific Installation / 2017&lt;br /&gt;
@@ -1286,9 +1266,6 @@ Love to the beat of the show. [...]&lt;br /&gt;
 	
 	
 &lt;h4&gt;&lt;a href=&quot;/2017/03/02/attractor&quot;&gt;&lt;/a&gt;Attractor&lt;/h4&gt;
-	
-
-	
 	
 
 	
@@ -1495,9 +1472,6 @@ As a site specific intervention the Attractor is built in a public space, connec
 	
 	
 
-	
-	
-
 
 &lt;p&gt;
 &lt;b&gt;Triptychon of lost media - II, Flash, AM-Feld / Soviet Noise&lt;/b&gt;&lt;br /&gt;
@@ -1574,9 +1548,6 @@ The project AM-Feld / Soviet Noise, is a cooperation with &lt;a href=&quot;www.a
 	
 	
 &lt;h4&gt;&lt;a href=&quot;/2016/01/21/triptychon_of_lost_media&quot;&gt;&lt;/a&gt;Triptychon of lost media - I&lt;/h4&gt;
-	
-
-	
 	
 
 	
@@ -1783,9 +1754,6 @@ in June 2015.
 	
 	
 
-	
-	
-
 
 &lt;p&gt;
 2015/16&lt;br /&gt;
@@ -1862,9 +1830,6 @@ in cooperation with Claudia Larcher&lt;br /&gt;
 	
 	
 &lt;h4&gt;&lt;a href=&quot;/2013/12/28/ottos_mops&quot;&gt;&lt;/a&gt;Ottos Mops&lt;/h4&gt;
-	
-
-	
 	
 
 	
@@ -2054,9 +2019,6 @@ The robot moves around the exhibition space, orienting itself based on the event
 	
 	
 
-	
-	
-
 
 
 &lt;p&gt;
@@ -2137,9 +2099,6 @@ Pachinko is played by more than 30% of the Japanese population. It is based on t
 	
 	
 &lt;h4&gt;&lt;a href=&quot;/2013/12/26/a_car_from_above&quot;&gt;&lt;/a&gt;A Car from ABove&lt;/h4&gt;
-	
-
-	
 	
 
 	
@@ -2367,9 +2326,6 @@ for diy-zither, cymbal, contact microphone, live granular synthesis, live record
 	
 	
 
-	
-	
-
 
 &lt;p&gt;
 Sound - Installation / 2011&lt;br /&gt;
@@ -2456,9 +2412,6 @@ Movements, vibrations the plate receives are amplified and played back into the 
 	
 	
 &lt;h4&gt;&lt;a href=&quot;/2013/10/22/zweistimmige_inventionen&quot;&gt;&lt;/a&gt;Zweistimmige Inventionen&lt;/h4&gt;
-	
-
-	
 	
 
 	
@@ -2637,9 +2590,6 @@ Considerations to the themes, areas and associations, which could form some of t
 	
 	
 
-	
-	
-
 
 &lt;p&gt;
 2008&lt;br /&gt;
@@ -2776,9 +2726,6 @@ Birds in a cage.&lt;br /&gt;&lt;br /&gt;
 	
 	
 
-	
-	
-
 
 &lt;p&gt;
 Action / 2004&lt;br /&gt;
@@ -2812,61 +2759,16 @@ Happening during the entrance examinations at the academy of fine arts Vienna.&l
 &lt;div style=&quot;font-weight:lighter&quot;&gt;
 &lt;br /&gt;
 Artistic work in the scope of conceptual and process art, site specific intervention, sound sculpture, performances. Paul Gründorfer is currently working on installations and interventions that deal with functional methods and question the spatial conditions. He develops process-related test structures and examines variable or unstable systems for their perceptibility and reception.
-&lt;br /&gt;
-&lt;br /&gt;
-&lt;br /&gt;
-&lt;br /&gt;
-&lt;br /&gt;
-&lt;br /&gt;
-&lt;br /&gt;
-&lt;br /&gt;
-&lt;br /&gt;
-&lt;br /&gt;
-
-
-
-
-
-
-
-
-
-
-
-
-
-&lt;/div&gt;
-
-</content>
- </entry>
- 
- <entry>
-   <title>Cv</title>
-   <link href="http://tricx.github.io/2010/02/23/cv"/>
-   <updated>2010-02-23T00:00:00+01:00</updated>
-   <id>http://tricx.github.io/2010/02/23/cv</id>
-   <content type="html">
-&lt;div style=&quot;font-weight:lighter&quot;&gt;
-&lt;br /&gt;
-Artistic work in the scope of conceptual and process art, site specific intervention, sound sculpture, performances. Paul Gründorfer is currently working on installations and interventions that deal with functional methods and question the spatial conditions. He develops process-related test structures and examines variable or unstable systems for their perceptibility and reception.
 &lt;br /&gt;&lt;br /&gt;
-
-currently active at: &lt;a href=&quot;http://www.variable.cc&quot; style=&quot;color:grey&quot; target=&quot;_blank&quot;&gt;dimensions variable #&lt;/a&gt;&lt;br /&gt;
-is co-founder of: &lt;a href=&quot;http://zentrale.jetzt/&quot; style=&quot;color:grey&quot; target=&quot;_blank&quot;&gt;Zentrale&lt;/a&gt;&lt;br /&gt;
-was part of: &lt;a href=&quot;http://velak.klingt.org/&quot; style=&quot;color:grey&quot; target=&quot;_blank&quot;&gt;velak&lt;/a&gt;&lt;br /&gt;
-
-
-&lt;br /&gt;
 contact:&lt;br /&gt;
 paul[at]lefant.net
 &lt;br /&gt;&lt;br /&gt;
 some other stuff on: &lt;a href=&quot;https://soundcloud.com/t_a-z&quot; style=&quot;color:grey&quot; target=&quot;_blank&quot;&gt;soundcloud&lt;/a&gt;
 
-
-
-
-
-
+&lt;br /&gt;&lt;br /&gt;
+recently active at: &lt;a href=&quot;http://www.variable.cc&quot; style=&quot;color:grey&quot; target=&quot;_blank&quot;&gt;dimensions variable #&lt;/a&gt;&lt;br /&gt;
+is co-founder of: &lt;a href=&quot;http://zentrale.jetzt/&quot; style=&quot;color:grey&quot; target=&quot;_blank&quot;&gt;Zentrale&lt;/a&gt;&lt;br /&gt;
+was part of: &lt;a href=&quot;http://velak.klingt.org/&quot; style=&quot;color:grey&quot; target=&quot;_blank&quot;&gt;velak&lt;/a&gt;&lt;br /&gt;
 &lt;/div&gt;
 
 &lt;p&gt;&lt;br /&gt;&lt;br /&gt;&lt;/p&gt;

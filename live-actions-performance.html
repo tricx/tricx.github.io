@@ -1,29 +1,52 @@
 ---
 layout: page
-title : interventions
-header : Paul Gründorfer
+title : live
+header : Paul Gründorfer - interventions/actions
 group: navigation
-show_worktitle_sidebar: true
 ---
+
+{% comment %}
+dirty hack to override css from here: change link color to white, container-narrow to black, background-image etc.
+{% endcomment %}
+
+
 
 <head>
 <style>
 body{
   background-image:none;
-  background-color: #eeedea!important;
+  background-color: black !important;
+}
+a {color:grey;
+}
+.container-narrow {background-color: black; color:#e6e6e6; font-weight:lighter;
+}
+.navbar-inner
+{   
+    color:white !important;
+    background-color: black !important;
 }
 </style>
 </head>
 
 
 {% comment %}
+
+
+<head>
+<style>
+body{
+  background-image:none;
+  background-color: white !important;
+}
+</style>
+</head>
+
 <div class="page-header">
-	   {% comment %}
-      <h3>{{ page.title }} {% if page.tagline %} <small>{{ page.tagline }}</small>{% endif %}</h3>
-  	 {% endcomment %}
-  <h3>VISUAL</h3>
+  <h3>SOUND</h3>	
 </div>
 {% endcomment %}
+
 
 
 <div>
@@ -38,13 +61,12 @@ body{
       {{tag[1]}}
       {% endcomment %}
 
-
   {% for items in tag[1] %}
     <div class="distance">
       <hr>
-      
       {{items.content}}
     </div>
+
   {% endfor %}
         
   {% endif %}
@@ -52,15 +74,3 @@ body{
 </div>
 
 
-{% comment %}
-      <h4><a href="{{ BASE_PATH }}{{ post.url }}">{{ post.date | date_to_string }}</a></h4> 
-    <h4><a href="{{ BASE_PATH }}{{ post.url }}">{{ post.title }}</a></h4>
-
-    <p>&nbsp;</p>
-  {{post.content}}
-    <p>&nbsp;</p>
-{% endcomment %}
-
-
-
-				
