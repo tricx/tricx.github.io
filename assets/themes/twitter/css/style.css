@@ -248,7 +248,7 @@ hr {
 @media(max-width: 480px) {
   .navbar .nav > li > a {
       /*padding: 10px 0px 10px 12px;*/
-      font: 80%/40% "FTBoyleMedium", sans-serif;
+      font: 85%/40% "FTBoyleMedium", sans-serif;
       padding: 10px 1px 10px 0px !important;
       /*font-weight:lighter !important;*/
   }
