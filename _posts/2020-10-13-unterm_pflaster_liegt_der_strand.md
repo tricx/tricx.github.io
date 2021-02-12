@@ -34,8 +34,12 @@ The text is translated to latin, so it resembles often used honorable mentions o
 <div class="container-narrow-left">
 <img src="{{ site.url }}/images/pflaster_display_sm.jpg" alt="image">
 <p></p>
+
+{% comment %}
 <img src="{{ site.url }}/images/pflaster_brick_sm.jpg" alt="image">
 <p></p>
+
+{% endcomment %}
 <img src="{{ site.url }}/images/pflaster_display_people_sm.jpg" alt="image">
 <p></p>
 <img src="{{ site.url }}/images/pflaster_display_wide_sm.jpg" alt="image">
