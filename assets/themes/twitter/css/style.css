@@ -223,9 +223,10 @@ hr {
 
 /*remove shadow of text!!!!!!!!!!*/
 .navbar .nav > li > a {
-    font: 127%/70% "FTBoyleMedium", sans-serif;
+    font: 120%/70% "FTBoyleMedium", sans-serif;
     font-weight: 500;
-    color: #012169;
+    /*color: #012169;*/
+    color: black !important;
     float: none;
     /*change padding to adjust, coordinate with navbar height!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!*/
     padding: 15px 100px 10px 12px;
@@ -268,10 +269,12 @@ hr {
     /*background: lightgreen;*/
     /*background: #eeedea;*/
     background: #fcfaf7;
+    color: #012169 !important;
 }
 #navi_pages1 > a:focus,
 #navi_pages1 > a:hover {
     background-color: grey;
+    color: black !important;
 }
 
 #navi_pages2 > a {
@@ -285,6 +288,7 @@ hr {
 #navi_pages2 > a:focus,
 #navi_pages2 > a:hover {
     background-color: black;
+    color: #012169 !important;
 }
 
 #navi_pages3 > a {
@@ -386,7 +390,7 @@ a:focus {
 
 .linkNew {
       /*font: 142%/70% "Helvetica", sans-serif;*/
-      font: 127%/70% "FTBoyleMedium", sans-serif;
+      font: 120%/70% "FTBoyleMedium", sans-serif;
       font-weight: 400;  
      /* font-style: italic;*/
       /*display:block;*/
@@ -394,7 +398,8 @@ a:focus {
       text-align:left;
       line-height: 0.7em;
       color: #012169 !important;
-      background-color: #fcfaf7!important;
+      /*background-color: #fcfaf7!important;*/
+      background-color: white !important;
       box-shadow: none;
       text-shadow: none !important;
       background-image: none;
@@ -409,6 +414,7 @@ a:focus {
 .linkNew:hover{
       /*color: #1C1C1C;*/
       color: black !important;
+      background-color: #fcfaf7 !important;
       /*background-color: #08f71f!important;*/
 }
 
@@ -509,9 +515,9 @@ h4 {
     -moz-border-right-colors: none;
     -moz-border-top-colors: none;
     
-    /*background-color: white;*/
+    background-color: white;
     /*background-color: #e3e2de;*/
-    background-color: #fcfaf7;
+    /*background-color: #fcfaf7;*/
     /*background-color: #08f71f; /*green*/
     border-color: #DDDDDD;
     border-image: none;
@@ -532,8 +538,9 @@ h4 {
 .pagination ul > li > a:focus,
 .pagination ul > .active > a,
 .pagination ul > .active > span {
-  background-color: #012169;
-  color: white !important;
+  /*background-color: #012169;*/
+  background-color: #fcfaf7;
+  color: black !important;
   text-decoration: none;
   box-shadow: none;
   border-style: none;

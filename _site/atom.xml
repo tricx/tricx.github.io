@@ -4,7 +4,7 @@
  <title>Tricx</title>
  <link href="http://tricx.github.io/" rel="self"/>
  <link href="http://tricx.github.io"/>
- <updated>2021-02-12T19:35:33+01:00</updated>
+ <updated>2021-02-12T20:48:25+01:00</updated>
  <id>http://tricx.github.io</id>
  <author>
    <name>Paul Gruendorfer</name>
@@ -448,8 +448,8 @@ The text is translated to latin, so it resembles often used honorable mentions o
 &lt;div class=&quot;container-narrow-left&quot;&gt;
 &lt;img src=&quot;http://localhost:4000/images/pflaster_display_sm.jpg&quot; alt=&quot;image&quot; /&gt;
 &lt;p&gt;&lt;/p&gt;
-&lt;img src=&quot;http://localhost:4000/images/pflaster_brick_sm.jpg&quot; alt=&quot;image&quot; /&gt;
-&lt;p&gt;&lt;/p&gt;
+
+
 &lt;img src=&quot;http://localhost:4000/images/pflaster_display_people_sm.jpg&quot; alt=&quot;image&quot; /&gt;
 &lt;p&gt;&lt;/p&gt;
 &lt;img src=&quot;http://localhost:4000/images/pflaster_display_wide_sm.jpg&quot; alt=&quot;image&quot; /&gt;
@@ -735,6 +735,11 @@ http://wikimapia.org/4832019/Arcadian-Gate&lt;/a&gt;
 ) 
 &lt;br /&gt;&lt;br /&gt;
 &lt;/p&gt;
+
+&lt;audio controls=&quot;&quot; style=&quot;width: 100%&quot; preload=&quot;none&quot;&gt;
+  &lt;source src=&quot;http://localhost:4000/images/arcadian_gate_doku.mp3&quot; type=&quot;audio/mpeg&quot; /&gt;
+&lt;/audio&gt;
+
 &lt;/div&gt;
 
 
@@ -746,12 +751,8 @@ http://wikimapia.org/4832019/Arcadian-Gate&lt;/a&gt;
 &lt;img src=&quot;http://localhost:4000/images/arcadian_gate_night_sm_lg.jpg&quot; alt=&quot;image&quot; /&gt;
 &lt;p&gt;&lt;/p&gt;
 &lt;img src=&quot;http://localhost:4000/images/arcadian_gate2a_lg.jpg&quot; alt=&quot;image&quot; /&gt;
-
-
 &lt;p&gt;&lt;/p&gt;
-&lt;audio controls=&quot;&quot; style=&quot;width: 100%&quot; preload=&quot;none&quot;&gt;
-  &lt;source src=&quot;http://localhost:4000/images/arcadian_gate_doku.mp3&quot; type=&quot;audio/mpeg&quot; /&gt;
-&lt;/audio&gt;
+
 
 
 &lt;/div&gt;
@@ -1190,19 +1191,6 @@ No language, just sound, that's all we need know, to synchronise&lt;br /&gt;
 Love to the beat of the show. [...]&lt;br /&gt;
 (Joy Division, Transmission)
 &lt;/p&gt;
-&lt;/div&gt;
-
-
-&lt;div class=&quot;container-narrow-left&quot;&gt;
-&lt;img src=&quot;http://localhost:4000/images/am_room_small.jpg&quot; alt=&quot;image&quot; /&gt;
-&lt;p&gt; &lt;br /&gt;Installation View&lt;br /&gt;&lt;/p&gt;
-
-&lt;video preload=&quot;metadata&quot; poster=&quot;http://localhost:4000/images/am_night_poster.jpg&quot; width=&quot;100%&quot; height=&quot;auto&quot; controls=&quot;&quot;&gt;
-  &lt;source src=&quot;http://localhost:4000/images/am_night.mp4&quot; type=&quot;video/mp4&quot; /&gt;
-&lt;/video&gt;
-
-
-
 &lt;br /&gt;
 &lt;p&gt;&lt;/p&gt;
 &lt;audio controls=&quot;&quot; style=&quot;width: 100%&quot; preload=&quot;none&quot;&gt;
@@ -1220,6 +1208,20 @@ Love to the beat of the show. [...]&lt;br /&gt;
 &lt;audio controls=&quot;&quot; style=&quot;width: 100%&quot; preload=&quot;none&quot;&gt;
   &lt;source src=&quot;http://localhost:4000/images/konfrontationen13.mp3&quot; type=&quot;audio/mpeg&quot; /&gt;
 &lt;/audio&gt;
+&lt;/div&gt;
+
+
+&lt;div class=&quot;container-narrow-left&quot;&gt;
+&lt;img src=&quot;http://localhost:4000/images/am_room_small.jpg&quot; alt=&quot;image&quot; /&gt;
+&lt;p&gt; &lt;br /&gt;Installation View&lt;br /&gt;&lt;/p&gt;
+
+&lt;video preload=&quot;metadata&quot; poster=&quot;http://localhost:4000/images/am_night_poster.jpg&quot; width=&quot;100%&quot; height=&quot;auto&quot; controls=&quot;&quot;&gt;
+  &lt;source src=&quot;http://localhost:4000/images/am_night.mp4&quot; type=&quot;video/mp4&quot; /&gt;
+&lt;/video&gt;
+
+
+
+
 
 &lt;/div&gt;
 &lt;/div&gt;
