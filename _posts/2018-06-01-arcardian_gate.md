@@ -36,6 +36,11 @@ http://wikimapia.org/4832019/Arcadian-Gate</a>
 ) 
 <br /><br />
 </p>
+
+<audio controls style="width: 100%" preload="none">
+  <source src="{{ site.url }}/images/arcadian_gate_doku.mp3" type="audio/mpeg">
+</audio>
+
 </div>
 
 
@@ -47,12 +52,8 @@ http://wikimapia.org/4832019/Arcadian-Gate</a>
 <img src="{{ site.url }}/images/arcadian_gate_night_sm_lg.jpg" alt="image">
 <p></p>
 <img src="{{ site.url }}/images/arcadian_gate2a_lg.jpg" alt="image">
-
-
 <p></p>
-<audio controls style="width: 100%" preload="none">
-  <source src="{{ site.url }}/images/arcadian_gate_doku.mp3" type="audio/mpeg">
-</audio>
+
 
 
 </div>
