@@ -5,8 +5,8 @@
         <description>Tricx - Paul Gruendorfer</description>
         <link>http://tricx.github.io</link>
         <link>http://tricx.github.io</link>
-        <lastBuildDate>2021-02-12T20:48:25+01:00</lastBuildDate>
-        <pubDate>2021-02-12T20:48:25+01:00</pubDate>
+        <lastBuildDate>2021-02-12T21:17:03+01:00</lastBuildDate>
+        <pubDate>2021-02-12T21:17:03+01:00</pubDate>
         <ttl>1800</ttl>
 
 
@@ -577,15 +577,17 @@ Reflections and Refractions of a laser that scans plastic bottles are translated
 
 
 &lt;div class=&quot;container-narrow-left&quot;&gt;
+&lt;video preload=&quot;metadata&quot; poster=&quot;http://localhost:4000/images/mononoke_sm1.jpg&quot; width=&quot;100%&quot; height=&quot;auto&quot; controls=&quot;&quot;&gt;
+  &lt;source src=&quot;http://localhost:4000/images/mononoke_sm1.mp4&quot; type=&quot;video/mp4&quot; /&gt;
+&lt;/video&gt;
+
 &lt;img src=&quot;http://localhost:4000/images/mononoke_bot1_lg.jpg&quot; alt=&quot;image&quot; /&gt;
 &lt;p&gt;&lt;/p&gt;
 &lt;p&gt;&lt;/p&gt;
 &lt;img src=&quot;http://localhost:4000/images/mononoke_bot2_lg.jpg&quot; alt=&quot;image&quot; /&gt;
 &lt;p&gt;&lt;/p&gt;
 
-&lt;video preload=&quot;metadata&quot; poster=&quot;http://localhost:4000/images/mononoke_sm1.jpg&quot; width=&quot;100%&quot; height=&quot;auto&quot; controls=&quot;&quot;&gt;
-  &lt;source src=&quot;http://localhost:4000/images/mononoke_sm1.mp4&quot; type=&quot;video/mp4&quot; /&gt;
-&lt;/video&gt;
+
 
 
 
