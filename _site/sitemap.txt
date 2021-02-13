@@ -16,7 +16,6 @@ http://tricx.github.io/rss.xml
 http://tricx.github.io/sitemap.txt
 http://tricx.github.io/tags
 
-http://tricx.github.io/2021/02/05/sound
 http://tricx.github.io/2021/02/04/the_sea
 http://tricx.github.io/2021/02/04/acoustic_shadows
 http://tricx.github.io/2020/10/13/unterm_pflaster_liegt_der_strand
@@ -37,6 +36,7 @@ http://tricx.github.io/2013/12/13/platte_x
 http://tricx.github.io/2013/10/22/zweistimmige_inventionen
 http://tricx.github.io/2013/10/21/bicycle_and_birds
 http://tricx.github.io/2013/10/01/flieger
+http://tricx.github.io/2013/02/05/sound
 http://tricx.github.io/2010/02/23/index
 http://tricx.github.io/2010/02/22/recording
 http://tricx.github.io/2009/12/12/wilhelms_punk

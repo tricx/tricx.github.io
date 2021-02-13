@@ -13,7 +13,7 @@
 body {
   margin: 0; 
   /*font: 12.5px/16.5px "Helvetica", Helvetica, Arial, sans-serif;*/
-  font: 14px/154% "FTBoyleMedium", Helvetica, sans-serif;
+  font: 13px/154% "FTBoyleMedium", Helvetica, sans-serif;
   text-align:justify;
 
   /*background-image: url('/images/mononoke1.jpg');*/
@@ -223,7 +223,7 @@ hr {
 
 /*remove shadow of text!!!!!!!!!!*/
 .navbar .nav > li > a {
-    font: 120%/70% "FTBoyleMedium", sans-serif;
+    font: 118%/70% "FTBoyleMedium", sans-serif;
     font-weight: 500;
     /*color: #012169;*/
     color: black !important;
@@ -240,7 +240,7 @@ hr {
 @media(max-width: 650px) {
   .navbar .nav > li > a {
       /*padding: 10px 0px 10px 12px;*/
-      font: 110%/70% "FTBoyleMedium", sans-serif;
+      font: 107%/70% "FTBoyleMedium", sans-serif;
       padding: 10px 10px 10px 0px !important;
   }
 }
@@ -390,7 +390,7 @@ a:focus {
 
 .linkNew {
       /*font: 142%/70% "Helvetica", sans-serif;*/
-      font: 120%/70% "FTBoyleMedium", sans-serif;
+      font: 118%/70% "FTBoyleMedium", sans-serif;
       font-weight: 400;  
      /* font-style: italic;*/
       /*display:block;*/
@@ -489,6 +489,13 @@ h4 {
   font-family: inherit;
   font-weight: 100;
   font-size: 165%;
+}
+
+h5 {
+  margin: 10px 0;
+  font-family: inherit;
+  font-weight: 100;
+  font-size: 155%;
 }
 
 /*---------------------------*/
