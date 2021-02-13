@@ -34,7 +34,6 @@ and took part at the sound-festival
 	<a href="http://unsafeandsounds.com/" target="_blank" style="text-decoration:none; color: grey">
 	<i>unsafe+sounds </i></a>
 in June 2015.
-<br />
 </p>
 </div>
 
@@ -57,10 +56,7 @@ in June 2015.
 </div>
 </div>
 
-{% comment %}
-<iframe width="100%" height="384" frameborder="0" allowfullscreen="" webkitallowfullscreen="" src="http://player.vimeo.com/video/132323972?title=0&amp;byline=0&amp;portrait=0">
-</iframe>
-{% endcomment %}
+
 
 {% comment %}
 <img src="{{ site.url }}/images/triptychon_moe1.jpg" alt="image">

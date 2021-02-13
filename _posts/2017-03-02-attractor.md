@@ -37,7 +37,7 @@ As a site specific intervention the Attractor is built in a public space, connec
 <video preload="metadata" poster="{{ site.url }}/images/attractor_poster.jpg" width="100%" height="auto" controls>
   <source src="{{ site.url }}/images/attractor_small.mp4" type="video/mp4">
 </video>
-<p> <br />Installation View Feijiacun<br /></p>
+<p> <br />Installation view Feijiacun, public space<br /></p>
 
 
 <img src="{{ site.url }}/images/attractor_close_small_lg.jpg" alt="image">
@@ -50,16 +50,6 @@ As a site specific intervention the Attractor is built in a public space, connec
 
 </div>
 </div>
-
-
-{% comment %}
-<img src="{{ site.url }}/images/attractor_screen_small1.jpg" alt="image">
-
-<img src="{{ site.url }}/images/attractor_day_small1.jpg" alt="image">
-<img src="{{ site.url }}/images/attractor_close_small1.jpg" alt="image">
-<img src="{{ site.url }}/images/attractor_doku_small1.jpg" alt="image">
-<img src="{{ site.url }}/images/attractor_screen_small1.jpg" alt="image">
-{% endcomment %}
 
 
 

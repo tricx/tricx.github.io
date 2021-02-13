@@ -46,7 +46,7 @@ Considerations to the themes, areas and associations, which could form some of t
 <img src="{{ site.url }}/images/schaukel2.jpg" alt="image">
 <p></p>
 <img src="{{ site.url }}/images/schaukel3.jpg" alt="image">
-<p>exhibition views Semperdepot, Akademie der bildenden Künste, Wien</p>
+<p>exhibition view Semperdepot, Akademie der bildenden Künste, Wien</p>
 
 </div>
 </div>

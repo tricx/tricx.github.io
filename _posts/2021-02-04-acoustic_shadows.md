@@ -28,7 +28,6 @@ in cooperation with Dario Sanfilippo<br /><br />
 Acoustic Shadows is an implementation of a complex adaptive system in an eco-systemic configuration. Through the implementation of a feedback system in the high-frequency domain, signals that oscillate at the threshold of the human perception are ‘scanning’ the area. Shadows or inaudible signals, which are created by human presence are influencing the state of the system and therefore change its behaviour, perturbing the system’s microphone-loudspeaker connection and self-modulation. The adaptations could be perceived more like a ghostlike appearance then an interactive reaction.
 <br /><br />
 As an adaptive technological life-form, which spreads discretely but invasively, filtering it’s environment and it could be perceived through the presumption of it’s inner process. As a circular system, it reacts to external influences, but also develops a life of its own. Almost like an abstract occult machine that meters the space to extend its own state.
-<br /><br />
 </p>
 </div>
 
@@ -42,7 +41,6 @@ As an adaptive technological life-form, which spreads discretely but invasively,
 <p></p>
 <img src="{{ site.url }}/images/acoustic_shadows_pd.png" alt="image">
 <p>display, 4 channel audio output, PD-0.50-2</p>
-<br /><br />
 
 </div>
 </div>
@@ -58,6 +56,3 @@ As an adaptive technological life-form, which spreads discretely but invasively,
 {% comment %}
 <font color="grey">(c)<br /></font>
 {% endcomment %}
-
-
-
