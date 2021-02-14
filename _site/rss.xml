@@ -5,8 +5,8 @@
         <description>Tricx - Paul Gruendorfer</description>
         <link>http://tricx.github.io</link>
         <link>http://tricx.github.io</link>
-        <lastBuildDate>2021-02-14T21:43:31+01:00</lastBuildDate>
-        <pubDate>2021-02-14T21:43:31+01:00</pubDate>
+        <lastBuildDate>2021-02-14T22:49:17+01:00</lastBuildDate>
+        <pubDate>2021-02-14T22:49:17+01:00</pubDate>
         <ttl>1800</ttl>
 
 
@@ -1249,11 +1249,17 @@ As a site specific intervention the Attractor is built in a public space, connec
 &lt;p&gt;&lt;/p&gt;
 &lt;img src=&quot;http://localhost:4000/images/attractor_alien_sm.jpg&quot; alt=&quot;image&quot; /&gt;
 &lt;p&gt;&lt;/p&gt;
+&lt;img src=&quot;http://localhost:4000/images/attractor_medium_distance_sm.jpg&quot; alt=&quot;image&quot; /&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;img src=&quot;http://localhost:4000/images/attractor_sky_sm.jpg&quot; alt=&quot;image&quot; /&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;img src=&quot;http://localhost:4000/images/attractor_day_small1_lg.jpg&quot; alt=&quot;image&quot; /&gt;
+&lt;p&gt;&lt;/p&gt;
 &lt;img src=&quot;http://localhost:4000/images/attractor_doku_small2_lg.jpg&quot; alt=&quot;image&quot; /&gt;
 &lt;p&gt;&lt;/p&gt;
 &lt;img src=&quot;http://localhost:4000/images/attractor_test_small.jpg&quot; alt=&quot;image&quot; /&gt;
-&lt;p&gt;&lt;/p&gt;
-&lt;img src=&quot;http://localhost:4000/images/attractor_day_small1_lg.jpg&quot; alt=&quot;image&quot; /&gt;
+
+
 
 
 &lt;/div&gt;

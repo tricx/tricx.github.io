@@ -44,11 +44,17 @@ As a site specific intervention the Attractor is built in a public space, connec
 <p></p>
 <img src="{{ site.url }}/images/attractor_alien_sm.jpg" alt="image">
 <p></p>
+<img src="{{ site.url }}/images/attractor_medium_distance_sm.jpg" alt="image">
+<p></p>
+<img src="{{ site.url }}/images/attractor_sky_sm.jpg" alt="image">
+<p></p>
+<img src="{{ site.url }}/images/attractor_day_small1_lg.jpg" alt="image">
+<p></p>
 <img src="{{ site.url }}/images/attractor_doku_small2_lg.jpg" alt="image">
 <p></p>
 <img src="{{ site.url }}/images/attractor_test_small.jpg" alt="image">
-<p></p>
-<img src="{{ site.url }}/images/attractor_day_small1_lg.jpg" alt="image">
+
+
 
 
 </div>
