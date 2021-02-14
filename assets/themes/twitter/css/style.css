@@ -120,7 +120,7 @@ hr {
   font-weight: 500 !important;
   }
   .navbar-inner {
-    min-height: 35px !important;
+    min-height: 55px !important;
   }
 }
 
@@ -216,7 +216,7 @@ html {
   .navbar .nav > li > a {
       /*padding: 10px 0px 10px 12px;*/
       font: 107%/70% "FTBoyleMedium", sans-serif;
-      padding: 10px 10px 10px 0px !important;
+      padding: 15px 10px 15px 0px !important;
       font-weight: 800 !important;
   }
 }
