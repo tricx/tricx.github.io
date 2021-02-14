@@ -28,11 +28,11 @@ in cooperation with Claudia Larcher<br />
 
 
 <div class="container-narrow-left">
-<img src="{{ site.url }}/images/theuncannyjenny_small_lg.jpg" alt="image">
+<img src="{{ site.url }}/images/theuncannyjenny_small_lg.jpg" loading="lazy" alt="image">
 <p></p>
 
 <video preload="metadata" poster="{{ site.url }}/images/faux_poster.jpg" width="100%" height="auto" controls>
-  <source src="{{ site.url }}/images/fauxterrain_small.mp4" type="video/mp4">
+  <source src="{{ site.url }}/images/fauxterrain_small.mp4" type="video/mp4" loading="lazy">
 </video>
 
 </div>

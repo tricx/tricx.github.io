@@ -30,10 +30,10 @@ The film loop shows permanently turning maple seeds, in density and speed variab
 
 
 <div class="container-narrow-left">
-<img src="{{ site.url }}/images/ufo1_lg.jpg" alt="image">
+<img src="{{ site.url }}/images/ufo1_lg.jpg" loading="lazy" alt="image">
 <p>still image<br /><br /></p>
 
-<img src="{{ site.url }}/images/ufo_lg.jpg" alt="image">
+<img src="{{ site.url }}/images/ufo_lg.jpg" loading="lazy" alt="image">
 <p>exhibition view (Flakleitturm Arenbergpark):<br /></p>
 
 </div>

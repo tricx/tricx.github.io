@@ -63,31 +63,31 @@ The project Centre and Periphery picked up this field of tension in order to dea
 
 
 <div class="container-narrow-left">
-<img src="{{ site.url }}/images/drachen_parque_karukinka_small_lg.jpg" alt="image">
+<img src="{{ site.url }}/images/drachen_parque_karukinka_small_lg.jpg" loading="lazy" alt="image">
 <p></p>
-<img src="{{ site.url }}/images/drachen_antenna_small_lg.jpg" alt="image">
+<img src="{{ site.url }}/images/drachen_antenna_small_lg.jpg" loading="lazy" alt="image">
 <p></p>
-<img src="{{ site.url }}/images/drachen_cape_horn_small.jpg" alt="image">
+<img src="{{ site.url }}/images/drachen_cape_horn_small.jpg" loading="lazy" alt="image">
 <p></p>
 
 {% comment %}
-<img src="{{ site.url }}/images/drachen_bahia_inutil_small.jpg" alt="image">
+<img src="{{ site.url }}/images/drachen_bahia_inutil_small.jpg" loading="lazy" alt="image">
 <p></p>
-<img src="{{ site.url }}/images/drachen_puerto_williams_small.jpg" alt="image">
+<img src="{{ site.url }}/images/drachen_puerto_williams_small.jpg" loading="lazy" alt="image">
 <p></p>
 {% endcomment %}
 
-<img src="{{ site.url }}/images/drachen_map_lg.jpg" alt="image">
+<img src="{{ site.url }}/images/drachen_map_lg.jpg" loading="lazy" alt="image">
 <p></p>
-<img src="{{ site.url }}/images/drachen_close_sm.jpg" alt="image">
+<img src="{{ site.url }}/images/drachen_close_sm.jpg" loading="lazy" alt="image">
 <p></p>
-<img src="{{ site.url }}/images/drachen_recorder_small_lg.jpg" alt="image">
+<img src="{{ site.url }}/images/drachen_recorder_small_lg.jpg" loading="lazy" alt="image">
 <p></p>
-<img src="{{ site.url }}/images/drachen_cape_horn2_small.jpg" alt="image">
+<img src="{{ site.url }}/images/drachen_cape_horn2_small.jpg" loading="lazy" alt="image">
 <p></p>
-<img src="{{ site.url }}/images/drachen_barco_small.jpg" alt="image">
+<img src="{{ site.url }}/images/drachen_barco_small.jpg" loading="lazy" alt="image">
 <p></p>
-<img src="{{ site.url }}/images/drachen_guanaco_sm.jpg" alt="image">
+<img src="{{ site.url }}/images/drachen_guanaco_sm.jpg" loading="lazy" alt="image">
 
 
 </div>

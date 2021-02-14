@@ -40,20 +40,20 @@ in June 2015.
 
 <div class="container-narrow-left">
 
-<img src="{{ site.url }}/images/tolm_small.jpg" alt="image">
+<img src="{{ site.url }}/images/tolm_small.jpg" loading="lazy" alt="image">
 <p><br />Installation view: MemphisMemphis<br /></p>
-<img src="{{ site.url }}/images/tolm2_small.jpg" alt="image">
+<img src="{{ site.url }}/images/tolm2_small.jpg" loading="lazy" alt="image">
 <font color="grey">(c) Florian Voggeneder<br /></font>
 
 <p><br />Installation view: moe, Schaukasten XII<br /></p>
 
 <video preload="metadata" poster="{{ site.url }}/images/tripty1_poster_small.jpg" width="100%" height="auto" controls>
-  <source src="{{ site.url }}/images/triptychon_of_lost_media.mp4" type="video/mp4">
+  <source src="{{ site.url }}/images/triptychon_of_lost_media.mp4" type="video/mp4" loading="lazy">
 </video>
 
-<img src="{{ site.url }}/images/triptychon_moe4_lg.jpg" alt="image">
+<img src="{{ site.url }}/images/triptychon_moe4_lg.jpg" loading="lazy" alt="image">
 <p></p>
-<img src="{{ site.url }}/images/triptychon_concert1_sm.jpg" alt="image">
+<img src="{{ site.url }}/images/triptychon_concert1_sm.jpg" loading="lazy" alt="image">
 
 </div>
 </div>

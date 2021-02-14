@@ -41,11 +41,11 @@ Considerations to the themes, areas and associations, which could form some of t
 
 
 <div class="container-narrow-left">
-<img src="{{ site.url }}/images/schaukel1.jpg" alt="image">
+<img src="{{ site.url }}/images/schaukel1.jpg" loading="lazy" alt="image">
 <p></p>
-<img src="{{ site.url }}/images/schaukel2.jpg" alt="image">
+<img src="{{ site.url }}/images/schaukel2.jpg" loading="lazy" alt="image">
 <p></p>
-<img src="{{ site.url }}/images/schaukel3.jpg" alt="image">
+<img src="{{ site.url }}/images/schaukel3.jpg" loading="lazy" alt="image">
 <p>exhibition view Semperdepot, Akademie der bildenden Künste, Wien</p>
 
 </div>

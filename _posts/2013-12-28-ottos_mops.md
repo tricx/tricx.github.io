@@ -29,7 +29,7 @@ The robot moves around the exhibition space, orienting itself based on the event
 
 <div class="container-narrow-left">
 <video preload="metadata" poster="{{ site.url }}/images/ottos_mops_poster_small.jpg" width="100%" height="auto" controls>
-  <source src="{{ site.url }}/images/ottosmops.mp4" type="video/mp4">
+  <source src="{{ site.url }}/images/ottosmops.mp4" type="video/mp4" loading="lazy">
 </video>
 
 
@@ -40,8 +40,8 @@ The robot moves around the exhibition space, orienting itself based on the event
 	<a href="http://www.heterotypia.net/" target="_blank" style="text-decoration:none; color: grey">
 	<i>Natalie Deewan</i></a>
 </p>
-<img src="{{ site.url }}/images/petit_conferencier_card_I_sm.jpg" alt="image">
-<img src="{{ site.url }}/images/petit_conferencier_card_II_sm.jpg" alt="image">
+<img src="{{ site.url }}/images/petit_conferencier_card_I_sm.jpg" loading="lazy" alt="image">
+<img src="{{ site.url }}/images/petit_conferencier_card_II_sm.jpg" loading="lazy" alt="image">
 
 </div>
 </div>

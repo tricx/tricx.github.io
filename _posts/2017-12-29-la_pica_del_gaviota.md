@@ -40,18 +40,18 @@ First you have to agree, what is a “Picá”? In Chile they call “Picá” r
 
 
 <div class="container-narrow-left">
-<img src="{{ site.url }}/images/pica_seagulls1_sm.jpg" alt="image">
+<img src="{{ site.url }}/images/pica_seagulls1_sm.jpg" loading="lazy" alt="image">
 <p></p>
-<img src="{{ site.url }}/images/pica_audience_sm.jpg" alt="image">
+<img src="{{ site.url }}/images/pica_audience_sm.jpg" loading="lazy" alt="image">
 <p></p>
-<img src="{{ site.url }}/images/pica_fish_sm.jpg" alt="image">
+<img src="{{ site.url }}/images/pica_fish_sm.jpg" loading="lazy" alt="image">
 <p></p>
-<img src="{{ site.url }}/images/pica_leftovers_sm.jpg" alt="image">
+<img src="{{ site.url }}/images/pica_leftovers_sm.jpg" loading="lazy" alt="image">
 <p></p>
-<img src="{{ site.url }}/images/pica_puerto_sm.jpg" alt="image">
+<img src="{{ site.url }}/images/pica_puerto_sm.jpg" loading="lazy" alt="image">
 <p></p>
 
-<img src="{{ site.url }}/images/pica_invitation_sm.jpg" alt="image">
+<img src="{{ site.url }}/images/pica_invitation_sm.jpg" loading="lazy" alt="image">
 
 {% comment %}
 <p></p>

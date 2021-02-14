@@ -37,22 +37,22 @@ http://wikimapia.org/4832019/Arcadian-Gate</a>
 </p>
 
 <audio controls style="width: 100%" preload="none">
-  <source src="{{ site.url }}/images/arcadian_gate_doku.mp3" type="audio/mpeg">
+  <source src="{{ site.url }}/images/arcadian_gate_doku.mp3" type="audio/mpeg" loading="lazy">
 </audio>
 
 </div>
 
 
 <div class="container-narrow-left">
-<img src="{{ site.url }}/images/arcadian_gate_detector_sm_lg.jpg" alt="image">
+<img src="{{ site.url }}/images/arcadian_gate_detector_sm_lg.jpg" loading="lazy" alt="image">
 <p></p>
-<img src="{{ site.url }}/images/arcadian_gate_laser_sm_lg.jpg" alt="image">
+<img src="{{ site.url }}/images/arcadian_gate_laser_sm_lg.jpg" loading="lazy" alt="image">
 <p></p>
-<img src="{{ site.url }}/images/arcadian_gate_night_sm_lg.jpg" alt="image">
+<img src="{{ site.url }}/images/arcadian_gate_night_sm_lg.jpg" loading="lazy" alt="image">
 <p></p>
-<img src="{{ site.url }}/images/arcadian_gate2a_lg.jpg" alt="image">
+<img src="{{ site.url }}/images/arcadian_gate2a_lg.jpg" loading="lazy" alt="image">
 <p></p>
-<img src="{{ site.url }}/images/arcardian_gate_amplifier_solar-cell2_sm.jpg" alt="image">
+<img src="{{ site.url }}/images/arcardian_gate_amplifier_solar-cell2_sm.jpg" loading="lazy" alt="image">
 
 </div>
 </div>

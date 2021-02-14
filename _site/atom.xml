@@ -4,7 +4,7 @@
  <title>Tricx</title>
  <link href="http://tricx.github.io/" rel="self"/>
  <link href="http://tricx.github.io"/>
- <updated>2021-02-14T22:49:17+01:00</updated>
+ <updated>2021-02-14T23:15:05+01:00</updated>
  <id>http://tricx.github.io</id>
  <author>
    <name>Paul Gruendorfer</name>
@@ -108,13 +108,13 @@ in development
 
 
 &lt;div class=&quot;container-narrow-left&quot;&gt;
-&lt;img src=&quot;http://localhost:4000/images/the_sea1_sm.jpg&quot; alt=&quot;image&quot; /&gt;
+&lt;img src=&quot;http://localhost:4000/images/the_sea1_sm.jpg&quot; loading=&quot;lazy&quot; alt=&quot;image&quot; /&gt;
 &lt;p&gt;&lt;/p&gt;
-&lt;img src=&quot;http://localhost:4000/images/the_sea_graph.png&quot; alt=&quot;image&quot; /&gt;
+&lt;img src=&quot;http://localhost:4000/images/the_sea_graph.png&quot; loading=&quot;lazy&quot; alt=&quot;image&quot; /&gt;
 &lt;p&gt;graph for motor control, Leo Peschta&lt;/p&gt;
 &lt;br /&gt;
 &lt;p&gt;&lt;/p&gt;
-&lt;img src=&quot;http://localhost:4000/images/the_sea_pd.jpg&quot; alt=&quot;image&quot; /&gt;
+&lt;img src=&quot;http://localhost:4000/images/the_sea_pd.jpg&quot; loading=&quot;lazy&quot; alt=&quot;image&quot; /&gt;
 &lt;p&gt;screenshot PD-0.50-2, Paul Gründorfer&lt;/p&gt;
 
 &lt;/div&gt;
@@ -223,13 +223,13 @@ As an adaptive technological life-form, which spreads discretely but invasively,
 
 
 &lt;div class=&quot;container-narrow-left&quot;&gt;
-&lt;img src=&quot;http://localhost:4000/images/acoustic_shadows1_sm.jpg&quot; alt=&quot;image&quot; /&gt;
+&lt;img src=&quot;http://localhost:4000/images/acoustic_shadows1_sm.jpg&quot; loading=&quot;lazy&quot; alt=&quot;image&quot; /&gt;
 &lt;p&gt;&lt;/p&gt;
-&lt;img src=&quot;http://localhost:4000/images/acoustic_shadows2_sm.jpg&quot; alt=&quot;image&quot; /&gt;
+&lt;img src=&quot;http://localhost:4000/images/acoustic_shadows2_sm.jpg&quot; loading=&quot;lazy&quot; alt=&quot;image&quot; /&gt;
 &lt;p&gt;&lt;/p&gt;
-&lt;img src=&quot;http://localhost:4000/images/acoustic_shadows3_sm.jpg&quot; alt=&quot;image&quot; /&gt;
+&lt;img src=&quot;http://localhost:4000/images/acoustic_shadows3_sm.jpg&quot; loading=&quot;lazy&quot; alt=&quot;image&quot; /&gt;
 &lt;p&gt;&lt;/p&gt;
-&lt;img src=&quot;http://localhost:4000/images/acoustic_shadows_pd.png&quot; alt=&quot;image&quot; /&gt;
+&lt;img src=&quot;http://localhost:4000/images/acoustic_shadows_pd.png&quot; loading=&quot;lazy&quot; alt=&quot;image&quot; /&gt;
 &lt;p&gt;display, 4 channel audio output, PD-0.50-2&lt;/p&gt;
 
 &lt;/div&gt;
@@ -334,14 +334,14 @@ The text is translated to latin, so it resembles often used honorable mentions o
 
 
 &lt;div class=&quot;container-narrow-left&quot;&gt;
-&lt;img src=&quot;http://localhost:4000/images/pflaster_display_sm_cl.jpg&quot; alt=&quot;image&quot; /&gt;
+&lt;img src=&quot;http://localhost:4000/images/pflaster_display_sm_cl.jpg&quot; loading=&quot;lazy&quot; alt=&quot;image&quot; /&gt;
 &lt;p&gt;&lt;/p&gt;
 
 
 
-&lt;img src=&quot;http://localhost:4000/images/pflaster_display_people_sm_cl.jpg&quot; alt=&quot;image&quot; /&gt;
+&lt;img src=&quot;http://localhost:4000/images/pflaster_display_people_sm_cl.jpg&quot; loading=&quot;lazy&quot; alt=&quot;image&quot; /&gt;
 &lt;p&gt;&lt;/p&gt;
-&lt;img src=&quot;http://localhost:4000/images/pflaster_display_wide_sm_cl.jpg&quot; alt=&quot;image&quot; /&gt;
+&lt;img src=&quot;http://localhost:4000/images/pflaster_display_wide_sm_cl.jpg&quot; loading=&quot;lazy&quot; alt=&quot;image&quot; /&gt;
 
 &lt;/div&gt;
 &lt;/div&gt;
@@ -449,28 +449,28 @@ Reflections and Refractions of a laser that scans plastic bottles are translated
 
 &lt;div class=&quot;container-narrow-left&quot;&gt;
 &lt;video preload=&quot;metadata&quot; poster=&quot;http://localhost:4000/images/mononoke_sm1.jpg&quot; width=&quot;100%&quot; height=&quot;auto&quot; controls=&quot;&quot;&gt;
-  &lt;source src=&quot;http://localhost:4000/images/mononoke_sm1.mp4&quot; type=&quot;video/mp4&quot; /&gt;
+  &lt;source src=&quot;http://localhost:4000/images/mononoke_sm1.mp4&quot; type=&quot;video/mp4&quot; loading=&quot;lazy&quot; /&gt;
 &lt;/video&gt;
 
-&lt;img src=&quot;http://localhost:4000/images/mononoke_bot1_lg.jpg&quot; alt=&quot;image&quot; /&gt;
+&lt;img src=&quot;http://localhost:4000/images/mononoke_bot1_lg.jpg&quot; loading=&quot;lazy&quot; alt=&quot;image&quot; /&gt;
 &lt;p&gt;&lt;/p&gt;
 &lt;p&gt;&lt;/p&gt;
-&lt;img src=&quot;http://localhost:4000/images/mononoke_bot2_lg.jpg&quot; alt=&quot;image&quot; /&gt;
+&lt;img src=&quot;http://localhost:4000/images/mononoke_bot2_lg.jpg&quot; loading=&quot;lazy&quot; alt=&quot;image&quot; /&gt;
 &lt;p&gt;&lt;/p&gt;
 
 
 
 
 
-&lt;img src=&quot;http://localhost:4000/images/mononoke3_small.jpg&quot; alt=&quot;image&quot; /&gt;
+&lt;img src=&quot;http://localhost:4000/images/mononoke3_small.jpg&quot; loading=&quot;lazy&quot; alt=&quot;image&quot; /&gt;
 &lt;p&gt;&lt;/p&gt;
-&lt;img src=&quot;http://localhost:4000/images/mononoke1.jpg&quot; alt=&quot;image&quot; /&gt;
+&lt;img src=&quot;http://localhost:4000/images/mononoke1.jpg&quot; loading=&quot;lazy&quot; alt=&quot;image&quot; /&gt;
 &lt;p&gt;&lt;/p&gt;
-&lt;img src=&quot;http://localhost:4000/images/mononoke2.jpg&quot; alt=&quot;image&quot; /&gt;
+&lt;img src=&quot;http://localhost:4000/images/mononoke2.jpg&quot; loading=&quot;lazy&quot; alt=&quot;image&quot; /&gt;
 &lt;p&gt;&lt;/p&gt;
-&lt;img src=&quot;http://localhost:4000/images/mononoke3b_small.jpg&quot; alt=&quot;image&quot; /&gt;
+&lt;img src=&quot;http://localhost:4000/images/mononoke3b_small.jpg&quot; loading=&quot;lazy&quot; alt=&quot;image&quot; /&gt;
 &lt;p&gt;&lt;/p&gt;
-&lt;img src=&quot;http://localhost:4000/images/mononoke6_cat2_lg.jpg&quot; alt=&quot;image&quot; /&gt;
+&lt;img src=&quot;http://localhost:4000/images/mononoke6_cat2_lg.jpg&quot; loading=&quot;lazy&quot; alt=&quot;image&quot; /&gt;
 &lt;p&gt;NEKO 'appearance', PD-0.50-2, Paul Gründorfer&lt;/p&gt;
 
 &lt;/div&gt;
@@ -582,22 +582,22 @@ http://wikimapia.org/4832019/Arcadian-Gate&lt;/a&gt;
 &lt;/p&gt;
 
 &lt;audio controls=&quot;&quot; style=&quot;width: 100%&quot; preload=&quot;none&quot;&gt;
-  &lt;source src=&quot;http://localhost:4000/images/arcadian_gate_doku.mp3&quot; type=&quot;audio/mpeg&quot; /&gt;
+  &lt;source src=&quot;http://localhost:4000/images/arcadian_gate_doku.mp3&quot; type=&quot;audio/mpeg&quot; loading=&quot;lazy&quot; /&gt;
 &lt;/audio&gt;
 
 &lt;/div&gt;
 
 
 &lt;div class=&quot;container-narrow-left&quot;&gt;
-&lt;img src=&quot;http://localhost:4000/images/arcadian_gate_detector_sm_lg.jpg&quot; alt=&quot;image&quot; /&gt;
+&lt;img src=&quot;http://localhost:4000/images/arcadian_gate_detector_sm_lg.jpg&quot; loading=&quot;lazy&quot; alt=&quot;image&quot; /&gt;
 &lt;p&gt;&lt;/p&gt;
-&lt;img src=&quot;http://localhost:4000/images/arcadian_gate_laser_sm_lg.jpg&quot; alt=&quot;image&quot; /&gt;
+&lt;img src=&quot;http://localhost:4000/images/arcadian_gate_laser_sm_lg.jpg&quot; loading=&quot;lazy&quot; alt=&quot;image&quot; /&gt;
 &lt;p&gt;&lt;/p&gt;
-&lt;img src=&quot;http://localhost:4000/images/arcadian_gate_night_sm_lg.jpg&quot; alt=&quot;image&quot; /&gt;
+&lt;img src=&quot;http://localhost:4000/images/arcadian_gate_night_sm_lg.jpg&quot; loading=&quot;lazy&quot; alt=&quot;image&quot; /&gt;
 &lt;p&gt;&lt;/p&gt;
-&lt;img src=&quot;http://localhost:4000/images/arcadian_gate2a_lg.jpg&quot; alt=&quot;image&quot; /&gt;
+&lt;img src=&quot;http://localhost:4000/images/arcadian_gate2a_lg.jpg&quot; loading=&quot;lazy&quot; alt=&quot;image&quot; /&gt;
 &lt;p&gt;&lt;/p&gt;
-&lt;img src=&quot;http://localhost:4000/images/arcardian_gate_amplifier_solar-cell2_sm.jpg&quot; alt=&quot;image&quot; /&gt;
+&lt;img src=&quot;http://localhost:4000/images/arcardian_gate_amplifier_solar-cell2_sm.jpg&quot; loading=&quot;lazy&quot; alt=&quot;image&quot; /&gt;
 
 &lt;/div&gt;
 &lt;/div&gt;
@@ -709,17 +709,17 @@ Besides this interest, there is the old tradition to let pigeons fly with specia
 
 &lt;div class=&quot;container-narrow-left&quot;&gt;
 &lt;video preload=&quot;metadata&quot; poster=&quot;http://localhost:4000/images/pigeons_small_down.jpg&quot; width=&quot;100%&quot; height=&quot;auto&quot; controls=&quot;&quot;&gt;
-  &lt;source src=&quot;http://localhost:4000/images/pigeons_small_down.mp4&quot; type=&quot;video/mp4&quot; /&gt;
+  &lt;source src=&quot;http://localhost:4000/images/pigeons_small_down.mp4&quot; type=&quot;video/mp4&quot; loading=&quot;lazy&quot; /&gt;
 &lt;/video&gt;
 
 
-&lt;img src=&quot;http://localhost:4000/images/pigeons_google_earth_lg.jpg&quot; alt=&quot;image&quot; /&gt;
+&lt;img src=&quot;http://localhost:4000/images/pigeons_google_earth_lg.jpg&quot; loading=&quot;lazy&quot; alt=&quot;image&quot; /&gt;
 &lt;p&gt;&lt;/p&gt;
-&lt;img src=&quot;http://localhost:4000/images/pigeons_cage_sm.jpg&quot; alt=&quot;image&quot; /&gt;
+&lt;img src=&quot;http://localhost:4000/images/pigeons_cage_sm.jpg&quot; loading=&quot;lazy&quot; alt=&quot;image&quot; /&gt;
 &lt;p&gt;&lt;/p&gt;
-&lt;img src=&quot;http://localhost:4000/images/pigeon_pipe_smaller_lg.jpg&quot; alt=&quot;image&quot; /&gt;
+&lt;img src=&quot;http://localhost:4000/images/pigeon_pipe_smaller_lg.jpg&quot; loading=&quot;lazy&quot; alt=&quot;image&quot; /&gt;
 &lt;p&gt;&lt;/p&gt;
-&lt;img src=&quot;http://localhost:4000/images/pigeon_wing_smaller_lg.jpg&quot; alt=&quot;image&quot; /&gt;
+&lt;img src=&quot;http://localhost:4000/images/pigeon_wing_smaller_lg.jpg&quot; loading=&quot;lazy&quot; alt=&quot;image&quot; /&gt;
 
 
 
@@ -849,26 +849,26 @@ The project Centre and Periphery picked up this field of tension in order to dea
 
 
 &lt;div class=&quot;container-narrow-left&quot;&gt;
-&lt;img src=&quot;http://localhost:4000/images/drachen_parque_karukinka_small_lg.jpg&quot; alt=&quot;image&quot; /&gt;
+&lt;img src=&quot;http://localhost:4000/images/drachen_parque_karukinka_small_lg.jpg&quot; loading=&quot;lazy&quot; alt=&quot;image&quot; /&gt;
 &lt;p&gt;&lt;/p&gt;
-&lt;img src=&quot;http://localhost:4000/images/drachen_antenna_small_lg.jpg&quot; alt=&quot;image&quot; /&gt;
+&lt;img src=&quot;http://localhost:4000/images/drachen_antenna_small_lg.jpg&quot; loading=&quot;lazy&quot; alt=&quot;image&quot; /&gt;
 &lt;p&gt;&lt;/p&gt;
-&lt;img src=&quot;http://localhost:4000/images/drachen_cape_horn_small.jpg&quot; alt=&quot;image&quot; /&gt;
+&lt;img src=&quot;http://localhost:4000/images/drachen_cape_horn_small.jpg&quot; loading=&quot;lazy&quot; alt=&quot;image&quot; /&gt;
 &lt;p&gt;&lt;/p&gt;
 
 
 
-&lt;img src=&quot;http://localhost:4000/images/drachen_map_lg.jpg&quot; alt=&quot;image&quot; /&gt;
+&lt;img src=&quot;http://localhost:4000/images/drachen_map_lg.jpg&quot; loading=&quot;lazy&quot; alt=&quot;image&quot; /&gt;
 &lt;p&gt;&lt;/p&gt;
-&lt;img src=&quot;http://localhost:4000/images/drachen_close_sm.jpg&quot; alt=&quot;image&quot; /&gt;
+&lt;img src=&quot;http://localhost:4000/images/drachen_close_sm.jpg&quot; loading=&quot;lazy&quot; alt=&quot;image&quot; /&gt;
 &lt;p&gt;&lt;/p&gt;
-&lt;img src=&quot;http://localhost:4000/images/drachen_recorder_small_lg.jpg&quot; alt=&quot;image&quot; /&gt;
+&lt;img src=&quot;http://localhost:4000/images/drachen_recorder_small_lg.jpg&quot; loading=&quot;lazy&quot; alt=&quot;image&quot; /&gt;
 &lt;p&gt;&lt;/p&gt;
-&lt;img src=&quot;http://localhost:4000/images/drachen_cape_horn2_small.jpg&quot; alt=&quot;image&quot; /&gt;
+&lt;img src=&quot;http://localhost:4000/images/drachen_cape_horn2_small.jpg&quot; loading=&quot;lazy&quot; alt=&quot;image&quot; /&gt;
 &lt;p&gt;&lt;/p&gt;
-&lt;img src=&quot;http://localhost:4000/images/drachen_barco_small.jpg&quot; alt=&quot;image&quot; /&gt;
+&lt;img src=&quot;http://localhost:4000/images/drachen_barco_small.jpg&quot; loading=&quot;lazy&quot; alt=&quot;image&quot; /&gt;
 &lt;p&gt;&lt;/p&gt;
-&lt;img src=&quot;http://localhost:4000/images/drachen_guanaco_sm.jpg&quot; alt=&quot;image&quot; /&gt;
+&lt;img src=&quot;http://localhost:4000/images/drachen_guanaco_sm.jpg&quot; loading=&quot;lazy&quot; alt=&quot;image&quot; /&gt;
 
 
 &lt;/div&gt;
@@ -982,18 +982,18 @@ First you have to agree, what is a “Picá”? In Chile they call “Picá” r
 
 
 &lt;div class=&quot;container-narrow-left&quot;&gt;
-&lt;img src=&quot;http://localhost:4000/images/pica_seagulls1_sm.jpg&quot; alt=&quot;image&quot; /&gt;
+&lt;img src=&quot;http://localhost:4000/images/pica_seagulls1_sm.jpg&quot; loading=&quot;lazy&quot; alt=&quot;image&quot; /&gt;
 &lt;p&gt;&lt;/p&gt;
-&lt;img src=&quot;http://localhost:4000/images/pica_audience_sm.jpg&quot; alt=&quot;image&quot; /&gt;
+&lt;img src=&quot;http://localhost:4000/images/pica_audience_sm.jpg&quot; loading=&quot;lazy&quot; alt=&quot;image&quot; /&gt;
 &lt;p&gt;&lt;/p&gt;
-&lt;img src=&quot;http://localhost:4000/images/pica_fish_sm.jpg&quot; alt=&quot;image&quot; /&gt;
+&lt;img src=&quot;http://localhost:4000/images/pica_fish_sm.jpg&quot; loading=&quot;lazy&quot; alt=&quot;image&quot; /&gt;
 &lt;p&gt;&lt;/p&gt;
-&lt;img src=&quot;http://localhost:4000/images/pica_leftovers_sm.jpg&quot; alt=&quot;image&quot; /&gt;
+&lt;img src=&quot;http://localhost:4000/images/pica_leftovers_sm.jpg&quot; loading=&quot;lazy&quot; alt=&quot;image&quot; /&gt;
 &lt;p&gt;&lt;/p&gt;
-&lt;img src=&quot;http://localhost:4000/images/pica_puerto_sm.jpg&quot; alt=&quot;image&quot; /&gt;
+&lt;img src=&quot;http://localhost:4000/images/pica_puerto_sm.jpg&quot; loading=&quot;lazy&quot; alt=&quot;image&quot; /&gt;
 &lt;p&gt;&lt;/p&gt;
 
-&lt;img src=&quot;http://localhost:4000/images/pica_invitation_sm.jpg&quot; alt=&quot;image&quot; /&gt;
+&lt;img src=&quot;http://localhost:4000/images/pica_invitation_sm.jpg&quot; loading=&quot;lazy&quot; alt=&quot;image&quot; /&gt;
 
 
 
@@ -1107,34 +1107,34 @@ Love to the beat of the show. [...]&lt;br /&gt;
 &lt;br /&gt;
 &lt;p&gt;&lt;/p&gt;
 &lt;audio controls=&quot;&quot; style=&quot;width: 100%&quot; preload=&quot;none&quot;&gt;
-  &lt;source src=&quot;http://localhost:4000/images/konfrontationen10.mp3&quot; type=&quot;audio/mpeg&quot; /&gt;	
+  &lt;source src=&quot;http://localhost:4000/images/konfrontationen10.mp3&quot; type=&quot;audio/mpeg&quot; loading=&quot;lazy&quot; /&gt;	
 &lt;/audio&gt;
 
 
 &lt;p&gt;&lt;/p&gt;
 &lt;audio controls=&quot;&quot; style=&quot;width: 100%&quot; preload=&quot;none&quot;&gt;
-  &lt;source src=&quot;http://localhost:4000/images/konfrontationen11.mp3&quot; type=&quot;audio/mpeg&quot; /&gt;
+  &lt;source src=&quot;http://localhost:4000/images/konfrontationen11.mp3&quot; type=&quot;audio/mpeg&quot; loading=&quot;lazy&quot; /&gt;
 &lt;/audio&gt;
 
 
 &lt;p&gt;&lt;/p&gt;
 &lt;audio controls=&quot;&quot; style=&quot;width: 100%&quot; preload=&quot;none&quot;&gt;
-  &lt;source src=&quot;http://localhost:4000/images/konfrontationen13.mp3&quot; type=&quot;audio/mpeg&quot; /&gt;
+  &lt;source src=&quot;http://localhost:4000/images/konfrontationen13.mp3&quot; type=&quot;audio/mpeg&quot; loading=&quot;lazy&quot; /&gt;
 &lt;/audio&gt;
 &lt;/div&gt;
 
 
 &lt;div class=&quot;container-narrow-left&quot;&gt;
-&lt;img src=&quot;http://localhost:4000/images/am_room_small.jpg&quot; alt=&quot;image&quot; /&gt;
+&lt;img src=&quot;http://localhost:4000/images/am_room_small.jpg&quot; loading=&quot;lazy&quot; alt=&quot;image&quot; /&gt;
 &lt;p&gt;&lt;br /&gt;Installation view&lt;br /&gt;&lt;/p&gt;
 
 &lt;video preload=&quot;metadata&quot; poster=&quot;http://localhost:4000/images/am_night_poster.jpg&quot; width=&quot;100%&quot; height=&quot;auto&quot; controls=&quot;&quot;&gt;
-  &lt;source src=&quot;http://localhost:4000/images/am_night.mp4&quot; type=&quot;video/mp4&quot; /&gt;
+  &lt;source src=&quot;http://localhost:4000/images/am_night.mp4&quot; type=&quot;video/mp4&quot; loading=&quot;lazy&quot; /&gt;
 &lt;/video&gt;
 
-&lt;img src=&quot;http://localhost:4000/images/am_land_bw1_sm.jpg&quot; alt=&quot;image&quot; /&gt;
+&lt;img src=&quot;http://localhost:4000/images/am_land_bw1_sm.jpg&quot; loading=&quot;lazy&quot; alt=&quot;image&quot; /&gt;
 &lt;p&gt;&lt;/p&gt;
-&lt;img src=&quot;http://localhost:4000/images/am_land_bw2_sm.jpg&quot; alt=&quot;image&quot; /&gt;
+&lt;img src=&quot;http://localhost:4000/images/am_land_bw2_sm.jpg&quot; loading=&quot;lazy&quot; alt=&quot;image&quot; /&gt;
 &lt;font color=&quot;grey&quot;&gt;(c) photos black+white by noid&lt;br /&gt;&lt;/font&gt;
 
 
@@ -1245,24 +1245,24 @@ As a site specific intervention the Attractor is built in a public space, connec
 
 &lt;div class=&quot;container-narrow-left&quot;&gt;
 &lt;video preload=&quot;metadata&quot; poster=&quot;http://localhost:4000/images/attractor_poster.jpg&quot; width=&quot;100%&quot; height=&quot;auto&quot; controls=&quot;&quot;&gt;
-  &lt;source src=&quot;http://localhost:4000/images/attractor_small.mp4&quot; type=&quot;video/mp4&quot; /&gt;
+  &lt;source src=&quot;http://localhost:4000/images/attractor_small.mp4&quot; type=&quot;video/mp4&quot; loading=&quot;lazy&quot; /&gt;
 &lt;/video&gt;
 &lt;p&gt;&lt;br /&gt;Installation view Feijiacun, public space&lt;br /&gt;&lt;/p&gt;
 
 
-&lt;img src=&quot;http://localhost:4000/images/attractor_close_small_lg.jpg&quot; alt=&quot;image&quot; /&gt;
+&lt;img src=&quot;http://localhost:4000/images/attractor_close_small_lg.jpg&quot; loading=&quot;lazy&quot; alt=&quot;image&quot; /&gt;
 &lt;p&gt;&lt;/p&gt;
-&lt;img src=&quot;http://localhost:4000/images/attractor_alien_sm.jpg&quot; alt=&quot;image&quot; /&gt;
+&lt;img src=&quot;http://localhost:4000/images/attractor_alien_sm.jpg&quot; loading=&quot;lazy&quot; alt=&quot;image&quot; /&gt;
 &lt;p&gt;&lt;/p&gt;
-&lt;img src=&quot;http://localhost:4000/images/attractor_medium_distance_sm.jpg&quot; alt=&quot;image&quot; /&gt;
+&lt;img src=&quot;http://localhost:4000/images/attractor_medium_distance_sm.jpg&quot; loading=&quot;lazy&quot; alt=&quot;image&quot; /&gt;
 &lt;p&gt;&lt;/p&gt;
-&lt;img src=&quot;http://localhost:4000/images/attractor_sky_sm.jpg&quot; alt=&quot;image&quot; /&gt;
+&lt;img src=&quot;http://localhost:4000/images/attractor_sky_sm.jpg&quot; loading=&quot;lazy&quot; alt=&quot;image&quot; /&gt;
 &lt;p&gt;&lt;/p&gt;
-&lt;img src=&quot;http://localhost:4000/images/attractor_day_small1_lg.jpg&quot; alt=&quot;image&quot; /&gt;
+&lt;img src=&quot;http://localhost:4000/images/attractor_day_small1_lg.jpg&quot; loading=&quot;lazy&quot; alt=&quot;image&quot; /&gt;
 &lt;p&gt;&lt;/p&gt;
-&lt;img src=&quot;http://localhost:4000/images/attractor_doku_small2_lg.jpg&quot; alt=&quot;image&quot; /&gt;
+&lt;img src=&quot;http://localhost:4000/images/attractor_doku_small2_lg.jpg&quot; loading=&quot;lazy&quot; alt=&quot;image&quot; /&gt;
 &lt;p&gt;&lt;/p&gt;
-&lt;img src=&quot;http://localhost:4000/images/attractor_test_small.jpg&quot; alt=&quot;image&quot; /&gt;
+&lt;img src=&quot;http://localhost:4000/images/attractor_test_small.jpg&quot; loading=&quot;lazy&quot; alt=&quot;image&quot; /&gt;
 
 
 
@@ -1370,19 +1370,19 @@ The project AM-Feld / Soviet Noise, is a cooperation with &lt;a href=&quot;www.a
 &lt;/div&gt;
 
 &lt;div class=&quot;container-narrow-left&quot;&gt;
-&lt;img src=&quot;http://localhost:4000/images/radio_stp2_lg.jpg&quot; alt=&quot;image&quot; /&gt;
+&lt;img src=&quot;http://localhost:4000/images/radio_stp2_lg.jpg&quot; alt=&quot;image&quot; loading=&quot;lazy&quot; /&gt;
 &lt;p&gt;&lt;br /&gt;Installation view: &lt;b&gt;AM-Feld / Soviet Noise&lt;/b&gt;, Alexandrinsky Theater New Stage, St. Petersburg&lt;br /&gt;&lt;/p&gt;
 &lt;p&gt;&lt;/p&gt;
-&lt;img src=&quot;http://localhost:4000/images/radio_stp3_lg.jpg&quot; alt=&quot;image&quot; /&gt;
+&lt;img src=&quot;http://localhost:4000/images/radio_stp3_lg.jpg&quot; loading=&quot;lazy&quot; alt=&quot;image&quot; /&gt;
 &lt;p&gt;&lt;/p&gt;
-&lt;img src=&quot;http://localhost:4000/images/flash_transmitter_sm.jpg&quot; alt=&quot;image&quot; /&gt;
+&lt;img src=&quot;http://localhost:4000/images/flash_transmitter_sm.jpg&quot; loading=&quot;lazy&quot; alt=&quot;image&quot; /&gt;
 &lt;p&gt;AM Transmitter 1000kHz&lt;br /&gt;&lt;/p&gt;
 &lt;p&gt;&lt;/p&gt;
 &lt;p&gt;&lt;br /&gt;Installation view: &lt;b&gt;Flash&lt;/b&gt;, Black Bridge Village, Beijing&lt;br /&gt;&lt;/p&gt;
-&lt;img src=&quot;http://localhost:4000/images/radio_blackbridge.jpg&quot; alt=&quot;image&quot; /&gt;
+&lt;img src=&quot;http://localhost:4000/images/radio_blackbridge.jpg&quot; loading=&quot;lazy&quot; alt=&quot;image&quot; /&gt;
 &lt;p&gt;&lt;/p&gt;
 &lt;video preload=&quot;metadata&quot; poster=&quot;http://localhost:4000/images/flash_poster_small.jpg&quot; width=&quot;100%&quot; height=&quot;auto&quot; controls=&quot;&quot;&gt;
-  &lt;source src=&quot;http://localhost:4000/images/flash_small.mp4&quot; type=&quot;video/mp4&quot; /&gt;
+  &lt;source src=&quot;http://localhost:4000/images/flash_small.mp4&quot; type=&quot;video/mp4&quot; loading=&quot;lazy&quot; /&gt;
 &lt;/video&gt;
 
 &lt;/div&gt;
@@ -1497,20 +1497,20 @@ in June 2015.
 
 &lt;div class=&quot;container-narrow-left&quot;&gt;
 
-&lt;img src=&quot;http://localhost:4000/images/tolm_small.jpg&quot; alt=&quot;image&quot; /&gt;
+&lt;img src=&quot;http://localhost:4000/images/tolm_small.jpg&quot; loading=&quot;lazy&quot; alt=&quot;image&quot; /&gt;
 &lt;p&gt;&lt;br /&gt;Installation view: MemphisMemphis&lt;br /&gt;&lt;/p&gt;
-&lt;img src=&quot;http://localhost:4000/images/tolm2_small.jpg&quot; alt=&quot;image&quot; /&gt;
+&lt;img src=&quot;http://localhost:4000/images/tolm2_small.jpg&quot; loading=&quot;lazy&quot; alt=&quot;image&quot; /&gt;
 &lt;font color=&quot;grey&quot;&gt;(c) Florian Voggeneder&lt;br /&gt;&lt;/font&gt;
 
 &lt;p&gt;&lt;br /&gt;Installation view: moe, Schaukasten XII&lt;br /&gt;&lt;/p&gt;
 
 &lt;video preload=&quot;metadata&quot; poster=&quot;http://localhost:4000/images/tripty1_poster_small.jpg&quot; width=&quot;100%&quot; height=&quot;auto&quot; controls=&quot;&quot;&gt;
-  &lt;source src=&quot;http://localhost:4000/images/triptychon_of_lost_media.mp4&quot; type=&quot;video/mp4&quot; /&gt;
+  &lt;source src=&quot;http://localhost:4000/images/triptychon_of_lost_media.mp4&quot; type=&quot;video/mp4&quot; loading=&quot;lazy&quot; /&gt;
 &lt;/video&gt;
 
-&lt;img src=&quot;http://localhost:4000/images/triptychon_moe4_lg.jpg&quot; alt=&quot;image&quot; /&gt;
+&lt;img src=&quot;http://localhost:4000/images/triptychon_moe4_lg.jpg&quot; loading=&quot;lazy&quot; alt=&quot;image&quot; /&gt;
 &lt;p&gt;&lt;/p&gt;
-&lt;img src=&quot;http://localhost:4000/images/triptychon_concert1_sm.jpg&quot; alt=&quot;image&quot; /&gt;
+&lt;img src=&quot;http://localhost:4000/images/triptychon_concert1_sm.jpg&quot; loading=&quot;lazy&quot; alt=&quot;image&quot; /&gt;
 
 &lt;/div&gt;
 &lt;/div&gt;
@@ -1612,11 +1612,11 @@ in cooperation with Claudia Larcher&lt;br /&gt;
 
 
 &lt;div class=&quot;container-narrow-left&quot;&gt;
-&lt;img src=&quot;http://localhost:4000/images/theuncannyjenny_small_lg.jpg&quot; alt=&quot;image&quot; /&gt;
+&lt;img src=&quot;http://localhost:4000/images/theuncannyjenny_small_lg.jpg&quot; loading=&quot;lazy&quot; alt=&quot;image&quot; /&gt;
 &lt;p&gt;&lt;/p&gt;
 
 &lt;video preload=&quot;metadata&quot; poster=&quot;http://localhost:4000/images/faux_poster.jpg&quot; width=&quot;100%&quot; height=&quot;auto&quot; controls=&quot;&quot;&gt;
-  &lt;source src=&quot;http://localhost:4000/images/fauxterrain_small.mp4&quot; type=&quot;video/mp4&quot; /&gt;
+  &lt;source src=&quot;http://localhost:4000/images/fauxterrain_small.mp4&quot; type=&quot;video/mp4&quot; loading=&quot;lazy&quot; /&gt;
 &lt;/video&gt;
 
 &lt;/div&gt;
@@ -1720,7 +1720,7 @@ The robot moves around the exhibition space, orienting itself based on the event
 
 &lt;div class=&quot;container-narrow-left&quot;&gt;
 &lt;video preload=&quot;metadata&quot; poster=&quot;http://localhost:4000/images/ottos_mops_poster_small.jpg&quot; width=&quot;100%&quot; height=&quot;auto&quot; controls=&quot;&quot;&gt;
-  &lt;source src=&quot;http://localhost:4000/images/ottosmops.mp4&quot; type=&quot;video/mp4&quot; /&gt;
+  &lt;source src=&quot;http://localhost:4000/images/ottosmops.mp4&quot; type=&quot;video/mp4&quot; loading=&quot;lazy&quot; /&gt;
 &lt;/video&gt;
 
 
@@ -1731,8 +1731,8 @@ The robot moves around the exhibition space, orienting itself based on the event
 	&lt;a href=&quot;http://www.heterotypia.net/&quot; target=&quot;_blank&quot; style=&quot;text-decoration:none; color: grey&quot;&gt;
 	&lt;i&gt;Natalie Deewan&lt;/i&gt;&lt;/a&gt;
 &lt;/p&gt;
-&lt;img src=&quot;http://localhost:4000/images/petit_conferencier_card_I_sm.jpg&quot; alt=&quot;image&quot; /&gt;
-&lt;img src=&quot;http://localhost:4000/images/petit_conferencier_card_II_sm.jpg&quot; alt=&quot;image&quot; /&gt;
+&lt;img src=&quot;http://localhost:4000/images/petit_conferencier_card_I_sm.jpg&quot; loading=&quot;lazy&quot; alt=&quot;image&quot; /&gt;
+&lt;img src=&quot;http://localhost:4000/images/petit_conferencier_card_II_sm.jpg&quot; loading=&quot;lazy&quot; alt=&quot;image&quot; /&gt;
 
 &lt;/div&gt;
 &lt;/div&gt;
@@ -1836,7 +1836,7 @@ Pachinko is played by more than 30% of the Japanese population. It is based on t
 
 &lt;div class=&quot;container-narrow-left&quot;&gt;
 &lt;video preload=&quot;metadata&quot; poster=&quot;http://localhost:4000/images/pachinko_poster_small.jpg&quot; width=&quot;100%&quot; height=&quot;auto&quot; controls=&quot;&quot;&gt;
-  &lt;source src=&quot;http://localhost:4000/images/pachinko.mp4&quot; type=&quot;video/mp4&quot; /&gt;
+  &lt;source src=&quot;http://localhost:4000/images/pachinko.mp4&quot; type=&quot;video/mp4&quot; loading=&quot;lazy&quot; /&gt;
 &lt;/video&gt;
 
 
@@ -1941,7 +1941,7 @@ A toy police car falls in free fall at the exhibition Dimensions Variable # at M
 
 &lt;div class=&quot;container-narrow-left&quot;&gt;
 &lt;video preload=&quot;metadata&quot; poster=&quot;http://localhost:4000/images/acab_poster.jpg&quot; width=&quot;100%&quot; height=&quot;auto&quot; controls=&quot;&quot;&gt;
-  &lt;source src=&quot;http://localhost:4000/images/acab_small.mp4&quot; type=&quot;video/mp4&quot; /&gt;
+  &lt;source src=&quot;http://localhost:4000/images/acab_small.mp4&quot; type=&quot;video/mp4&quot; loading=&quot;lazy&quot; /&gt;
 &lt;/video&gt;
 
 &lt;/div&gt;
@@ -1968,11 +1968,11 @@ The sounds of a cassette recorder, a simple oscillator circuit and a wooden frog
 
 &lt;p&gt;&lt;/p&gt;
 &lt;audio controls=&quot;&quot; style=&quot;width: 100%&quot; preload=&quot;none&quot;&gt;
-  &lt;source src=&quot;http://localhost:4000/images/wilhelmspunk.mp3&quot; type=&quot;audio/mpeg&quot; /&gt;
+  &lt;source src=&quot;http://localhost:4000/images/wilhelmspunk.mp3&quot; type=&quot;audio/mpeg&quot; loading=&quot;lazy&quot; /&gt;
 &lt;/audio&gt;
 
 &lt;p&gt; &lt;br /&gt;setup:&lt;br /&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&quot;http://localhost:4000/images/wpunk_setup.jpg&quot; alt=&quot;image&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;http://localhost:4000/images/wpunk_setup.jpg&quot; loading=&quot;lazy&quot; alt=&quot;image&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;/p&gt;
 &lt;h4&gt;In a room ..&lt;/h4&gt;
@@ -1986,7 +1986,7 @@ The pitch of the violin results from the vertical position of the note within th
 
 &lt;p&gt;&lt;/p&gt;
 &lt;audio controls=&quot;&quot; style=&quot;width: 100%&quot; preload=&quot;none&quot;&gt;
-  &lt;source src=&quot;http://localhost:4000/images/inaroom.mp3&quot; type=&quot;audio/mpeg&quot; /&gt;
+  &lt;source src=&quot;http://localhost:4000/images/inaroom.mp3&quot; type=&quot;audio/mpeg&quot; loading=&quot;lazy&quot; /&gt;
 &lt;/audio&gt;
 
 &lt;p&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;/p&gt;
@@ -1998,7 +1998,7 @@ for diy-zither, cymbal, contact microphone, live granular synthesis, live record
 
 &lt;p&gt;&lt;/p&gt;
 &lt;audio controls=&quot;&quot; style=&quot;width: 100%&quot; preload=&quot;none&quot;&gt;
-  &lt;source src=&quot;http://localhost:4000/images/onawire.mp3&quot; type=&quot;audio/mpeg&quot; /&gt;
+  &lt;source src=&quot;http://localhost:4000/images/onawire.mp3&quot; type=&quot;audio/mpeg&quot; loading=&quot;lazy&quot; /&gt;
 &lt;/audio&gt;
 
 </content>
@@ -2111,11 +2111,11 @@ Considerations to the themes, areas and associations, which could form some of t
 
 
 &lt;div class=&quot;container-narrow-left&quot;&gt;
-&lt;img src=&quot;http://localhost:4000/images/schaukel1.jpg&quot; alt=&quot;image&quot; /&gt;
+&lt;img src=&quot;http://localhost:4000/images/schaukel1.jpg&quot; loading=&quot;lazy&quot; alt=&quot;image&quot; /&gt;
 &lt;p&gt;&lt;/p&gt;
-&lt;img src=&quot;http://localhost:4000/images/schaukel2.jpg&quot; alt=&quot;image&quot; /&gt;
+&lt;img src=&quot;http://localhost:4000/images/schaukel2.jpg&quot; loading=&quot;lazy&quot; alt=&quot;image&quot; /&gt;
 &lt;p&gt;&lt;/p&gt;
-&lt;img src=&quot;http://localhost:4000/images/schaukel3.jpg&quot; alt=&quot;image&quot; /&gt;
+&lt;img src=&quot;http://localhost:4000/images/schaukel3.jpg&quot; loading=&quot;lazy&quot; alt=&quot;image&quot; /&gt;
 &lt;p&gt;exhibition view Semperdepot, Akademie der bildenden Künste, Wien&lt;/p&gt;
 
 &lt;/div&gt;
@@ -2226,11 +2226,11 @@ Birds in a cage.&lt;br /&gt;&lt;br /&gt;
 
 &lt;div class=&quot;container-narrow-left&quot;&gt;
 &lt;video preload=&quot;metadata&quot; poster=&quot;http://localhost:4000/images/bike_poster.jpg&quot; width=&quot;100%&quot; height=&quot;auto&quot; controls=&quot;&quot;&gt;
-  &lt;source src=&quot;http://localhost:4000/images/bike_small.mp4&quot; type=&quot;video/mp4&quot; /&gt;
+  &lt;source src=&quot;http://localhost:4000/images/bike_small.mp4&quot; type=&quot;video/mp4&quot; loading=&quot;lazy&quot; /&gt;
 &lt;/video&gt;
 
 &lt;video preload=&quot;metadata&quot; poster=&quot;http://localhost:4000/images/birds_poster.jpg&quot; width=&quot;100%&quot; height=&quot;auto&quot; controls=&quot;&quot;&gt;
-  &lt;source src=&quot;http://localhost:4000/images/birds_small.mp4&quot; type=&quot;video/mp4&quot; /&gt;
+  &lt;source src=&quot;http://localhost:4000/images/birds_small.mp4&quot; type=&quot;video/mp4&quot; loading=&quot;lazy&quot; /&gt;
 &lt;/video&gt;
 
 &lt;/div&gt;
@@ -2334,10 +2334,10 @@ The film loop shows permanently turning maple seeds, in density and speed variab
 
 
 &lt;div class=&quot;container-narrow-left&quot;&gt;
-&lt;img src=&quot;http://localhost:4000/images/ufo1_lg.jpg&quot; alt=&quot;image&quot; /&gt;
+&lt;img src=&quot;http://localhost:4000/images/ufo1_lg.jpg&quot; loading=&quot;lazy&quot; alt=&quot;image&quot; /&gt;
 &lt;p&gt;still image&lt;br /&gt;&lt;br /&gt;&lt;/p&gt;
 
-&lt;img src=&quot;http://localhost:4000/images/ufo_lg.jpg&quot; alt=&quot;image&quot; /&gt;
+&lt;img src=&quot;http://localhost:4000/images/ufo_lg.jpg&quot; loading=&quot;lazy&quot; alt=&quot;image&quot; /&gt;
 &lt;p&gt;exhibition view (Flakleitturm Arenbergpark):&lt;br /&gt;&lt;/p&gt;
 
 &lt;/div&gt;
@@ -2441,11 +2441,11 @@ Happening during the entrance examinations at the academy of fine arts Vienna. A
 
 
 &lt;div class=&quot;container-narrow-left&quot;&gt;
-&lt;img src=&quot;http://localhost:4000/images/flieger.jpg&quot; alt=&quot;image&quot; /&gt;
+&lt;img src=&quot;http://localhost:4000/images/flieger.jpg&quot; loading=&quot;lazy&quot; alt=&quot;image&quot; /&gt;
 &lt;p&gt;&lt;/p&gt;
-&lt;img src=&quot;http://localhost:4000/images/flieger1lg.jpg&quot; alt=&quot;image&quot; /&gt;
+&lt;img src=&quot;http://localhost:4000/images/flieger1lg.jpg&quot; loading=&quot;lazy&quot; alt=&quot;image&quot; /&gt;
 &lt;p&gt;&lt;/p&gt;
-&lt;img src=&quot;http://localhost:4000/images/flieger2_cl.jpg&quot; alt=&quot;image&quot; /&gt;
+&lt;img src=&quot;http://localhost:4000/images/flieger2_cl.jpg&quot; loading=&quot;lazy&quot; alt=&quot;image&quot; /&gt;
 
 &lt;/div&gt;
 &lt;/div&gt;

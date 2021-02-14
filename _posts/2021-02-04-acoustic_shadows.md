@@ -34,13 +34,13 @@ As an adaptive technological life-form, which spreads discretely but invasively,
 
 
 <div class="container-narrow-left">
-<img src="{{ site.url }}/images/acoustic_shadows1_sm.jpg" alt="image">
+<img src="{{ site.url }}/images/acoustic_shadows1_sm.jpg" loading="lazy" alt="image">
 <p></p>
-<img src="{{ site.url }}/images/acoustic_shadows2_sm.jpg" alt="image">
+<img src="{{ site.url }}/images/acoustic_shadows2_sm.jpg" loading="lazy" alt="image">
 <p></p>
-<img src="{{ site.url }}/images/acoustic_shadows3_sm.jpg" alt="image">
+<img src="{{ site.url }}/images/acoustic_shadows3_sm.jpg" loading="lazy" alt="image">
 <p></p>
-<img src="{{ site.url }}/images/acoustic_shadows_pd.png" alt="image">
+<img src="{{ site.url }}/images/acoustic_shadows_pd.png" loading="lazy" alt="image">
 <p>display, 4 channel audio output, PD-0.50-2</p>
 
 </div>
