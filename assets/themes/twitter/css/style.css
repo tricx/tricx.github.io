@@ -103,7 +103,8 @@ hr {
   order: 2;
   margin: 0 0 0 auto;
 }
-@media(max-width: 680px) {
+
+@media(max-width: 650px) {
   .container-parent {
     display: block;
     padding-right: 0.25rem;
@@ -115,6 +116,9 @@ hr {
   .container-narrow-right {
     width: 100%;
   }
+  h4 {
+  font-weight: 500 !important;
+}
 }
 
 .postnav {
@@ -210,6 +214,7 @@ html {
       /*padding: 10px 0px 10px 12px;*/
       font: 107%/70% "FTBoyleMedium", sans-serif;
       padding: 10px 10px 10px 0px !important;
+      font-weight: 800 !important;
   }
 }
 
@@ -219,7 +224,6 @@ html {
       /*padding: 10px 0px 10px 12px;*/
       font: 90%/50% "FTBoyleMedium", sans-serif;
       padding: 10px 2px 10px 0px !important;
-      /*font-weight:lighter !important;*/
   }
 }
 
