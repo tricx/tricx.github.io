@@ -15,8 +15,8 @@ author :
   name : Paul Gruendorfer
   email : paul@lefant.net
   github : http://github.com/tricx/
-  twitter : username
-  feedburner : feedname
+  #twitter : username
+  #feedburner : feedname
 
 # The production_url is only used when full-domain names are needed
 # such as sitemap.txt 
@@ -125,10 +125,10 @@ JB :
   # pages in navbar ( no subcategories)
   navi_pages:
      - "Interventions-Works-Projects"
-  #   - "Archive"
      - "Live-Actions-Performance"
      - "index"
- #    - "events"
+    #- "events"
+    #- "Archive"
  
   # pages get mapped with tag to title (e.g actions, interventions)  
     
@@ -150,6 +150,7 @@ JB :
     - "Arcardian Gate"
     - "Pigeons"
     - "Centre and Periphery"
+    - "La pica del Gaviota"
     - "AM Land"
     - "Attractor"
     - "Flash"
@@ -158,9 +159,9 @@ JB :
     - "Ottos Mops"
     - "Pachinko"
     - "A Car from ABove"
-    - "Platte X"
     - "Zweistimmige Inventionen"
     - "Bicycle and Birds"
+    - "Undefined Falling Objects"
     - "Flieger"
 
     

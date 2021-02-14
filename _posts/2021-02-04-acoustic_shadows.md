@@ -20,7 +20,8 @@ JB :
 
 <p>
 autonomous complex adaptive system, 2020/21<br />
-4 cardoid microphone, 4 horn speakers PA Comp 34S , 4 channel class D preamp  100W, PD-0.50-2<br />
+4 cardoid microphone, 4 horn speakers PA Comp 34S, 4 channel class D preamp  100W<br />
+PD-0.50-2<br />
 2 modular structures, tripods<br />
 dimensions variable<br />
 in cooperation with Dario Sanfilippo<br /><br />

@@ -8,7 +8,8 @@
 
     <!-- Enable responsive viewport -->
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <meta content="de" name="language">
+    <meta name="keywords" content="intervention, action, performance, sound art, sculpture, installation">
+    <meta content="en" name="language">
     <meta content="Paul Gruendorfer" name="description">
     <meta content="tricx" name="keywords">
     <meta content="index, follow" name="robots">
@@ -21,8 +22,7 @@
     <!--[if lt IE 9]>
       <script src="http://html5shim.googlecode.com/svn/trunk/html5.js"></script>
     <![endif]-->
-
-    
+ 
     <!-- styles -->
     <!-- <link href="{{ ASSET_PATH }}/twitter/bootstrap/css/bootstrap2.3.2.css" rel="stylesheet">
     <link href="{{ ASSET_PATH }}/twitter/css/style.css?body=1" rel="stylesheet" type="text/css" media="all"> -->
@@ -84,8 +84,6 @@
 
 
 
-
-
 <!-- show sidebar with worktitles!!  -->
 <!-- assign 'show_worktitle_sidebar:' in posts or pages-layout-defs(e.g.title:sound) to show worktitles in sidebar -->
 {% if page.show_worktitle_sidebar == true %}
@@ -105,14 +103,11 @@
     {% assign compare_worktitle = {{worktitle | downcase | replace: ' ', '_' }} %}
       {% assign pt = post.title | downcase %}
        {% if compare_worktitle == pt %}
-            <!-- <div class='newLink'> -->
               <!-- <li class="nav-list-item active" class={{ link.title == post.title }}> -->
               <li class="nav-list-item active">
               <!-- add div style here? -->
-
               <a class ="linkNew" href="{{ BASE_PATH }}{{ post.url }}">{{ worktitle }}&nbsp;&nbsp;&nbsp;</a>
             <!-- <br /> -->
-            <!-- </div> -->
       {% endif %}    
   {% endfor %}
 {% endfor %}
@@ -131,10 +126,11 @@
 
 <!-- content######### -->
     <div class="container-narrow">
-
                   <!-- <div class="content"> -->
                           {{ content }}
                    <!-- </div> -->
+
+
 {% comment %}
 <!-- bottom section -->
 <div class="container-narrow"><div class="indent-text">
@@ -151,10 +147,7 @@
 {% endcomment %}   
 
     </div>
-
     {% include JB/analytics %}
 
   </body>
 </html>
-
-

@@ -20,12 +20,12 @@ JB :
 
 <p>
 Site Specific Installation, 2018<br />
-vlf antenna, audio modulated laser, solar-cell detector, loudspeaker<br />
+vlf antenna, audio modulated laser, solar-cell amplifier, loudspeaker<br />
 Tuned City, organised by Carsten Stabenow<br />
 Ancient Messene, Mavromati, Greece<br />
 
 <br />
-Natural radio frequencies, that are caused by meteorological phenomena, are transmitted by a laser through the Arcadian Gate of Ancient Messene and received on the other side of the walls by a detector. The detected sound is diffused by a loudspeaker and resonating through the gate.<br /><br />
+Natural radio frequencies, that are caused by meteorological phenomena, are transmitted by a laser through the Arcadian Gate of Ancient Messene and received on the other side of the walls by a solar cell amplifier. The detected sound is diffused by a loudspeaker and resonating through the gate.<br /><br />
 
 The western Gate of Ancient Messene, called Arcadian Gate, is preserved in relatively good condition and since the time of the early travelers it has become the symbol of the city depicted repeatedly on engravings.
 The Arcadian Gate is a monumental construction built of gigantic awe inspiring limestone blocks. Its shape is circular with two entrances, a double one in the interior and an external one, the latter being protected on either side by two square-shaped towers. The circular area inside the Gate has two niches, one on each side of the entrance where a Hermaic stele stood. God Hermes appears under his capacity as Propylaios, that is, the protector of Gates. Above the north niche one can read the following inscription: Κoιντος Πλώτιος Ευφημίων επεσκεύασεν Cointus Plotius Euphemion restored (the Gate).<br />
@@ -51,7 +51,8 @@ http://wikimapia.org/4832019/Arcadian-Gate</a>
 <img src="{{ site.url }}/images/arcadian_gate_night_sm_lg.jpg" alt="image">
 <p></p>
 <img src="{{ site.url }}/images/arcadian_gate2a_lg.jpg" alt="image">
-
+<p></p>
+<img src="{{ site.url }}/images/arcardian_gate_amplifier_solar-cell2_sm.jpg" alt="image">
 
 </div>
 </div>

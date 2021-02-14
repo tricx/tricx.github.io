@@ -21,7 +21,7 @@ JB :
 
 
 <p>
-Sound - Installation / 2015/16<br />
+Sound - Installation, 2015/16<br />
 metal plates, contact microphones, transducers generate feedback.<br />
 in cooperation with <a href="http://www.kunst-und-raederwerk.de/" target="_blank" style="text-decoration:none; color: grey"><i>Christoph Freidhöfer</i></a> <br /><br />
 
@@ -41,17 +41,19 @@ in June 2015.
 <div class="container-narrow-left">
 
 <img src="{{ site.url }}/images/tolm_small.jpg" alt="image">
-<p> <br />Installation View: MemphisMemphis<br /></p>
+<p><br />Installation view: MemphisMemphis<br /></p>
 <img src="{{ site.url }}/images/tolm2_small.jpg" alt="image">
 <font color="grey">(c) Florian Voggeneder<br /></font>
 
-<p> <br />Installation View: moe, Schaukasten XII<br /></p>
+<p><br />Installation view: moe, Schaukasten XII<br /></p>
 
 <video preload="metadata" poster="{{ site.url }}/images/tripty1_poster_small.jpg" width="100%" height="auto" controls>
   <source src="{{ site.url }}/images/triptychon_of_lost_media.mp4" type="video/mp4">
 </video>
 
 <img src="{{ site.url }}/images/triptychon_moe4_lg.jpg" alt="image">
+<p></p>
+<img src="{{ site.url }}/images/triptychon_concert1_sm.jpg" alt="image">
 
 </div>
 </div>

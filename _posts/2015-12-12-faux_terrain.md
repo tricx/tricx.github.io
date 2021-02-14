@@ -19,8 +19,7 @@ JB :
 {% endfor %}
 
 <p>
-2015/16<br />
-microscope camera, lichens / organic material, real-time audio software / Supercollider, projektor, soundsystem<br />
+microscope camera, lichens / organic material, real-time audio software / Supercollider, projektor, soundsystem, 2015/16<br />
 in cooperation with Claudia Larcher<br />
 <br />
 - investigation and interaction with audio-visual material. Fragments of organisms such as lichens or tree bines and geological samples of a collection compiled by Claudia Larcher in the border region between Europe and Russia, on the Lithuanian peninsula Neringa, are categorized according to an abstract cartography. The material is re-arranged with the help of microscopes, contact microphones, coils, camera airbrakes, thus surveying the boundaries of scientific, geographical or geological aspects in a different context.<br /><br />

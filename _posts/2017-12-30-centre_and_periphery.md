@@ -20,7 +20,7 @@ JB :
 {% endfor %}
 
 <p>
-Site Specific Investigations / 2017<br />
+Site Specific Investigations, 2017<br />
 kite, cables, transistor amplifier for vlf-signals, recorder<br />
 Magellan Region: 
 
@@ -79,11 +79,15 @@ The project Centre and Periphery picked up this field of tension in order to dea
 
 <img src="{{ site.url }}/images/drachen_map_lg.jpg" alt="image">
 <p></p>
+<img src="{{ site.url }}/images/drachen_close_sm.jpg" alt="image">
+<p></p>
 <img src="{{ site.url }}/images/drachen_recorder_small_lg.jpg" alt="image">
 <p></p>
 <img src="{{ site.url }}/images/drachen_cape_horn2_small.jpg" alt="image">
 <p></p>
 <img src="{{ site.url }}/images/drachen_barco_small.jpg" alt="image">
+<p></p>
+<img src="{{ site.url }}/images/drachen_guanaco_sm.jpg" alt="image">
 
 
 </div>

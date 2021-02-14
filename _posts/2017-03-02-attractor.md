@@ -19,7 +19,7 @@ JB :
 {% endfor %}
 
 <p>
-Site Specific  - Light Installation / 2017<br />
+Site Specific  - Light Installation, 2017<br />
 fluorescent tubes, cables, metal/wood structure, electric current<br />
 Feijiacun, Beijing[CN]<br />
 
@@ -37,16 +37,19 @@ As a site specific intervention the Attractor is built in a public space, connec
 <video preload="metadata" poster="{{ site.url }}/images/attractor_poster.jpg" width="100%" height="auto" controls>
   <source src="{{ site.url }}/images/attractor_small.mp4" type="video/mp4">
 </video>
-<p> <br />Installation view Feijiacun, public space<br /></p>
+<p><br />Installation view Feijiacun, public space<br /></p>
 
 
 <img src="{{ site.url }}/images/attractor_close_small_lg.jpg" alt="image">
+<p></p>
+<img src="{{ site.url }}/images/attractor_alien_sm.jpg" alt="image">
 <p></p>
 <img src="{{ site.url }}/images/attractor_doku_small2_lg.jpg" alt="image">
 <p></p>
 <img src="{{ site.url }}/images/attractor_test_small.jpg" alt="image">
 <p></p>
 <img src="{{ site.url }}/images/attractor_day_small1_lg.jpg" alt="image">
+
 
 </div>
 </div>
