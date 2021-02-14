@@ -118,7 +118,10 @@ hr {
   }
   h4 {
   font-weight: 500 !important;
-}
+  }
+  .navbar-inner {
+    min-height: 35px !important;
+  }
 }
 
 .postnav {
