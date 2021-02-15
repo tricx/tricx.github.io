@@ -5,8 +5,8 @@
         <description>Tricx - Paul Gruendorfer</description>
         <link>http://tricx.github.io</link>
         <link>http://tricx.github.io</link>
-        <lastBuildDate>2021-02-15T23:31:31+01:00</lastBuildDate>
-        <pubDate>2021-02-15T23:31:31+01:00</pubDate>
+        <lastBuildDate>2021-02-16T00:20:49+01:00</lastBuildDate>
+        <pubDate>2021-02-16T00:20:49+01:00</pubDate>
         <ttl>1800</ttl>
 
 
@@ -105,7 +105,7 @@ in development
 &lt;div class=&quot;container-narrow-left&quot;&gt;
 &lt;img src=&quot;http://localhost:4000/images/the_sea1_sm.jpg&quot; loading=&quot;eager&quot; alt=&quot;image&quot; /&gt;
 &lt;p&gt;&lt;/p&gt;
-&lt;img src=&quot;http://localhost:4000/images/the_sea_graph.png&quot; loading=&quot;eager&quot; alt=&quot;image&quot; /&gt;
+&lt;img src=&quot;http://localhost:4000/images/the_sea_graph.jpg&quot; loading=&quot;eager&quot; alt=&quot;image&quot; /&gt;
 &lt;p&gt;graph for motor control, Leo Peschta&lt;/p&gt;
 &lt;br /&gt;
 &lt;p&gt;&lt;/p&gt;
@@ -459,9 +459,9 @@ Reflections and Refractions of a laser that scans plastic bottles are translated
 
 &lt;img src=&quot;http://localhost:4000/images/mononoke3_small.jpg&quot; loading=&quot;eager&quot; alt=&quot;image&quot; /&gt;
 &lt;p&gt;&lt;/p&gt;
-&lt;img src=&quot;http://localhost:4000/images/mononoke1.jpg&quot; loading=&quot;eager&quot; alt=&quot;image&quot; /&gt;
+&lt;img src=&quot;http://localhost:4000/images/mononoke1_sm.jpg&quot; loading=&quot;eager&quot; alt=&quot;image&quot; /&gt;
 &lt;p&gt;&lt;/p&gt;
-&lt;img src=&quot;http://localhost:4000/images/mononoke2.jpg&quot; loading=&quot;eager&quot; alt=&quot;image&quot; /&gt;
+&lt;img src=&quot;http://localhost:4000/images/mononoke2_sm.jpg&quot; loading=&quot;eager&quot; alt=&quot;image&quot; /&gt;
 &lt;p&gt;&lt;/p&gt;
 &lt;img src=&quot;http://localhost:4000/images/mononoke3b_small.jpg&quot; loading=&quot;eager&quot; alt=&quot;image&quot; /&gt;
 &lt;p&gt;&lt;/p&gt;
