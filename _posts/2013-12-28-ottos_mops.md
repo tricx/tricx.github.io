@@ -28,7 +28,7 @@ The robot moves around the exhibition space, orienting itself based on the event
 
 
 <div class="container-narrow-left">
-<video preload="metadata" poster="{{ site.url }}/images/ottos_mops_poster_small.jpg" width="100%" height="auto" controls>
+<video controls preload="none" poster="{{ site.url }}/images/ottos_mops_poster_small.jpg" width="100%" height="auto">
   <source src="{{ site.url }}/images/ottosmops.mp4" type="video/mp4" loading="lazy">
 </video>
 

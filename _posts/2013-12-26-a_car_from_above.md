@@ -28,7 +28,7 @@ A toy police car falls in free fall at the exhibition Dimensions Variable # at M
 
 
 <div class="container-narrow-left">
-<video preload="metadata" poster="{{ site.url }}/images/acab_poster.jpg" width="100%" height="auto" controls>
+<video controls preload="none" poster="{{ site.url }}/images/acab_poster.jpg" width="100%" height="auto">
   <source src="{{ site.url }}/images/acab_small.mp4" type="video/mp4" loading="lazy">
 </video>
 

@@ -31,7 +31,7 @@ in cooperation with Claudia Larcher<br />
 <img src="{{ site.url }}/images/theuncannyjenny_small_lg.jpg" loading="lazy" alt="image">
 <p></p>
 
-<video preload="metadata" poster="{{ site.url }}/images/faux_poster.jpg" width="100%" height="auto" controls>
+<video controls preload="none" poster="{{ site.url }}/images/faux_poster.jpg" width="100%" height="auto">
   <source src="{{ site.url }}/images/fauxterrain_small.mp4" type="video/mp4" loading="lazy">
 </video>
 

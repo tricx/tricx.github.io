@@ -36,11 +36,11 @@ Birds in a cage.<br /><br />
 
 
 <div class="container-narrow-left">
-<video preload="metadata" poster="{{ site.url }}/images/bike_poster.jpg" width="100%" height="auto" controls>
+<video controls preload="none" poster="{{ site.url }}/images/bike_poster.jpg" width="100%" height="auto">
   <source src="{{ site.url }}/images/bike_small.mp4" type="video/mp4" loading="lazy">
 </video>
 
-<video preload="metadata" poster="{{ site.url }}/images/birds_poster.jpg" width="100%" height="auto" controls>
+<video controls preload="none" poster="{{ site.url }}/images/birds_poster.jpg" width="100%" height="auto">
   <source src="{{ site.url }}/images/birds_small.mp4" type="video/mp4" loading="lazy">
 </video>
 

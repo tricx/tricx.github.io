@@ -44,11 +44,11 @@ http://wikimapia.org/4832019/Arcadian-Gate</a>
 
 
 <div class="container-narrow-left">
-<img src="{{ site.url }}/images/arcadian_gate_detector_sm_lg.jpg" loading="lazy" alt="image">
+<img src="{{ site.url }}/images/arcadian_gate_detector_sm_lg.jpg" loading="eager" alt="image">
 <p></p>
-<img src="{{ site.url }}/images/arcadian_gate_laser_sm_lg.jpg" loading="lazy" alt="image">
+<img src="{{ site.url }}/images/arcadian_gate_laser_sm_lg.jpg" loading="eager" alt="image">
 <p></p>
-<img src="{{ site.url }}/images/arcadian_gate_night_sm_lg.jpg" loading="lazy" alt="image">
+<img src="{{ site.url }}/images/arcadian_gate_night_sm_lg.jpg" loading="eager" alt="image">
 <p></p>
 <img src="{{ site.url }}/images/arcadian_gate2a_lg.jpg" loading="lazy" alt="image">
 <p></p>
