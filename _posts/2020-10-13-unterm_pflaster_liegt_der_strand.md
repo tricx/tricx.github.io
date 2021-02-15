@@ -27,7 +27,7 @@ cobblestone, K&K Emblem, sand, adhesive foil, text<br />
 With minimal resources, the display is staged as a museum view and placed in the context of activist action.
 The text is translated to latin, so it resembles often used honorable mentions on arcades and city monuments.
 </p>
-</div>
+</div
 
 
 <div class="container-narrow-left">
