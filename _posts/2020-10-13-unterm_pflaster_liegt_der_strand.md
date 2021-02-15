@@ -31,7 +31,7 @@ The text is translated to latin, so it resembles often used honorable mentions o
 
 
 <div class="container-narrow-left">
-<img src="{{ site.url }}/images/pflaster_display_sm_cl.jpg" loading="eager" alt="image">
+<img src="{{ site.url }}/images/pflaster_display_sm_cl2.jpg" loading="eager" alt="image">
 <p></p>
 
 {% comment %}
@@ -39,9 +39,9 @@ The text is translated to latin, so it resembles often used honorable mentions o
 <p></p>
 {% endcomment %}
 
-<img src="{{ site.url }}/images/pflaster_display_people_sm_cl.jpg" loading="eager" alt="image">
+<img src="{{ site.url }}/images/pflaster_display_people_sm_cl2.jpg" loading="eager" alt="image">
 <p></p>
-<img src="{{ site.url }}/images/pflaster_display_wide_sm_cl.jpg" loading="eager" alt="image">
+<img src="{{ site.url }}/images/pflaster_display_wide_sm_cl2.jpg" loading="eager" alt="image">
 
 </div>
 </div>

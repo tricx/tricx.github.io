@@ -4,7 +4,7 @@
  <title>Tricx</title>
  <link href="http://tricx.github.io/" rel="self"/>
  <link href="http://tricx.github.io"/>
- <updated>2021-02-16T00:20:49+01:00</updated>
+ <updated>2021-02-16T00:27:11+01:00</updated>
  <id>http://tricx.github.io</id>
  <author>
    <name>Paul Gruendorfer</name>
@@ -334,14 +334,14 @@ The text is translated to latin, so it resembles often used honorable mentions o
 
 
 &lt;div class=&quot;container-narrow-left&quot;&gt;
-&lt;img src=&quot;http://localhost:4000/images/pflaster_display_sm_cl.jpg&quot; loading=&quot;eager&quot; alt=&quot;image&quot; /&gt;
+&lt;img src=&quot;http://localhost:4000/images/pflaster_display_sm_cl2.jpg&quot; loading=&quot;eager&quot; alt=&quot;image&quot; /&gt;
 &lt;p&gt;&lt;/p&gt;
 
 
 
-&lt;img src=&quot;http://localhost:4000/images/pflaster_display_people_sm_cl.jpg&quot; loading=&quot;eager&quot; alt=&quot;image&quot; /&gt;
+&lt;img src=&quot;http://localhost:4000/images/pflaster_display_people_sm_cl2.jpg&quot; loading=&quot;eager&quot; alt=&quot;image&quot; /&gt;
 &lt;p&gt;&lt;/p&gt;
-&lt;img src=&quot;http://localhost:4000/images/pflaster_display_wide_sm_cl.jpg&quot; loading=&quot;eager&quot; alt=&quot;image&quot; /&gt;
+&lt;img src=&quot;http://localhost:4000/images/pflaster_display_wide_sm_cl2.jpg&quot; loading=&quot;eager&quot; alt=&quot;image&quot; /&gt;
 
 &lt;/div&gt;
 &lt;/div&gt;
