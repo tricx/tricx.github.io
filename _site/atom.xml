@@ -4,7 +4,7 @@
  <title>Tricx</title>
  <link href="http://tricx.github.io/" rel="self"/>
  <link href="http://tricx.github.io"/>
- <updated>2021-02-15T16:19:29+01:00</updated>
+ <updated>2021-02-15T21:08:23+01:00</updated>
  <id>http://tricx.github.io</id>
  <author>
    <name>Paul Gruendorfer</name>
@@ -108,13 +108,13 @@ in development
 
 
 &lt;div class=&quot;container-narrow-left&quot;&gt;
-&lt;img src=&quot;http://localhost:4000/images/the_sea1_sm.jpg&quot; loading=&quot;lazy&quot; alt=&quot;image&quot; /&gt;
+&lt;img src=&quot;http://localhost:4000/images/the_sea1_sm.jpg&quot; loading=&quot;eager&quot; alt=&quot;image&quot; /&gt;
 &lt;p&gt;&lt;/p&gt;
-&lt;img src=&quot;http://localhost:4000/images/the_sea_graph.png&quot; loading=&quot;lazy&quot; alt=&quot;image&quot; /&gt;
+&lt;img src=&quot;http://localhost:4000/images/the_sea_graph.png&quot; loading=&quot;eager&quot; alt=&quot;image&quot; /&gt;
 &lt;p&gt;graph for motor control, Leo Peschta&lt;/p&gt;
 &lt;br /&gt;
 &lt;p&gt;&lt;/p&gt;
-&lt;img src=&quot;http://localhost:4000/images/the_sea_pd.jpg&quot; loading=&quot;lazy&quot; alt=&quot;image&quot; /&gt;
+&lt;img src=&quot;http://localhost:4000/images/the_sea_pd.jpg&quot; loading=&quot;eager&quot; alt=&quot;image&quot; /&gt;
 &lt;p&gt;screenshot PD-0.50-2, Paul Gründorfer&lt;/p&gt;
 
 &lt;/div&gt;
@@ -223,13 +223,13 @@ As an adaptive technological life-form, which spreads discretely but invasively,
 
 
 &lt;div class=&quot;container-narrow-left&quot;&gt;
-&lt;img src=&quot;http://localhost:4000/images/acoustic_shadows1_sm.jpg&quot; loading=&quot;lazy&quot; alt=&quot;image&quot; /&gt;
+&lt;img src=&quot;http://localhost:4000/images/acoustic_shadows1_sm.jpg&quot; loading=&quot;eager&quot; alt=&quot;image&quot; /&gt;
 &lt;p&gt;&lt;/p&gt;
-&lt;img src=&quot;http://localhost:4000/images/acoustic_shadows2_sm.jpg&quot; loading=&quot;lazy&quot; alt=&quot;image&quot; /&gt;
+&lt;img src=&quot;http://localhost:4000/images/acoustic_shadows2_sm.jpg&quot; loading=&quot;eager&quot; alt=&quot;image&quot; /&gt;
 &lt;p&gt;&lt;/p&gt;
-&lt;img src=&quot;http://localhost:4000/images/acoustic_shadows3_sm.jpg&quot; loading=&quot;lazy&quot; alt=&quot;image&quot; /&gt;
+&lt;img src=&quot;http://localhost:4000/images/acoustic_shadows3_sm.jpg&quot; loading=&quot;eager&quot; alt=&quot;image&quot; /&gt;
 &lt;p&gt;&lt;/p&gt;
-&lt;img src=&quot;http://localhost:4000/images/acoustic_shadows_pd.png&quot; loading=&quot;lazy&quot; alt=&quot;image&quot; /&gt;
+&lt;img src=&quot;http://localhost:4000/images/acoustic_shadows_pd.png&quot; loading=&quot;eager&quot; alt=&quot;image&quot; /&gt;
 &lt;p&gt;display, 4 channel audio output, PD-0.50-2&lt;/p&gt;
 
 &lt;/div&gt;
@@ -330,25 +330,22 @@ cobblestone, K&amp;amp;K Emblem, sand, adhesive foil, text&lt;br /&gt;
 With minimal resources, the display is staged as a museum view and placed in the context of activist action.
 The text is translated to latin, so it resembles often used honorable mentions on arcades and city monuments.
 &lt;/p&gt;
-&amp;lt;/div
+&lt;/div&gt;
 
 
 &lt;div class=&quot;container-narrow-left&quot;&gt;
-&lt;img src=&quot;http://localhost:4000/images/pflaster_display_sm_cl.jpg&quot; loading=&quot;lazy&quot; alt=&quot;image&quot; /&gt;
+&lt;img src=&quot;http://localhost:4000/images/pflaster_display_sm_cl.jpg&quot; loading=&quot;eager&quot; alt=&quot;image&quot; /&gt;
 &lt;p&gt;&lt;/p&gt;
 
 
 
-&lt;img src=&quot;http://localhost:4000/images/pflaster_display_people_sm_cl.jpg&quot; loading=&quot;lazy&quot; alt=&quot;image&quot; /&gt;
+&lt;img src=&quot;http://localhost:4000/images/pflaster_display_people_sm_cl.jpg&quot; loading=&quot;eager&quot; alt=&quot;image&quot; /&gt;
 &lt;p&gt;&lt;/p&gt;
-&lt;img src=&quot;http://localhost:4000/images/pflaster_display_wide_sm_cl.jpg&quot; loading=&quot;lazy&quot; alt=&quot;image&quot; /&gt;
+&lt;img src=&quot;http://localhost:4000/images/pflaster_display_wide_sm_cl.jpg&quot; loading=&quot;eager&quot; alt=&quot;image&quot; /&gt;
 
 &lt;/div&gt;
 &lt;/div&gt;
 
-
-
-&lt;/div&gt;
 </content>
  </entry>
  
@@ -451,25 +448,25 @@ Reflections and Refractions of a laser that scans plastic bottles are translated
 
 
 &lt;div class=&quot;container-narrow-left&quot;&gt;
-&lt;video preload=&quot;metadata&quot; poster=&quot;http://localhost:4000/images/mononoke_sm1.jpg&quot; width=&quot;100%&quot; height=&quot;auto&quot; controls=&quot;&quot;&gt;
+&lt;video controls=&quot;&quot; preload=&quot;none&quot; poster=&quot;http://localhost:4000/images/mononoke_sm1.jpg&quot; width=&quot;100%&quot; height=&quot;auto&quot;&gt;
   &lt;source src=&quot;http://localhost:4000/images/mononoke_sm1.mp4&quot; type=&quot;video/mp4&quot; loading=&quot;lazy&quot; /&gt;
 &lt;/video&gt;
 
-&lt;img src=&quot;http://localhost:4000/images/mononoke_bot1_lg.jpg&quot; loading=&quot;lazy&quot; alt=&quot;image&quot; /&gt;
+&lt;img src=&quot;http://localhost:4000/images/mononoke_bot1_lg.jpg&quot; loading=&quot;eager&quot; alt=&quot;image&quot; /&gt;
 &lt;p&gt;&lt;/p&gt;
 &lt;p&gt;&lt;/p&gt;
-&lt;img src=&quot;http://localhost:4000/images/mononoke_bot2_lg.jpg&quot; loading=&quot;lazy&quot; alt=&quot;image&quot; /&gt;
+&lt;img src=&quot;http://localhost:4000/images/mononoke_bot2_lg.jpg&quot; loading=&quot;eager&quot; alt=&quot;image&quot; /&gt;
 &lt;p&gt;&lt;/p&gt;
 
 
 
 
 
-&lt;img src=&quot;http://localhost:4000/images/mononoke3_small.jpg&quot; loading=&quot;lazy&quot; alt=&quot;image&quot; /&gt;
+&lt;img src=&quot;http://localhost:4000/images/mononoke3_small.jpg&quot; loading=&quot;eager&quot; alt=&quot;image&quot; /&gt;
 &lt;p&gt;&lt;/p&gt;
-&lt;img src=&quot;http://localhost:4000/images/mononoke1.jpg&quot; loading=&quot;lazy&quot; alt=&quot;image&quot; /&gt;
+&lt;img src=&quot;http://localhost:4000/images/mononoke1.jpg&quot; loading=&quot;eager&quot; alt=&quot;image&quot; /&gt;
 &lt;p&gt;&lt;/p&gt;
-&lt;img src=&quot;http://localhost:4000/images/mononoke2.jpg&quot; loading=&quot;lazy&quot; alt=&quot;image&quot; /&gt;
+&lt;img src=&quot;http://localhost:4000/images/mononoke2.jpg&quot; loading=&quot;eager&quot; alt=&quot;image&quot; /&gt;
 &lt;p&gt;&lt;/p&gt;
 &lt;img src=&quot;http://localhost:4000/images/mononoke3b_small.jpg&quot; loading=&quot;lazy&quot; alt=&quot;image&quot; /&gt;
 &lt;p&gt;&lt;/p&gt;
@@ -2462,8 +2459,8 @@ Happening during the entrance examinations at the academy of fine arts Vienna. A
    <updated>2013-02-05T00:00:00+01:00</updated>
    <id>http://tricx.github.io/2013/02/05/sound</id>
    <content type="html">
-&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
-&lt;h5&gt;live / actions / performance&lt;/h5&gt;
+&lt;p&gt;&lt;br /&gt;
+&lt;!-- &lt;h5&gt;live / actions / performance&lt;/h5&gt; --&gt;&lt;/p&gt;
 
 &lt;p&gt;live at KGRN, Toyko[JP], jun 2019&lt;br /&gt;&lt;/p&gt;
 &lt;iframe width=&quot;100%&quot; height=&quot;580&quot; src=&quot;https://www.youtube.com/embed/zNmU3-4Da4w?start=213&amp;amp;autoplay=0&amp;amp;showinfo=0&amp;amp;rel=0&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;

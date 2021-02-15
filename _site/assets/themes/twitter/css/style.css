@@ -35,6 +35,7 @@ hr {
   height:1px !important;
 }
 
+
 /*change spacing to hr*/
 /*.container-narrow > hr {
   margin: 18px 0; }*/
@@ -93,13 +94,13 @@ hr {
 }
 
 .container-narrow-left {
-  width: 65%;
+  width: 66.6%;
   order: 1;
   /*margin: 0 auto;*/
 }
 
 .container-narrow-right {
-  width: 33%;
+  width: 32.2%;
   order: 2;
   margin: 0 0 0 auto;
 }
@@ -123,8 +124,9 @@ hr {
 
 .postnav {
   position: fixed;
-  top: 35px;
+  top: 3px;
   left: 0;
+  z-index: 2000;
 }
 
  @media (max-width: 1120px) {
@@ -171,6 +173,9 @@ html {
 .navbar-inner
 {
     background-color: white;
+    /*width: 97.5%;*/
+    width: 100%;
+    /*width: 66.6%;*/
 
     /* remove the gradient */
     background-image: none;
@@ -185,12 +190,19 @@ html {
 }   
 /*change navbar items to the left */
 .navbar .nav {
-  float: left;
+  /*float: left;*/
+  width: 100%;
+  display: flex;
+  justify-content: center
 }
 
 /*remove shadow!!!!!!!!!!!*/
 .navbar-fixed-top .navbar-inner, .navbar-static-top .navbar-inner {
     box-shadow: none;
+}
+
+.navbar .nav > li {
+  flex: 1;
 }
 
 /*remove shadow of text!!!!!!!!!!*/
@@ -201,7 +213,7 @@ html {
     color: black !important;
     float: none;
     /*change padding to adjust, coordinate with navbar height!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!*/
-    padding: 15px 100px 10px 12px;
+    padding: 15px 0px 10px 18px;
     text-decoration: none;
     /*text-decoration: line-through;*/
     text-shadow: none;
@@ -212,9 +224,10 @@ html {
 @media(max-width: 650px) {
   .navbar .nav > li > a {
       /*padding: 10px 0px 10px 12px;*/
-      font: 107%/70% "FTBoyleMedium", sans-serif;
-      padding: 15px 10px 15px 0px !important;
+      font: 110%/70% "FTBoyleMedium", sans-serif;
+      padding: 10px 0px 10px 0px !important;
       font-weight: 800 !important;
+      line-height: 1em;
   }
   .navbar-inner {
     min-height: 55px !important;
@@ -225,11 +238,12 @@ html {
 @media(max-width: 480px) {
   .navbar .nav > li > a {
       /*padding: 10px 0px 10px 12px;*/
-      font: 90%/50% "FTBoyleMedium", sans-serif;
-      padding: 15px 2px 15px 0px !important;
+      font: 100%/50% "FTBoyleMedium", sans-serif;
+      padding: 10px 2px 10px 0px !important;
+      line-height: 1.1em;
   }
   .navbar-inner {
-    min-height: 43px !important;
+    min-height: 55px !important;
   }
 }
 
@@ -383,7 +397,7 @@ a:focus {
   display: flex;
   transform-origin: bottom left;
   transform: rotateZ(90deg);
-  padding-left: 20px;
+  padding-left: 0px;
 }
 
 .nav-list-item {
@@ -542,6 +556,8 @@ h5 {
     box-shadow: none;
     font-size: 105%;
 }
+
+
 .pagination ul > li > a:hover,
 .pagination ul > li > a:focus,
 .pagination ul > .active > a,

@@ -27,21 +27,21 @@ cobblestone, K&K Emblem, sand, adhesive foil, text<br />
 With minimal resources, the display is staged as a museum view and placed in the context of activist action.
 The text is translated to latin, so it resembles often used honorable mentions on arcades and city monuments.
 </p>
-</div
+</div>
 
 
 <div class="container-narrow-left">
-<img src="{{ site.url }}/images/pflaster_display_sm_cl.jpg" loading="lazy" alt="image">
+<img src="{{ site.url }}/images/pflaster_display_sm_cl.jpg" loading="eager" alt="image">
 <p></p>
 
 {% comment %}
-<img src="{{ site.url }}/images/pflaster_brick_sm.jpg" loading="lazy" alt="image">
+<img src="{{ site.url }}/images/pflaster_brick_sm.jpg" loading="eager" alt="image">
 <p></p>
 {% endcomment %}
 
-<img src="{{ site.url }}/images/pflaster_display_people_sm_cl.jpg" loading="lazy" alt="image">
+<img src="{{ site.url }}/images/pflaster_display_people_sm_cl.jpg" loading="eager" alt="image">
 <p></p>
-<img src="{{ site.url }}/images/pflaster_display_wide_sm_cl.jpg" loading="lazy" alt="image">
+<img src="{{ site.url }}/images/pflaster_display_wide_sm_cl.jpg" loading="eager" alt="image">
 
 </div>
 </div>
