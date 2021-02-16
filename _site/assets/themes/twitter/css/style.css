@@ -310,9 +310,8 @@ html {
 
 /*ids of the navigation items, forloop.index in pages_list_pages_html*/
 #navi_pages1 > a {
-    /*background: lightgreen;*/
-    /*background: #eeedea;*/
     background: #fcfaf7;
+    /*background: #eeeeee;*/
     color: #012169 !important;
 }
 #navi_pages1 > a:focus,
@@ -322,12 +321,8 @@ html {
 }
 
 #navi_pages2 > a {
-    /*background: lightgrey;*/
     background: #505050;
-    /*background: #505050;*/
-    /*background: black;*/
     color: #012169;
-    /*color: red !important;*/
 }
 #navi_pages2 > a:focus,
 #navi_pages2 > a:hover {
@@ -336,18 +331,24 @@ html {
 }
 
 #navi_pages3 > a {
-    /*background: lightblue;*/
     background: pink;
-    /*color: red !important;*/
-    color: #012169;
+    /*background: #fcfaf7;*/
+    color: black !important;
+    /*background: lightgreen;*/
+    /*background: #ddfada;*/
+    /*color: #012169 !important;*/
 }
 #navi_pages3 > a:focus,
 #navi_pages3 > a:hover {
+    /*background-color: pink;*/
     background-color: lightblue;
+    color: black !important;
+    
 }
+
+/*currently not active*/
 #navi_pages4 > a {
     background: grey;
-    /*color: black !important;*/
     color: #012169;
 }
 #navi_pages4 > a:focus,
@@ -358,7 +359,6 @@ html {
 /*ids of the navigation items, forloop.index in pages_list_list, pages_list_links_list*/
 #navi_categories1 > a {
     background: red;
-    /*color: white !important;*/
     color: #012169;
 }
 #navi_categories1 > a:focus,
