@@ -226,7 +226,7 @@ html {
 @media(max-width: 650px) {
   .navbar .nav > li > a {
       /*padding: 10px 0px 10px 12px;*/
-      font: 130%/70% "FTBoyleMedium", sans-serif !important;
+      font: 132%/70% "FTBoyleMedium", sans-serif !important;
       padding: 10px 0px 10px 0px !important;
       font-weight: 800 !important;
       line-height: 0.9em !important;
@@ -250,7 +250,7 @@ html {
   .navbar .nav > li > a {
       /*padding: 10px 0px 10px 12px;*/
       /*font: 100%/50% "FTBoyleMedium", sans-serif;*/
-      font: 108%/70% "FTBoyleMedium", sans-serif !important;
+      font: 114%/70% "FTBoyleMedium", sans-serif !important;
       font-weight: 800 !important;
       padding: 10px 0px 10px 0px !important;
       line-height: 0.9em !important;
@@ -260,7 +260,7 @@ html {
     /*padding-bottom: 50px !important;*/
   }
   #navi_pages3 > a {
-  padding-bottom: 15.5px !important;
+  padding-bottom: 17px !important;
 }
 }
 
