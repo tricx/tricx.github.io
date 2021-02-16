@@ -250,7 +250,7 @@ html {
   .navbar .nav > li > a {
       /*padding: 10px 0px 10px 12px;*/
       /*font: 100%/50% "FTBoyleMedium", sans-serif;*/
-      font: 114%/70% "FTBoyleMedium", sans-serif !important;
+      font: 108%/70% "FTBoyleMedium", sans-serif !important;
       font-weight: 800 !important;
       padding: 10px 0px 10px 0px !important;
       line-height: 0.9em !important;
@@ -260,7 +260,7 @@ html {
     /*padding-bottom: 50px !important;*/
   }
   #navi_pages3 > a {
-  padding-bottom: 17px !important;
+  padding-bottom: 16px !important;
 }
 }
 
@@ -311,7 +311,8 @@ html {
 /*ids of the navigation items, forloop.index in pages_list_pages_html*/
 #navi_pages1 > a {
     /*background: #fcfaf7;*/
-    background: #eeedea;
+    /*background: #eeedea;*/
+    background: white;
     /*background: #eeeeee;*/
     color: #012169 !important;
 }
@@ -322,8 +323,8 @@ html {
 }*/
 
 #navi_pages2 > a {
-    /*background: #505050;*/
-    background: grey;
+    background: #505050;
+    /*background: grey;*/
     color: #012169;
 }
 #navi_pages2 > a:focus,
