@@ -14,7 +14,7 @@ JB :
 {% for post in site.posts %}
 	{% assign pt = post.title | downcase %}
 	{% if 'undefined_falling_objects' == pt %}
-<h4><a href="{{ BASE_PATH }}{{ post.url }}">Undefined Falling Objects</a></h4>
+<h4><a href="{{ BASE_PATH }}{{ post.url }}"></a>Undefined Falling Objects</h4>
 	{% endif %}
 {% endfor %}
 
