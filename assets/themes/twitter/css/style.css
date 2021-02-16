@@ -47,7 +47,7 @@ hr {
   margin-left: 7.5%;
   background-color: white;
   color: black;
-  max-width: 84%;
+  max-width: 85%;
 }
 
 /*distance between different posts in works_projects, sound*/
@@ -310,18 +310,20 @@ html {
 
 /*ids of the navigation items, forloop.index in pages_list_pages_html*/
 #navi_pages1 > a {
-    background: #fcfaf7;
+    /*background: #fcfaf7;*/
+    background: #eeedea;
     /*background: #eeeeee;*/
     color: #012169 !important;
 }
-#navi_pages1 > a:focus,
+/*#navi_pages1 > a:focus,
 #navi_pages1 > a:hover {
     background-color: grey;
     color: black !important;
-}
+}*/
 
 #navi_pages2 > a {
-    background: #505050;
+    /*background: #505050;*/
+    background: grey;
     color: #012169;
 }
 #navi_pages2 > a:focus,
@@ -331,19 +333,20 @@ html {
 }
 
 #navi_pages3 > a {
-    background: pink;
-    /*background: #fcfaf7;*/
-    color: black !important;
+    /*background: pink;*/
+    background: #fcfaf7;
+    /*color: black !important;*/
     /*background: lightgreen;*/
     /*background: #ddfada;*/
+    background: #eeeeee;
+    color: lightgreen !important ;
     /*color: #012169 !important;*/
 }
 #navi_pages3 > a:focus,
 #navi_pages3 > a:hover {
     /*background-color: pink;*/
-    background-color: lightblue;
+    /*background-color: lightblue;*/
     color: black !important;
-    
 }
 
 /*currently not active*/
