@@ -32,7 +32,7 @@ in cooperation with Claudia Larcher<br />
 <p></p>
 
 <video controls preload="none" poster="{{ site.url }}/images/faux_poster.jpg" width="100%" height="auto">
-  <source src="{{ site.url }}/images/fauxterrain_small.mp4" type="video/mp4" loading="lazy">
+  <source src="{{ site.url }}/images/fauxterrain_small.mp4" type="video/mp4">
 </video>
 
 </div>

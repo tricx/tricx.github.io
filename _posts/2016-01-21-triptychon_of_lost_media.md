@@ -48,7 +48,7 @@ in June 2015.
 <p><br />Installation view: moe, Schaukasten XII<br /></p>
 
 <video controls preload="none" poster="{{ site.url }}/images/tript_poster_sm.jpg" width="100%" height="auto">
-  <source src="{{ site.url }}/images/triptychon_of_lost_media.mp4" type="video/mp4" loading="lazy">
+  <source src="{{ site.url }}/images/triptychon_of_lost_media.mp4" type="video/mp4">
 </video>
 
 <img src="{{ site.url }}/images/triptychon_moe4_lg.jpg" loading="lazy" alt="image">
