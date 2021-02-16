@@ -226,7 +226,7 @@ html {
 @media(max-width: 650px) {
   .navbar .nav > li > a {
       /*padding: 10px 0px 10px 12px;*/
-      font: 136%/70% "FTBoyleMedium", sans-serif !important;
+      font: 130%/70% "FTBoyleMedium", sans-serif !important;
       padding: 10px 0px 10px 0px !important;
       font-weight: 800 !important;
       line-height: 0.9em !important;
@@ -240,7 +240,7 @@ html {
     display: flex;
     justify-content: center;
     padding-top: 18px !important;
-    padding-bottom: 19.8px !important;
+    padding-bottom: 19px !important;
 /*    padding-left: 45px !important;*/
 }
 }
