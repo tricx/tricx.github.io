@@ -109,7 +109,7 @@ hr {
 @media(max-width: 650px) {
   .container-parent {
     display: block;
-    padding-right: 0.25rem;
+    /*padding-right: 0.25rem;*/
     margin-top: 35px;
     /*padding: 0.75rem;*/
   }
@@ -236,14 +236,12 @@ html {
     /*padding-bottom: 50px !important;*/
   }
   #navi_pages3 > a {
-    width: 90%;
-    /*width: 100%;*/
+    width: 100%;
     display: flex;
     justify-content: center;
     padding-top: 18px !important;
-/*    padding-left: 33% !important;*/
     padding-bottom: 20px !important;
-    padding-left: 0px !important;
+/*    padding-left: 45px !important;*/
 }
 }
 
@@ -254,7 +252,7 @@ html {
       /*font: 100%/50% "FTBoyleMedium", sans-serif;*/
       font: 108%/70% "FTBoyleMedium", sans-serif !important;
       font-weight: 800 !important;
-      padding: 10px 0px 10px -8px !important;
+      padding: 10px 0px 10px 0px !important;
       line-height: 0.9em !important;
   }
   .navbar-inner {
@@ -269,10 +267,10 @@ html {
 @media(max-width: 1120px) {
   .navbar .nav > li > a {
       font: 105%/70% "FTBoyleMedium", sans-serif;
-      padding: 10px 1px 10px 1px;
+      padding: 10px 0px 10px 0px;
   }
   #navi_pages3 > a {
-    padding-left: 10px !important;
+    padding-left: 10px;
 }
 }
 
