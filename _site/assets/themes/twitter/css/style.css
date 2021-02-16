@@ -249,7 +249,7 @@ html {
 
 @media(max-width: 1120px) {
   .navbar .nav > li > a {
-      padding: 10px 20px 10px 12px;
+      padding: 10px 1px 10px 1px;
   }
 }
 
