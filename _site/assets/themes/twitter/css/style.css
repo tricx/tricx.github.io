@@ -235,6 +235,10 @@ html {
     min-height: 70px !important;
     /*padding-bottom: 50px !important;*/
   }
+  #navi_pages2 > a {
+    padding-left: 10% !important;
+}
+
   #navi_pages3 > a {
     width: 100%;
     display: flex;
@@ -261,6 +265,12 @@ html {
   }
   #navi_pages3 > a {
   padding-bottom: 17px !important;
+}
+}
+
+@media(max-width: 370px) {
+  #navi_pages2 > a {
+    padding-left: none;
 }
 }
 
