@@ -41,7 +41,7 @@ in June 2015.
 <div class="container-narrow-left">
 
 <img src="{{ site.url }}/images/tolm_small.jpg" loading="lazy" alt="image">
-<p><br />Installation view: MemphisMemphis<br /></p
+<p><br />Installation view: MemphisMemphis<br /></p>
 <img src="{{ site.url }}/images/tolm2_small.jpg" loading="lazy" alt="image">
 <font color="grey">(c) Florian Voggeneder<br /></font>
 
