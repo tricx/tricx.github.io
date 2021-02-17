@@ -20,7 +20,7 @@ JB :
 {% endfor %}
 
 <p>
-installation, public display, at <a href="https:variable.cc" target="_blank">dimensions variable #, Semi Public Art</a>, Vienna, Hietzing, 2020<br />
+installation, public display, at <a href="http://variable.cc" target="_blank">dimensions variable #, Semi Public Art</a>, Vienna, Hietzing, 2020<br />
 cobblestone, K&K Emblem, sand, adhesive foil, text<br />
 <br />
 ‘Unterm Pflaster liegt der Strand’, in it's original french version of "Sous les pavés, la plage" is attributed to the situationists. The phrase became one of the most popular slogans of the 1968 revolt around the world. ‘Unterm Pflaster liegt der Strand’ alludes to the fact that paving stones were often laid on a sand underground, and is also an invitation to use them. This slogan combines hedonism with activism.<br />
