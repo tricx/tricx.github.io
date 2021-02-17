@@ -88,6 +88,11 @@ The project Centre and Periphery picked up this field of tension in order to dea
 <img src="{{ site.url }}/images/drachen_barco_small.jpg" loading="lazy" alt="image">
 <p></p>
 <img src="{{ site.url }}/images/drachen_guanaco_sm.jpg" loading="lazy" alt="image">
+<p></p>
+<img src="{{ site.url }}/images/drachen_construction_sm.jpg" loading="lazy" alt="image">
+<p></p>
+<img src="{{ site.url }}/images/drachen_sewing_sm.jpg" loading="lazy" alt="image">
+
 
 
 </div>
