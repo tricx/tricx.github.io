@@ -336,7 +336,7 @@ html {
     background: #505050;
     /*background: grey;*/
     color: #012169;
-    padding-left: none;
+/*    padding-left: none;*/
 }
 #navi_pages2 > a:focus,
 #navi_pages2 > a:hover {
