@@ -34,12 +34,12 @@ The Arcadian Gate is a monumental construction built of gigantic awe inspiring l
 <a href="http://wikimapia.org/4832019/Arcadian-Gate" target="_blank">
 http://wikimapia.org/4832019/Arcadian-Gate</a>
 )
-</p>
 
 <audio controls style="width: 100%" preload="none">
-  <source src="{{ site.url }}/images/arcadian_gate_doku.mp3" type="audio/mpeg"">
+  <source src="{{ site.url }}/images/arcadian_gate_doku.mp3" type="audio/mpeg">
 </audio>
 
+</p>
 </div>
 
 

@@ -5,8 +5,8 @@
         <description>Tricx - Paul Gruendorfer</description>
         <link>http://tricx.github.io</link>
         <link>http://tricx.github.io</link>
-        <lastBuildDate>2021-02-17T17:25:41+01:00</lastBuildDate>
-        <pubDate>2021-02-17T17:25:41+01:00</pubDate>
+        <lastBuildDate>2021-02-17T18:39:28+01:00</lastBuildDate>
+        <pubDate>2021-02-17T18:39:28+01:00</pubDate>
         <ttl>1800</ttl>
 
 
@@ -589,12 +589,12 @@ The Arcadian Gate is a monumental construction built of gigantic awe inspiring l
 &lt;a href=&quot;http://wikimapia.org/4832019/Arcadian-Gate&quot; target=&quot;_blank&quot;&gt;
 http://wikimapia.org/4832019/Arcadian-Gate&lt;/a&gt;
 )
-&lt;/p&gt;
 
 &lt;audio controls=&quot;&quot; style=&quot;width: 100%&quot; preload=&quot;none&quot;&gt;
-  &amp;lt;source src=&quot;http://localhost:4000/images/arcadian_gate_doku.mp3&quot; type=&quot;audio/mpeg&quot;&quot;&amp;gt;
+  &lt;source src=&quot;http://localhost:4000/images/arcadian_gate_doku.mp3&quot; type=&quot;audio/mpeg&quot; /&gt;
 &lt;/audio&gt;
 
+&lt;/p&gt;
 &lt;/div&gt;
 
 
