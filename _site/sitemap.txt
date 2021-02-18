@@ -7,6 +7,7 @@ http://tricx.github.io/old_posts/2009-12-10-on_a_wire
 http://tricx.github.io/old_posts/2009-12-11-in_a_room
 http://tricx.github.io/old_posts/2009-12-12-wilhelms_punk
 http://tricx.github.io/old_posts/2009-12-13-platte_x
+http://tricx.github.io/old_posts/2010-02-22-recording
 http://tricx.github.io/archive
 http://tricx.github.io/atom.xml
 http://tricx.github.io/blog
@@ -48,4 +49,3 @@ http://tricx.github.io/2013/10/15/undefined_falling_objects
 http://tricx.github.io/2013/10/01/flieger
 http://tricx.github.io/2013/02/05/sound
 http://tricx.github.io/2010/02/23/index
-http://tricx.github.io/2010/02/22/recording
