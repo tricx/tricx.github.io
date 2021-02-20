@@ -25,7 +25,7 @@ PD-0.50-2<br />
 2 modular structures, tripods<br />
 dimensions variable<br />
 in cooperation with 
-<a href="https://www.dariosanfilippo.com/" target="_blank" style="text-decoration:none; color: grey"><i>Dario Sanfilippo</i></a> 
+<a href="https://www.dariosanfilippo.com/" target="_blank" style="text-decoration:none; color: grey">Dario Sanfilippo</a> 
 <br /><br />
 
 Acoustic Shadows is an implementation of a complex adaptive system in an eco-systemic configuration. Through the implementation of a feedback system in the high-frequency domain, signals that oscillate at the threshold of the human perception are ‘scanning’ the area. Shadows or inaudible signals, which are created by human presence are influencing the state of the system and therefore change its behaviour, perturbing the system’s microphone-loudspeaker connection and self-modulation. The adaptations could be perceived more like a ghostlike appearance then an interactive reaction.

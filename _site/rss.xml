@@ -5,8 +5,8 @@
         <description>Tricx - Paul Gruendorfer</description>
         <link>http://tricx.github.io</link>
         <link>http://tricx.github.io</link>
-        <lastBuildDate>2021-02-18T01:13:33+01:00</lastBuildDate>
-        <pubDate>2021-02-18T01:13:33+01:00</pubDate>
+        <lastBuildDate>2021-02-20T18:26:17+01:00</lastBuildDate>
+        <pubDate>2021-02-20T18:26:17+01:00</pubDate>
         <ttl>1800</ttl>
 
 
@@ -95,9 +95,9 @@
 generative audio installation, 2020/21&lt;br /&gt;
 2,5m cube, latex foil, motors
 PD-0.50-2&lt;br /&gt;
-with Leo Peschta&lt;br /&gt;
+with &lt;a href=&quot;https://leo.ok.ag/&quot; target=&quot;_blank&quot; style=&quot;text-decoration:none; color: grey&quot;&gt;Leo Peschta&lt;/a&gt;&lt;br /&gt;
 &lt;br /&gt;
-in development
+
 &lt;/p&gt;
 &lt;/div&gt;
 
@@ -105,6 +105,10 @@ in development
 &lt;div class=&quot;container-narrow-left&quot;&gt;
 &lt;img src=&quot;http://localhost:4000/images/the_sea1_sm2.jpg&quot; loading=&quot;eager&quot; alt=&quot;image&quot; /&gt;
 &lt;p&gt;&lt;/p&gt;
+&lt;video controls=&quot;&quot; preload=&quot;none&quot; poster=&quot;http://localhost:4000/images/the_sea_poster.jpg&quot; width=&quot;100%&quot; height=&quot;auto&quot;&gt;
+  &lt;source src=&quot;http://localhost:4000/images/the_sea_sm.mp4&quot; type=&quot;video/mp4&quot; /&gt;
+&lt;/video&gt;
+
 &lt;img src=&quot;http://localhost:4000/images/the_sea_graph.jpg&quot; loading=&quot;eager&quot; alt=&quot;image&quot; /&gt;
 &lt;p&gt;graph for motor control, Leo Peschta&lt;/p&gt;
 &lt;br /&gt;
@@ -209,7 +213,7 @@ PD-0.50-2&lt;br /&gt;
 2 modular structures, tripods&lt;br /&gt;
 dimensions variable&lt;br /&gt;
 in cooperation with 
-&lt;a href=&quot;https://www.dariosanfilippo.com/&quot; target=&quot;_blank&quot; style=&quot;text-decoration:none; color: grey&quot;&gt;&lt;i&gt;Dario Sanfilippo&lt;/i&gt;&lt;/a&gt; 
+&lt;a href=&quot;https://www.dariosanfilippo.com/&quot; target=&quot;_blank&quot; style=&quot;text-decoration:none; color: grey&quot;&gt;Dario Sanfilippo&lt;/a&gt; 
 &lt;br /&gt;&lt;br /&gt;
 
 Acoustic Shadows is an implementation of a complex adaptive system in an eco-systemic configuration. Through the implementation of a feedback system in the high-frequency domain, signals that oscillate at the threshold of the human perception are ‘scanning’ the area. Shadows or inaudible signals, which are created by human presence are influencing the state of the system and therefore change its behaviour, perturbing the system’s microphone-loudspeaker connection and self-modulation. The adaptations could be perceived more like a ghostlike appearance then an interactive reaction.
@@ -978,8 +982,8 @@ The project Centre and Periphery picked up this field of tension in order to dea
 
 &lt;p&gt;
 action during the festival Tsonami for Acts of Listening, Valparaíso, Chile, dec 10 2017&lt;br /&gt; 
-in cooperation with &lt;a href=&quot;http://www.nicolasspencer.cl/&quot; target=&quot;_blank&quot; style=&quot;text-decoration:none; color: grey&quot;&gt;&lt;i&gt;Nicolás Spencer&lt;/i&gt;&lt;/a&gt; and
-&lt;a href=&quot;http://www.barbaragonzalezbarrera.com&quot; target=&quot;_blank&quot; style=&quot;text-decoration:none; color: grey&quot;&gt;&lt;i&gt;Barbara González&lt;/i&gt;&lt;/a&gt;&lt;br /&gt;
+in cooperation with &lt;a href=&quot;http://www.nicolasspencer.cl/&quot; target=&quot;_blank&quot; style=&quot;text-decoration:none; color: grey&quot;&gt;Nicolás Spencer&lt;/a&gt; and
+&lt;a href=&quot;http://www.barbaragonzalezbarrera.com&quot; target=&quot;_blank&quot; style=&quot;text-decoration:none; color: grey&quot;&gt;Barbara González&lt;/a&gt;&lt;br /&gt;
 
 Caleta Portales / Domingo 10,  14.30 hrs aprox. /  $500 por persona / Paseo en barco y almuerzo incluido / Partiendo de Muelle Prats a las 13:00&lt;br /&gt;
 -Gaviota-mar-Paul-Mercedes-Portales-Act-Caleta-Bábara-Merluza-Nicolás-comer-volar-&lt;br /&gt;
@@ -1380,7 +1384,7 @@ radio, transmitter, electric current, camera flash, micro controller, relais, el
 Flash is an audio-visual installation for camera flash, radio transmitter and changing electric current, shown in the last exhibition of Black Bridge artist village in Beijing, before it got abandoned due to re- structuring of the region. The flashes interfere with the electromagnetic field and thereby influence the signals detected by the radio receivers. The fluctuations of the power grid, which occur quite frequently in Beijing, push the radio transmitter out of resonance and produce an unstable field.&lt;br /&gt;&lt;br /&gt;
 
 
-The project AM-Feld / Soviet Noise, is a cooperation with &lt;a href=&quot;www.alexanderfelch.net/&quot; target=&quot;_blank&quot; style=&quot;text-decoration:none; color: grey&quot;&gt;&lt;i&gt;Alexander Felch&lt;/i&gt;&lt;/a&gt; which took place in St. Petersburg. It is the second part of the series ‘Triptychon of lost media’ and concerns the examination of emitter and receiver and explores extended techniques of sound generation and playback. The theme ‘emitter-receiver’ is the conceptual theoretical framework for the work series, but also correlates to the applied techniques of how sound and material are shaped. For ‘AM Field / Soviet Noise’ a radio signal was created to transmit 30 minutes of empty audio tapes, produced 1989. Portable radio receivers where supplied to detect the signals of the audio tapes from the ‘soviet environment’. The work is referencing russian protagonists like Velimir Khleb- nikov (author of the futuristic essay ‘radio of the future’), Alexander Stepanovic Popov (pioneer of radio technology) and UVB-76 (a short wave transmitter, sending a buzz tone since ~1975). There are several portable radio receivers in the room, whose position can also be changed by the visitors. The installation is based on the idea of the Acousmonium, a multi-channel loud- speaker sound system developed by Francois Bayle in the ‘Groupe de Recherches Musicales’ for Radio France 1974. But in contrast to the concept of a composition for fixed loudspeakers, the visitors, equipped with a portable radio receiver, are the players of a ‘loudspeaker orchestra’ themselves. They can move with the radio receivers in the zone of transmission. Several short- range transmitters, all at the same transmission frequency, are positioned at different locations in the room. Each transmitter covers a specific area, which can be received separately, but also modulated by possible interferences. The various transmission distances can be monitored by the movement in the space, thus resulting in a constantly changing configuration.
+The project AM-Feld / Soviet Noise, is a cooperation with &lt;a href=&quot;www.alexanderfelch.net/&quot; target=&quot;_blank&quot; style=&quot;text-decoration:none; color: grey&quot;&gt;Alexander Felch&lt;/a&gt; which took place in St. Petersburg. It is the second part of the series ‘Triptychon of lost media’ and concerns the examination of emitter and receiver and explores extended techniques of sound generation and playback. The theme ‘emitter-receiver’ is the conceptual theoretical framework for the work series, but also correlates to the applied techniques of how sound and material are shaped. For ‘AM Field / Soviet Noise’ a radio signal was created to transmit 30 minutes of empty audio tapes, produced 1989. Portable radio receivers where supplied to detect the signals of the audio tapes from the ‘soviet environment’. The work is referencing russian protagonists like Velimir Khleb- nikov (author of the futuristic essay ‘radio of the future’), Alexander Stepanovic Popov (pioneer of radio technology) and UVB-76 (a short wave transmitter, sending a buzz tone since ~1975). There are several portable radio receivers in the room, whose position can also be changed by the visitors. The installation is based on the idea of the Acousmonium, a multi-channel loud- speaker sound system developed by Francois Bayle in the ‘Groupe de Recherches Musicales’ for Radio France 1974. But in contrast to the concept of a composition for fixed loudspeakers, the visitors, equipped with a portable radio receiver, are the players of a ‘loudspeaker orchestra’ themselves. They can move with the radio receivers in the zone of transmission. Several short- range transmitters, all at the same transmission frequency, are positioned at different locations in the room. Each transmitter covers a specific area, which can be received separately, but also modulated by possible interferences. The various transmission distances can be monitored by the movement in the space, thus resulting in a constantly changing configuration.
 &lt;/p&gt;
 &lt;/div&gt;
 
@@ -1618,7 +1622,7 @@ Berlin, 2018&lt;br /&gt;
 &lt;p&gt;
 Sound - Installation, 2015/16&lt;br /&gt;
 metal plates, contact microphones, transducers generate feedback.&lt;br /&gt;
-in cooperation with &lt;a href=&quot;http://www.kunst-und-raederwerk.de/&quot; target=&quot;_blank&quot; style=&quot;text-decoration:none; color: grey&quot;&gt;&lt;i&gt;Christoph Freidhöfer&lt;/i&gt;&lt;/a&gt; &lt;br /&gt;&lt;br /&gt;
+in cooperation with &lt;a href=&quot;http://www.kunst-und-raederwerk.de/&quot; target=&quot;_blank&quot; style=&quot;text-decoration:none; color: grey&quot;&gt;Christoph Freidhöfer&lt;/a&gt; &lt;br /&gt;&lt;br /&gt;
 
 This is the first part of the series ‘Triptychon of lost media’. It deals with the examination of emitter and receiver and explores extended techniques of sound generation and playback. The theme ‘emitter-receiver’ is the conceptual theoretical framework for the work series but also correlates to the applied techniques of how sound and material is shaped.&lt;br /&gt;&lt;br /&gt;
 Metal plates are used as tone generators as well as loudspeakers due to feedback that emerges from applying transducers and contact microphones to the surface. Due to the more or less chaotic vibration of the metal sheets and low amplification, the spectrum moves between the sound of fanfares and thunder. The installation deals with the propagation of sound in space and feedback between transmitter and receiver.&lt;br /&gt;
@@ -1850,7 +1854,7 @@ in cooperation with Claudia Larcher&lt;br /&gt;
 &lt;p&gt;
 Speech - Intervention - Animal, 2013 - ongoing&lt;br /&gt;
 loudspeaker, parabolic microphones, micro controller, motor&lt;br /&gt;
-in cooperation with &lt;a href=&quot;http://www.kunst-und-raederwerk.de/&quot; target=&quot;_blank&quot; style=&quot;text-decoration:none; color: grey&quot;&gt;&lt;i&gt;Christoph Freidhöfer&lt;/i&gt;&lt;/a&gt; &lt;br /&gt;&lt;br /&gt;
+in cooperation with &lt;a href=&quot;http://www.kunst-und-raederwerk.de/&quot; target=&quot;_blank&quot; style=&quot;text-decoration:none; color: grey&quot;&gt;Christoph Freidhöfer&lt;/a&gt; &lt;br /&gt;&lt;br /&gt;
 The robot moves around the exhibition space, orienting itself based on the events, records the speech of other visitors and articulates clever sayings. Using its two parabolic microphone ‘ears’ with the help of the shielding function of the foam ‘hairstyle’ it listens to the most interesting events and moves in direction to where it suspects appealing things to happen. There the robot takes on its journey, remembering snippets of conversations. Otherwise it is striking sayings like ‘the most popular occupations for men and women’ or a quote from ‘Alte Meister’ by Thomas Bernhard.&lt;br /&gt;&lt;br /&gt;
 &lt;/p&gt;
 &lt;/div&gt;
@@ -2070,7 +2074,7 @@ Pachinko is played by more than 30% of the Japanese population. It is based on t
 
 &lt;p&gt;
 toy car, cable, coil, high ceiling, 2012&lt;br /&gt;
-in cooperation with &lt;a href=&quot;http://www.praxistest.cc/&quot; target=&quot;_blank&quot; style=&quot;text-decoration:none; color: grey&quot;&gt;&lt;i&gt;Paul_Reza Klein&lt;/i&gt;&lt;/a&gt;&lt;br /&gt;
+in cooperation with &lt;a href=&quot;http://www.praxistest.cc/&quot; target=&quot;_blank&quot; style=&quot;text-decoration:none; color: grey&quot;&gt;Paul_Reza Klein&lt;/a&gt;&lt;br /&gt;
 
 A toy police car falls in free fall at the exhibition Dimensions Variable # at Mo.ë. When the car is switched on, the car‘s flashing lights start flashing and it sounds: ‘Police, do not move - [sound- effect: gunshot] - you are under arrest!’ The car is equipped with a conductive cable on a coil that is attached to the ceiling. At random time intervals, the car falls from the ceiling to shortly before the impact on the ground.&lt;br /&gt;&lt;br /&gt;
 &lt;/p&gt;

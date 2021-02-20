@@ -21,8 +21,8 @@ JB :
 
 <p>
 action during the festival Tsonami for Acts of Listening, Valparaíso, Chile, dec 10 2017<br /> 
-in cooperation with <a href="http://www.nicolasspencer.cl/" target="_blank" style="text-decoration:none; color: grey"><i>Nicolás Spencer</i></a> and
-<a href="http://www.barbaragonzalezbarrera.com" target="_blank" style="text-decoration:none; color: grey"><i>Barbara González</i></a><br />
+in cooperation with <a href="http://www.nicolasspencer.cl/" target="_blank" style="text-decoration:none; color: grey">Nicolás Spencer</a> and
+<a href="http://www.barbaragonzalezbarrera.com" target="_blank" style="text-decoration:none; color: grey">Barbara González</a><br />
 
 Caleta Portales / Domingo 10,  14.30 hrs aprox. /  $500 por persona / Paseo en barco y almuerzo incluido / Partiendo de Muelle Prats a las 13:00<br />
 -Gaviota-mar-Paul-Mercedes-Portales-Act-Caleta-Bábara-Merluza-Nicolás-comer-volar-<br />

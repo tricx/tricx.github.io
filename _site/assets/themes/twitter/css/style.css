@@ -13,7 +13,7 @@
 body {
   margin: 0; 
   /*font: 12.5px/16.5px "Helvetica", Helvetica, Arial, sans-serif;*/
-  font: 14.5px/154% "FTBoyleMedium", Helvetica, sans-serif;
+  font: 13.5px/154% "FTBoyleMedium", Helvetica, sans-serif;
   text-align:justify;
 
   /*background-image: url('/images/mononoke1.jpg');*/
@@ -44,10 +44,10 @@ hr {
 /* Custom container */
 .container-narrow {
   /*margin: 0 auto;*/
-  margin-left: 7.5%;
+  margin-left: 8.5%;
   background-color: white;
   color: black;
-  max-width: 85%;
+  max-width: 82%;
 }
 
 /*distance between different posts in works_projects, sound*/
@@ -74,7 +74,11 @@ hr {
 }
 
 @media screen and (min-width: 1920px) {
-  body { padding-top: 25px; }
+  body { 
+    padding-top: 25px;
+    font: 14.5px/154% "FTBoyleMedium", Helvetica, sans-serif;
+  }
+
 /*---------------------------*/
 /* Custom container */  
     .container-narrow {
@@ -226,7 +230,8 @@ html {
 @media(max-width: 650px) {
   .navbar .nav > li > a {
       /*padding: 10px 0px 10px 12px;*/
-      font: 132%/70% "FTBoyleMedium", sans-serif !important;
+      /*font: 132%/70% "FTBoyleMedium", sans-serif !important;*/
+      font: 142%/70% "FTBoyleMedium", sans-serif !important;
       padding: 10px 0px 10px 0px !important;
       font-weight: 800 !important;
       line-height: 0.9em !important;
@@ -252,9 +257,8 @@ html {
 /*500*/
 @media(max-width: 470px) {
   .navbar .nav > li > a {
-      /*padding: 10px 0px 10px 12px;*/
-      /*font: 100%/50% "FTBoyleMedium", sans-serif;*/
-      font: 112%/70% "FTBoyleMedium", sans-serif !important;
+      /*font: 112%/70% "FTBoyleMedium", sans-serif !important;*/
+      font: 116%/70% "FTBoyleMedium", sans-serif !important;
       font-weight: 800 !important;
       padding: 10px 0px 10px 0px !important;
       line-height: 0.9em !important;
@@ -276,7 +280,8 @@ html {
 
 @media(max-width: 1120px) {
   .navbar .nav > li > a {
-      font: 105%/70% "FTBoyleMedium", sans-serif;
+      /*font: 105%/70% "FTBoyleMedium", sans-serif;*/
+      font: 115%/70% "FTBoyleMedium", sans-serif;
       padding: 10px 0px 10px 0px;
   }
   #navi_pages3 > a {
