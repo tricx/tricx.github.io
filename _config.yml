@@ -142,9 +142,9 @@ JB :
   #   - "Archive"
 
   # sidebar items, if 'show_worktitle_sidebar: true' (in pages, posts layout -defs)
-  works_projects_list: 
-    - "The Sea"  
-    - "Acoustic Shadows"  
+  works_projects_list:   
+    - "Acoustic Shadows"
+    - "The Sea"
     - "Unterm Pflaster liegt der Strand"  
     - "mononoke"
     - "Arcardian Gate"

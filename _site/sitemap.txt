@@ -25,8 +25,8 @@ http://tricx.github.io/rss.xml
 http://tricx.github.io/sitemap.txt
 http://tricx.github.io/tags
 
+http://tricx.github.io/2021/02/05/acoustic_shadows
 http://tricx.github.io/2021/02/04/the_sea
-http://tricx.github.io/2021/02/04/acoustic_shadows
 http://tricx.github.io/2020/10/13/unterm_pflaster_liegt_der_strand
 http://tricx.github.io/2019/08/04/mononoke
 http://tricx.github.io/2018/06/01/arcardian_gate
