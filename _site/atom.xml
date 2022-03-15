@@ -4,7 +4,7 @@
  <title>Tricx</title>
  <link href="http://tricx.github.io/" rel="self"/>
  <link href="http://tricx.github.io"/>
- <updated>2022-03-15T20:29:51+01:00</updated>
+ <updated>2022-03-15T20:41:48+01:00</updated>
  <id>http://tricx.github.io</id>
  <author>
    <name>Paul Gruendorfer</name>
@@ -18,18 +18,71 @@
    <updated>2022-03-15T00:00:00+01:00</updated>
    <id>http://tricx.github.io/2022/03/15/recordings</id>
    <content type="html">
-&lt;h4&gt;&lt;a href=&quot;/2022/03/15/recordings&quot;&gt;recordings&lt;/a&gt;&lt;/h4&gt;
+&lt;p&gt;&lt;br /&gt;&lt;br /&gt;&lt;/p&gt;
 
-&lt;h4&gt;&lt;a href=&quot;/2010/02/22/recordings&quot;&gt;recordings&lt;/a&gt;&lt;/h4&gt;
+&lt;h4&gt;&lt;a href=&quot;/2022/03/15/recordings&quot;&gt;&lt;/a&gt;recordings&lt;/h4&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
 
 &lt;p&gt;
-OTTOsonics excerpt1: algorithmically controlled interleaved-fragments, tanh:&lt;br /&gt;
+OTTOsonics exc1: algorithmically controlled interleaved-fragments, tanh:&lt;br /&gt;
 &lt;p&gt;&lt;/p&gt;
 &lt;audio controls=&quot;&quot; style=&quot;width: 100%&quot; preload=&quot;none&quot;&gt;
   &lt;source src=&quot;http://localhost:4000/images/otto_frag_inter_tanh.mp3&quot; type=&quot;audio/mpeg&quot; /&gt;
 &lt;/audio&gt;
-
 &lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;
+OTTOsonics exc2: algorithmically controlled circular retrig-fragments, pitchsh:&lt;br /&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;audio controls=&quot;&quot; style=&quot;width: 100%&quot; preload=&quot;none&quot;&gt;
+  &lt;source src=&quot;http://localhost:4000/images/otto_circular_retrig_pitsh.mp3&quot; type=&quot;audio/mpeg&quot; /&gt;
+&lt;/audio&gt;
+&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;
+OTTOsonics exc3: feedback, high density overlap:&lt;br /&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;audio controls=&quot;&quot; style=&quot;width: 100%&quot; preload=&quot;none&quot;&gt;
+  &lt;source src=&quot;http://localhost:4000/images/otto_high-density_overlap.mp3&quot; type=&quot;audio/mpeg&quot; /&gt;
+&lt;/audio&gt;
+&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;
+OTTOsonics exc4: animal, modulation:&lt;br /&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;audio controls=&quot;&quot; style=&quot;width: 100%&quot; preload=&quot;none&quot;&gt;
+  &lt;source src=&quot;http://localhost:4000/images/otto_animal1.mp3&quot; type=&quot;audio/mpeg&quot; /&gt;
+&lt;/audio&gt;
+&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;
+OTTOsonics exc5: animal2, modulation:&lt;br /&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;audio controls=&quot;&quot; style=&quot;width: 100%&quot; preload=&quot;none&quot;&gt;
+  &lt;source src=&quot;http://localhost:4000/images/otto_animal2.mp3&quot; type=&quot;audio/mpeg&quot; /&gt;
+&lt;/audio&gt;
+&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;
+OTTOsonics exc6: cross modulation, distortion:&lt;br /&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;audio controls=&quot;&quot; style=&quot;width: 100%&quot; preload=&quot;none&quot;&gt;
+  &lt;source src=&quot;http://localhost:4000/images/otto_cross_modulation_dist.mp3&quot; type=&quot;audio/mpeg&quot; /&gt;
+&lt;/audio&gt;
+&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
 
 </content>
  </entry>
@@ -49,9 +102,6 @@ OTTOsonics excerpt1: algorithmically controlled interleaved-fragments, tanh:&lt;
 	
 	
 &lt;h4&gt;&lt;a href=&quot;/2021/02/04/the_sea&quot;&gt;&lt;/a&gt;The Sea&lt;/h4&gt;
-	
-
-	
 	
 
 	
@@ -257,9 +307,6 @@ The Sea is an extraction of a complex natural phenomenon resulting in an artific
 	
 	
 
-	
-	
-
 
 &lt;p&gt;
 autonomous complex adaptive system, 2020/21&lt;br /&gt;
@@ -393,9 +440,6 @@ just the room recording and with less amplification:
 	
 	
 
-	
-	
-
 
 &lt;p&gt;
 installation, public display, at &lt;a href=&quot;http://variable.cc&quot; target=&quot;_blank&quot;&gt;dimensions variable #, Semi Public Art&lt;/a&gt;, Vienna, Hietzing, 2020&lt;br /&gt;
@@ -448,9 +492,6 @@ The text is translated to latin, so it resembles often used honorable mentions o
 	
 	
 &lt;h4&gt;&lt;a href=&quot;/2019/08/04/mononoke&quot;&gt;&lt;/a&gt;MONO-NO-KE&lt;/h4&gt;
-	
-
-	
 	
 
 	
@@ -646,9 +687,6 @@ Reflections and Refractions of a laser that scans plastic bottles are translated
 	
 	
 
-	
-	
-
 
 &lt;p&gt;
 Site Specific Installation, 2018&lt;br /&gt;
@@ -722,9 +760,6 @@ http://wikimapia.org/4832019/Arcadian-Gate&lt;/a&gt;
 	
 	
 &lt;h4&gt;&lt;a href=&quot;/2018/05/27/pigeons&quot;&gt;&lt;/a&gt;鸽子&lt;/h4&gt;
-	
-
-	
 	
 
 	
@@ -855,9 +890,6 @@ Besides this interest, there is the old tradition to let pigeons fly with specia
 	
 	
 &lt;h4&gt;&lt;a href=&quot;/2017/12/30/centre_and_periphery&quot;&gt;&lt;/a&gt;Centre and Periphery&lt;/h4&gt;
-	
-
-	
 	
 
 	
@@ -1067,9 +1099,6 @@ The project Centre and Periphery picked up this field of tension in order to dea
 	
 	
 
-	
-	
-
 
 &lt;p&gt;
 action during the festival Tsonami for Acts of Listening, Valparaíso, Chile, dec 10 2017&lt;br /&gt; 
@@ -1153,9 +1182,6 @@ First you have to agree, what is a “Picá”? In Chile they call “Picá” r
 	
 	
 &lt;h4&gt;&lt;a href=&quot;/2017/07/24/am_land&quot;&gt;&lt;/a&gt;AM Land&lt;/h4&gt;
-	
-
-	
 	
 
 	
@@ -1346,9 +1372,6 @@ Love to the beat of the show. [...]&lt;br /&gt;
 	
 	
 
-	
-	
-
 
 &lt;p&gt;
 Site Specific  - Light Installation, 2017&lt;br /&gt;
@@ -1440,9 +1463,6 @@ As a site specific intervention the Attractor is built in a public space, connec
 	
 	
 &lt;h4&gt;&lt;a href=&quot;/2017/02/18/flash&quot;&gt;&lt;/a&gt;Flash&lt;/h4&gt;
-	
-
-	
 	
 
 	
@@ -1605,9 +1625,6 @@ The project AM-Feld / Soviet Noise, is a cooperation with &lt;a href=&quot;www.a
 	
 	
 
-	
-	
-
 
 
 &lt;p&gt;
@@ -1699,9 +1716,6 @@ Berlin, 2018&lt;br /&gt;
 	
 	
 &lt;h4&gt;&lt;a href=&quot;/2016/01/21/triptychon_of_lost_media&quot;&gt;&lt;/a&gt;Triptychon of lost media - I&lt;/h4&gt;
-	
-
-	
 	
 
 	
@@ -1867,9 +1881,6 @@ in June 2015.
 	
 	
 
-	
-	
-
 
 &lt;p&gt;
 microscope camera, lichens / organic material, real-time audio software / Supercollider, projektor, soundsystem, 2015/16&lt;br /&gt;
@@ -1951,9 +1962,6 @@ in cooperation with Claudia Larcher&lt;br /&gt;
 	
 	
 &lt;h4&gt;&lt;a href=&quot;/2013/12/28/ottos_mops&quot;&gt;&lt;/a&gt;Ottos Mops&lt;/h4&gt;
-	
-
-	
 	
 
 	
@@ -2101,9 +2109,6 @@ The robot moves around the exhibition space, orienting itself based on the event
 	
 	
 
-	
-	
-
 
 
 &lt;p&gt;
@@ -2190,9 +2195,6 @@ Pachinko is played by more than 30% of the Japanese population. It is based on t
 	
 	
 &lt;h4&gt;&lt;a href=&quot;/2013/12/26/a_car_from_above&quot;&gt;&lt;/a&gt;A Car from ABove&lt;/h4&gt;
-	
-
-	
 	
 
 	
@@ -2377,9 +2379,6 @@ for diy-zither, cymbal, contact microphone, live granular synthesis, live record
 	
 	
 
-	
-	
-
 
 
 
@@ -2488,9 +2487,6 @@ Considerations to the themes, areas and associations, which could form some of t
 	
 	
 &lt;h4&gt;&lt;a href=&quot;/2013/10/16/bicycle_and_birds&quot;&gt;&lt;/a&gt;Bicycle and Birds&lt;/h4&gt;
-	
-
-	
 	
 
 	
@@ -2623,9 +2619,6 @@ Birds in a cage.&lt;br /&gt;&lt;br /&gt;
 	
 	
 
-	
-	
-
 
 &lt;p&gt;
 Film - Installation, 2006&lt;br /&gt;
@@ -2729,9 +2722,6 @@ The film loop shows permanently turning maple seeds, in density and speed variab
 	
 	
 &lt;h4&gt;&lt;a href=&quot;/2013/10/01/flieger&quot;&gt;&lt;/a&gt;Flieger&lt;/h4&gt;
-	
-
-	
 	
 
 	
@@ -3303,83 +3293,6 @@ Trost-Label-Night w/ TV Buddhas, Pilots, Chelsea, Vienna[AT], dec 20 2010&lt;br 
 Brut, Vienna[AT], oct 15 2010&lt;br /&gt;
 &lt;br /&gt;&lt;br /&gt;
 &lt;/p&gt;
-
-</content>
- </entry>
- 
- <entry>
-   <title>Recordings</title>
-   <link href="http://tricx.github.io/2010/02/22/recordings"/>
-   <updated>2010-02-22T00:00:00+01:00</updated>
-   <id>http://tricx.github.io/2010/02/22/recordings</id>
-   <content type="html">
-&lt;p&gt;&lt;br /&gt;&lt;br /&gt;&lt;/p&gt;
-
-&lt;h4&gt;&lt;a href=&quot;/2022/03/15/recordings&quot;&gt;&lt;/a&gt;recordings&lt;/h4&gt;
-
-&lt;h4&gt;&lt;a href=&quot;/2010/02/22/recordings&quot;&gt;&lt;/a&gt;recordings&lt;/h4&gt;
-
-&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
-
-&lt;p&gt;
-OTTOsonics exc1: algorithmically controlled interleaved-fragments, tanh:&lt;br /&gt;
-&lt;p&gt;&lt;/p&gt;
-&lt;audio controls=&quot;&quot; style=&quot;width: 100%&quot; preload=&quot;none&quot;&gt;
-  &lt;source src=&quot;http://localhost:4000/images/otto_frag_inter_tanh.mp3&quot; type=&quot;audio/mpeg&quot; /&gt;
-&lt;/audio&gt;
-&lt;/p&gt;
-
-&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
-
-&lt;p&gt;
-OTTOsonics exc2: algorithmically controlled circular retrig-fragments, pitchsh:&lt;br /&gt;
-&lt;p&gt;&lt;/p&gt;
-&lt;audio controls=&quot;&quot; style=&quot;width: 100%&quot; preload=&quot;none&quot;&gt;
-  &lt;source src=&quot;http://localhost:4000/images/otto_circular_retrig_pitsh.mp3&quot; type=&quot;audio/mpeg&quot; /&gt;
-&lt;/audio&gt;
-&lt;/p&gt;
-
-&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
-
-&lt;p&gt;
-OTTOsonics exc3: feedback, high density overlap:&lt;br /&gt;
-&lt;p&gt;&lt;/p&gt;
-&lt;audio controls=&quot;&quot; style=&quot;width: 100%&quot; preload=&quot;none&quot;&gt;
-  &lt;source src=&quot;http://localhost:4000/images/otto_high-density_overlap.mp3&quot; type=&quot;audio/mpeg&quot; /&gt;
-&lt;/audio&gt;
-&lt;/p&gt;
-
-&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
-
-&lt;p&gt;
-OTTOsonics exc4: animal, modulation:&lt;br /&gt;
-&lt;p&gt;&lt;/p&gt;
-&lt;audio controls=&quot;&quot; style=&quot;width: 100%&quot; preload=&quot;none&quot;&gt;
-  &lt;source src=&quot;http://localhost:4000/images/otto_animal1.mp3&quot; type=&quot;audio/mpeg&quot; /&gt;
-&lt;/audio&gt;
-&lt;/p&gt;
-
-&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
-
-&lt;p&gt;
-OTTOsonics exc5: animal2, modulation:&lt;br /&gt;
-&lt;p&gt;&lt;/p&gt;
-&lt;audio controls=&quot;&quot; style=&quot;width: 100%&quot; preload=&quot;none&quot;&gt;
-  &lt;source src=&quot;http://localhost:4000/images/otto_animal2.mp3&quot; type=&quot;audio/mpeg&quot; /&gt;
-&lt;/audio&gt;
-&lt;/p&gt;
-
-&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
-
-&lt;p&gt;
-OTTOsonics exc6: cross modulation, distortion:&lt;br /&gt;
-&lt;p&gt;&lt;/p&gt;
-&lt;audio controls=&quot;&quot; style=&quot;width: 100%&quot; preload=&quot;none&quot;&gt;
-  &lt;source src=&quot;http://localhost:4000/images/otto_cross_modulation_dist.mp3&quot; type=&quot;audio/mpeg&quot; /&gt;
-&lt;/audio&gt;
-&lt;/p&gt;
-
-&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
 
 </content>
  </entry>
