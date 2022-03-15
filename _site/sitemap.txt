@@ -25,6 +25,7 @@ http://tricx.github.io/rss.xml
 http://tricx.github.io/sitemap.txt
 http://tricx.github.io/tags
 
+http://tricx.github.io/2022/03/15/recordings
 http://tricx.github.io/2021/02/04/the_sea
 http://tricx.github.io/2021/02/04/acoustic_shadows
 http://tricx.github.io/2020/10/13/unterm_pflaster_liegt_der_strand
@@ -49,3 +50,4 @@ http://tricx.github.io/2013/10/15/undefined_falling_objects
 http://tricx.github.io/2013/10/01/flieger
 http://tricx.github.io/2013/02/05/sound
 http://tricx.github.io/2010/02/23/index
+http://tricx.github.io/2010/02/22/recordings
