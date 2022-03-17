@@ -98,7 +98,15 @@ OTTOsonics exc6: cross modulation, distortion:<br />
 
 <br />
 
+<p>
+OTTOsonics exc7: animal3, oscillations:<br />
+<p></p>
+<audio controls style="width: 100%" preload="none">
+  <source src="{{ site.url }}/images/otto_animal-oscillations.mp3" type="audio/mpeg">
+</audio>
+</p>
 
+<br />
 
 
 {% comment %}
