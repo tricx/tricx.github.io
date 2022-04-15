@@ -5,8 +5,8 @@
         <description>Tricx - Paul Gruendorfer</description>
         <link>http://tricx.github.io</link>
         <link>http://tricx.github.io</link>
-        <lastBuildDate>2022-03-15T20:41:48+01:00</lastBuildDate>
-        <pubDate>2022-03-15T20:41:48+01:00</pubDate>
+        <lastBuildDate>2022-04-15T17:01:23+02:00</lastBuildDate>
+        <pubDate>2022-04-15T17:01:23+02:00</pubDate>
         <ttl>1800</ttl>
 
 
@@ -20,7 +20,7 @@
 &lt;p&gt;&lt;br /&gt;&lt;/p&gt;
 
 &lt;p&gt;
-OTTOsonics exc1: algorithmically controlled interleaved-fragments, tanh:&lt;br /&gt;
+exc1: algorithmically controlled interleaved-fragments, tanh:&lt;br /&gt;
 &lt;p&gt;&lt;/p&gt;
 &lt;audio controls=&quot;&quot; style=&quot;width: 100%&quot; preload=&quot;none&quot;&gt;
   &lt;source src=&quot;http://localhost:4000/images/otto_frag_inter_tanh.mp3&quot; type=&quot;audio/mpeg&quot; /&gt;
@@ -30,7 +30,7 @@ OTTOsonics exc1: algorithmically controlled interleaved-fragments, tanh:&lt;br /
 &lt;p&gt;&lt;br /&gt;&lt;/p&gt;
 
 &lt;p&gt;
-OTTOsonics exc2: algorithmically controlled circular retrig-fragments, pitchsh:&lt;br /&gt;
+exc2: algorithmically controlled circular retrig-fragments, pitchsh:&lt;br /&gt;
 &lt;p&gt;&lt;/p&gt;
 &lt;audio controls=&quot;&quot; style=&quot;width: 100%&quot; preload=&quot;none&quot;&gt;
   &lt;source src=&quot;http://localhost:4000/images/otto_circular_retrig_pitsh.mp3&quot; type=&quot;audio/mpeg&quot; /&gt;
@@ -40,7 +40,7 @@ OTTOsonics exc2: algorithmically controlled circular retrig-fragments, pitchsh:&
 &lt;p&gt;&lt;br /&gt;&lt;/p&gt;
 
 &lt;p&gt;
-OTTOsonics exc3: feedback, high density overlap:&lt;br /&gt;
+exc3: feedback, high density overlap:&lt;br /&gt;
 &lt;p&gt;&lt;/p&gt;
 &lt;audio controls=&quot;&quot; style=&quot;width: 100%&quot; preload=&quot;none&quot;&gt;
   &lt;source src=&quot;http://localhost:4000/images/otto_high-density_overlap.mp3&quot; type=&quot;audio/mpeg&quot; /&gt;
@@ -50,7 +50,7 @@ OTTOsonics exc3: feedback, high density overlap:&lt;br /&gt;
 &lt;p&gt;&lt;br /&gt;&lt;/p&gt;
 
 &lt;p&gt;
-OTTOsonics exc4: animal, modulation:&lt;br /&gt;
+exc4: animal, modulation:&lt;br /&gt;
 &lt;p&gt;&lt;/p&gt;
 &lt;audio controls=&quot;&quot; style=&quot;width: 100%&quot; preload=&quot;none&quot;&gt;
   &lt;source src=&quot;http://localhost:4000/images/otto_animal1.mp3&quot; type=&quot;audio/mpeg&quot; /&gt;
@@ -60,7 +60,7 @@ OTTOsonics exc4: animal, modulation:&lt;br /&gt;
 &lt;p&gt;&lt;br /&gt;&lt;/p&gt;
 
 &lt;p&gt;
-OTTOsonics exc5: animal2, modulation:&lt;br /&gt;
+exc5: animal2, modulation:&lt;br /&gt;
 &lt;p&gt;&lt;/p&gt;
 &lt;audio controls=&quot;&quot; style=&quot;width: 100%&quot; preload=&quot;none&quot;&gt;
   &lt;source src=&quot;http://localhost:4000/images/otto_animal2.mp3&quot; type=&quot;audio/mpeg&quot; /&gt;
@@ -70,10 +70,30 @@ OTTOsonics exc5: animal2, modulation:&lt;br /&gt;
 &lt;p&gt;&lt;br /&gt;&lt;/p&gt;
 
 &lt;p&gt;
-OTTOsonics exc6: cross modulation, distortion:&lt;br /&gt;
+exc6: cross modulation, distortion:&lt;br /&gt;
 &lt;p&gt;&lt;/p&gt;
 &lt;audio controls=&quot;&quot; style=&quot;width: 100%&quot; preload=&quot;none&quot;&gt;
   &lt;source src=&quot;http://localhost:4000/images/otto_cross_modulation_dist.mp3&quot; type=&quot;audio/mpeg&quot; /&gt;
+&lt;/audio&gt;
+&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;
+exc7: animal3, oscillations:&lt;br /&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;audio controls=&quot;&quot; style=&quot;width: 100%&quot; preload=&quot;none&quot;&gt;
+  &lt;source src=&quot;http://localhost:4000/images/otto_animal-oscillations.mp3&quot; type=&quot;audio/mpeg&quot; /&gt;
+&lt;/audio&gt;
+&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;
+exc8: animal4, oscillations:&lt;br /&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;audio controls=&quot;&quot; style=&quot;width: 100%&quot; preload=&quot;none&quot;&gt;
+  &lt;source src=&quot;http://localhost:4000/images/otto_animal-oscillations2.mp3&quot; type=&quot;audio/mpeg&quot; /&gt;
 &lt;/audio&gt;
 &lt;/p&gt;
 
