@@ -142,9 +142,10 @@ JB :
   #   - "Archive"
 
   # sidebar items, if 'show_worktitle_sidebar: true' (in pages, posts layout -defs)
-  works_projects_list:   
-    - "Acoustic Shadows"
+  works_projects_list:
+    - "Animal Voice Pavilion"  
     - "The Sea"
+    - "Acoustic Shadows"
     - "Unterm Pflaster liegt der Strand"  
     - "mononoke"
     - "Arcardian Gate"
@@ -156,6 +157,7 @@ JB :
     - "Flash"
     - "Transient Hole"
     - "Triptychon of lost media"
+    - "Animal Voice Orchestra"
     - "Faux Terrain"
     - "Ottos Mops"
     - "Pachinko"

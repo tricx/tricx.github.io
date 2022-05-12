@@ -25,6 +25,7 @@ http://tricx.github.io/rss.xml
 http://tricx.github.io/sitemap.txt
 http://tricx.github.io/tags
 
+http://tricx.github.io/2022/04/29/animal_voice_pavilion
 http://tricx.github.io/2022/03/15/recordings
 http://tricx.github.io/2021/02/04/the_sea
 http://tricx.github.io/2021/02/04/acoustic_shadows
@@ -39,6 +40,7 @@ http://tricx.github.io/2017/03/02/attractor
 http://tricx.github.io/2017/02/18/flash
 http://tricx.github.io/2017/02/17/transient_hole
 http://tricx.github.io/2016/01/21/triptychon_of_lost_media
+http://tricx.github.io/2016/01/20/animal_voice_orchestra
 http://tricx.github.io/2015/12/12/faux_terrain
 http://tricx.github.io/2013/12/28/ottos_mops
 http://tricx.github.io/2013/12/27/pachinko
