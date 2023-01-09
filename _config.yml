@@ -143,7 +143,8 @@ JB :
 
   # sidebar items, if 'show_worktitle_sidebar: true' (in pages, posts layout -defs)
   works_projects_list:
-    - "Animal Voice Pavilion"  
+    - "Animal Voice Pavilion"
+    - "Popp Up Maze 256"   
     - "The Sea"
     - "Acoustic Shadows"
     - "Unterm Pflaster liegt der Strand"  
