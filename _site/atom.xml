@@ -4,7 +4,7 @@
  <title>Tricx</title>
  <link href="http://tricx.github.io/" rel="self"/>
  <link href="http://tricx.github.io"/>
- <updated>2022-05-12T18:33:26+02:00</updated>
+ <updated>2023-01-10T00:52:08+01:00</updated>
  <id>http://tricx.github.io</id>
  <author>
    <name>Paul Gruendorfer</name>
@@ -13,23 +13,393 @@
 
  
  <entry>
-   <title>Animal_voice_pavilion</title>
-   <link href="http://tricx.github.io/2022/04/29/animal_voice_pavilion"/>
-   <updated>2022-04-29T00:00:00+02:00</updated>
-   <id>http://tricx.github.io/2022/04/29/animal_voice_pavilion</id>
+   <title>Recordings</title>
+   <link href="http://tricx.github.io/2022/10/15/recordings"/>
+   <updated>2022-10-15T00:00:00+02:00</updated>
+   <id>http://tricx.github.io/2022/10/15/recordings</id>
+   <content type="html">
+&lt;p&gt;&lt;br /&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;h4&gt;&lt;a href=&quot;/2022/10/15/recordings&quot;&gt;&lt;/a&gt;recordings&lt;/h4&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;
+exc1: algorithmically controlled interleaved-fragments, tanh:&lt;br /&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;audio controls=&quot;&quot; style=&quot;width: 100%&quot; preload=&quot;none&quot;&gt;
+  &lt;source src=&quot;http://localhost:4000/images/otto_frag_inter_tanh.mp3&quot; type=&quot;audio/mpeg&quot; /&gt;
+&lt;/audio&gt;
+&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;
+exc2: algorithmically controlled circular retrig-fragments, pitchsh:&lt;br /&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;audio controls=&quot;&quot; style=&quot;width: 100%&quot; preload=&quot;none&quot;&gt;
+  &lt;source src=&quot;http://localhost:4000/images/otto_circular_retrig_pitsh.mp3&quot; type=&quot;audio/mpeg&quot; /&gt;
+&lt;/audio&gt;
+&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;
+exc3: feedback, high density overlap:&lt;br /&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;audio controls=&quot;&quot; style=&quot;width: 100%&quot; preload=&quot;none&quot;&gt;
+  &lt;source src=&quot;http://localhost:4000/images/otto_high-density_overlap.mp3&quot; type=&quot;audio/mpeg&quot; /&gt;
+&lt;/audio&gt;
+&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;
+exc4: animal, modulation:&lt;br /&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;audio controls=&quot;&quot; style=&quot;width: 100%&quot; preload=&quot;none&quot;&gt;
+  &lt;source src=&quot;http://localhost:4000/images/otto_animal1.mp3&quot; type=&quot;audio/mpeg&quot; /&gt;
+&lt;/audio&gt;
+&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;
+exc5: animal2, modulation:&lt;br /&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;audio controls=&quot;&quot; style=&quot;width: 100%&quot; preload=&quot;none&quot;&gt;
+  &lt;source src=&quot;http://localhost:4000/images/otto_animal2.mp3&quot; type=&quot;audio/mpeg&quot; /&gt;
+&lt;/audio&gt;
+&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;
+exc6: cross modulation, distortion:&lt;br /&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;audio controls=&quot;&quot; style=&quot;width: 100%&quot; preload=&quot;none&quot;&gt;
+  &lt;source src=&quot;http://localhost:4000/images/otto_cross_modulation_dist.mp3&quot; type=&quot;audio/mpeg&quot; /&gt;
+&lt;/audio&gt;
+&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;
+exc7: animal3, oscillations:&lt;br /&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;audio controls=&quot;&quot; style=&quot;width: 100%&quot; preload=&quot;none&quot;&gt;
+  &lt;source src=&quot;http://localhost:4000/images/otto_animal-oscillations.mp3&quot; type=&quot;audio/mpeg&quot; /&gt;
+&lt;/audio&gt;
+&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;
+exc8: animal4, oscillations:&lt;br /&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;audio controls=&quot;&quot; style=&quot;width: 100%&quot; preload=&quot;none&quot;&gt;
+  &lt;source src=&quot;http://localhost:4000/images/otto_animal-oscillations2.mp3&quot; type=&quot;audio/mpeg&quot; /&gt;
+&lt;/audio&gt;
+&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+</content>
+ </entry>
+ 
+ <entry>
+   <title>The_sea</title>
+   <link href="http://tricx.github.io/2021/02/04/the_sea"/>
+   <updated>2021-02-04T00:00:00+01:00</updated>
+   <id>http://tricx.github.io/2021/02/04/the_sea</id>
    <content type="html">
 &lt;div class=&quot;container-parent&quot;&gt;
 &lt;div class=&quot;container-narrow-right&quot;&gt;
 
 	
 	
-&lt;h4&gt;&lt;a href=&quot;/2022/04/29/animal_voice_pavilion&quot;&gt;&lt;/a&gt;animal-voice-pavilion&lt;/h4&gt;
+
+	
+	
+&lt;h4&gt;&lt;a href=&quot;/2021/02/04/the_sea&quot;&gt;&lt;/a&gt;The Sea&lt;/h4&gt;
 	
 
 	
 	
 
 	
+	
+
+	
+	
+
+	
+	
+
+	
+	
+
+	
+	
+
+	
+	
+
+	
+	
+
+	
+	
+
+	
+	
+
+	
+	
+
+	
+	
+
+	
+	
+
+	
+	
+
+	
+	
+
+	
+	
+
+	
+	
+
+	
+	
+
+	
+	
+
+	
+	
+
+	
+	
+
+	
+	
+
+	
+	
+
+	
+	
+
+	
+	
+
+	
+	
+
+
+&lt;p&gt;
+generative audio installation, 2021&lt;br /&gt;
+2,5m cube, latex foil, motors
+PD-0.50-2&lt;br /&gt;
+with &lt;a href=&quot;https://leo.ok.ag/&quot; target=&quot;_blank&quot; style=&quot;text-decoration:none; color: grey&quot;&gt;Leo Peschta&lt;/a&gt;&lt;br /&gt;
+&lt;br /&gt;
+
+The sea is an auditive and visual sculpture, configured as an open, never repeating process of audio waves.&lt;br /&gt;
+An elastic latex foil is stretched between 4 linear axes driven by stepper motors dividing the space in 3 dimensions. The shape of the sculpture relates to generative processes connected to a DSP-audio platform and the scheduler for the motor movement on the 4 axes of the cube.
+&lt;br /&gt;&lt;br /&gt;
+The Sea is an extraction of a complex natural phenomenon resulting in an artificial emulation, developing a life-form of its own. Like the ‘real’ sea as an endless repetition of waves, a natural system which results in complex variations over time, it follows the impact of an immersive state, leading to a dystopian vision of an artificial generator. The combination of the stretched foil and the evolvement of the sound result in a highly dynamic, but only seemingly chaotic system, able to generate associations that range from the swell of the ocean to a science-fiction setting. But it should also enable the viewer to perceive the latex foil for what it actually represents - a vibration floating in space.
+&lt;/p&gt;
+&lt;/div&gt;
+
+
+&lt;div class=&quot;container-narrow-left&quot;&gt;
+&lt;img src=&quot;http://localhost:4000/images/theseadoku2_sm.jpg&quot; loading=&quot;eager&quot; alt=&quot;image&quot; /&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;img src=&quot;http://localhost:4000/images/theseadoku4er_sm.jpg&quot; loading=&quot;eager&quot; alt=&quot;image&quot; /&gt;
+&lt;p&gt;documentation at Kunstverein ve.sch, photos by Martin Vesely&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+
+
+
+&lt;video controls=&quot;&quot; preload=&quot;none&quot; poster=&quot;http://localhost:4000/images/the_sea_poster2.jpg&quot; width=&quot;100%&quot; height=&quot;auto&quot;&gt;
+  &lt;source src=&quot;http://localhost:4000/images/the_sea_vesch_smaller.mp4&quot; type=&quot;video/mp4&quot; /&gt;
+&lt;/video&gt;
+
+&lt;img src=&quot;http://localhost:4000/images/the_sea_graph.jpg&quot; loading=&quot;eager&quot; alt=&quot;image&quot; /&gt;
+&lt;p&gt;graph for motor control, Leo Peschta&lt;/p&gt;
+&lt;br /&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;img src=&quot;http://localhost:4000/images/the_sea_pd.jpg&quot; loading=&quot;eager&quot; alt=&quot;image&quot; /&gt;
+&lt;p&gt;screenshot PD-0.50-2, Paul Gründorfer&lt;/p&gt;
+
+
+
+
+&lt;p&gt;&lt;/p&gt;
+&lt;img src=&quot;http://localhost:4000/images/the_sea_foil_sm.jpg&quot; loading=&quot;eager&quot; alt=&quot;image&quot; /&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Popp_up_maze256</title>
+   <link href="http://tricx.github.io/2021/01/30/popp_up_maze256"/>
+   <updated>2021-01-30T00:00:00+01:00</updated>
+   <id>http://tricx.github.io/2021/01/30/popp_up_maze256</id>
+   <content type="html">
+&lt;div class=&quot;container-parent&quot;&gt;
+&lt;div class=&quot;container-narrow-right&quot;&gt;
+
+	
+	
+
+	
+	
+
+	
+	
+&lt;h4&gt;&lt;a href=&quot;/2021/01/30/popp_up_maze256&quot;&gt;&lt;/a&gt;Popp-Up-Maze 256&lt;/h4&gt;
+	
+
+	
+	
+
+	
+	
+
+	
+	
+
+	
+	
+
+	
+	
+
+	
+	
+
+	
+	
+
+	
+	
+
+	
+	
+
+	
+	
+
+	
+	
+
+	
+	
+
+	
+	
+
+	
+	
+
+	
+	
+
+	
+	
+
+	
+	
+
+	
+	
+
+	
+	
+
+	
+	
+
+	
+	
+
+	
+	
+
+	
+	
+
+	
+	
+
+	
+	
+
+
+&lt;p&gt;
+dimensions variable, construction marking paint 2022&lt;br /&gt;
+in collaboration with Sophie Dvořák
+&lt;br /&gt;&lt;br /&gt;
+this intervention was done for 
+&lt;a href=&quot;https://www.variable.cc/&quot; target=&quot;_blank&quot; style=&quot;text-decoration:none; color: grey&quot;&gt;dimensions variable # 2022&lt;/a&gt;, a platform for artistic position in urban space and different dimensions...
+&lt;br /&gt;&lt;br /&gt;
+The arcade game Pac-Man is the starting point of the site-specific intervention Popp-Up-Maze 256. The video game marks the transition from electromechanical to computer-controlled slot machines in 1980, making it one of the first games to move from a real to virtual space. It could mark the start in a simulated world.
+
+The playing area of the game is transferred to the Eduard-Popp-Hof. The warp mode known from Pac-Man, the moment of exiting and simultaneously entering on the other side of the playing field, spreads within the Eduard Popp settlement. In &quot;Pop-Up-Maze 256&quot; the warp, which is placeless and timeless in the game, becomes a walk-in space, an expanded city playing field, in which symbols and protagonists from the arcade game can be found, which are visually oriented to floor markings at construction sites and road works. The intervention is also an offer to follow the signs of the city.
+
+&lt;/p&gt;
+&lt;/div&gt;
+
+
+&lt;div class=&quot;container-narrow-left&quot;&gt;
+&lt;img src=&quot;http://localhost:4000/images/popp-maze_sm1.jpg&quot; loading=&quot;lazy&quot; alt=&quot;image&quot; /&gt;
+&lt;p&gt;&lt;/p&gt;
+
+&lt;img src=&quot;http://localhost:4000/images/popp-maze_sm3a.jpg&quot; loading=&quot;lazy&quot; alt=&quot;image&quot; /&gt;
+&lt;p&gt;&lt;/p&gt;
+
+&lt;img src=&quot;http://localhost:4000/images/popp-maze_sm5.png&quot; loading=&quot;lazy&quot; alt=&quot;image&quot; /&gt;
+&lt;p&gt;&lt;/p&gt;
+
+
+
+&lt;/div&gt;
+&lt;/div&gt;
+
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Animal_voice_pavilion</title>
+   <link href="http://tricx.github.io/2021/01/29/animal_voice_pavilion"/>
+   <updated>2021-01-29T00:00:00+01:00</updated>
+   <id>http://tricx.github.io/2021/01/29/animal_voice_pavilion</id>
+   <content type="html">
+&lt;div class=&quot;container-parent&quot;&gt;
+&lt;div class=&quot;container-narrow-right&quot;&gt;
+
+	
+	
+
+	
+	
+
+	
+	
+
+	
+	
+&lt;h4&gt;&lt;a href=&quot;/2021/01/29/animal_voice_pavilion&quot;&gt;&lt;/a&gt;animal-voice-pavilion&lt;/h4&gt;
 	
 
 	
@@ -147,245 +517,10 @@ audio recording excerpt:
  </entry>
  
  <entry>
-   <title>Recordings</title>
-   <link href="http://tricx.github.io/2022/03/15/recordings"/>
-   <updated>2022-03-15T00:00:00+01:00</updated>
-   <id>http://tricx.github.io/2022/03/15/recordings</id>
-   <content type="html">
-&lt;p&gt;&lt;br /&gt;&lt;br /&gt;&lt;/p&gt;
-
-&lt;h4&gt;&lt;a href=&quot;/2022/03/15/recordings&quot;&gt;&lt;/a&gt;recordings&lt;/h4&gt;
-
-&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
-
-&lt;p&gt;
-exc1: algorithmically controlled interleaved-fragments, tanh:&lt;br /&gt;
-&lt;p&gt;&lt;/p&gt;
-&lt;audio controls=&quot;&quot; style=&quot;width: 100%&quot; preload=&quot;none&quot;&gt;
-  &lt;source src=&quot;http://localhost:4000/images/otto_frag_inter_tanh.mp3&quot; type=&quot;audio/mpeg&quot; /&gt;
-&lt;/audio&gt;
-&lt;/p&gt;
-
-&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
-
-&lt;p&gt;
-exc2: algorithmically controlled circular retrig-fragments, pitchsh:&lt;br /&gt;
-&lt;p&gt;&lt;/p&gt;
-&lt;audio controls=&quot;&quot; style=&quot;width: 100%&quot; preload=&quot;none&quot;&gt;
-  &lt;source src=&quot;http://localhost:4000/images/otto_circular_retrig_pitsh.mp3&quot; type=&quot;audio/mpeg&quot; /&gt;
-&lt;/audio&gt;
-&lt;/p&gt;
-
-&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
-
-&lt;p&gt;
-exc3: feedback, high density overlap:&lt;br /&gt;
-&lt;p&gt;&lt;/p&gt;
-&lt;audio controls=&quot;&quot; style=&quot;width: 100%&quot; preload=&quot;none&quot;&gt;
-  &lt;source src=&quot;http://localhost:4000/images/otto_high-density_overlap.mp3&quot; type=&quot;audio/mpeg&quot; /&gt;
-&lt;/audio&gt;
-&lt;/p&gt;
-
-&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
-
-&lt;p&gt;
-exc4: animal, modulation:&lt;br /&gt;
-&lt;p&gt;&lt;/p&gt;
-&lt;audio controls=&quot;&quot; style=&quot;width: 100%&quot; preload=&quot;none&quot;&gt;
-  &lt;source src=&quot;http://localhost:4000/images/otto_animal1.mp3&quot; type=&quot;audio/mpeg&quot; /&gt;
-&lt;/audio&gt;
-&lt;/p&gt;
-
-&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
-
-&lt;p&gt;
-exc5: animal2, modulation:&lt;br /&gt;
-&lt;p&gt;&lt;/p&gt;
-&lt;audio controls=&quot;&quot; style=&quot;width: 100%&quot; preload=&quot;none&quot;&gt;
-  &lt;source src=&quot;http://localhost:4000/images/otto_animal2.mp3&quot; type=&quot;audio/mpeg&quot; /&gt;
-&lt;/audio&gt;
-&lt;/p&gt;
-
-&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
-
-&lt;p&gt;
-exc6: cross modulation, distortion:&lt;br /&gt;
-&lt;p&gt;&lt;/p&gt;
-&lt;audio controls=&quot;&quot; style=&quot;width: 100%&quot; preload=&quot;none&quot;&gt;
-  &lt;source src=&quot;http://localhost:4000/images/otto_cross_modulation_dist.mp3&quot; type=&quot;audio/mpeg&quot; /&gt;
-&lt;/audio&gt;
-&lt;/p&gt;
-
-&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
-
-&lt;p&gt;
-exc7: animal3, oscillations:&lt;br /&gt;
-&lt;p&gt;&lt;/p&gt;
-&lt;audio controls=&quot;&quot; style=&quot;width: 100%&quot; preload=&quot;none&quot;&gt;
-  &lt;source src=&quot;http://localhost:4000/images/otto_animal-oscillations.mp3&quot; type=&quot;audio/mpeg&quot; /&gt;
-&lt;/audio&gt;
-&lt;/p&gt;
-
-&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
-
-&lt;p&gt;
-exc8: animal4, oscillations:&lt;br /&gt;
-&lt;p&gt;&lt;/p&gt;
-&lt;audio controls=&quot;&quot; style=&quot;width: 100%&quot; preload=&quot;none&quot;&gt;
-  &lt;source src=&quot;http://localhost:4000/images/otto_animal-oscillations2.mp3&quot; type=&quot;audio/mpeg&quot; /&gt;
-&lt;/audio&gt;
-&lt;/p&gt;
-
-&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
-
-</content>
- </entry>
- 
- <entry>
-   <title>The_sea</title>
-   <link href="http://tricx.github.io/2021/02/04/the_sea"/>
-   <updated>2021-02-04T00:00:00+01:00</updated>
-   <id>http://tricx.github.io/2021/02/04/the_sea</id>
-   <content type="html">
-&lt;div class=&quot;container-parent&quot;&gt;
-&lt;div class=&quot;container-narrow-right&quot;&gt;
-
-	
-	
-
-	
-	
-
-	
-	
-&lt;h4&gt;&lt;a href=&quot;/2021/02/04/the_sea&quot;&gt;&lt;/a&gt;The Sea&lt;/h4&gt;
-	
-
-	
-	
-
-	
-	
-
-	
-	
-
-	
-	
-
-	
-	
-
-	
-	
-
-	
-	
-
-	
-	
-
-	
-	
-
-	
-	
-
-	
-	
-
-	
-	
-
-	
-	
-
-	
-	
-
-	
-	
-
-	
-	
-
-	
-	
-
-	
-	
-
-	
-	
-
-	
-	
-
-	
-	
-
-	
-	
-
-	
-	
-
-	
-	
-
-
-&lt;p&gt;
-generative audio installation, 2020/21&lt;br /&gt;
-2,5m cube, latex foil, motors
-PD-0.50-2&lt;br /&gt;
-with &lt;a href=&quot;https://leo.ok.ag/&quot; target=&quot;_blank&quot; style=&quot;text-decoration:none; color: grey&quot;&gt;Leo Peschta&lt;/a&gt;&lt;br /&gt;
-&lt;br /&gt;
-
-The sea is an auditive and visual sculpture, configured as an open, never repeating process of audio waves.&lt;br /&gt;
-An elastic latex foil is stretched between 4 linear axes driven by stepper motors dividing the space in 3 dimensions. The shape of the sculpture relates to generative processes connected to a DSP-audio platform and the scheduler for the motor movement on the 4 axes of the cube.
-&lt;br /&gt;&lt;br /&gt;
-The Sea is an extraction of a complex natural phenomenon resulting in an artificial emulation, developing a life-form of its own. Like the ‘real’ sea as an endless repetition of waves, a natural system which results in complex variations over time, it follows the impact of an immersive state, leading to a dystopian vision of an artificial generator. The combination of the stretched foil and the evolvement of the sound result in a highly dynamic, but only seemingly chaotic system, able to generate associations that range from the swell of the ocean to a science-fiction setting. But it should also enable the viewer to perceive the latex foil for what it actually represents - a vibration floating in space.
-&lt;/p&gt;
-&lt;/div&gt;
-
-
-&lt;div class=&quot;container-narrow-left&quot;&gt;
-&lt;img src=&quot;http://localhost:4000/images/theseadoku2_sm.jpg&quot; loading=&quot;eager&quot; alt=&quot;image&quot; /&gt;
-&lt;p&gt;&lt;/p&gt;
-&lt;img src=&quot;http://localhost:4000/images/theseadoku4er_sm.jpg&quot; loading=&quot;eager&quot; alt=&quot;image&quot; /&gt;
-&lt;p&gt;documentation at Kunstverein ve.sch, photos by Martin Vesely&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;
-
-
-
-&lt;video controls=&quot;&quot; preload=&quot;none&quot; poster=&quot;http://localhost:4000/images/the_sea_poster2.jpg&quot; width=&quot;100%&quot; height=&quot;auto&quot;&gt;
-  &lt;source src=&quot;http://localhost:4000/images/the_sea_vesch_smaller.mp4&quot; type=&quot;video/mp4&quot; /&gt;
-&lt;/video&gt;
-
-&lt;img src=&quot;http://localhost:4000/images/the_sea_graph.jpg&quot; loading=&quot;eager&quot; alt=&quot;image&quot; /&gt;
-&lt;p&gt;graph for motor control, Leo Peschta&lt;/p&gt;
-&lt;br /&gt;
-&lt;p&gt;&lt;/p&gt;
-&lt;img src=&quot;http://localhost:4000/images/the_sea_pd.jpg&quot; loading=&quot;eager&quot; alt=&quot;image&quot; /&gt;
-&lt;p&gt;screenshot PD-0.50-2, Paul Gründorfer&lt;/p&gt;
-
-
-
-
-&lt;p&gt;&lt;/p&gt;
-&lt;img src=&quot;http://localhost:4000/images/the_sea_foil_sm.jpg&quot; loading=&quot;eager&quot; alt=&quot;image&quot; /&gt;
-&lt;p&gt;&lt;/p&gt;
-&lt;/div&gt;
-&lt;/div&gt;
-
-</content>
- </entry>
- 
- <entry>
    <title>Acoustic_shadows</title>
-   <link href="http://tricx.github.io/2021/02/04/acoustic_shadows"/>
-   <updated>2021-02-04T00:00:00+01:00</updated>
-   <id>http://tricx.github.io/2021/02/04/acoustic_shadows</id>
+   <link href="http://tricx.github.io/2021/01/04/acoustic_shadows"/>
+   <updated>2021-01-04T00:00:00+01:00</updated>
+   <id>http://tricx.github.io/2021/01/04/acoustic_shadows</id>
    <content type="html">
 &lt;div class=&quot;container-parent&quot;&gt;
 &lt;div class=&quot;container-narrow-right&quot;&gt;
@@ -401,7 +536,10 @@ The Sea is an extraction of a complex natural phenomenon resulting in an artific
 
 	
 	
-&lt;h4&gt;&lt;a href=&quot;/2021/02/04/acoustic_shadows&quot;&gt;&lt;/a&gt;Acoustic Shadows&lt;/h4&gt;
+
+	
+	
+&lt;h4&gt;&lt;a href=&quot;/2021/01/04/acoustic_shadows&quot;&gt;&lt;/a&gt;Acoustic Shadows&lt;/h4&gt;
 	
 
 	
@@ -543,6 +681,9 @@ just the room recording and with less amplification:
 
 	
 	
+
+	
+	
 &lt;h4&gt;&lt;a href=&quot;/2020/10/13/unterm_pflaster_liegt_der_strand&quot;&gt;&lt;/a&gt;Unterm Pflaster liegt der Strand&lt;/h4&gt;
 	
 
@@ -648,6 +789,9 @@ The text is translated to latin, so it resembles often used honorable mentions o
    <content type="html">
 &lt;div class=&quot;container-parent&quot;&gt;
 &lt;div class=&quot;container-narrow-right&quot;&gt;
+
+	
+	
 
 	
 	
@@ -808,6 +952,9 @@ Reflections and Refractions of a laser that scans plastic bottles are translated
 
 	
 	
+
+	
+	
 &lt;h4&gt;&lt;a href=&quot;/2018/06/01/arcardian_gate&quot;&gt;&lt;/a&gt;Arcadian Gate&lt;/h4&gt;
 	
 
@@ -946,6 +1093,9 @@ http://wikimapia.org/4832019/Arcadian-Gate&lt;/a&gt;
 
 	
 	
+
+	
+	
 &lt;h4&gt;&lt;a href=&quot;/2018/05/27/pigeons&quot;&gt;&lt;/a&gt;鸽子&lt;/h4&gt;
 	
 
@@ -1055,6 +1205,9 @@ Besides this interest, there is the old tradition to let pigeons fly with specia
    <content type="html">
 &lt;div class=&quot;container-parent&quot;&gt;
 &lt;div class=&quot;container-narrow-right&quot;&gt;
+
+	
+	
 
 	
 	
@@ -1247,6 +1400,9 @@ The project Centre and Periphery picked up this field of tension in order to dea
 
 	
 	
+
+	
+	
 &lt;h4&gt;&lt;a href=&quot;/2017/12/29/la_pica_del_gaviota&quot;&gt;&lt;/a&gt;La picá del Gaviota&lt;/h4&gt;
 	
 
@@ -1353,6 +1509,9 @@ First you have to agree, what is a “Picá”? In Chile they call “Picá” r
    <content type="html">
 &lt;div class=&quot;container-parent&quot;&gt;
 &lt;div class=&quot;container-narrow-right&quot;&gt;
+
+	
+	
 
 	
 	
@@ -1538,6 +1697,9 @@ Love to the beat of the show. [...]&lt;br /&gt;
 
 	
 	
+
+	
+	
 &lt;h4&gt;&lt;a href=&quot;/2017/03/02/attractor&quot;&gt;&lt;/a&gt;Attractor&lt;/h4&gt;
 	
 
@@ -1640,6 +1802,9 @@ As a site specific intervention the Attractor is built in a public space, connec
    <content type="html">
 &lt;div class=&quot;container-parent&quot;&gt;
 &lt;div class=&quot;container-narrow-right&quot;&gt;
+
+	
+	
 
 	
 	
@@ -1809,6 +1974,9 @@ The project AM-Feld / Soviet Noise, is a cooperation with &lt;a href=&quot;www.a
 
 	
 	
+
+	
+	
 &lt;h4&gt;&lt;a href=&quot;/2017/02/17/transient_hole&quot;&gt;&lt;/a&gt;Transient Hole (Variations)&lt;/h4&gt;
 	
 
@@ -1899,6 +2067,9 @@ Berlin, 2018&lt;br /&gt;
    <content type="html">
 &lt;div class=&quot;container-parent&quot;&gt;
 &lt;div class=&quot;container-narrow-right&quot;&gt;
+
+	
+	
 
 	
 	
@@ -2083,6 +2254,9 @@ in June 2015.
 
 	
 	
+
+	
+	
 &lt;h4&gt;&lt;a href=&quot;/2016/01/20/animal_voice_orchestra&quot;&gt;&lt;/a&gt;animal-voice-orchestra&lt;/h4&gt;
 	
 
@@ -2202,6 +2376,9 @@ Electronic circuits are interconnected to cause semi-natural entities, autonomou
 
 	
 	
+
+	
+	
 &lt;h4&gt;&lt;a href=&quot;/2015/12/12/faux_terrain&quot;&gt;&lt;/a&gt;Audio - Visual Performance / Faux Terrain&lt;/h4&gt;
 	
 
@@ -2267,6 +2444,9 @@ in cooperation with Claudia Larcher&lt;br /&gt;
    <content type="html">
 &lt;div class=&quot;container-parent&quot;&gt;
 &lt;div class=&quot;container-narrow-right&quot;&gt;
+
+	
+	
 
 	
 	
@@ -2448,6 +2628,9 @@ The robot moves around the exhibition space, orienting itself based on the event
 
 	
 	
+
+	
+	
 &lt;h4&gt;&lt;a href=&quot;/2013/12/27/pachinko&quot;&gt;&lt;/a&gt;Pachinko&lt;/h4&gt;
 	
 
@@ -2506,6 +2689,9 @@ Pachinko is played by more than 30% of the Japanese population. It is based on t
    <content type="html">
 &lt;div class=&quot;container-parent&quot;&gt;
 &lt;div class=&quot;container-narrow-right&quot;&gt;
+
+	
+	
 
 	
 	
@@ -2739,6 +2925,9 @@ for diy-zither, cymbal, contact microphone, live granular synthesis, live record
 
 	
 	
+
+	
+	
 &lt;h4&gt;&lt;a href=&quot;/2013/10/17/zweistimmige_inventionen&quot;&gt;&lt;/a&gt;Zweistimmige Inventionen&lt;/h4&gt;
 	
 
@@ -2801,6 +2990,9 @@ Considerations to the themes, areas and associations, which could form some of t
    <content type="html">
 &lt;div class=&quot;container-parent&quot;&gt;
 &lt;div class=&quot;container-narrow-right&quot;&gt;
+
+	
+	
 
 	
 	
@@ -2997,6 +3189,9 @@ Birds in a cage.&lt;br /&gt;&lt;br /&gt;
 
 	
 	
+
+	
+	
 &lt;h4&gt;&lt;a href=&quot;/2013/10/15/undefined_falling_objects&quot;&gt;&lt;/a&gt;Undefined Falling Objects&lt;/h4&gt;
 	
 
@@ -3042,6 +3237,9 @@ The film loop shows permanently turning maple seeds, in density and speed variab
    <content type="html">
 &lt;div class=&quot;container-parent&quot;&gt;
 &lt;div class=&quot;container-narrow-right&quot;&gt;
+
+	
+	
 
 	
 	
@@ -3234,13 +3432,23 @@ was part of: &lt;a href=&quot;http://velak.klingt.org/&quot; style=&quot;color:g
 
 &lt;p&gt;&lt;br /&gt;&lt;b&gt;2022&lt;/b&gt;&lt;br /&gt;&lt;/p&gt;
 
-&lt;p&gt;live w/ Mikko Savela, Prag, Vienna, Innsbruck, t.b.a Italy, June 2022&lt;/p&gt;
+&lt;p&gt;liveset at ping-pong session, academy of fine arts - Prospekthof, Vienna[AT], dec 30 2022&lt;br /&gt;&lt;/p&gt;
 
-&lt;p&gt;Terra Ignota, Museo de Artes Contemporaneo, Parque Forestal, Santiago de Chile [CL], may 3 2022&lt;br /&gt;&lt;/p&gt;
+&lt;p&gt;psychosis w/ Mikko Savela, sitting in a room #3 Neuer Wiener Musikverein, das Lot, Vienna[AT], dec 10 2022&lt;br /&gt;&lt;/p&gt;
 
-&lt;p&gt;animal-voice-pavilion w/ Fabian Lanzmaier, Brux / Vorbrenner, Innsbruck [AT], apr 28-30 2022&lt;br /&gt;&lt;/p&gt;
+&lt;p&gt;popp-up-maze 256, vermessungspunkt, dimensions variable#, Vienna[AT], sep 17- oct 30 2022&lt;br /&gt;&lt;/p&gt;
 
-&lt;p&gt;PH, cauliflowers festival, Prospekthof, Vienna [AT], apr 15 2022&lt;br /&gt;&lt;/p&gt;
+&lt;p&gt;tz, w/ Mikko Savela, A2, Punctum, Prag[CZ], jun 23 2022&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;tz, w/ Mikko Savela, verschub, pmk, Innsbruck[AT], jun 17 2022&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;tz, w/ Mikko Savela, velak, Klangtheater - mdw, Vienna[AT], jun 11 2022&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;Terra Ignota, Museo de Artes Contemporaneo, Parque Forestal, Santiago de Chile[CL], may 3 2022&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;animal-voice-pavilion w/ Fabian Lanzmaier, Brux / Vorbrenner, Innsbruck[AT], apr 28-30 2022&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;PH, cauliflowers festival, Prospekthof, Vienna[AT], apr 15 2022&lt;br /&gt;&lt;/p&gt;
 
 &lt;p&gt;cybersalon, w/ Alexander Felch, stream/London[UK], jan 16 2022&lt;br /&gt;&lt;/p&gt;
 
@@ -3653,7 +3861,7 @@ __________
 &lt;b&gt;MuttTricx:&lt;/b&gt;&lt;br /&gt;
 
 Ljublana - AKC Metelkova Mesto, 6.9.2013 &lt;br /&gt; 
-Hattendorf - Container, 7.9.2014 &lt;br /&gt;
+Hattendorf - Container, 7.9.2013 &lt;br /&gt;
 Wien - Rhiz, 8.9.2013 &lt;br /&gt;
 Brno - Boro, 10.9.2013 &lt;br /&gt;             
 Praha - cafe na pul cesty, 11.9.2013 &lt;br /&gt;

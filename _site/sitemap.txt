@@ -25,10 +25,11 @@ http://tricx.github.io/rss.xml
 http://tricx.github.io/sitemap.txt
 http://tricx.github.io/tags
 
-http://tricx.github.io/2022/04/29/animal_voice_pavilion
-http://tricx.github.io/2022/03/15/recordings
+http://tricx.github.io/2022/10/15/recordings
 http://tricx.github.io/2021/02/04/the_sea
-http://tricx.github.io/2021/02/04/acoustic_shadows
+http://tricx.github.io/2021/01/30/popp_up_maze256
+http://tricx.github.io/2021/01/29/animal_voice_pavilion
+http://tricx.github.io/2021/01/04/acoustic_shadows
 http://tricx.github.io/2020/10/13/unterm_pflaster_liegt_der_strand
 http://tricx.github.io/2019/08/04/mononoke
 http://tricx.github.io/2018/06/01/arcardian_gate
