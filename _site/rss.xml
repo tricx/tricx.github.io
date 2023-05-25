@@ -5,104 +5,146 @@
         <description>Tricx - Paul Gruendorfer</description>
         <link>http://tricx.github.io</link>
         <link>http://tricx.github.io</link>
-        <lastBuildDate>2023-01-10T00:52:08+01:00</lastBuildDate>
-        <pubDate>2023-01-10T00:52:08+01:00</pubDate>
+        <lastBuildDate>2023-05-25T16:34:13+02:00</lastBuildDate>
+        <pubDate>2023-05-25T16:34:13+02:00</pubDate>
         <ttl>1800</ttl>
 
 
         <item>
-                <title>Recordings</title>
+                <title>Ila</title>
                 <description>
-&lt;p&gt;&lt;br /&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;div class=&quot;container-parent&quot;&gt;
+&lt;div class=&quot;container-narrow-right&quot;&gt;
 
-&lt;h4&gt;&lt;a href=&quot;/2022/10/15/recordings&quot;&gt;&lt;/a&gt;recordings&lt;/h4&gt;
+	
+	
+&lt;h4&gt;&lt;a href=&quot;/2023/05/01/ila&quot;&gt;&lt;/a&gt;ILA&lt;/h4&gt;
+	
 
-&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+	
+	
+
+	
+	
+
+	
+	
+
+	
+	
+
+	
+	
+
+	
+	
+
+	
+	
+
+	
+	
+
+	
+	
+
+	
+	
+
+	
+	
+
+	
+	
+
+	
+	
+
+	
+	
+
+	
+	
+
+	
+	
+
+	
+	
+
+	
+	
+
+	
+	
+
+	
+	
+
+	
+	
+
+	
+	
+
+	
+	
+
+	
+	
+
+	
+	
+
+	
+	
+
+	
+	
+
+	
+	
+
 
 &lt;p&gt;
-exc1: algorithmically controlled interleaved-fragments, tanh:&lt;br /&gt;
-&lt;p&gt;&lt;/p&gt;
-&lt;audio controls=&quot;&quot; style=&quot;width: 100%&quot; preload=&quot;none&quot;&gt;
-  &lt;source src=&quot;http://localhost:4000/images/otto_frag_inter_tanh.mp3&quot; type=&quot;audio/mpeg&quot; /&gt;
-&lt;/audio&gt;
+immersive light actions, 2023&lt;br /&gt;
+audio modulated LED -white, rgb
+PD-0.50-2&lt;br /&gt;
+&lt;br /&gt;
+
+high intesity audio modulated light frequenices, research of phantom presence in spaces, discursive animal sounds,..&lt;br /&gt;
+
 &lt;/p&gt;
+&lt;/div&gt;
 
-&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
 
-&lt;p&gt;
-exc2: algorithmically controlled circular retrig-fragments, pitchsh:&lt;br /&gt;
+&lt;div class=&quot;container-narrow-left&quot;&gt;
+
+&lt;video controls=&quot;&quot; preload=&quot;none&quot; poster=&quot;http://localhost:4000/images/led_vesch_vid_poster.jpg&quot; width=&quot;100%&quot; height=&quot;auto&quot;&gt;
+  &lt;source src=&quot;http://localhost:4000/images/led_vesch_sm7.mp4&quot; type=&quot;video/mp4&quot; /&gt;
+&lt;/video&gt;
+
 &lt;p&gt;&lt;/p&gt;
-&lt;audio controls=&quot;&quot; style=&quot;width: 100%&quot; preload=&quot;none&quot;&gt;
-  &lt;source src=&quot;http://localhost:4000/images/otto_circular_retrig_pitsh.mp3&quot; type=&quot;audio/mpeg&quot; /&gt;
-&lt;/audio&gt;
-&lt;/p&gt;
+&lt;img src=&quot;http://localhost:4000/images/led_red_sm.jpg&quot; loading=&quot;eager&quot; alt=&quot;image&quot; width=&quot;50%&quot; height=&quot;auto&quot; style=&quot;float: left&quot; /&gt;
 
-&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;video controls=&quot;&quot; preload=&quot;none&quot; poster=&quot;http://localhost:4000/images/led_vesch_ila_poster.jpg&quot; width=&quot;50%&quot; height=&quot;auto&quot;&gt;
+  &lt;source src=&quot;http://localhost:4000/images/led_vesch_ila_ffm.mp4&quot; type=&quot;video/mp4&quot; /&gt;
+&lt;/video&gt;
 
-&lt;p&gt;
-exc3: feedback, high density overlap:&lt;br /&gt;
+&lt;p&gt;documentation at Kunstverein ve.sch, videos by Sophie Dvořák and Sophie Kim&lt;/p&gt;
 &lt;p&gt;&lt;/p&gt;
-&lt;audio controls=&quot;&quot; style=&quot;width: 100%&quot; preload=&quot;none&quot;&gt;
-  &lt;source src=&quot;http://localhost:4000/images/otto_high-density_overlap.mp3&quot; type=&quot;audio/mpeg&quot; /&gt;
-&lt;/audio&gt;
-&lt;/p&gt;
 
-&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
-
-&lt;p&gt;
-exc4: animal, modulation:&lt;br /&gt;
+&lt;img src=&quot;http://localhost:4000/images/led_vesch_cam2_sm.jpg&quot; loading=&quot;eager&quot; alt=&quot;image&quot; /&gt;
 &lt;p&gt;&lt;/p&gt;
-&lt;audio controls=&quot;&quot; style=&quot;width: 100%&quot; preload=&quot;none&quot;&gt;
-  &lt;source src=&quot;http://localhost:4000/images/otto_animal1.mp3&quot; type=&quot;audio/mpeg&quot; /&gt;
-&lt;/audio&gt;
-&lt;/p&gt;
-
-&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
-
-&lt;p&gt;
-exc5: animal2, modulation:&lt;br /&gt;
+&lt;img src=&quot;http://localhost:4000/images/led_electr_sm.jpg&quot; loading=&quot;eager&quot; alt=&quot;image&quot; /&gt;
 &lt;p&gt;&lt;/p&gt;
-&lt;audio controls=&quot;&quot; style=&quot;width: 100%&quot; preload=&quot;none&quot;&gt;
-  &lt;source src=&quot;http://localhost:4000/images/otto_animal2.mp3&quot; type=&quot;audio/mpeg&quot; /&gt;
-&lt;/audio&gt;
-&lt;/p&gt;
-
-&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
-
-&lt;p&gt;
-exc6: cross modulation, distortion:&lt;br /&gt;
-&lt;p&gt;&lt;/p&gt;
-&lt;audio controls=&quot;&quot; style=&quot;width: 100%&quot; preload=&quot;none&quot;&gt;
-  &lt;source src=&quot;http://localhost:4000/images/otto_cross_modulation_dist.mp3&quot; type=&quot;audio/mpeg&quot; /&gt;
-&lt;/audio&gt;
-&lt;/p&gt;
-
-&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
-
-&lt;p&gt;
-exc7: animal3, oscillations:&lt;br /&gt;
-&lt;p&gt;&lt;/p&gt;
-&lt;audio controls=&quot;&quot; style=&quot;width: 100%&quot; preload=&quot;none&quot;&gt;
-  &lt;source src=&quot;http://localhost:4000/images/otto_animal-oscillations.mp3&quot; type=&quot;audio/mpeg&quot; /&gt;
-&lt;/audio&gt;
-&lt;/p&gt;
-
-&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
-
-&lt;p&gt;
-exc8: animal4, oscillations:&lt;br /&gt;
-&lt;p&gt;&lt;/p&gt;
-&lt;audio controls=&quot;&quot; style=&quot;width: 100%&quot; preload=&quot;none&quot;&gt;
-  &lt;source src=&quot;http://localhost:4000/images/otto_animal-oscillations2.mp3&quot; type=&quot;audio/mpeg&quot; /&gt;
-&lt;/audio&gt;
-&lt;/p&gt;
-
-&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
 
 </description>
-                <link>http://tricx.github.io/2022/10/15/recordings</link>
-                <guid>http://tricx.github.io/2022/10/15/recordings</guid>
-                <pubDate>2022-10-15T00:00:00+02:00</pubDate>
+                <link>http://tricx.github.io/2023/05/01/ila</link>
+                <guid>http://tricx.github.io/2023/05/01/ila</guid>
+                <pubDate>2023-05-01T00:00:00+02:00</pubDate>
         </item>
 
         <item>
@@ -117,6 +159,9 @@ exc8: animal4, oscillations:&lt;br /&gt;
 	
 	
 &lt;h4&gt;&lt;a href=&quot;/2021/02/04/the_sea&quot;&gt;&lt;/a&gt;The Sea&lt;/h4&gt;
+	
+
+	
 	
 
 	
@@ -340,6 +385,9 @@ The Sea is an extraction of a complex natural phenomenon resulting in an artific
 	
 	
 
+	
+	
+
 
 &lt;p&gt;
 dimensions variable, construction marking paint 2022&lt;br /&gt;
@@ -469,14 +517,21 @@ The playing area of the game is transferred to the Eduard-Popp-Hof. The warp mod
 	
 	
 
+	
+	
+
 
 &lt;p&gt;
 generative audio installation 2022&lt;br /&gt;
 in collaboration with Fabian Lanzmaier
 &lt;br /&gt;&lt;br /&gt;
 
-An autonomous system is initiated by means of electromechanical and analogue/digital sound generators positioned in the room. The installation is designed as an independent network organism, is started and left to its own devices. By examining sound as a processual medium, the question of sound as an independent presence in space is pursued. Connections of electronic circuits and digital sound processors are treated as entities to create semi-natural, autonomous organisms. A kind of half-animal, the electronic machine as a mimesis of an organic world, where the voice and the language process are generated through different applications of feedback networks.
+An autonomous system is initiated by means of electromechanical, analogue and digital sound generators positioned in a space. The installation is designed as an independent network organism. Connections of electronic circuits and digital sound processors are treated as entities to create semi-natural, squeaking, stuttering, throbbing and singing organisms. A kind of half-animal. The electronic machine as a mimesis of an organic world, where the voice and the language process are generated through different models of feedback networks. &lt;br /&gt;
+By working with real-time audio systems and feedback, its resistance and autonomy reflects an open generative state that does not follow a fixed sequence. Therefore the installation finds itself in different auditory stages, where it follows the idea of the machine as a natural, unpredictable entity outside a preconfigured and determined process. A continuous ecosystem started and left to its own. Examining sound as a processual medium, pursuing the question of sound as an independent presence in space.
+
+
 &lt;br /&gt;&lt;br /&gt;
+
 
 &lt;p&gt;&lt;/p&gt;
 audio recording excerpt:
@@ -487,6 +542,9 @@ audio recording excerpt:
 
 &lt;/p&gt;
 &lt;/div&gt;
+
+
+
 
 
 &lt;div class=&quot;container-narrow-left&quot;&gt;
@@ -535,6 +593,9 @@ audio recording excerpt:
 	
 	
 &lt;h4&gt;&lt;a href=&quot;/2021/01/04/acoustic_shadows&quot;&gt;&lt;/a&gt;Acoustic Shadows&lt;/h4&gt;
+	
+
+	
 	
 
 	
@@ -748,6 +809,9 @@ just the room recording and with less amplification:
 	
 	
 
+	
+	
+
 
 &lt;p&gt;
 installation, public display, at &lt;a href=&quot;http://variable.cc&quot; target=&quot;_blank&quot;&gt;dimensions variable #, Semi Public Art&lt;/a&gt;, Vienna, Hietzing, 2020&lt;br /&gt;
@@ -806,6 +870,9 @@ The text is translated to latin, so it resembles often used honorable mentions o
 	
 	
 &lt;h4&gt;&lt;a href=&quot;/2019/08/04/mononoke&quot;&gt;&lt;/a&gt;MONO-NO-KE&lt;/h4&gt;
+	
+
+	
 	
 
 	
@@ -1013,6 +1080,9 @@ Reflections and Refractions of a laser that scans plastic bottles are translated
 	
 	
 
+	
+	
+
 
 &lt;p&gt;
 Site Specific Installation, 2018&lt;br /&gt;
@@ -1092,6 +1162,9 @@ http://wikimapia.org/4832019/Arcadian-Gate&lt;/a&gt;
 	
 	
 &lt;h4&gt;&lt;a href=&quot;/2018/05/27/pigeons&quot;&gt;&lt;/a&gt;鸽子&lt;/h4&gt;
+	
+
+	
 	
 
 	
@@ -1231,6 +1304,9 @@ Besides this interest, there is the old tradition to let pigeons fly with specia
 	
 	
 &lt;h4&gt;&lt;a href=&quot;/2017/12/30/centre_and_periphery&quot;&gt;&lt;/a&gt;Centre and Periphery&lt;/h4&gt;
+	
+
+	
 	
 
 	
@@ -1452,6 +1528,9 @@ The project Centre and Periphery picked up this field of tension in order to dea
 	
 	
 
+	
+	
+
 
 &lt;p&gt;
 action during the festival Tsonami for Acts of Listening, Valparaíso, Chile, dec 10 2017&lt;br /&gt; 
@@ -1541,6 +1620,9 @@ First you have to agree, what is a “Picá”? In Chile they call “Picá” r
 	
 	
 &lt;h4&gt;&lt;a href=&quot;/2017/07/24/am_land&quot;&gt;&lt;/a&gt;AM Land&lt;/h4&gt;
+	
+
+	
 	
 
 	
@@ -1743,6 +1825,9 @@ Love to the beat of the show. [...]&lt;br /&gt;
 	
 	
 
+	
+	
+
 
 &lt;p&gt;
 Site Specific  - Light Installation, 2017&lt;br /&gt;
@@ -1840,6 +1925,9 @@ As a site specific intervention the Attractor is built in a public space, connec
 	
 	
 &lt;h4&gt;&lt;a href=&quot;/2017/02/18/flash&quot;&gt;&lt;/a&gt;Flash&lt;/h4&gt;
+	
+
+	
 	
 
 	
@@ -2014,6 +2102,9 @@ The project AM-Feld / Soviet Noise, is a cooperation with &lt;a href=&quot;www.a
 	
 	
 
+	
+	
+
 
 
 &lt;p&gt;
@@ -2111,6 +2202,9 @@ Berlin, 2018&lt;br /&gt;
 	
 	
 &lt;h4&gt;&lt;a href=&quot;/2016/01/21/triptychon_of_lost_media&quot;&gt;&lt;/a&gt;Triptychon of lost media - I&lt;/h4&gt;
+	
+
+	
 	
 
 	
@@ -2288,6 +2382,9 @@ in June 2015.
 	
 	
 
+	
+	
+
 
 &lt;p&gt;
 live performance / since 2016&lt;br /&gt;
@@ -2375,6 +2472,9 @@ Electronic circuits are interconnected to cause semi-natural entities, autonomou
 	
 	
 &lt;h4&gt;&lt;a href=&quot;/2015/12/12/faux_terrain&quot;&gt;&lt;/a&gt;Audio - Visual Performance / Faux Terrain&lt;/h4&gt;
+	
+
+	
 	
 
 	
@@ -2497,6 +2597,9 @@ in cooperation with Claudia Larcher&lt;br /&gt;
 	
 	
 &lt;h4&gt;&lt;a href=&quot;/2013/12/28/ottos_mops&quot;&gt;&lt;/a&gt;Ottos Mops&lt;/h4&gt;
+	
+
+	
 	
 
 	
@@ -2653,6 +2756,9 @@ The robot moves around the exhibition space, orienting itself based on the event
 	
 	
 
+	
+	
+
 
 
 &lt;p&gt;
@@ -2748,6 +2854,9 @@ Pachinko is played by more than 30% of the Japanese population. It is based on t
 	
 	
 &lt;h4&gt;&lt;a href=&quot;/2013/12/26/a_car_from_above&quot;&gt;&lt;/a&gt;A Car from ABove&lt;/h4&gt;
+	
+
+	
 	
 
 	
@@ -2941,6 +3050,9 @@ for diy-zither, cymbal, contact microphone, live granular synthesis, live record
 	
 	
 
+	
+	
+
 
 
 
@@ -3058,6 +3170,9 @@ Considerations to the themes, areas and associations, which could form some of t
 	
 	
 &lt;h4&gt;&lt;a href=&quot;/2013/10/16/bicycle_and_birds&quot;&gt;&lt;/a&gt;Bicycle and Birds&lt;/h4&gt;
+	
+
+	
 	
 
 	
@@ -3199,6 +3314,9 @@ Birds in a cage.&lt;br /&gt;&lt;br /&gt;
 	
 	
 
+	
+	
+
 
 &lt;p&gt;
 Film - Installation, 2006&lt;br /&gt;
@@ -3319,6 +3437,9 @@ The film loop shows permanently turning maple seeds, in density and speed variab
 	
 	
 
+	
+	
+
 
 &lt;p&gt;
 Action, Academy of fine Arts Vienna, 2004&lt;br /&gt;
@@ -3351,6 +3472,12 @@ Happening during the entrance examinations at the academy of fine arts Vienna. A
                 <description>
 &lt;p&gt;&lt;br /&gt;
 &lt;!-- &lt;h5&gt;live / actions / performance&lt;/h5&gt; --&gt;&lt;/p&gt;
+
+&lt;p&gt;ILA at vesch, apr 2023&lt;br /&gt;&lt;/p&gt;
+&lt;video controls=&quot;&quot; preload=&quot;none&quot; poster=&quot;http://localhost:4000/images/led_vesch_vid_poster.jpg&quot; width=&quot;100%&quot; height=&quot;auto&quot;&gt;
+  &lt;source src=&quot;http://localhost:4000/images/led_vesch_sm7.mp4&quot; type=&quot;video/mp4&quot; /&gt;
+&lt;/video&gt;
+&lt;p&gt;&lt;br /&gt;&lt;br /&gt;&lt;/p&gt;
 
 &lt;p&gt;live at äquidistanz festival, Republik Kugelmugel, sept 2020&lt;br /&gt;&lt;/p&gt;
 &lt;video controls=&quot;&quot; preload=&quot;none&quot; poster=&quot;http://localhost:4000/images/kuglmugl_poster.jpg&quot; width=&quot;100%&quot; height=&quot;100%&quot;&gt;
@@ -3404,26 +3531,41 @@ Audio - Visual Performance / Faux Terrain - w / Claudia Larcher, may 2016&lt;br 
                 <title>Index</title>
                 <description>
 &lt;div style=&quot;font-weight:lighter&quot;&gt;
+
 &lt;br /&gt;
-Artistic work in the scope of conceptual and process art, site specific intervention, sound sculpture, performances. &lt;br /&gt;
-Paul Gründorfer is currently working on installations and interventions that deal with functional methods and question the spatial conditions. &lt;br /&gt;
-He develops process-related test structures and examines variable or unstable systems for their perceptibility and reception.
+Paul Gründorfer works in the scope of conceptual and process art, site specific intervention, sound sculpture and performances. &lt;br /&gt;
+He is currently working on installations and interventions that deal with functional methods and question the spatial conditions. &lt;br /&gt;
+Therefor he develops process-related systems and examines variable or unstable conditions for their perceptibility, reception and their communicative aspects. &lt;br /&gt;
+His works are focused on processes that evolve within a space, where sound is not considered as a solely abstract medium, but also directly connects to and influences the environment and is consequently happening in the area of social spheres. 
 &lt;br /&gt;&lt;br /&gt;
+
+
+
+
+
 contact:&lt;br /&gt;
 paul[at]lefant.net
 &lt;br /&gt;&lt;br /&gt;
 some other stuff on: &lt;a href=&quot;https://soundcloud.com/t_a-z&quot; style=&quot;color:grey&quot; target=&quot;_blank&quot;&gt;soundcloud&lt;/a&gt;
 
 &lt;br /&gt;&lt;br /&gt;
+is part of: &lt;a href=&quot;http://velak.klingt.org/&quot; style=&quot;color:grey&quot; target=&quot;_blank&quot;&gt;velak&lt;/a&gt;&lt;br /&gt;
 recently active at: &lt;a href=&quot;http://www.variable.cc&quot; style=&quot;color:grey&quot; target=&quot;_blank&quot;&gt;dimensions variable #&lt;/a&gt;&lt;br /&gt;
 is co-founder of: &lt;a href=&quot;http://zentrale.jetzt/&quot; style=&quot;color:grey&quot; target=&quot;_blank&quot;&gt;Zentrale&lt;/a&gt;&lt;br /&gt;
-was part of: &lt;a href=&quot;http://velak.klingt.org/&quot; style=&quot;color:grey&quot; target=&quot;_blank&quot;&gt;velak&lt;/a&gt;&lt;br /&gt;
 &lt;/div&gt;
 
 &lt;p&gt;&lt;br /&gt;&lt;br /&gt;&lt;/p&gt;
 &lt;hr /&gt;
 
 &lt;div style=&quot;color:white&quot;&gt;NOW:&lt;/div&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;b&gt;2023&lt;/b&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;dj-set, bar-babu, Vienna[AT], may 20 2023 &lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;ILA, ve.sch, Vienna[AT], apr 11 2023 &lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;ila, MinusZwei, Vienna[AT], mar 15 2023 &lt;br /&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;br /&gt;&lt;b&gt;2022&lt;/b&gt;&lt;br /&gt;&lt;/p&gt;
 
@@ -3909,6 +4051,101 @@ Brut, Vienna[AT], oct 15 2010&lt;br /&gt;
                 <link>http://tricx.github.io/2010/02/23/index</link>
                 <guid>http://tricx.github.io/2010/02/23/index</guid>
                 <pubDate>2010-02-23T00:00:00+01:00</pubDate>
+        </item>
+
+        <item>
+                <title>Recordings</title>
+                <description>
+&lt;p&gt;&lt;br /&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;h4&gt;&lt;a href=&quot;/2009/10/15/recordings&quot;&gt;&lt;/a&gt;recordings&lt;/h4&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;
+exc1: algorithmically controlled interleaved-fragments, tanh:&lt;br /&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;audio controls=&quot;&quot; style=&quot;width: 100%&quot; preload=&quot;none&quot;&gt;
+  &lt;source src=&quot;http://localhost:4000/images/otto_frag_inter_tanh.mp3&quot; type=&quot;audio/mpeg&quot; /&gt;
+&lt;/audio&gt;
+&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;
+exc2: algorithmically controlled circular retrig-fragments, pitchsh:&lt;br /&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;audio controls=&quot;&quot; style=&quot;width: 100%&quot; preload=&quot;none&quot;&gt;
+  &lt;source src=&quot;http://localhost:4000/images/otto_circular_retrig_pitsh.mp3&quot; type=&quot;audio/mpeg&quot; /&gt;
+&lt;/audio&gt;
+&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;
+exc3: feedback, high density overlap:&lt;br /&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;audio controls=&quot;&quot; style=&quot;width: 100%&quot; preload=&quot;none&quot;&gt;
+  &lt;source src=&quot;http://localhost:4000/images/otto_high-density_overlap.mp3&quot; type=&quot;audio/mpeg&quot; /&gt;
+&lt;/audio&gt;
+&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;
+exc4: animal, modulation:&lt;br /&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;audio controls=&quot;&quot; style=&quot;width: 100%&quot; preload=&quot;none&quot;&gt;
+  &lt;source src=&quot;http://localhost:4000/images/otto_animal1.mp3&quot; type=&quot;audio/mpeg&quot; /&gt;
+&lt;/audio&gt;
+&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;
+exc5: animal2, modulation:&lt;br /&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;audio controls=&quot;&quot; style=&quot;width: 100%&quot; preload=&quot;none&quot;&gt;
+  &lt;source src=&quot;http://localhost:4000/images/otto_animal2.mp3&quot; type=&quot;audio/mpeg&quot; /&gt;
+&lt;/audio&gt;
+&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;
+exc6: cross modulation, distortion:&lt;br /&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;audio controls=&quot;&quot; style=&quot;width: 100%&quot; preload=&quot;none&quot;&gt;
+  &lt;source src=&quot;http://localhost:4000/images/otto_cross_modulation_dist.mp3&quot; type=&quot;audio/mpeg&quot; /&gt;
+&lt;/audio&gt;
+&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;
+exc7: animal3, oscillations:&lt;br /&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;audio controls=&quot;&quot; style=&quot;width: 100%&quot; preload=&quot;none&quot;&gt;
+  &lt;source src=&quot;http://localhost:4000/images/otto_animal-oscillations.mp3&quot; type=&quot;audio/mpeg&quot; /&gt;
+&lt;/audio&gt;
+&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;
+exc8: animal4, oscillations:&lt;br /&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;audio controls=&quot;&quot; style=&quot;width: 100%&quot; preload=&quot;none&quot;&gt;
+  &lt;source src=&quot;http://localhost:4000/images/otto_animal-oscillations2.mp3&quot; type=&quot;audio/mpeg&quot; /&gt;
+&lt;/audio&gt;
+&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+</description>
+                <link>http://tricx.github.io/2009/10/15/recordings</link>
+                <guid>http://tricx.github.io/2009/10/15/recordings</guid>
+                <pubDate>2009-10-15T00:00:00+02:00</pubDate>
         </item>
 
 

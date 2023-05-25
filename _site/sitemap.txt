@@ -25,7 +25,7 @@ http://tricx.github.io/rss.xml
 http://tricx.github.io/sitemap.txt
 http://tricx.github.io/tags
 
-http://tricx.github.io/2022/10/15/recordings
+http://tricx.github.io/2023/05/01/ila
 http://tricx.github.io/2021/02/04/the_sea
 http://tricx.github.io/2021/01/30/popp_up_maze256
 http://tricx.github.io/2021/01/29/animal_voice_pavilion
@@ -53,3 +53,4 @@ http://tricx.github.io/2013/10/15/undefined_falling_objects
 http://tricx.github.io/2013/10/01/flieger
 http://tricx.github.io/2013/02/05/sound
 http://tricx.github.io/2010/02/23/index
+http://tricx.github.io/2009/10/15/recordings
