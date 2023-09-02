@@ -20,6 +20,18 @@ JB :
 
 
 {% comment %}
+<br />
+
+<p>
+docu recording from ila at vesch 2023:<br />
+<p></p>
+<audio controls style="width: 100%" preload="none">
+  <source src="{{ site.url }}/images/paul_gruendorfer_set_ila_vesch2023.mp3" type="audio/mpeg">
+</audio>
+</p>
+{% endcomment %}
+
+{% comment %}
 
 <embed height="100%" width="100%" src="{{ site.url }}/images/IFP_proposal.pdf" type="application/pdf" /><br /><br />
 
@@ -34,6 +46,11 @@ recording of pigeon whistles, Beijing 2012:<br />
 </p>
 
 {% endcomment %}
+
+
+
+
+{% comment %}
 
 
 <br />
@@ -119,6 +136,7 @@ exc8: animal4, oscillations:<br />
 
 <br />
 
+{% endcomment %}
 
 {% comment %}
 <font color="grey">(c)<br /></font>
