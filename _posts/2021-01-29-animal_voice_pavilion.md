@@ -56,8 +56,11 @@ An autonomous system is initiated by means of electromechanical and analogue/dig
 <img src="{{ site.url }}/images/avp_speakers-nu.jpg" loading="lazy" alt="image">
 <p></p>
 
+{% comment %}
 <img src="{{ site.url }}/images/avp_table.jpg" loading="lazy" alt="image">
 <p></p>
+{% endcomment %}
+
 
 <img src="{{ site.url }}/images/avp_overview.jpg" loading="lazy" alt="image">
 <p></p>
