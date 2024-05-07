@@ -4,13 +4,149 @@
  <title>Tricx</title>
  <link href="http://tricx.github.io/" rel="self"/>
  <link href="http://tricx.github.io"/>
- <updated>2024-02-06T18:29:32+01:00</updated>
+ <updated>2024-05-07T19:02:32+02:00</updated>
  <id>http://tricx.github.io</id>
  <author>
    <name>Paul Gruendorfer</name>
    <email>paul@lefant.net</email>
  </author>
 
+ 
+ <entry>
+   <title>Towers</title>
+   <link href="http://tricx.github.io/2024/05/07/towers"/>
+   <updated>2024-05-07T00:00:00+02:00</updated>
+   <id>http://tricx.github.io/2024/05/07/towers</id>
+   <content type="html">
+&lt;div class=&quot;container-parent&quot;&gt;
+&lt;div class=&quot;container-narrow-right&quot;&gt;
+
+	
+	
+
+	
+	
+&lt;h4&gt;&lt;a href=&quot;/2023/05/01/ila&quot;&gt;&lt;/a&gt;towers&lt;/h4&gt;
+	
+
+	
+	
+
+	
+	
+
+	
+	
+
+	
+	
+
+	
+	
+
+	
+	
+
+	
+	
+
+	
+	
+
+	
+	
+
+	
+	
+
+	
+	
+
+	
+	
+
+	
+	
+
+	
+	
+
+	
+	
+
+	
+	
+
+	
+	
+
+	
+	
+
+	
+	
+
+	
+	
+
+	
+	
+
+	
+	
+
+	
+	
+
+	
+	
+
+	
+	
+
+	
+	
+
+	
+	
+
+	
+	
+
+
+&lt;p&gt;
+soundsystem, 2024&lt;br /&gt;
+cone speakers, preassure chamber speakers, tripods&lt;br /&gt;
+&lt;br /&gt;
+
+a multitimbral diffusion system for amplifying resonance and to enhance non-locateable soundsources ~&lt;br /&gt;
+
+&lt;/p&gt;
+&lt;/div&gt;
+
+
+&lt;div class=&quot;container-narrow-left&quot;&gt;
+
+
+&lt;img src=&quot;http://localhost:4000/images/towers_thin_sm.jpg&quot; loading=&quot;eager&quot; alt=&quot;image&quot; /&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;img src=&quot;http://localhost:4000/images/towers_mf2_sm.jpg&quot; loading=&quot;eager&quot; alt=&quot;image&quot; /&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;img src=&quot;http://localhost:4000/images/towers_studio_sm.jpg&quot; loading=&quot;eager&quot; alt=&quot;image&quot; /&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;img src=&quot;http://localhost:4000/images/towers_speaker_sm.jpg&quot; loading=&quot;eager&quot; alt=&quot;image&quot; width=&quot;49.5%&quot; height=&quot;auto&quot; style=&quot;float: left&quot; /&gt;
+&lt;img src=&quot;http://localhost:4000/images/towers_detail_sm.jpg&quot; loading=&quot;eager&quot; alt=&quot;image&quot; width=&quot;50%&quot; height=&quot;auto&quot; style=&quot;float: right&quot; /&gt;
+
+
+
+
+
+
+&lt;/div&gt;
+&lt;/div&gt;
+
+</content>
+ </entry>
  
  <entry>
    <title>Ila</title>
@@ -20,6 +156,9 @@
    <content type="html">
 &lt;div class=&quot;container-parent&quot;&gt;
 &lt;div class=&quot;container-narrow-right&quot;&gt;
+
+	
+	
 
 	
 	
@@ -141,8 +280,8 @@ high intensity audio modulated light frequencies, research of phantom presence i
 
 &lt;img src=&quot;http://localhost:4000/images/led_vesch_cam2_sm.jpg&quot; loading=&quot;eager&quot; alt=&quot;image&quot; /&gt;
 &lt;p&gt;&lt;/p&gt;
-&lt;img src=&quot;http://localhost:4000/images/led_electr_sm.jpg&quot; loading=&quot;eager&quot; alt=&quot;image&quot; /&gt;
-&lt;p&gt;&lt;/p&gt;
+
+
 &lt;/div&gt;
 &lt;/div&gt;
 
@@ -157,6 +296,9 @@ high intensity audio modulated light frequencies, research of phantom presence i
    <content type="html">
 &lt;div class=&quot;container-parent&quot;&gt;
 &lt;div class=&quot;container-narrow-right&quot;&gt;
+
+	
+	
 
 	
 	
@@ -276,12 +418,8 @@ The Sea is an extraction of a complex natural phenomenon resulting in an artific
   &lt;source src=&quot;http://localhost:4000/images/the_sea_vesch_smaller.mp4&quot; type=&quot;video/mp4&quot; /&gt;
 &lt;/video&gt;
 
-&lt;img src=&quot;http://localhost:4000/images/the_sea_graph.jpg&quot; loading=&quot;eager&quot; alt=&quot;image&quot; /&gt;
-&lt;p&gt;graph for motor control, Leo Peschta&lt;/p&gt;
-&lt;br /&gt;
-&lt;p&gt;&lt;/p&gt;
-&lt;img src=&quot;http://localhost:4000/images/the_sea_pd.jpg&quot; loading=&quot;eager&quot; alt=&quot;image&quot; /&gt;
-&lt;p&gt;screenshot PD-0.50-2, Paul Gründorfer&lt;/p&gt;
+
+
 
 
 
@@ -303,6 +441,9 @@ The Sea is an extraction of a complex natural phenomenon resulting in an artific
    <content type="html">
 &lt;div class=&quot;container-parent&quot;&gt;
 &lt;div class=&quot;container-narrow-right&quot;&gt;
+
+	
+	
 
 	
 	
@@ -435,6 +576,9 @@ The playing area of the game is transferred to the Eduard-Popp-Hof. The warp mod
    <content type="html">
 &lt;div class=&quot;container-parent&quot;&gt;
 &lt;div class=&quot;container-narrow-right&quot;&gt;
+
+	
+	
 
 	
 	
@@ -582,6 +726,9 @@ audio recording excerpt:
    <content type="html">
 &lt;div class=&quot;container-parent&quot;&gt;
 &lt;div class=&quot;container-narrow-right&quot;&gt;
+
+	
+	
 
 	
 	
@@ -745,6 +892,9 @@ just the room recording and with less amplification:
 
 	
 	
+
+	
+	
 &lt;h4&gt;&lt;a href=&quot;/2020/10/13/unterm_pflaster_liegt_der_strand&quot;&gt;&lt;/a&gt;Unterm Pflaster liegt der Strand&lt;/h4&gt;
 	
 
@@ -853,6 +1003,9 @@ The text is translated to latin, so it resembles often used honorable mentions o
    <content type="html">
 &lt;div class=&quot;container-parent&quot;&gt;
 &lt;div class=&quot;container-narrow-right&quot;&gt;
+
+	
+	
 
 	
 	
@@ -1022,6 +1175,9 @@ Reflections and Refractions of a laser that scans plastic bottles are translated
 
 	
 	
+
+	
+	
 &lt;h4&gt;&lt;a href=&quot;/2018/06/01/arcardian_gate&quot;&gt;&lt;/a&gt;Arcadian Gate&lt;/h4&gt;
 	
 
@@ -1166,6 +1322,9 @@ http://wikimapia.org/4832019/Arcadian-Gate&lt;/a&gt;
 
 	
 	
+
+	
+	
 &lt;h4&gt;&lt;a href=&quot;/2018/05/27/pigeons&quot;&gt;&lt;/a&gt;鸽子&lt;/h4&gt;
 	
 
@@ -1278,6 +1437,9 @@ Besides this interest, there is the old tradition to let pigeons fly with specia
    <content type="html">
 &lt;div class=&quot;container-parent&quot;&gt;
 &lt;div class=&quot;container-narrow-right&quot;&gt;
+
+	
+	
 
 	
 	
@@ -1479,6 +1641,9 @@ The project Centre and Periphery picked up this field of tension in order to dea
 
 	
 	
+
+	
+	
 &lt;h4&gt;&lt;a href=&quot;/2017/12/29/la_pica_del_gaviota&quot;&gt;&lt;/a&gt;La picá del Gaviota&lt;/h4&gt;
 	
 
@@ -1588,6 +1753,9 @@ First you have to agree, what is a “Picá”? In Chile they call “Picá” r
    <content type="html">
 &lt;div class=&quot;container-parent&quot;&gt;
 &lt;div class=&quot;container-narrow-right&quot;&gt;
+
+	
+	
 
 	
 	
@@ -1782,6 +1950,9 @@ Love to the beat of the show. [...]&lt;br /&gt;
 
 	
 	
+
+	
+	
 &lt;h4&gt;&lt;a href=&quot;/2017/03/02/attractor&quot;&gt;&lt;/a&gt;Attractor&lt;/h4&gt;
 	
 
@@ -1887,6 +2058,9 @@ As a site specific intervention the Attractor is built in a public space, connec
    <content type="html">
 &lt;div class=&quot;container-parent&quot;&gt;
 &lt;div class=&quot;container-narrow-right&quot;&gt;
+
+	
+	
 
 	
 	
@@ -2065,6 +2239,9 @@ The project AM-Feld / Soviet Noise, is a cooperation with &lt;a href=&quot;www.a
 
 	
 	
+
+	
+	
 &lt;h4&gt;&lt;a href=&quot;/2017/02/17/transient_hole&quot;&gt;&lt;/a&gt;Transient Hole (Variations)&lt;/h4&gt;
 	
 
@@ -2158,6 +2335,9 @@ Berlin, 2018&lt;br /&gt;
    <content type="html">
 &lt;div class=&quot;container-parent&quot;&gt;
 &lt;div class=&quot;container-narrow-right&quot;&gt;
+
+	
+	
 
 	
 	
@@ -2351,6 +2531,9 @@ in June 2015.
 
 	
 	
+
+	
+	
 &lt;h4&gt;&lt;a href=&quot;/2016/01/20/animal_voice_orchestra&quot;&gt;&lt;/a&gt;animal-voice-orchestra&lt;/h4&gt;
 	
 
@@ -2476,6 +2659,9 @@ Electronic circuits are interconnected to cause semi-natural entities, autonomou
 
 	
 	
+
+	
+	
 &lt;h4&gt;&lt;a href=&quot;/2015/12/12/faux_terrain&quot;&gt;&lt;/a&gt;Audio - Visual Performance / Faux Terrain&lt;/h4&gt;
 	
 
@@ -2544,6 +2730,9 @@ in cooperation with Claudia Larcher&lt;br /&gt;
    <content type="html">
 &lt;div class=&quot;container-parent&quot;&gt;
 &lt;div class=&quot;container-narrow-right&quot;&gt;
+
+	
+	
 
 	
 	
@@ -2734,6 +2923,9 @@ The robot moves around the exhibition space, orienting itself based on the event
 
 	
 	
+
+	
+	
 &lt;h4&gt;&lt;a href=&quot;/2013/12/27/pachinko&quot;&gt;&lt;/a&gt;Pachinko&lt;/h4&gt;
 	
 
@@ -2795,6 +2987,9 @@ Pachinko is played by more than 30% of the Japanese population. It is based on t
    <content type="html">
 &lt;div class=&quot;container-parent&quot;&gt;
 &lt;div class=&quot;container-narrow-right&quot;&gt;
+
+	
+	
 
 	
 	
@@ -3037,6 +3232,9 @@ for diy-zither, cymbal, contact microphone, live granular synthesis, live record
 
 	
 	
+
+	
+	
 &lt;h4&gt;&lt;a href=&quot;/2013/10/17/zweistimmige_inventionen&quot;&gt;&lt;/a&gt;Zweistimmige Inventionen&lt;/h4&gt;
 	
 
@@ -3102,6 +3300,9 @@ Considerations to the themes, areas and associations, which could form some of t
    <content type="html">
 &lt;div class=&quot;container-parent&quot;&gt;
 &lt;div class=&quot;container-narrow-right&quot;&gt;
+
+	
+	
 
 	
 	
@@ -3307,6 +3508,9 @@ Birds in a cage.&lt;br /&gt;&lt;br /&gt;
 
 	
 	
+
+	
+	
 &lt;h4&gt;&lt;a href=&quot;/2013/10/15/undefined_falling_objects&quot;&gt;&lt;/a&gt;Undefined Falling Objects&lt;/h4&gt;
 	
 
@@ -3355,6 +3559,9 @@ The film loop shows permanently turning maple seeds, in density and speed variab
    <content type="html">
 &lt;div class=&quot;container-parent&quot;&gt;
 &lt;div class=&quot;container-narrow-right&quot;&gt;
+
+	
+	
 
 	
 	
@@ -3566,9 +3773,23 @@ is co-founder of: &lt;a href=&quot;http://zentrale.jetzt/&quot; style=&quot;colo
 
 &lt;div style=&quot;color:white&quot;&gt;NOW:&lt;/div&gt;
 
+&lt;p&gt;tekhnē residency, Q-02, Brussels[BE], may-june 2024&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;File Festival, The Sea w / Leo Peschta, Sao Paulo[BR], jul-aug 2024&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;EMS residency, Stockholm[SE], oct 2024&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;b&gt;2024&lt;/b&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;towers, w / Maria Komarova, open studio at meetfactory, Prague[CZ], may 2 2024&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;a place where paper sound systems grow on flat surfaces and peacocks still have feathers, w / Maria Komarova + Michal Cáb, Petrohradská, Prague[CZ], apr 30 2024&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;shape+ platform residency, w / Maria Komarova + Michal Cáb, meetfactory, Prague[CZ], april 2024&lt;br /&gt;&lt;/p&gt;
+
 &lt;p&gt;&lt;br /&gt;&lt;b&gt;2023&lt;/b&gt;&lt;br /&gt;&lt;/p&gt;
 
-&lt;p&gt;live-set velak x Klub Møntage, Jahresendzeitschokoladenhohlkörperfestival Theater am Werk, Vienna [AT], dec 9 2023 &lt;br /&gt;&lt;/p&gt;
+&lt;p&gt;live-set velak x Klub Møntage, Jahresendzeitschokoladenhohlkörperfestival, Theater am Werk, Vienna[AT], dec 9 2023 &lt;br /&gt;&lt;/p&gt;
 
 &lt;p&gt;duo w/ Mikko Savela, CCL, Lille[FR], nov 9 2023 &lt;br /&gt;&lt;/p&gt;
 
@@ -3610,7 +3831,7 @@ is co-founder of: &lt;a href=&quot;http://zentrale.jetzt/&quot; style=&quot;colo
 
 &lt;p&gt;popp-up-maze 256, vermessungspunkt, dimensions variable#, Vienna[AT], sep 17- oct 30 2022&lt;br /&gt;&lt;/p&gt;
 
-&lt;p&gt;tz, w/ Mikko Savela, A2, Punctum, Prag[CZ], jun 23 2022&lt;br /&gt;&lt;/p&gt;
+&lt;p&gt;tz, w/ Mikko Savela, A2, Punctum, Prague[CZ], jun 23 2022&lt;br /&gt;&lt;/p&gt;
 
 &lt;p&gt;tz, w/ Mikko Savela, verschub, pmk, Innsbruck[AT], jun 17 2022&lt;br /&gt;&lt;/p&gt;
 
@@ -3652,7 +3873,7 @@ is co-founder of: &lt;a href=&quot;http://zentrale.jetzt/&quot; style=&quot;colo
 
 &lt;p&gt;st-mn, w/ Mikko Savlea, Fiducia, Ostrava[CZ], mar 3 2020&lt;br /&gt;&lt;/p&gt;
 
-&lt;p&gt;st-mn, Punctum, Prag[CZ], feb 28 2020&lt;br /&gt;&lt;/p&gt;
+&lt;p&gt;st-mn, Punctum, Prague[CZ], feb 28 2020&lt;br /&gt;&lt;/p&gt;
 
 &lt;p&gt;st-mn, Bludny Kamen, Opava[CZ], feb 27, 2020&lt;br /&gt;&lt;/p&gt;
 

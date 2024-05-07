@@ -143,6 +143,7 @@ JB :
 
   # sidebar items, if 'show_worktitle_sidebar: true' (in pages, posts layout -defs)
   works_projects_list:
+    - "towers"
     - "ILA"
     - "The Sea"
     - "Popp Up Maze256"
