@@ -143,7 +143,7 @@ JB :
 
   # sidebar items, if 'show_worktitle_sidebar: true' (in pages, posts layout -defs)
   works_projects_list:
-    - "towers"
+    - "whisper"
     - "ILA"
     - "The Sea"
     - "Popp Up Maze256"
@@ -183,7 +183,7 @@ JB :
 
   # add this links to dropdown-menu, or to page links
   links_list:
-   - ["Tricx at SC", "https://soundcloud.com/tricx"]
+  # - ["Tricx at SC", "https://soundcloud.com/tricx"]
    - ["Tricx at GH", "https://github.com/tricx"]
     
   links_list_friends:
