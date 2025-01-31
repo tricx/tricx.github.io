@@ -25,6 +25,7 @@ http://tricx.github.io/rss.xml
 http://tricx.github.io/sitemap.txt
 http://tricx.github.io/tags
 
+http://tricx.github.io/2025/01/31/extension
 http://tricx.github.io/2024/05/07/whisper
 http://tricx.github.io/2023/05/01/ila
 http://tricx.github.io/2021/02/04/the_sea
