@@ -13,15 +13,16 @@ JB :
 <div class="container-parent">
 <div class="container-narrow-right">
 {% for post in site.posts %}
-	{% assign pt = post.title | downcase %}
-	{% if 'extension' == pt %}
+  {% assign pt = post.title | downcase %}
+  {% if 'extension' == pt %}
 <h4><a href="{{ BASE_PATH }}{{ post.url }}"></a>extensión</h4>
-	{% endif %}
+  {% endif %}
 {% endfor %}
 
 <p>
-site specific action at mercado de frutas, 16.1.2025 7pm, esquina Chacabuco / Ecuador, Valparaiso, Chile<br />
-+ adaption for gallery display, Galería Municipal Valparaiso<br />
+site specific action + adaption for gallery display<br />
+mercado de frutas / 16.1.2025 7pm esquina Chacabuco/Ecuador, Valparaiso, Chile<br />
+Galería Municipal Valparaiso<br />
 solar sphere, hdpe-foil, carbon-oxide black, tape, fan<br /><br />
 developed for Tsonami Festival Atmosférica 2025<br />
 thanks for the support to Carsten Stabenow, Franciso Fuenzalida, Sebastián Ramón Tapia Núñez, Nicolás Spencer, Pablo Saavedra Arevalo + Tsonami Team - video by Florencia Curci<br /><br />
@@ -31,37 +32,57 @@ thanks for the support to Carsten Stabenow, Franciso Fuenzalida, Sebastián Ram�
 In addition to the auditory focus on interventions with lightweight audio diffusion systems, 'extensión' also wants to involve the question of the presence of spaces and explore the different qualities of subliminal immersion or exposure to unfamiliar elements.
 <br /><br />
 </p>
+
 </div>
 
 
 <div class="container-narrow-left">
-
 <video controls preload="none" poster="{{ site.url }}/images/extension_poster.jpg" width="100%" height="auto">
   <source src="{{ site.url }}/images/extension_sm.mp4" type="video/mp4">
 </video>
+
+<img src="{{ site.url }}/images/extension_sphere_sm.jpg" loading="eager" alt="image" width="44.6%" height="auto" style="float: left">
+<img src="{{ site.url }}/images/extension_location1_sm.jpg" loading="eager" alt="image" width="55.2%" height="auto" style="float: right">
+
+<div class="clearfix"></div>
+<p></p>
+<img src="{{ site.url }}/images/extension_galeria_high_sm2.jpg" loading="eager" alt="image" width="53.1%" height="auto" style="float: left">
+<video controls preload="none" poster="{{ site.url }}/images/extension_galeria_poster.jpg" width="46.36%" height="auto" style="float: right">
+  <source src="{{ site.url }}/images/extension_galeria_sm.mp4" type="video/mp4">
+</video>
+
+<div class="clearfix"></div>
+<p></p>
+<img src="{{ site.url }}/images/extension_plastic_sm.jpg" loading="eager" alt="image" width="25%" height="auto" top="auto" style="float: left">
+<img src="{{ site.url }}/images/extension_black_sm.jpg" loading="eager" alt="image" width="25%" height="auto" style="float: left">
+<img src="{{ site.url }}/images/extension_pa_sm.jpg" loading="eager" alt="image" width="25%" height="auto" style="float: right">
+<img src="{{ site.url }}/images/extension_tire_sm.jpg" loading="eager" alt="image" width="25%" height="auto" style="float: right">
+<div class="clearfix"></div>
+<p></p>
+
+
+</div>
+</div>
+
+
+{% comment %}</div>{% endcomment %}
+
+{% comment %}
+
+<p></p>
+<br /><br /><br /><br /><br /><br /><br /><br />
+
+
+<img src="{{ site.url }}/images/extension_plastic_sm.jpg" loading="eager" alt="image" width="25%" height="auto" top="auto" style="float: left">
+<img src="{{ site.url }}/images/extension_black_sm.jpg" loading="eager" alt="image" width="25%" height="auto" style="float: left">
+<img src="{{ site.url }}/images/extension_pa_sm.jpg" loading="eager" alt="image" width="25%" height="auto" style="float: right">
+<img src="{{ site.url }}/images/extension_tire_sm.jpg" loading="eager" alt="image" width="25%" height="auto" style="float: right">
 
 <img src="{{ site.url }}/images/extension_sphere_sm.jpg" loading="eager" alt="image">
 <p></p>
 <img src="{{ site.url }}/images/extension_location1_sm.jpg" loading="eager" alt="image">
 <p></p>
-<img src="{{ site.url }}/images/extension_galeria_high_sm2.jpg" loading="eager" alt="image" width="53.3%" height="auto" style="float: left">
-<p>
-<video controls preload="none" poster="{{ site.url }}/images/extension_galeria_poster.jpg" width="46.55%" height="auto">
-  <source src="{{ site.url }}/images/extension_galeria_sm.mp4" type="video/mp4">
-</video>
-<p></p>
 
-
-
-<img src="{{ site.url }}/images/extension_plastic_sm.jpg" loading="eager" alt="image" width="25%" height="auto" style="float: left">
-<img src="{{ site.url }}/images/extension_black_sm.jpg" loading="eager" alt="image" width="25%" height="auto" style="float: left">
-<img src="{{ site.url }}/images/extension_pa_sm.jpg" loading="eager" alt="image" width="25%" height="auto" style="float: right">
-<img src="{{ site.url }}/images/extension_tire_sm.jpg" loading="eager" alt="image" width="25%" height="auto" style="float: right">
-<p></p>
-
-
-
-{% comment %}
 <video controls preload="none" poster="{{ site.url }}/images/led_vesch_ila_poster.jpg" width="50%" height="auto">
   <source src="{{ site.url }}/images/led_vesch_ila_ffm.mp4" type="video/mp4">
 </video>
@@ -69,9 +90,9 @@ In addition to the auditory focus on interventions with lightweight audio diffus
 <audio controls style="width: 100%" preload="none">
   <source src="{{ site.url }}/images/towers_qo2_190624_vers2.mp3" type="audio/mpeg">
 </audio>
-
-
 {% endcomment %}
+
+
 
 {% comment %}
 <p>documentation at the residency at meetfactory</p>

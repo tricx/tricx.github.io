@@ -95,7 +95,9 @@ hr {
 
 .container-parent {
   display: flex;
+  margin-top: 2%;/*pseudo fix for line jump in nav-list*/
 }
+
 
 .container-narrow-left {
   /*width: 66.6%;*/
@@ -104,11 +106,36 @@ hr {
   /*margin: 0 auto;*/
 }
 
+/*  width: 66.6%;
+  order: 1;
+*/
+
+.clearfix::after {
+    content: "";
+    display: table;
+    clear: both;
+}
+
+
+/*img could work but destroys css*/
+.container-narrow-left-img{ 
+  display: flex;
+  flex-wrap: wrap;
+  gap: 5px;
+  width: calc(50% - 2.5px);
+ }
+
+
 .container-narrow-right {
   width: 32.4%;
   order: 2;
   margin: 0 0 0 auto;
 }
+
+/*  width: 32.4%;
+  order: 2;*/
+
+
 
 @media(max-width: 650px) {
   .container-parent {
@@ -130,9 +157,10 @@ hr {
 
 .postnav {
   position: fixed;
-  top: 3px;
-  left: 0;
+  top: 7px;
+  left: 7px;
   z-index: 2000;
+  font-size:110% !important;
 }
 
  @media (max-width: 1120px) {
@@ -431,32 +459,69 @@ a:focus {
 }
 
 
-/*links in sidebar*/
+/* Sidebar links */
 .nav-list {
-  /*width: calc(100vh - 94px);*/
+  width: 80vw;
+  display: flex;
+  flex-wrap: wrap; /* Allows items to move to a new row if needed */
+  transform-origin: bottom left;
+  transform: rotateZ(90deg);
+  padding-left: 0px;
+  position: fixed;
+  top: -38px; /*42 change to fit to automatic rescale hack*/
+  max-height: 10vh; /* Ensures it respects the viewport height */
+  overflow-y: auto; /* Adds scroll if necessary */
+  justify-content: center; /* Keeps items centered */
+}
+
+.nav-list-item {
+  flex: 1 1 auto; /* Allows flexibility in sizing */
+  min-width: 10px; /* Ensures items don’t get too small */
+  text-align: center;
+}
+
+.linkNew {
+  font: 118%/70% "FTBoyleMedium", sans-serif;
+  font-weight: 400;
+  text-align: left;
+  line-height: 0.7em;
+  color: #012169 !important;
+  background-color: white !important;
+  box-shadow: none;
+  text-shadow: none !important;
+  text-decoration-style: none;
+  margin-bottom: 3%;
+/*  padding: 10px;*/
+  display: inline-block; /* Ensures proper spacing */
+}
+
+
+
+/*links in sidebar*/
+/*.nav-list {
   width:100vw;
   display: flex;
   transform-origin: bottom left;
   transform: rotateZ(90deg);
   padding-left: 0px;
-}
+}*/
+/*added to stay permanently!!!*/
+/*  position: fixed;
+  right: auto;
+  top: 0;*/
+
 
 .nav-list-item {
   /*padding-bottom: 50px;*/
   /*display: inline;*/
 }
 
-.linkNew {
-      /*font: 142%/70% "Helvetica", sans-serif;*/
+/*.linkNew {
       font: 118%/70% "FTBoyleMedium", sans-serif;
       font-weight: 400;  
-     /* font-style: italic;*/
-      /*display:block;*/
-      /*margin: 12px -10px 3px -15%;*/
       text-align:left;
       line-height: 0.7em;
       color: #012169 !important;
-      /*background-color: #fcfaf7!important;*/
       background-color: white !important;
       box-shadow: none;
       text-shadow: none !important;
@@ -468,7 +533,8 @@ a:focus {
       text-shadow: none;
       text-decoration-style: none;
       margin-bottom: 3%;
-  }
+  }*/
+
 .linkNew:hover{
       /*color: #1C1C1C;*/
       color: black !important;

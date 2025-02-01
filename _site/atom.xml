@@ -4,7 +4,7 @@
  <title>Tricx</title>
  <link href="http://tricx.github.io/" rel="self"/>
  <link href="http://tricx.github.io"/>
- <updated>2025-01-31T16:33:21+01:00</updated>
+ <updated>2025-02-01T22:00:37+01:00</updated>
  <id>http://tricx.github.io</id>
  <author>
    <name>Paul Gruendorfer</name>
@@ -21,105 +21,109 @@
 &lt;div class=&quot;container-parent&quot;&gt;
 &lt;div class=&quot;container-narrow-right&quot;&gt;
 
-	
-	
+  
+  
 &lt;h4&gt;&lt;a href=&quot;/2025/01/31/extension&quot;&gt;&lt;/a&gt;extensión&lt;/h4&gt;
-	
+  
 
-	
-	
+  
+  
 
-	
-	
+  
+  
 
-	
-	
+  
+  
 
-	
-	
+  
+  
 
-	
-	
+  
+  
 
-	
-	
+  
+  
 
-	
-	
+  
+  
 
-	
-	
+  
+  
 
-	
-	
+  
+  
 
-	
-	
+  
+  
 
-	
-	
+  
+  
 
-	
-	
+  
+  
 
-	
-	
+  
+  
 
-	
-	
+  
+  
 
-	
-	
+  
+  
 
-	
-	
+  
+  
 
-	
-	
+  
+  
 
-	
-	
+  
+  
 
-	
-	
+  
+  
 
-	
-	
+  
+  
 
-	
-	
+  
+  
 
-	
-	
+  
+  
 
-	
-	
+  
+  
 
-	
-	
+  
+  
 
-	
-	
+  
+  
 
-	
-	
+  
+  
 
-	
-	
+  
+  
 
-	
-	
+  
+  
 
-	
-	
+  
+  
 
-	
-	
+  
+  
+
+  
+  
 
 
 &lt;p&gt;
-site specific action at mercado de frutas, 16.1.2025 7pm, esquina Chacabuco / Ecuador, Valparaiso, Chile&lt;br /&gt;
-+ adaption for gallery display, Galería Municipal Valparaiso&lt;br /&gt;
+site specific action + adaption for gallery display&lt;br /&gt;
+mercado de frutas / 16.1.2025 7pm esquina Chacabuco/Ecuador, Valparaiso, Chile&lt;br /&gt;
+Galería Municipal Valparaiso&lt;br /&gt;
 solar sphere, hdpe-foil, carbon-oxide black, tape, fan&lt;br /&gt;&lt;br /&gt;
 developed for Tsonami Festival Atmosférica 2025&lt;br /&gt;
 thanks for the support to Carsten Stabenow, Franciso Fuenzalida, Sebastián Ramón Tapia Núñez, Nicolás Spencer, Pablo Saavedra Arevalo + Tsonami Team - video by Florencia Curci&lt;br /&gt;&lt;br /&gt;
@@ -129,44 +133,38 @@ thanks for the support to Carsten Stabenow, Franciso Fuenzalida, Sebastián Ram�
 In addition to the auditory focus on interventions with lightweight audio diffusion systems, &apos;extensión&apos; also wants to involve the question of the presence of spaces and explore the different qualities of subliminal immersion or exposure to unfamiliar elements.
 &lt;br /&gt;&lt;br /&gt;
 &lt;/p&gt;
+
 &lt;/div&gt;
 
 
 &lt;div class=&quot;container-narrow-left&quot;&gt;
-
 &lt;video controls=&quot;&quot; preload=&quot;none&quot; poster=&quot;http://localhost:4000/images/extension_poster.jpg&quot; width=&quot;100%&quot; height=&quot;auto&quot;&gt;
   &lt;source src=&quot;http://localhost:4000/images/extension_sm.mp4&quot; type=&quot;video/mp4&quot; /&gt;
 &lt;/video&gt;
 
-&lt;img src=&quot;http://localhost:4000/images/extension_sphere_sm.jpg&quot; loading=&quot;eager&quot; alt=&quot;image&quot; /&gt;
+&lt;img src=&quot;http://localhost:4000/images/extension_sphere_sm.jpg&quot; loading=&quot;eager&quot; alt=&quot;image&quot; width=&quot;44.6%&quot; height=&quot;auto&quot; style=&quot;float: left&quot; /&gt;
+&lt;img src=&quot;http://localhost:4000/images/extension_location1_sm.jpg&quot; loading=&quot;eager&quot; alt=&quot;image&quot; width=&quot;55.2%&quot; height=&quot;auto&quot; style=&quot;float: right&quot; /&gt;
+
+&lt;div class=&quot;clearfix&quot;&gt;&lt;/div&gt;
 &lt;p&gt;&lt;/p&gt;
-&lt;img src=&quot;http://localhost:4000/images/extension_location1_sm.jpg&quot; loading=&quot;eager&quot; alt=&quot;image&quot; /&gt;
-&lt;p&gt;&lt;/p&gt;
-&lt;img src=&quot;http://localhost:4000/images/extension_galeria_high_sm2.jpg&quot; loading=&quot;eager&quot; alt=&quot;image&quot; width=&quot;53.3%&quot; height=&quot;auto&quot; style=&quot;float: left&quot; /&gt;
-&lt;p&gt;
-&lt;video controls=&quot;&quot; preload=&quot;none&quot; poster=&quot;http://localhost:4000/images/extension_galeria_poster.jpg&quot; width=&quot;46.55%&quot; height=&quot;auto&quot;&gt;
+&lt;img src=&quot;http://localhost:4000/images/extension_galeria_high_sm2.jpg&quot; loading=&quot;eager&quot; alt=&quot;image&quot; width=&quot;53.1%&quot; height=&quot;auto&quot; style=&quot;float: left&quot; /&gt;
+&lt;video controls=&quot;&quot; preload=&quot;none&quot; poster=&quot;http://localhost:4000/images/extension_galeria_poster.jpg&quot; width=&quot;46.36%&quot; height=&quot;auto&quot; style=&quot;float: right&quot;&gt;
   &lt;source src=&quot;http://localhost:4000/images/extension_galeria_sm.mp4&quot; type=&quot;video/mp4&quot; /&gt;
 &lt;/video&gt;
+
+&lt;div class=&quot;clearfix&quot;&gt;&lt;/div&gt;
 &lt;p&gt;&lt;/p&gt;
-
-
-
-&lt;img src=&quot;http://localhost:4000/images/extension_plastic_sm.jpg&quot; loading=&quot;eager&quot; alt=&quot;image&quot; width=&quot;25%&quot; height=&quot;auto&quot; style=&quot;float: left&quot; /&gt;
+&lt;img src=&quot;http://localhost:4000/images/extension_plastic_sm.jpg&quot; loading=&quot;eager&quot; alt=&quot;image&quot; width=&quot;25%&quot; height=&quot;auto&quot; top=&quot;auto&quot; style=&quot;float: left&quot; /&gt;
 &lt;img src=&quot;http://localhost:4000/images/extension_black_sm.jpg&quot; loading=&quot;eager&quot; alt=&quot;image&quot; width=&quot;25%&quot; height=&quot;auto&quot; style=&quot;float: left&quot; /&gt;
 &lt;img src=&quot;http://localhost:4000/images/extension_pa_sm.jpg&quot; loading=&quot;eager&quot; alt=&quot;image&quot; width=&quot;25%&quot; height=&quot;auto&quot; style=&quot;float: right&quot; /&gt;
 &lt;img src=&quot;http://localhost:4000/images/extension_tire_sm.jpg&quot; loading=&quot;eager&quot; alt=&quot;image&quot; width=&quot;25%&quot; height=&quot;auto&quot; style=&quot;float: right&quot; /&gt;
+&lt;div class=&quot;clearfix&quot;&gt;&lt;/div&gt;
 &lt;p&gt;&lt;/p&gt;
 
 
+&lt;/div&gt;
+&lt;/div&gt;
 
-
-
-
-
-
-
-
-&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;
 </content>
  </entry>
  
@@ -185,6 +183,9 @@ In addition to the auditory focus on interventions with lightweight audio diffus
 	
 	
 &lt;h4&gt;&lt;a href=&quot;/2024/05/07/whisper&quot;&gt;&lt;/a&gt;whisper&lt;/h4&gt;
+	
+
+	
 	
 
 	
@@ -296,11 +297,11 @@ excerpt from live-set at qo2, jun 19 2024:
 
 &lt;div class=&quot;container-narrow-left&quot;&gt;
 
-
 &lt;img src=&quot;http://localhost:4000/images/towers_thin_sm.jpg&quot; loading=&quot;eager&quot; alt=&quot;image&quot; /&gt;
 &lt;p&gt;&lt;/p&gt;
-&lt;img src=&quot;http://localhost:4000/images/towers_amp_sm.jpg&quot; loading=&quot;eager&quot; alt=&quot;image&quot; width=&quot;50%&quot; height=&quot;auto&quot; style=&quot;float: left&quot; /&gt;
-&lt;img src=&quot;http://localhost:4000/images/towers_detail2_sm.jpg&quot; loading=&quot;eager&quot; alt=&quot;image&quot; width=&quot;50%&quot; height=&quot;auto&quot; /&gt;
+&lt;img src=&quot;http://localhost:4000/images/towers_amp_sm.jpg&quot; loading=&quot;eager&quot; alt=&quot;image&quot; width=&quot;49.9%&quot; height=&quot;auto&quot; style=&quot;float: left&quot; /&gt;
+&lt;img src=&quot;http://localhost:4000/images/towers_detail2_sm.jpg&quot; loading=&quot;eager&quot; alt=&quot;image&quot; width=&quot;49.5%&quot; height=&quot;auto&quot; style=&quot;float: right&quot; /&gt;
+&lt;div class=&quot;clearfix&quot;&gt;&lt;/div&gt;
 &lt;p&gt;&lt;/p&gt;
 &lt;img src=&quot;http://localhost:4000/images/towers_mf2_sm.jpg&quot; loading=&quot;eager&quot; alt=&quot;image&quot; /&gt;
 &lt;p&gt;&lt;/p&gt;
@@ -328,6 +329,9 @@ excerpt from live-set at qo2, jun 19 2024:
 	
 	
 &lt;h4&gt;&lt;a href=&quot;/2023/05/01/ila&quot;&gt;&lt;/a&gt;ILA&lt;/h4&gt;
+	
+
+	
 	
 
 	
@@ -456,6 +460,147 @@ high intensity audio modulated light frequencies, research of phantom presence i
  </entry>
  
  <entry>
+   <title>Iah</title>
+   <link href="http://tricx.github.io/2023/04/01/iah"/>
+   <updated>2023-04-01T00:00:00+02:00</updated>
+   <id>http://tricx.github.io/2023/04/01/iah</id>
+   <content type="html">
+&lt;div class=&quot;container-parent&quot;&gt;
+&lt;div class=&quot;container-narrow-right&quot;&gt;
+
+	
+	
+
+	
+	
+
+	
+	
+
+	
+	
+&lt;h4&gt;&lt;a href=&quot;/2023/04/01/iah&quot;&gt;&lt;/a&gt;I-AH Voice Generator&lt;/h4&gt;
+	
+
+	
+	
+
+	
+	
+
+	
+	
+
+	
+	
+
+	
+	
+
+	
+	
+
+	
+	
+
+	
+	
+
+	
+	
+
+	
+	
+
+	
+	
+
+	
+	
+
+	
+	
+
+	
+	
+
+	
+	
+
+	
+	
+
+	
+	
+
+	
+	
+
+	
+	
+
+	
+	
+
+	
+	
+
+	
+	
+
+	
+	
+
+	
+	
+
+	
+	
+
+	
+	
+
+	
+	
+
+	
+	
+
+
+&lt;p&gt;
+
+I-AH Voice Generator&lt;br /&gt;
+odroid u3, supercollider, algorithmic system 2023 for der blöde dritte Mittwoch at Parallel Vienna&lt;br /&gt;&lt;br /&gt;
+‚I-AH generierte Stimmlaute als Hommage an den Esel im Zeitalter der AI.‘
+
+
+&lt;/p&gt;
+&lt;/div&gt;
+
+
+&lt;div class=&quot;container-narrow-left&quot;&gt;
+
+&lt;img src=&quot;http://localhost:4000/images/i-ah_esel.jpg&quot; loading=&quot;eager&quot; alt=&quot;image&quot; /&gt;
+&lt;p&gt;&lt;/p&gt;
+
+
+
+&lt;img src=&quot;http://localhost:4000/images/i-ah_chron_speaker_dev_sm.jpg&quot; loading=&quot;eager&quot; alt=&quot;image&quot; width=&quot;41.8%&quot; height=&quot;auto&quot; style=&quot;float: left&quot; /&gt;
+&lt;img src=&quot;http://localhost:4000/images/i-ah_parallel_sm.jpg&quot; loading=&quot;eager&quot; alt=&quot;image&quot; width=&quot;58%&quot; height=&quot;auto&quot; style=&quot;float: right&quot; /&gt;
+
+
+&lt;p&gt;&lt;/p&gt;
+
+
+
+
+&lt;/div&gt;
+&lt;/div&gt;
+
+</content>
+ </entry>
+ 
+ <entry>
    <title>The_sea</title>
    <link href="http://tricx.github.io/2021/02/04/the_sea"/>
    <updated>2021-02-04T00:00:00+01:00</updated>
@@ -463,6 +608,9 @@ high intensity audio modulated light frequencies, research of phantom presence i
    <content type="html">
 &lt;div class=&quot;container-parent&quot;&gt;
 &lt;div class=&quot;container-narrow-right&quot;&gt;
+
+	
+	
 
 	
 	
@@ -561,7 +709,7 @@ high intensity audio modulated light frequencies, research of phantom presence i
 
 
 &lt;p&gt;
-generative audio installation, 2021&lt;br /&gt;
+generative audio installation, 2021/24&lt;br /&gt;
 2,5m cube, latex foil, motors
 PD-0.50-2&lt;br /&gt;
 with &lt;a href=&quot;https://leo.ok.ag/&quot; target=&quot;_blank&quot; style=&quot;text-decoration:none; color: grey&quot;&gt;Leo Peschta&lt;/a&gt;&lt;br /&gt;
@@ -611,6 +759,9 @@ The Sea is an extraction of a complex natural phenomenon resulting in an artific
    <content type="html">
 &lt;div class=&quot;container-parent&quot;&gt;
 &lt;div class=&quot;container-narrow-right&quot;&gt;
+
+	
+	
 
 	
 	
@@ -767,6 +918,9 @@ The playing area of the game is transferred to the Eduard-Popp-Hof. The warp mod
 
 	
 	
+
+	
+	
 &lt;h4&gt;&lt;a href=&quot;/2021/01/29/animal_voice_pavilion&quot;&gt;&lt;/a&gt;animal-voice-pavilion&lt;/h4&gt;
 	
 
@@ -902,6 +1056,9 @@ audio recording excerpt:
    <content type="html">
 &lt;div class=&quot;container-parent&quot;&gt;
 &lt;div class=&quot;container-narrow-right&quot;&gt;
+
+	
+	
 
 	
 	
@@ -1077,6 +1234,9 @@ just the room recording and with less amplification:
 
 	
 	
+
+	
+	
 &lt;h4&gt;&lt;a href=&quot;/2020/10/13/unterm_pflaster_liegt_der_strand&quot;&gt;&lt;/a&gt;Unterm Pflaster liegt der Strand&lt;/h4&gt;
 	
 
@@ -1185,6 +1345,9 @@ The text is translated to latin, so it resembles often used honorable mentions o
    <content type="html">
 &lt;div class=&quot;container-parent&quot;&gt;
 &lt;div class=&quot;container-narrow-right&quot;&gt;
+
+	
+	
 
 	
 	
@@ -1366,6 +1529,9 @@ Reflections and Refractions of a laser that scans plastic bottles are translated
 
 	
 	
+
+	
+	
 &lt;h4&gt;&lt;a href=&quot;/2018/06/01/arcardian_gate&quot;&gt;&lt;/a&gt;Arcadian Gate&lt;/h4&gt;
 	
 
@@ -1516,6 +1682,9 @@ http://wikimapia.org/4832019/Arcadian-Gate&lt;/a&gt;
 
 	
 	
+
+	
+	
 &lt;h4&gt;&lt;a href=&quot;/2018/05/27/pigeons&quot;&gt;&lt;/a&gt;鸽子&lt;/h4&gt;
 	
 
@@ -1628,6 +1797,9 @@ Besides this interest, there is the old tradition to let pigeons fly with specia
    <content type="html">
 &lt;div class=&quot;container-parent&quot;&gt;
 &lt;div class=&quot;container-narrow-right&quot;&gt;
+
+	
+	
 
 	
 	
@@ -1841,6 +2013,9 @@ The project Centre and Periphery picked up this field of tension in order to dea
 
 	
 	
+
+	
+	
 &lt;h4&gt;&lt;a href=&quot;/2017/12/29/la_pica_del_gaviota&quot;&gt;&lt;/a&gt;La picá del Gaviota&lt;/h4&gt;
 	
 
@@ -1950,6 +2125,9 @@ First you have to agree, what is a “Picá”? In Chile they call “Picá” r
    <content type="html">
 &lt;div class=&quot;container-parent&quot;&gt;
 &lt;div class=&quot;container-narrow-right&quot;&gt;
+
+	
+	
 
 	
 	
@@ -2156,6 +2334,9 @@ Love to the beat of the show. [...]&lt;br /&gt;
 
 	
 	
+
+	
+	
 &lt;h4&gt;&lt;a href=&quot;/2017/03/02/attractor&quot;&gt;&lt;/a&gt;Attractor&lt;/h4&gt;
 	
 
@@ -2261,6 +2442,9 @@ As a site specific intervention the Attractor is built in a public space, connec
    <content type="html">
 &lt;div class=&quot;container-parent&quot;&gt;
 &lt;div class=&quot;container-narrow-right&quot;&gt;
+
+	
+	
 
 	
 	
@@ -2451,6 +2635,9 @@ The project AM-Feld / Soviet Noise, is a cooperation with &lt;a href=&quot;www.a
 
 	
 	
+
+	
+	
 &lt;h4&gt;&lt;a href=&quot;/2017/02/17/transient_hole&quot;&gt;&lt;/a&gt;Transient Hole (Variations)&lt;/h4&gt;
 	
 
@@ -2544,6 +2731,9 @@ Berlin, 2018&lt;br /&gt;
    <content type="html">
 &lt;div class=&quot;container-parent&quot;&gt;
 &lt;div class=&quot;container-narrow-right&quot;&gt;
+
+	
+	
 
 	
 	
@@ -2749,6 +2939,9 @@ in June 2015.
 
 	
 	
+
+	
+	
 &lt;h4&gt;&lt;a href=&quot;/2016/01/20/animal_voice_orchestra&quot;&gt;&lt;/a&gt;animal-voice-orchestra&lt;/h4&gt;
 	
 
@@ -2880,6 +3073,9 @@ Electronic circuits are interconnected to cause semi-natural entities, autonomou
 
 	
 	
+
+	
+	
 &lt;h4&gt;&lt;a href=&quot;/2015/12/12/faux_terrain&quot;&gt;&lt;/a&gt;Audio - Visual Performance / Faux Terrain&lt;/h4&gt;
 	
 
@@ -2948,6 +3144,9 @@ in cooperation with Claudia Larcher&lt;br /&gt;
    <content type="html">
 &lt;div class=&quot;container-parent&quot;&gt;
 &lt;div class=&quot;container-narrow-right&quot;&gt;
+
+	
+	
 
 	
 	
@@ -3150,6 +3349,9 @@ The robot moves around the exhibition space, orienting itself based on the event
 
 	
 	
+
+	
+	
 &lt;h4&gt;&lt;a href=&quot;/2013/12/27/pachinko&quot;&gt;&lt;/a&gt;Pachinko&lt;/h4&gt;
 	
 
@@ -3211,6 +3413,9 @@ Pachinko is played by more than 30% of the Japanese population. It is based on t
    <content type="html">
 &lt;div class=&quot;container-parent&quot;&gt;
 &lt;div class=&quot;container-narrow-right&quot;&gt;
+
+	
+	
 
 	
 	
@@ -3465,6 +3670,9 @@ for diy-zither, cymbal, contact microphone, live granular synthesis, live record
 
 	
 	
+
+	
+	
 &lt;h4&gt;&lt;a href=&quot;/2013/10/17/zweistimmige_inventionen&quot;&gt;&lt;/a&gt;Zweistimmige Inventionen&lt;/h4&gt;
 	
 
@@ -3530,6 +3738,9 @@ Considerations to the themes, areas and associations, which could form some of t
    <content type="html">
 &lt;div class=&quot;container-parent&quot;&gt;
 &lt;div class=&quot;container-narrow-right&quot;&gt;
+
+	
+	
 
 	
 	
@@ -3747,6 +3958,9 @@ Birds in a cage.&lt;br /&gt;&lt;br /&gt;
 
 	
 	
+
+	
+	
 &lt;h4&gt;&lt;a href=&quot;/2013/10/15/undefined_falling_objects&quot;&gt;&lt;/a&gt;Undefined Falling Objects&lt;/h4&gt;
 	
 
@@ -3795,6 +4009,9 @@ The film loop shows permanently turning maple seeds, in density and speed variab
    <content type="html">
 &lt;div class=&quot;container-parent&quot;&gt;
 &lt;div class=&quot;container-narrow-right&quot;&gt;
+
+	
+	
 
 	
 	
