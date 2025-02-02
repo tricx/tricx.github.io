@@ -4,7 +4,7 @@
  <title>Tricx</title>
  <link href="http://tricx.github.io/" rel="self"/>
  <link href="http://tricx.github.io"/>
- <updated>2025-02-01T22:00:37+01:00</updated>
+ <updated>2025-02-02T14:35:22+01:00</updated>
  <id>http://tricx.github.io</id>
  <author>
    <name>Paul Gruendorfer</name>
@@ -24,18 +24,6 @@
   
   
 &lt;h4&gt;&lt;a href=&quot;/2025/01/31/extension&quot;&gt;&lt;/a&gt;extensión&lt;/h4&gt;
-  
-
-  
-  
-
-  
-  
-
-  
-  
-
-  
   
 
   
@@ -142,9 +130,13 @@ In addition to the auditory focus on interventions with lightweight audio diffus
   &lt;source src=&quot;http://localhost:4000/images/extension_sm.mp4&quot; type=&quot;video/mp4&quot; /&gt;
 &lt;/video&gt;
 
-&lt;img src=&quot;http://localhost:4000/images/extension_sphere_sm.jpg&quot; loading=&quot;eager&quot; alt=&quot;image&quot; width=&quot;44.6%&quot; height=&quot;auto&quot; style=&quot;float: left&quot; /&gt;
-&lt;img src=&quot;http://localhost:4000/images/extension_location1_sm.jpg&quot; loading=&quot;eager&quot; alt=&quot;image&quot; width=&quot;55.2%&quot; height=&quot;auto&quot; style=&quot;float: right&quot; /&gt;
+&lt;img src=&quot;http://localhost:4000/images/extension_sphere_sm.jpg&quot; loading=&quot;eager&quot; alt=&quot;image&quot; width=&quot;44.4%&quot; height=&quot;auto&quot; style=&quot;float: left&quot; /&gt;
+&lt;img src=&quot;http://localhost:4000/images/extension_location1_sm.jpg&quot; loading=&quot;eager&quot; alt=&quot;image&quot; width=&quot;55%&quot; height=&quot;auto&quot; style=&quot;float: right&quot; /&gt;
 
+&lt;div class=&quot;clearfix&quot;&gt;&lt;/div&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;img src=&quot;http://localhost:4000/images/extension_pa_sm.jpg&quot; loading=&quot;eager&quot; alt=&quot;image&quot; width=&quot;49.5%&quot; height=&quot;auto&quot; style=&quot;float: left&quot; /&gt;
+&lt;img src=&quot;http://localhost:4000/images/extension_tire_sm.jpg&quot; loading=&quot;eager&quot; alt=&quot;image&quot; width=&quot;49.5%&quot; height=&quot;auto&quot; style=&quot;float: right&quot; /&gt;
 &lt;div class=&quot;clearfix&quot;&gt;&lt;/div&gt;
 &lt;p&gt;&lt;/p&gt;
 &lt;img src=&quot;http://localhost:4000/images/extension_galeria_high_sm2.jpg&quot; loading=&quot;eager&quot; alt=&quot;image&quot; width=&quot;53.1%&quot; height=&quot;auto&quot; style=&quot;float: left&quot; /&gt;
@@ -154,10 +146,9 @@ In addition to the auditory focus on interventions with lightweight audio diffus
 
 &lt;div class=&quot;clearfix&quot;&gt;&lt;/div&gt;
 &lt;p&gt;&lt;/p&gt;
-&lt;img src=&quot;http://localhost:4000/images/extension_plastic_sm.jpg&quot; loading=&quot;eager&quot; alt=&quot;image&quot; width=&quot;25%&quot; height=&quot;auto&quot; top=&quot;auto&quot; style=&quot;float: left&quot; /&gt;
-&lt;img src=&quot;http://localhost:4000/images/extension_black_sm.jpg&quot; loading=&quot;eager&quot; alt=&quot;image&quot; width=&quot;25%&quot; height=&quot;auto&quot; style=&quot;float: left&quot; /&gt;
-&lt;img src=&quot;http://localhost:4000/images/extension_pa_sm.jpg&quot; loading=&quot;eager&quot; alt=&quot;image&quot; width=&quot;25%&quot; height=&quot;auto&quot; style=&quot;float: right&quot; /&gt;
-&lt;img src=&quot;http://localhost:4000/images/extension_tire_sm.jpg&quot; loading=&quot;eager&quot; alt=&quot;image&quot; width=&quot;25%&quot; height=&quot;auto&quot; style=&quot;float: right&quot; /&gt;
+&lt;img src=&quot;http://localhost:4000/images/extension_plastic_sm.jpg&quot; loading=&quot;eager&quot; alt=&quot;image&quot; width=&quot;49.5%&quot; height=&quot;auto&quot; top=&quot;auto&quot; style=&quot;float: left&quot; /&gt;
+&lt;img src=&quot;http://localhost:4000/images/extension_black_sm.jpg&quot; loading=&quot;eager&quot; alt=&quot;image&quot; width=&quot;49.5%&quot; height=&quot;auto&quot; style=&quot;float: right&quot; /&gt;
+
 &lt;div class=&quot;clearfix&quot;&gt;&lt;/div&gt;
 &lt;p&gt;&lt;/p&gt;
 
@@ -183,18 +174,6 @@ In addition to the auditory focus on interventions with lightweight audio diffus
 	
 	
 &lt;h4&gt;&lt;a href=&quot;/2024/05/07/whisper&quot;&gt;&lt;/a&gt;whisper&lt;/h4&gt;
-	
-
-	
-	
-
-	
-	
-
-	
-	
-
-	
 	
 
 	
@@ -329,18 +308,6 @@ excerpt from live-set at qo2, jun 19 2024:
 	
 	
 &lt;h4&gt;&lt;a href=&quot;/2023/05/01/ila&quot;&gt;&lt;/a&gt;ILA&lt;/h4&gt;
-	
-
-	
-	
-
-	
-	
-
-	
-	
-
-	
 	
 
 	
@@ -554,18 +521,6 @@ high intensity audio modulated light frequencies, research of phantom presence i
 	
 	
 
-	
-	
-
-	
-	
-
-	
-	
-
-	
-	
-
 
 &lt;p&gt;
 
@@ -587,8 +542,7 @@ odroid u3, supercollider, algorithmic system 2023 for der blöde dritte Mittwoch
 
 &lt;img src=&quot;http://localhost:4000/images/i-ah_chron_speaker_dev_sm.jpg&quot; loading=&quot;eager&quot; alt=&quot;image&quot; width=&quot;41.8%&quot; height=&quot;auto&quot; style=&quot;float: left&quot; /&gt;
 &lt;img src=&quot;http://localhost:4000/images/i-ah_parallel_sm.jpg&quot; loading=&quot;eager&quot; alt=&quot;image&quot; width=&quot;58%&quot; height=&quot;auto&quot; style=&quot;float: right&quot; /&gt;
-
-
+&lt;div class=&quot;clearfix&quot;&gt;&lt;/div&gt;
 &lt;p&gt;&lt;/p&gt;
 
 
@@ -624,18 +578,6 @@ odroid u3, supercollider, algorithmic system 2023 for der blöde dritte Mittwoch
 	
 	
 &lt;h4&gt;&lt;a href=&quot;/2021/02/04/the_sea&quot;&gt;&lt;/a&gt;The Sea&lt;/h4&gt;
-	
-
-	
-	
-
-	
-	
-
-	
-	
-
-	
 	
 
 	
@@ -846,18 +788,6 @@ The Sea is an extraction of a complex natural phenomenon resulting in an artific
 	
 	
 
-	
-	
-
-	
-	
-
-	
-	
-
-	
-	
-
 
 &lt;p&gt;
 dimensions variable, construction marking paint 2022&lt;br /&gt;
@@ -922,18 +852,6 @@ The playing area of the game is transferred to the Eduard-Popp-Hof. The warp mod
 	
 	
 &lt;h4&gt;&lt;a href=&quot;/2021/01/29/animal_voice_pavilion&quot;&gt;&lt;/a&gt;animal-voice-pavilion&lt;/h4&gt;
-	
-
-	
-	
-
-	
-	
-
-	
-	
-
-	
 	
 
 	
@@ -1143,18 +1061,6 @@ audio recording excerpt:
 	
 	
 
-	
-	
-
-	
-	
-
-	
-	
-
-	
-	
-
 
 &lt;p&gt;
 autonomous complex adaptive system, 2020/21&lt;br /&gt;
@@ -1297,18 +1203,6 @@ just the room recording and with less amplification:
 	
 	
 
-	
-	
-
-	
-	
-
-	
-	
-
-	
-	
-
 
 &lt;p&gt;
 installation, public display, at &lt;a href=&quot;http://variable.cc&quot; target=&quot;_blank&quot;&gt;dimensions variable #, Semi Public Art&lt;/a&gt;, Vienna, Hietzing, 2020&lt;br /&gt;
@@ -1376,18 +1270,6 @@ The text is translated to latin, so it resembles often used honorable mentions o
 	
 	
 &lt;h4&gt;&lt;a href=&quot;/2019/08/04/mononoke&quot;&gt;&lt;/a&gt;MONO-NO-KE&lt;/h4&gt;
-	
-
-	
-	
-
-	
-	
-
-	
-	
-
-	
 	
 
 	
@@ -1586,18 +1468,6 @@ Reflections and Refractions of a laser that scans plastic bottles are translated
 	
 	
 
-	
-	
-
-	
-	
-
-	
-	
-
-	
-	
-
 
 &lt;p&gt;
 Site Specific Installation, 2018&lt;br /&gt;
@@ -1686,18 +1556,6 @@ http://wikimapia.org/4832019/Arcadian-Gate&lt;/a&gt;
 	
 	
 &lt;h4&gt;&lt;a href=&quot;/2018/05/27/pigeons&quot;&gt;&lt;/a&gt;鸽子&lt;/h4&gt;
-	
-
-	
-	
-
-	
-	
-
-	
-	
-
-	
 	
 
 	
@@ -1837,18 +1695,6 @@ Besides this interest, there is the old tradition to let pigeons fly with specia
 	
 	
 &lt;h4&gt;&lt;a href=&quot;/2017/12/30/centre_and_periphery&quot;&gt;&lt;/a&gt;Centre and Periphery&lt;/h4&gt;
-	
-
-	
-	
-
-	
-	
-
-	
-	
-
-	
 	
 
 	
@@ -2061,18 +1907,6 @@ The project Centre and Periphery picked up this field of tension in order to dea
 	
 	
 
-	
-	
-
-	
-	
-
-	
-	
-
-	
-	
-
 
 &lt;p&gt;
 action during the festival Tsonami for Acts of Listening, Valparaíso, Chile, dec 10 2017&lt;br /&gt; 
@@ -2171,18 +2005,6 @@ First you have to agree, what is a “Picá”? In Chile they call “Picá” r
 	
 	
 &lt;h4&gt;&lt;a href=&quot;/2017/07/24/am_land&quot;&gt;&lt;/a&gt;AM Land&lt;/h4&gt;
-	
-
-	
-	
-
-	
-	
-
-	
-	
-
-	
 	
 
 	
@@ -2376,18 +2198,6 @@ Love to the beat of the show. [...]&lt;br /&gt;
 	
 	
 
-	
-	
-
-	
-	
-
-	
-	
-
-	
-	
-
 
 &lt;p&gt;
 Site Specific  - Light Installation, 2017&lt;br /&gt;
@@ -2494,18 +2304,6 @@ As a site specific intervention the Attractor is built in a public space, connec
 	
 	
 &lt;h4&gt;&lt;a href=&quot;/2017/02/18/flash&quot;&gt;&lt;/a&gt;Flash&lt;/h4&gt;
-	
-
-	
-	
-
-	
-	
-
-	
-	
-
-	
 	
 
 	
@@ -2671,18 +2469,6 @@ The project AM-Feld / Soviet Noise, is a cooperation with &lt;a href=&quot;www.a
 	
 	
 
-	
-	
-
-	
-	
-
-	
-	
-
-	
-	
-
 
 
 &lt;p&gt;
@@ -2789,18 +2575,6 @@ Berlin, 2018&lt;br /&gt;
 	
 	
 &lt;h4&gt;&lt;a href=&quot;/2016/01/21/triptychon_of_lost_media&quot;&gt;&lt;/a&gt;Triptychon of lost media - I&lt;/h4&gt;
-	
-
-	
-	
-
-	
-	
-
-	
-	
-
-	
 	
 
 	
@@ -2969,18 +2743,6 @@ in June 2015.
 	
 	
 
-	
-	
-
-	
-	
-
-	
-	
-
-	
-	
-
 
 &lt;p&gt;
 live performance / since 2016&lt;br /&gt;
@@ -3077,18 +2839,6 @@ Electronic circuits are interconnected to cause semi-natural entities, autonomou
 	
 	
 &lt;h4&gt;&lt;a href=&quot;/2015/12/12/faux_terrain&quot;&gt;&lt;/a&gt;Audio - Visual Performance / Faux Terrain&lt;/h4&gt;
-	
-
-	
-	
-
-	
-	
-
-	
-	
-
-	
 	
 
 	
@@ -3211,18 +2961,6 @@ in cooperation with Claudia Larcher&lt;br /&gt;
 	
 	
 &lt;h4&gt;&lt;a href=&quot;/2013/12/28/ottos_mops&quot;&gt;&lt;/a&gt;Ottos Mops&lt;/h4&gt;
-	
-
-	
-	
-
-	
-	
-
-	
-	
-
-	
 	
 
 	
@@ -3370,18 +3108,6 @@ The robot moves around the exhibition space, orienting itself based on the event
 	
 	
 
-	
-	
-
-	
-	
-
-	
-	
-
-	
-	
-
 
 
 &lt;p&gt;
@@ -3406,470 +3132,6 @@ Pachinko is played by more than 30% of the Japanese population. It is based on t
  </entry>
  
  <entry>
-   <title>A_car_from_above</title>
-   <link href="http://tricx.github.io/2013/12/26/a_car_from_above"/>
-   <updated>2013-12-26T00:00:00+01:00</updated>
-   <id>http://tricx.github.io/2013/12/26/a_car_from_above</id>
-   <content type="html">
-&lt;div class=&quot;container-parent&quot;&gt;
-&lt;div class=&quot;container-narrow-right&quot;&gt;
-
-	
-	
-
-	
-	
-
-	
-	
-
-	
-	
-
-	
-	
-
-	
-	
-
-	
-	
-
-	
-	
-
-	
-	
-
-	
-	
-
-	
-	
-
-	
-	
-
-	
-	
-
-	
-	
-
-	
-	
-
-	
-	
-
-	
-	
-
-	
-	
-
-	
-	
-
-	
-	
-
-	
-	
-
-	
-	
-
-	
-	
-
-	
-	
-&lt;h4&gt;&lt;a href=&quot;/2013/12/26/a_car_from_above&quot;&gt;&lt;/a&gt;A Car from ABove&lt;/h4&gt;
-	
-
-	
-	
-
-	
-	
-
-	
-	
-
-	
-	
-
-	
-	
-
-	
-	
-
-	
-	
-
-	
-	
-
-
-&lt;p&gt;
-toy car, cable, coil, high ceiling, 2012&lt;br /&gt;
-in cooperation with &lt;a href=&quot;http://www.praxistest.cc/&quot; target=&quot;_blank&quot; style=&quot;text-decoration:none; color: grey&quot;&gt;Paul_Reza Klein&lt;/a&gt;&lt;br /&gt;
-
-A toy police car falls in free fall at the exhibition Dimensions Variable # at Mo.ë. When the car is switched on, the car‘s flashing lights start flashing and it sounds: ‘Police, do not move - [sound- effect: gunshot] - you are under arrest!’ The car is equipped with a conductive cable on a coil that is attached to the ceiling. At random time intervals, the car falls from the ceiling to shortly before the impact on the ground.&lt;br /&gt;&lt;br /&gt;
-&lt;/p&gt;
-&lt;/div&gt;
-
-
-&lt;div class=&quot;container-narrow-left&quot;&gt;
-&lt;video controls=&quot;&quot; preload=&quot;none&quot; poster=&quot;http://localhost:4000/images/acab_poster.jpg&quot; width=&quot;100%&quot; height=&quot;auto&quot;&gt;
-  &lt;source src=&quot;http://localhost:4000/images/acab_small.mp4&quot; type=&quot;video/mp4&quot; /&gt;
-&lt;/video&gt;
-
-&lt;/div&gt;
-&lt;/div&gt;
-
-</content>
- </entry>
- 
- <entry>
-   <title>Works</title>
-   <link href="http://tricx.github.io/2013/12/14/works"/>
-   <updated>2013-12-14T00:00:00+01:00</updated>
-   <id>http://tricx.github.io/2013/12/14/works</id>
-   <content type="html">
-&lt;h4&gt;audio recordings&lt;/h4&gt;
-
-&lt;h4&gt;Wilhelm&apos;s Punk&lt;/h4&gt;
-&lt;p&gt;
-Performance, 2011&lt;br /&gt;
-taperecorder, oscillators, frog&lt;br /&gt;&lt;br /&gt;
-Description of the setup:&lt;br /&gt;
-The sounds of a cassette recorder, a simple oscillator circuit and a wooden frog are recorded on an empty tape loop. The name Wilhelm‘s Punk refers to the piece Williams Mix by John Cage, in which pre-recorded and selected sounds are mounted on tape by a random system. For Wilhelm‘s Punk, sounds, which are produced during the performance are played on the tape loop and reproduced immediately. Each loop replay plays the already recorded fragments, takes up new ones and deletes older parts by accident.&lt;br /&gt;&lt;br /&gt;
-&lt;/p&gt;
-
-&lt;p&gt;&lt;/p&gt;
-&lt;audio controls=&quot;&quot; style=&quot;width: 100%&quot; preload=&quot;none&quot;&gt;
-  &lt;source src=&quot;http://localhost:4000/images/wilhelmspunk.mp3&quot; type=&quot;audio/mpeg&quot; /&gt;
-&lt;/audio&gt;
-
-&lt;p&gt; &lt;br /&gt;setup:&lt;br /&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&quot;http://localhost:4000/images/wpunk_setup.jpg&quot; loading=&quot;lazy&quot; alt=&quot;image&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;/p&gt;
-&lt;h4&gt;In a room ..&lt;/h4&gt;
-&lt;p&gt;
-Composition for violin, grains on a metal surface and live-electronics ~8‘ , 2012&lt;br /&gt;
-[violin is played by Barbara Lüneburg, recorded at Echoraum, Wien]&lt;br /&gt;&lt;br /&gt;
-
-The piece consists of singular tones that fill the space horizontally and create a quiet ubiquitous drone. Filtered noise areas, quiet creak, some prominent sound particles, (no open strings), minimal timbre (out of a grayscale evolve „colours“), microtonality vs. widely spaced intervals, grains, ..&lt;br /&gt;Notation:&lt;br /&gt;
-The pitch of the violin results from the vertical position of the note within the score; i.e. high frequencies - low frequencies. The timeframe is also relative. The task of the electronics is to extract individual sections from the played parts of the violin and to filter them slightly by means of pitch shift or synthesis. Due to the division into 4 channels there are focal points, but they are selected loosely. The notation makes suggestions for this, but these are understood as indications.
-&lt;/p&gt;
-
-&lt;p&gt;&lt;/p&gt;
-&lt;audio controls=&quot;&quot; style=&quot;width: 100%&quot; preload=&quot;none&quot;&gt;
-  &lt;source src=&quot;http://localhost:4000/images/inaroom.mp3&quot; type=&quot;audio/mpeg&quot; /&gt;
-&lt;/audio&gt;
-
-&lt;p&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;/p&gt;
-&lt;h4&gt;On a wire&lt;/h4&gt;
-
-&lt;p&gt;
-for diy-zither, cymbal, contact microphone, live granular synthesis, live recording, 2013&lt;br /&gt;&lt;br /&gt;
-&lt;/p&gt;
-
-&lt;p&gt;&lt;/p&gt;
-&lt;audio controls=&quot;&quot; style=&quot;width: 100%&quot; preload=&quot;none&quot;&gt;
-  &lt;source src=&quot;http://localhost:4000/images/onawire.mp3&quot; type=&quot;audio/mpeg&quot; loading=&quot;lazy&quot; /&gt;
-&lt;/audio&gt;
-
-</content>
- </entry>
- 
- <entry>
-   <title>Zweistimmige_inventionen</title>
-   <link href="http://tricx.github.io/2013/10/17/zweistimmige_inventionen"/>
-   <updated>2013-10-17T00:00:00+02:00</updated>
-   <id>http://tricx.github.io/2013/10/17/zweistimmige_inventionen</id>
-   <content type="html">
-&lt;div class=&quot;container-parent&quot;&gt;
-&lt;div class=&quot;container-narrow-right&quot;&gt;
-
-	
-	
-
-	
-	
-
-	
-	
-
-	
-	
-
-	
-	
-
-	
-	
-
-	
-	
-
-	
-	
-
-	
-	
-
-	
-	
-
-	
-	
-
-	
-	
-
-	
-	
-
-	
-	
-
-	
-	
-
-	
-	
-
-	
-	
-
-	
-	
-
-	
-	
-
-	
-	
-
-	
-	
-
-	
-	
-
-	
-	
-
-	
-	
-
-	
-	
-
-	
-	
-&lt;h4&gt;&lt;a href=&quot;/2013/10/17/zweistimmige_inventionen&quot;&gt;&lt;/a&gt;Zweistimmige Inventionen&lt;/h4&gt;
-	
-
-	
-	
-
-	
-	
-
-	
-	
-
-	
-	
-
-	
-	
-
-	
-	
-
-
-
-
-
-
-&lt;p&gt;
-Site Specific Installation, 2008&lt;br /&gt;&lt;br /&gt;
-
-The installation “Zweistimmige Inventionen” has been designed for the Prospekthof Semperdepot of the Academy of Fine Arts Vienna and consists of the following components:&lt;br /&gt;&lt;br /&gt;
-
-A swing from a playground that was extended with hawsers (ropes) from the roof framework to the ground.&lt;br /&gt;
-
-A hi-fi system / ghetto blaster.&lt;br /&gt;
-
-The recordings of the fifteen Two-Part Inventions and one Three-Part Sinfonia of J.S.Bach, which I have learned for this work and recorded myself.&lt;br /&gt;
-
-A framed image that shows the wooden framework for a swing at a playground, where the swing is missing and the ground is covered with additional soil.&lt;br /&gt;
-
-Considerations to the themes, areas and associations, which could form some of the questions the Installation “Zweistimmige Inventionen” poses, are accompanying the work as a virtual art-theory handout.&lt;br /&gt;
-&lt;/p&gt;
-&lt;/div&gt;
-
-
-&lt;div class=&quot;container-narrow-left&quot;&gt;
-&lt;img src=&quot;http://localhost:4000/images/schaukel1.jpg&quot; loading=&quot;lazy&quot; alt=&quot;image&quot; /&gt;
-&lt;p&gt;&lt;/p&gt;
-&lt;img src=&quot;http://localhost:4000/images/schaukel2.jpg&quot; loading=&quot;lazy&quot; alt=&quot;image&quot; /&gt;
-&lt;p&gt;&lt;/p&gt;
-&lt;img src=&quot;http://localhost:4000/images/schaukel3.jpg&quot; loading=&quot;lazy&quot; alt=&quot;image&quot; /&gt;
-&lt;p&gt;exhibition view Semperdepot, Akademie der bildenden Künste, Wien&lt;/p&gt;
-
-&lt;/div&gt;
-&lt;/div&gt;
-</content>
- </entry>
- 
- <entry>
-   <title>Bicycle_and_birds</title>
-   <link href="http://tricx.github.io/2013/10/16/bicycle_and_birds"/>
-   <updated>2013-10-16T00:00:00+02:00</updated>
-   <id>http://tricx.github.io/2013/10/16/bicycle_and_birds</id>
-   <content type="html">
-&lt;div class=&quot;container-parent&quot;&gt;
-&lt;div class=&quot;container-narrow-right&quot;&gt;
-
-	
-	
-
-	
-	
-
-	
-	
-
-	
-	
-
-	
-	
-
-	
-	
-
-	
-	
-
-	
-	
-
-	
-	
-
-	
-	
-
-	
-	
-
-	
-	
-
-	
-	
-
-	
-	
-
-	
-	
-
-	
-	
-
-	
-	
-
-	
-	
-
-	
-	
-
-	
-	
-
-	
-	
-
-	
-	
-
-	
-	
-
-	
-	
-
-	
-	
-
-	
-	
-
-	
-	
-&lt;h4&gt;&lt;a href=&quot;/2013/10/16/bicycle_and_birds&quot;&gt;&lt;/a&gt;Bicycle and Birds&lt;/h4&gt;
-	
-
-	
-	
-
-	
-	
-
-	
-	
-
-	
-	
-
-	
-	
-
-
-&lt;p&gt;
-bike ride, Vienna, 2008&lt;br /&gt;
-video (6mn 30)&lt;br /&gt;&lt;br /&gt;
-
-The video shows the traces of the tires of a bicycle, during a ride through the city. The traces appear like oscillating lines that lay over the erratic movements and interferences of the structure of the ground. The audio track gives an anticipation of the urban surrounding, interferences between the noise of the pedals and the events on the street occur.&lt;br /&gt;&lt;br /&gt;
-&lt;/p&gt;
-
-
-&lt;p&gt;
-streetmarket, Paris, 2008&lt;br /&gt;
-Videoloop (4mn)&lt;br /&gt;
-
-Birds in a cage.&lt;br /&gt;&lt;br /&gt;
-&lt;/p&gt;
-&lt;/div&gt;
-
-
-&lt;div class=&quot;container-narrow-left&quot;&gt;
-&lt;video controls=&quot;&quot; preload=&quot;none&quot; poster=&quot;http://localhost:4000/images/bike_poster.jpg&quot; width=&quot;100%&quot; height=&quot;auto&quot;&gt;
-  &lt;source src=&quot;http://localhost:4000/images/bike_small.mp4&quot; type=&quot;video/mp4&quot; /&gt;
-&lt;/video&gt;
-
-&lt;video controls=&quot;&quot; preload=&quot;none&quot; poster=&quot;http://localhost:4000/images/birds_poster.jpg&quot; width=&quot;100%&quot; height=&quot;auto&quot;&gt;
-  &lt;source src=&quot;http://localhost:4000/images/birds_small.mp4&quot; type=&quot;video/mp4&quot; /&gt;
-&lt;/video&gt;
-
-&lt;/div&gt;
-&lt;/div&gt;
-</content>
- </entry>
- 
- <entry>
    <title>Undefined_falling_objects</title>
    <link href="http://tricx.github.io/2013/10/15/undefined_falling_objects"/>
    <updated>2013-10-15T00:00:00+02:00</updated>
@@ -3877,18 +3139,6 @@ Birds in a cage.&lt;br /&gt;&lt;br /&gt;
    <content type="html">
 &lt;div class=&quot;container-parent&quot;&gt;
 &lt;div class=&quot;container-narrow-right&quot;&gt;
-
-	
-	
-
-	
-	
-
-	
-	
-
-	
-	
 
 	
 	
@@ -4009,18 +3259,6 @@ The film loop shows permanently turning maple seeds, in density and speed variab
    <content type="html">
 &lt;div class=&quot;container-parent&quot;&gt;
 &lt;div class=&quot;container-narrow-right&quot;&gt;
-
-	
-	
-
-	
-	
-
-	
-	
-
-	
-	
 
 	
 	

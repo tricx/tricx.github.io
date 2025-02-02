@@ -8,6 +8,11 @@ http://tricx.github.io/old_posts/2009-12-11-in_a_room
 http://tricx.github.io/old_posts/2009-12-12-wilhelms_punk
 http://tricx.github.io/old_posts/2009-12-13-platte_x
 http://tricx.github.io/old_posts/2010-02-22-recording
+http://tricx.github.io/old_posts/2013-10-16-bicycle_and_birds
+http://tricx.github.io/old_posts/2013-10-17-zweistimmige_inventionen
+http://tricx.github.io/old_posts/2013-12-14-works
+http://tricx.github.io/old_posts/2013-12-26-a_car_from_above
+http://tricx.github.io/old_posts/2013-12-27-pachinko
 http://tricx.github.io/archive
 http://tricx.github.io/atom.xml
 http://tricx.github.io/blog
@@ -48,10 +53,6 @@ http://tricx.github.io/2016/01/20/animal_voice_orchestra
 http://tricx.github.io/2015/12/12/faux_terrain
 http://tricx.github.io/2013/12/28/ottos_mops
 http://tricx.github.io/2013/12/27/pachinko
-http://tricx.github.io/2013/12/26/a_car_from_above
-http://tricx.github.io/2013/12/14/works
-http://tricx.github.io/2013/10/17/zweistimmige_inventionen
-http://tricx.github.io/2013/10/16/bicycle_and_birds
 http://tricx.github.io/2013/10/15/undefined_falling_objects
 http://tricx.github.io/2013/10/01/flieger
 http://tricx.github.io/2013/02/05/sound

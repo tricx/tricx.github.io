@@ -158,7 +158,7 @@ hr {
 .postnav {
   position: fixed;
   top: 7px;
-  left: 7px;
+  left: -2px;
   z-index: 2000;
   font-size:110% !important;
 }
@@ -461,22 +461,24 @@ a:focus {
 
 /* Sidebar links */
 .nav-list {
-  width: 80vw;
+  width: 70vw;
+  height: 10vh;
   display: flex;
   flex-wrap: wrap; /* Allows items to move to a new row if needed */
   transform-origin: bottom left;
   transform: rotateZ(90deg);
   padding-left: 0px;
   position: fixed;
-  top: -38px; /*42 change to fit to automatic rescale hack*/
-  max-height: 10vh; /* Ensures it respects the viewport height */
+  top: -30px; /*42 change to fit to automatic rescale hack*/
+  max-height: 12vh; /* Ensures it respects the viewport height */
+  max-width: 97vh; /* Ensures it respects the viewport height */
   overflow-y: auto; /* Adds scroll if necessary */
   justify-content: center; /* Keeps items centered */
 }
 
 .nav-list-item {
   flex: 1 1 auto; /* Allows flexibility in sizing */
-  min-width: 10px; /* Ensures items don’t get too small */
+  min-width: 1px; /* Ensures items don’t get too small */
   text-align: center;
 }
 
@@ -490,7 +492,7 @@ a:focus {
   box-shadow: none;
   text-shadow: none !important;
   text-decoration-style: none;
-  margin-bottom: 3%;
+  margin-bottom: 1%;
 /*  padding: 10px;*/
   display: inline-block; /* Ensures proper spacing */
 }

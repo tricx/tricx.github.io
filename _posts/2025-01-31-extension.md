@@ -41,9 +41,13 @@ In addition to the auditory focus on interventions with lightweight audio diffus
   <source src="{{ site.url }}/images/extension_sm.mp4" type="video/mp4">
 </video>
 
-<img src="{{ site.url }}/images/extension_sphere_sm.jpg" loading="eager" alt="image" width="44.6%" height="auto" style="float: left">
-<img src="{{ site.url }}/images/extension_location1_sm.jpg" loading="eager" alt="image" width="55.2%" height="auto" style="float: right">
+<img src="{{ site.url }}/images/extension_sphere_sm.jpg" loading="eager" alt="image" width="44.4%" height="auto" style="float: left">
+<img src="{{ site.url }}/images/extension_location1_sm.jpg" loading="eager" alt="image" width="55%" height="auto" style="float: right">
 
+<div class="clearfix"></div>
+<p></p>
+<img src="{{ site.url }}/images/extension_pa_sm.jpg" loading="eager" alt="image" width="49.5%" height="auto" style="float: left">
+<img src="{{ site.url }}/images/extension_tire_sm.jpg" loading="eager" alt="image" width="49.5%" height="auto" style="float: right">
 <div class="clearfix"></div>
 <p></p>
 <img src="{{ site.url }}/images/extension_galeria_high_sm2.jpg" loading="eager" alt="image" width="53.1%" height="auto" style="float: left">
@@ -53,10 +57,9 @@ In addition to the auditory focus on interventions with lightweight audio diffus
 
 <div class="clearfix"></div>
 <p></p>
-<img src="{{ site.url }}/images/extension_plastic_sm.jpg" loading="eager" alt="image" width="25%" height="auto" top="auto" style="float: left">
-<img src="{{ site.url }}/images/extension_black_sm.jpg" loading="eager" alt="image" width="25%" height="auto" style="float: left">
-<img src="{{ site.url }}/images/extension_pa_sm.jpg" loading="eager" alt="image" width="25%" height="auto" style="float: right">
-<img src="{{ site.url }}/images/extension_tire_sm.jpg" loading="eager" alt="image" width="25%" height="auto" style="float: right">
+<img src="{{ site.url }}/images/extension_plastic_sm.jpg" loading="eager" alt="image" width="49.5%" height="auto" top="auto" style="float: left">
+<img src="{{ site.url }}/images/extension_black_sm.jpg" loading="eager" alt="image" width="49.5%" height="auto" style="float: right">
+
 <div class="clearfix"></div>
 <p></p>
 
@@ -68,9 +71,10 @@ In addition to the auditory focus on interventions with lightweight audio diffus
 {% comment %}</div>{% endcomment %}
 
 {% comment %}
-
-<p></p>
-<br /><br /><br /><br /><br /><br /><br /><br />
+<img src="{{ site.url }}/images/extension_plastic_sm.jpg" loading="eager" alt="image" width="25%" height="auto" top="auto" style="float: left">
+<img src="{{ site.url }}/images/extension_black_sm.jpg" loading="eager" alt="image" width="25%" height="auto" style="float: left">
+<img src="{{ site.url }}/images/extension_pa_sm.jpg" loading="eager" alt="image" width="25%" height="auto" style="float: right">
+<img src="{{ site.url }}/images/extension_tire_sm.jpg" loading="eager" alt="image" width="25%" height="auto" style="float: right">
 
 
 <img src="{{ site.url }}/images/extension_plastic_sm.jpg" loading="eager" alt="image" width="25%" height="auto" top="auto" style="float: left">

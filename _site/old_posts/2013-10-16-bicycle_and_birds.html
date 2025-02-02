@@ -3244,8 +3244,6 @@ body{
 
 	
 	
-<h4><a href="/2023/04/01/iah"></a>I-AH Voice Generator</h4>
-	
 
 	
 	
@@ -3321,38 +3319,45 @@ body{
 
 
 <p>
+bike ride, Vienna, 2008<br />
+video (6mn 30)<br /><br />
 
-I-AH Voice Generator<br />
-odroid u3, supercollider, algorithmic system 2023 for der blöde dritte Mittwoch at Parallel Vienna<br /><br />
-‚I-AH generierte Stimmlaute als Hommage an den Esel im Zeitalter der AI.‘
+The video shows the traces of the tires of a bicycle, during a ride through the city. The traces appear like oscillating lines that lay over the erratic movements and interferences of the structure of the ground. The audio track gives an anticipation of the urban surrounding, interferences between the noise of the pedals and the events on the street occur.<br /><br />
+</p>
 
 
+<p>
+streetmarket, Paris, 2008<br />
+Videoloop (4mn)<br />
+
+Birds in a cage.<br /><br />
 </p>
 </div>
 
 
 <div class="container-narrow-left">
+<video controls="" preload="none" poster="http://localhost:4000/images/bike_poster.jpg" width="100%" height="auto">
+  <source src="http://localhost:4000/images/bike_small.mp4" type="video/mp4" />
+</video>
 
-<img src="http://localhost:4000/images/i-ah_esel.jpg" loading="eager" alt="image" />
-<p></p>
-
-
-
-<img src="http://localhost:4000/images/i-ah_chron_speaker_dev_sm.jpg" loading="eager" alt="image" width="41.8%" height="auto" style="float: left" />
-<img src="http://localhost:4000/images/i-ah_parallel_sm.jpg" loading="eager" alt="image" width="58%" height="auto" style="float: right" />
-<div class="clearfix"></div>
-<p></p>
-
-
-
+<video controls="" preload="none" poster="http://localhost:4000/images/birds_poster.jpg" width="100%" height="auto">
+  <source src="http://localhost:4000/images/birds_small.mp4" type="video/mp4" />
+</video>
 
 </div>
 </div>
-
 
                   <!-- </div> -->
                 
-<!--     
+<!--   
+    <dl class="tag_box inline">
+      <li><i class="icon-folder-open"></i></li>
+      
+      
+      
+
+    </dl>
+    
 
   
   <h4> Tags: </h4>
@@ -3380,12 +3385,13 @@ odroid u3, supercollider, algorithmic system 2023 for der blöde dritte Mittwoch
     <ul>
 
       
-        <li class="next"><a href="/2023/05/01/ila" title="Ila"><<</a></li>
+        <li class="next disabled"><a><<</a>
+          <!-- &rarr; -->
       
       <!-- <li><a href="/archive.html">Archive</a></li> -->
       
       
-        <li class="prev"><a href="/2021/02/04/the_sea" title="The_sea">>></a></li>
+        <li class="prev disabled"><a>>></a></li>
       
 
     </ul>
@@ -3411,127 +3417,7 @@ odroid u3, supercollider, algorithmic system 2023 for der blöde dritte Mittwoch
     <!-- page:
 
 
-
-<div class="container-parent">
-<div class="container-narrow-right">
-
-	
-	
-
-	
-	
-
-	
-	
-
-	
-	
-<h4><a href="/2023/04/01/iah"></a>I-AH Voice Generator</h4>
-	
-
-	
-	
-
-	
-	
-
-	
-	
-
-	
-	
-
-	
-	
-
-	
-	
-
-	
-	
-
-	
-	
-
-	
-	
-
-	
-	
-
-	
-	
-
-	
-	
-
-	
-	
-
-	
-	
-
-	
-	
-
-	
-	
-
-	
-	
-
-	
-	
-
-	
-	
-
-	
-	
-
-	
-	
-
-	
-	
-
-	
-	
-
-	
-	
-
-
-<p>
-
-I-AH Voice Generator<br />
-odroid u3, supercollider, algorithmic system 2023 for der blöde dritte Mittwoch at Parallel Vienna<br /><br />
-‚I-AH generierte Stimmlaute als Hommage an den Esel im Zeitalter der AI.‘
-
-
-</p>
-</div>
-
-
-<div class="container-narrow-left">
-
-<img src="http://localhost:4000/images/i-ah_esel.jpg" loading="eager" alt="image" />
-<p></p>
-
-
-
-<img src="http://localhost:4000/images/i-ah_chron_speaker_dev_sm.jpg" loading="eager" alt="image" width="41.8%" height="auto" style="float: left" />
-<img src="http://localhost:4000/images/i-ah_parallel_sm.jpg" loading="eager" alt="image" width="58%" height="auto" style="float: right" />
-<div class="clearfix"></div>
-<p></p>
-
-
-
-
-</div>
-</div>
-
- -->
+{"published"=>true, "layout"=>"post", "show_worktitle_sidebar"=>true, "tags"=>"interventions", "JB"=>{"analytics"=>false}, "content"=>"{% include JB/setup %}\n\n<div class=\"container-parent\">\n<div class=\"container-narrow-right\">\n{% for post in site.posts %}\n\t{% assign pt = post.title | downcase %}\n\t{% if 'bicycle_and_birds' == pt %}\n<h4><a href=\"{{ BASE_PATH }}{{ post.url }}\"></a>Bicycle and Birds</h4>\n\t{% endif %}\n{% endfor %}\n\n<p>\nbike ride, Vienna, 2008<br />\nvideo (6mn 30)<br /><br />\n\nThe video shows the traces of the tires of a bicycle, during a ride through the city. The traces appear like oscillating lines that lay over the erratic movements and interferences of the structure of the ground. The audio track gives an anticipation of the urban surrounding, interferences between the noise of the pedals and the events on the street occur.<br /><br />\n</p>\n\n\n<p>\nstreetmarket, Paris, 2008<br />\nVideoloop (4mn)<br />\n\nBirds in a cage.<br /><br />\n</p>\n</div>\n\n\n<div class=\"container-narrow-left\">\n<video controls preload=\"none\" poster=\"{{ site.url }}/images/bike_poster.jpg\" width=\"100%\" height=\"auto\">\n  <source src=\"{{ site.url }}/images/bike_small.mp4\" type=\"video/mp4\">\n</video>\n\n<video controls preload=\"none\" poster=\"{{ site.url }}/images/birds_poster.jpg\" width=\"100%\" height=\"auto\">\n  <source src=\"{{ site.url }}/images/birds_small.mp4\" type=\"video/mp4\">\n</video>\n\n</div>\n</div>\n", "dir"=>"/old_posts/", "excerpt"=>nil, "name"=>"2013-10-16-bicycle_and_birds.md", "path"=>"old_posts/2013-10-16-bicycle_and_birds.md", "url"=>"/old_posts/2013-10-16-bicycle_and_birds"} -->
 
 
 
