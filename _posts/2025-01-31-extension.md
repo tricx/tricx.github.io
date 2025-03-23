@@ -39,7 +39,7 @@ In addition to the auditory focus on interventions with lightweight audio diffus
 
 <div class="container-narrow-left">
 <video controls preload="none" poster="{{ site.url }}/images/extension_poster.jpg" width="100%" height="auto">
-  <source src="{{ site.url }}/images/extension_sm_ext.mp4" type="video/mp4">
+  <source src="{{ site.url }}/images/extension_ex_sm.mp4" type="video/mp4">
 </video>
 
 <img src="{{ site.url }}/images/extension_sphere_sm.jpg" loading="eager" alt="image" width="44.4%" height="auto" style="float: left">
@@ -53,7 +53,7 @@ In addition to the auditory focus on interventions with lightweight audio diffus
 <p></p>
 <img src="{{ site.url }}/images/extension_galeria_high_sm2.jpg" loading="eager" alt="image" width="53.1%" height="auto" style="float: left">
 <video controls preload="none" poster="{{ site.url }}/images/extension_galeria_poster.jpg" width="46.36%" height="auto" style="float: right">
-  <source src="{{ site.url }}/images/extension_galeria_sm.mp4" type="video/mp4">
+  <source src="{{ site.url }}/images/extension_galeria_cut_sm.mp4" type="video/mp4">
 </video>
 
 <div class="clearfix"></div>
