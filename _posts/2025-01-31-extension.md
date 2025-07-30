@@ -25,7 +25,7 @@ mercado de frutas / 16.1.2025 7pm esquina Chacabuco/Ecuador, Valparaiso, Chile<b
 Galería Municipal Valparaiso<br />
 solar sphere, hdpe-foil, carbon-oxide black, tape, fan, piezo contact mic, small speaker setup<br /><br />
 developed for Tsonami Festival Atmosférica 2025<br />
-thanks for the support to Carsten Stabenow, Franciso Fuenzalida, Sebastián Ramón Tapia Núñez, Nicolás Spencer, Leonello Zambon, Pablo Saavedra Arevalo + Tsonami Team - video excerpts by Florencia Curci, Francisco Hevia - Eizo Cine<br /><br />
+thanks for the support to Carsten Stabenow, Franciso Fuenzalida, Sebastián Ramón Tapia Núñez, Nicolás Spencer, Leonello Zambon, Pablo Saavedra Arevalo + Tsonami Team - video excerpts by Florencia Curci, Francisco Hevia - Erizo Cine<br /><br />
 
 
 'extensión' was developed for the edition Atmosférica of Tsonami Festival 2025, Valparaiso, Chile. It connects to the theme of atmosféria as a layer that surrounds a location or a social sphere and follows the tactic of dérive, a situationist concept involving aimless wandering through urban environments to create a psychogeographic map of different areas.<br />
