@@ -45,10 +45,9 @@ In some cases, 'Plappern' is used pejoratively to describe someone who talks stu
 
 <div class="container-narrow-left">
 
-
-<img src="{{ site.url }}/images/plapper2.jpg" loading="eager" alt="image">
-
-
+<img src="{{ site.url }}/images/plapper-dog_sm.jpg" loading="eager" alt="image">
+<p></p>
+<p>still image from the EMI Trust Archive 'Nipper runs Amok!' for a Mutoscope documentation for The Gramophone Company</p>
 <p></p>
 
 
@@ -63,9 +62,7 @@ In some cases, 'Plappern' is used pejoratively to describe someone who talks stu
 
 <div class="clearfix"></div>
 <p></p>
-<img src="{{ site.url }}/images/plapper-dog_sm.jpg" loading="eager" alt="image">
-<p></p>
-<p>still image from the EMI Trust Archive 'Nipper runs Amok!' for a Mutoscope documentation for The Gramophone Company</p>
+<img src="{{ site.url }}/images/plapper2.jpg" loading="eager" alt="image">
 <p></p>
 
 

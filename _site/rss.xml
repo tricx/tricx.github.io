@@ -5,8 +5,8 @@
         <description>Tricx - Paul Gruendorfer</description>
         <link>http://tricx.github.io</link>
         <link>http://tricx.github.io</link>
-        <lastBuildDate>2025-10-18T12:27:44+02:00</lastBuildDate>
-        <pubDate>2025-10-18T12:27:44+02:00</pubDate>
+        <lastBuildDate>2025-10-18T12:36:01+02:00</lastBuildDate>
+        <pubDate>2025-10-18T12:36:01+02:00</pubDate>
         <ttl>1800</ttl>
 
 
@@ -129,10 +129,9 @@ In some cases, &apos;Plappern&apos; is used pejoratively to describe someone who
 
 &lt;div class=&quot;container-narrow-left&quot;&gt;
 
-
-&lt;img src=&quot;http://localhost:4000/images/plapper2.jpg&quot; loading=&quot;eager&quot; alt=&quot;image&quot; /&gt;
-
-
+&lt;img src=&quot;http://localhost:4000/images/plapper-dog_sm.jpg&quot; loading=&quot;eager&quot; alt=&quot;image&quot; /&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;still image from the EMI Trust Archive &apos;Nipper runs Amok!&apos; for a Mutoscope documentation for The Gramophone Company&lt;/p&gt;
 &lt;p&gt;&lt;/p&gt;
 
 
@@ -147,9 +146,7 @@ In some cases, &apos;Plappern&apos; is used pejoratively to describe someone who
 
 &lt;div class=&quot;clearfix&quot;&gt;&lt;/div&gt;
 &lt;p&gt;&lt;/p&gt;
-&lt;img src=&quot;http://localhost:4000/images/plapper-dog_sm.jpg&quot; loading=&quot;eager&quot; alt=&quot;image&quot; /&gt;
-&lt;p&gt;&lt;/p&gt;
-&lt;p&gt;still image from the EMI Trust Archive &apos;Nipper runs Amok!&apos; for a Mutoscope documentation for The Gramophone Company&lt;/p&gt;
+&lt;img src=&quot;http://localhost:4000/images/plapper2.jpg&quot; loading=&quot;eager&quot; alt=&quot;image&quot; /&gt;
 &lt;p&gt;&lt;/p&gt;
 
 
