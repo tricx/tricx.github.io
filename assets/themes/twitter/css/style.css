@@ -468,7 +468,7 @@ a:focus {
   transform: rotateZ(90deg);
   padding-left: 10px;
   position: fixed;
-  top: -35px; /*42 change to fit to automatic rescale hack*/
+  top: -36px; /*42 change to fit to automatic rescale hack*/
   max-height: 12vh; /* Ensures it respects the viewport height */
   max-width: 95vh; /* Ensures it respects the viewport height */
 /*  overflow-y: auto; /* Adds scroll if necessary/*/
@@ -482,7 +482,8 @@ a:focus {
 }
 
 .linkNew {
-  font: 118%/70% "FTBoyleMedium", sans-serif;
+/*  font: 118%/70% "FTBoyleMedium", sans-serif;*/
+  font: 110%/65% "FTBoyleMedium", sans-serif;
   font-weight: 400;
   text-align: left;
   line-height: 0.7em;
