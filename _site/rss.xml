@@ -5,16 +5,196 @@
         <description>Tricx - Paul Gruendorfer</description>
         <link>http://tricx.github.io</link>
         <link>http://tricx.github.io</link>
-        <lastBuildDate>2025-10-18T12:36:01+02:00</lastBuildDate>
-        <pubDate>2025-10-18T12:36:01+02:00</pubDate>
+        <lastBuildDate>2026-06-16T14:54:39+02:00</lastBuildDate>
+        <pubDate>2026-06-16T14:54:39+02:00</pubDate>
         <ttl>1800</ttl>
 
+
+        <item>
+                <title>_ship</title>
+                <description>
+&lt;div class=&quot;container-parent&quot;&gt;
+&lt;div class=&quot;container-narrow-right&quot;&gt;
+
+  
+  
+
+  
+  
+
+  
+  
+&lt;h4&gt;&lt;a href=&quot;/2025/01/31/extension&quot;&gt;&lt;/a&gt;_ship&lt;/h4&gt;
+  
+
+  
+  
+
+  
+  
+
+  
+  
+
+  
+  
+
+  
+  
+
+  
+  
+
+  
+  
+
+  
+  
+
+  
+  
+
+  
+  
+
+  
+  
+
+  
+  
+
+  
+  
+
+  
+  
+
+  
+  
+
+  
+  
+
+  
+  
+
+  
+  
+
+  
+  
+
+  
+  
+
+  
+  
+
+  
+  
+
+  
+  
+
+  
+  
+
+  
+  
+
+  
+  
+
+
+&lt;p&gt;
+site specific actions&lt;br /&gt;
+25.4. / 26.4.2026, Cite´ Modèle, Brussels[BE]&lt;br /&gt;
+20.5. 2026 8pm, Av.Wielemans Ceuppens 95, Brussels[BE]&lt;br /&gt;
+21.5.2026 7pm, Anneessens, Brussels[BE]&lt;br /&gt;
+21.5.2026 10pm, Galerie Ravenstein, Brussels[BE]&lt;br /&gt;
+&lt;br /&gt;
+cardboard-panels, battery powered transducer-speaker system, microphones, realtime processing pd&lt;br /&gt;
+&lt;br /&gt;
+developed at Overtoon, part of Oscillation Festival::from the mothership.
+thanks for the support to Thomas Meijs, Laurenz Julian Greuter, Sophie Dvořák
+&lt;br /&gt;&lt;br /&gt;
+
+_ship explores the perception of and reaction to sound in public spaces, secluded areas or resonant hideouts. It&apos;s a small portable speaker and dsp-realtime setup with simple materials, like found cardboard panels, that function as a speaker system and can be set up in different locations to create various listening experiences and associations, while also considering the impact of amplification levels. 
+The generated sound derives from the input to the open microphones capturing the signals of the surroundings.
+In addition to the auditory focus on the adaptive nature of sonic systems, it also seeks to address the question of spatial presence and explore the different qualities of exposure to unfamiliar elements.
+&lt;br /&gt;&lt;br /&gt;
+
+&lt;small&gt; 
+text for Oscillation Festival:
+-ship is a sound sculpture for the entrance area of La Maison de la Création, Cité Modèle, Brussels. The suffix -ship is used in English to form abstract terms, often having to do with states, relationships, or properties. It connects to the festival theme from the Mothership as a layer that surrounds a location or a social sphere. Using simple and fragile materials it tries to detect what escapes the imaginary engine-room of an Institution – where does it draw its powers from?
+&lt;/small&gt; 
+&lt;br /&gt;&lt;br /&gt;
+&lt;/p&gt;
+
+&lt;/div&gt;
+
+
+&lt;div class=&quot;container-narrow-left&quot;&gt;
+
+&lt;img src=&quot;http://localhost:4000/images/ship_central_sm.jpg&quot; loading=&quot;eager&quot; alt=&quot;image&quot; /&gt;
+
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;mobile phone excerpts from different actions around Brussels&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+
+
+&lt;video controls=&quot;&quot; preload=&quot;none&quot; poster=&quot;http://localhost:4000/images/ship_raven_poster_re2.jpg&quot; width=&quot;49.8%&quot; height=&quot;auto&quot; style=&quot;float: left&quot;&gt;
+  &lt;source src=&quot;http://localhost:4000/images/ship_raven_sm.mp4&quot; type=&quot;video/mp4&quot; /&gt;
+&lt;/video&gt;
+
+
+&lt;video controls=&quot;&quot; preload=&quot;none&quot; poster=&quot;http://localhost:4000/images/ship_central_poster_re.jpg&quot; width=&quot;49.8%&quot; height=&quot;auto&quot; style=&quot;float: right&quot;&gt;
+  &lt;source src=&quot;http://localhost:4000/images/ship_central_sm.mp4&quot; type=&quot;video/mp4&quot; /&gt;
+&lt;/video&gt;
+
+&lt;div class=&quot;clearfix&quot;&gt;&lt;/div&gt;
+&lt;p&gt;&lt;/p&gt;
+
+
+&lt;video controls=&quot;&quot; preload=&quot;none&quot; poster=&quot;http://localhost:4000/images/ship_tank_poster_re2.jpg&quot; width=&quot;49.8%&quot; height=&quot;auto&quot; style=&quot;float: left&quot;&gt;
+  &lt;source src=&quot;http://localhost:4000/images/ship_tank_sm.mp4&quot; type=&quot;video/mp4&quot; /&gt;
+&lt;/video&gt;
+
+
+&lt;video controls=&quot;&quot; preload=&quot;none&quot; poster=&quot;http://localhost:4000/images/ship_poster_re.jpg&quot; width=&quot;49.8%&quot; height=&quot;auto&quot; style=&quot;float: right&quot;&gt;
+  &lt;source src=&quot;http://localhost:4000/images/ship_sm.mp4&quot; type=&quot;video/mp4&quot; /&gt;
+&lt;/video&gt;
+
+
+&lt;div class=&quot;clearfix&quot;&gt;&lt;/div&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;img src=&quot;http://localhost:4000/images/ship_karton_sm2.jpg&quot; loading=&quot;eager&quot; alt=&quot;image&quot; /&gt;
+&lt;p&gt;&lt;/p&gt;
+
+
+&lt;div class=&quot;clearfix&quot;&gt;&lt;/div&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;img src=&quot;http://localhost:4000/images/ship_system_sm.jpg&quot; loading=&quot;eager&quot; alt=&quot;image&quot; width=&quot;49.5%&quot; height=&quot;auto&quot; style=&quot;float: left&quot; /&gt;
+&lt;img src=&quot;http://localhost:4000/images/ship_panel_sm.jpg&quot; loading=&quot;eager&quot; alt=&quot;image&quot; width=&quot;49.5%&quot; height=&quot;auto&quot; style=&quot;float: right&quot; /&gt;
+&lt;div class=&quot;clearfix&quot;&gt;&lt;/div&gt;
+
+&lt;/div&gt;
+&lt;/div&gt;
+
+</description>
+                <link>http://tricx.github.io/2026/06/15/_ship</link>
+                <guid>http://tricx.github.io/2026/06/15/_ship</guid>
+                <pubDate>2026-06-15T00:00:00+02:00</pubDate>
+        </item>
 
         <item>
                 <title>Plapper_la_papp</title>
                 <description>
 &lt;div class=&quot;container-parent&quot;&gt;
 &lt;div class=&quot;container-narrow-right&quot;&gt;
+
+  
+  
 
   
   
@@ -105,10 +285,10 @@
 
 &lt;p&gt;
 commissioned by &apos;der blöde dritte Mittwoch&apos; for Phonomuseum Wien, oct 2025&lt;br /&gt;
-&apos;talking machine&apos;, generative system, pd, raspberry-pi, transducers, loudspeaker, Hexentrichter&lt;br /&gt;&lt;br /&gt;
+&apos;talking machine&apos;, generative system, realtime processing pd, raspberry-pi, transducers, loudspeaker, Hexentrichter&lt;br /&gt;&lt;br /&gt;
 
 
-Plapper-la-papp is an onomatopetic homage to the phonograph, the first machines for recording voices and sounds. The phonographs from the collection of the Phonomuseum Vienna were taken up as a starting point to explore the processes of recording and playing back and reproducing vocal fragments. The work examines how signals are manipulated in the space of digital sound processing and become perceptible events again in real acoustic space.&lt;br /&gt;
+Plapper-la-papp is an onomatopoetic homage to the phonograph, the first machines for recording voices and sounds. The phonographs from the collection of the Phonomuseum Vienna were taken up as a starting point to explore the processes of recording and playing back and reproducing vocal fragments. The work examines how signals are manipulated in the space of digital sound processing and become perceptible events again in real acoustic space.&lt;br /&gt;
 Plapper-la-papp is an attention-grabbing machine that processes and generates vocal fragments, or &apos;essential&apos; sound information, and occasionally develops an entertaining life of its own. In the middle of the phonograph collection, he does not primarily want to appear as a troublemaker, but rather, similar to the first models, tries to reproduce language fragments and essential information in order to interact with the visitors.
 
 &lt;br /&gt;&lt;br /&gt;
@@ -166,6 +346,9 @@ In some cases, &apos;Plappern&apos; is used pejoratively to describe someone who
                 <description>
 &lt;div class=&quot;container-parent&quot;&gt;
 &lt;div class=&quot;container-narrow-right&quot;&gt;
+
+  
+  
 
   
   
@@ -326,6 +509,9 @@ In addition to the auditory focus on interventions with lightweight audio diffus
 
 	
 	
+
+	
+	
 &lt;h4&gt;&lt;a href=&quot;/2024/05/07/whisper&quot;&gt;&lt;/a&gt;whisper&lt;/h4&gt;
 	
 
@@ -452,6 +638,9 @@ whisper, intervention at Tsonami Festival, Valparaiso[CL], jan 15 2025:
                 <description>
 &lt;div class=&quot;container-parent&quot;&gt;
 &lt;div class=&quot;container-narrow-right&quot;&gt;
+
+	
+	
 
 	
 	
@@ -603,6 +792,9 @@ high intensity audio modulated light frequencies, research of phantom presence i
 
 	
 	
+
+	
+	
 &lt;h4&gt;&lt;a href=&quot;/2023/04/01/iah&quot;&gt;&lt;/a&gt;I-AH Voice Generator&lt;/h4&gt;
 	
 
@@ -716,6 +908,9 @@ odroid u3, supercollider, algorithmic system 2023 for der blöde dritte Mittwoch
                 <description>
 &lt;div class=&quot;container-parent&quot;&gt;
 &lt;div class=&quot;container-narrow-right&quot;&gt;
+
+	
+	
 
 	
 	
@@ -876,6 +1071,9 @@ The Sea is an extraction of a complex natural phenomenon resulting in an artific
 
 	
 	
+
+	
+	
 &lt;h4&gt;&lt;a href=&quot;/2021/01/30/popp_up_maze256&quot;&gt;&lt;/a&gt;Popp-Up-Maze 256&lt;/h4&gt;
 	
 
@@ -984,6 +1182,9 @@ The playing area of the game is transferred to the Eduard-Popp-Hof. The warp mod
                 <description>
 &lt;div class=&quot;container-parent&quot;&gt;
 &lt;div class=&quot;container-narrow-right&quot;&gt;
+
+	
+	
 
 	
 	
@@ -1128,6 +1329,9 @@ audio recording excerpt:
                 <description>
 &lt;div class=&quot;container-parent&quot;&gt;
 &lt;div class=&quot;container-narrow-right&quot;&gt;
+
+	
+	
 
 	
 	
@@ -1300,6 +1504,9 @@ just the room recording and with less amplification:
 
 	
 	
+
+	
+	
 &lt;h4&gt;&lt;a href=&quot;/2020/10/13/unterm_pflaster_liegt_der_strand&quot;&gt;&lt;/a&gt;Unterm Pflaster liegt der Strand&lt;/h4&gt;
 	
 
@@ -1393,6 +1600,9 @@ The text is translated to latin, so it resembles often used honorable mentions o
                 <description>
 &lt;div class=&quot;container-parent&quot;&gt;
 &lt;div class=&quot;container-narrow-right&quot;&gt;
+
+	
+	
 
 	
 	
@@ -1571,6 +1781,9 @@ Reflections and Refractions of a laser that scans plastic bottles are translated
 
 	
 	
+
+	
+	
 &lt;h4&gt;&lt;a href=&quot;/2018/06/01/arcardian_gate&quot;&gt;&lt;/a&gt;Arcadian Gate&lt;/h4&gt;
 	
 
@@ -1712,6 +1925,9 @@ http://wikimapia.org/4832019/Arcadian-Gate&lt;/a&gt;
 
 	
 	
+
+	
+	
 &lt;h4&gt;&lt;a href=&quot;/2018/05/27/pigeons&quot;&gt;&lt;/a&gt;鸽子&lt;/h4&gt;
 	
 
@@ -1809,6 +2025,9 @@ Besides this interest, there is the old tradition to let pigeons fly with specia
                 <description>
 &lt;div class=&quot;container-parent&quot;&gt;
 &lt;div class=&quot;container-narrow-right&quot;&gt;
+
+	
+	
 
 	
 	
@@ -2019,6 +2238,9 @@ The project Centre and Periphery picked up this field of tension in order to dea
 
 	
 	
+
+	
+	
 &lt;h4&gt;&lt;a href=&quot;/2017/12/29/la_pica_del_gaviota&quot;&gt;&lt;/a&gt;La picá del Gaviota&lt;/h4&gt;
 	
 
@@ -2113,6 +2335,9 @@ First you have to agree, what is a “Picá”? In Chile they call “Picá” r
                 <description>
 &lt;div class=&quot;container-parent&quot;&gt;
 &lt;div class=&quot;container-narrow-right&quot;&gt;
+
+	
+	
 
 	
 	
@@ -2316,6 +2541,9 @@ Love to the beat of the show. [...]&lt;br /&gt;
 
 	
 	
+
+	
+	
 &lt;h4&gt;&lt;a href=&quot;/2017/03/02/attractor&quot;&gt;&lt;/a&gt;Attractor&lt;/h4&gt;
 	
 
@@ -2406,6 +2634,9 @@ As a site specific intervention the Attractor is built in a public space, connec
                 <description>
 &lt;div class=&quot;container-parent&quot;&gt;
 &lt;div class=&quot;container-narrow-right&quot;&gt;
+
+	
+	
 
 	
 	
@@ -2593,6 +2824,9 @@ The project AM-Feld / Soviet Noise, is a cooperation with &lt;a href=&quot;www.a
 
 	
 	
+
+	
+	
 &lt;h4&gt;&lt;a href=&quot;/2017/02/17/transient_hole&quot;&gt;&lt;/a&gt;Transient Hole (Variations)&lt;/h4&gt;
 	
 
@@ -2671,6 +2905,9 @@ Berlin, 2018&lt;br /&gt;
                 <description>
 &lt;div class=&quot;container-parent&quot;&gt;
 &lt;div class=&quot;container-narrow-right&quot;&gt;
+
+	
+	
 
 	
 	
@@ -2873,6 +3110,9 @@ in June 2015.
 
 	
 	
+
+	
+	
 &lt;h4&gt;&lt;a href=&quot;/2016/01/20/animal_voice_orchestra&quot;&gt;&lt;/a&gt;animal-voice-orchestra&lt;/h4&gt;
 	
 
@@ -2995,6 +3235,9 @@ Electronic circuits are interconnected to cause semi-natural entities, autonomou
 
 	
 	
+
+	
+	
 &lt;h4&gt;&lt;a href=&quot;/2015/12/12/faux_terrain&quot;&gt;&lt;/a&gt;Audio - Visual Performance / Faux Terrain&lt;/h4&gt;
 	
 
@@ -3048,6 +3291,9 @@ in cooperation with Claudia Larcher&lt;br /&gt;
                 <description>
 &lt;div class=&quot;container-parent&quot;&gt;
 &lt;div class=&quot;container-narrow-right&quot;&gt;
+
+	
+	
 
 	
 	
@@ -3247,6 +3493,9 @@ The robot moves around the exhibition space, orienting itself based on the event
 
 	
 	
+
+	
+	
 &lt;h4&gt;&lt;a href=&quot;/2013/12/27/pachinko&quot;&gt;&lt;/a&gt;Pachinko&lt;/h4&gt;
 	
 
@@ -3368,6 +3617,9 @@ Pachinko is played by more than 30% of the Japanese population. It is based on t
 
 	
 	
+
+	
+	
 &lt;h4&gt;&lt;a href=&quot;/2013/10/15/undefined_falling_objects&quot;&gt;&lt;/a&gt;Undefined Falling Objects&lt;/h4&gt;
 	
 
@@ -3413,6 +3665,9 @@ The film loop shows permanently turning maple seeds, in density and speed variab
                 <description>
 &lt;div class=&quot;container-parent&quot;&gt;
 &lt;div class=&quot;container-narrow-right&quot;&gt;
+
+	
+	
 
 	
 	
@@ -3629,23 +3884,41 @@ is co-founder of: &lt;a href=&quot;http://zentrale.jetzt/&quot; style=&quot;colo
 &lt;p&gt;&lt;br /&gt;&lt;br /&gt;&lt;/p&gt;
 &lt;hr /&gt;
 
-&lt;div style=&quot;color:white&quot;&gt;NOW:&lt;/div&gt;
+&lt;div style=&quot;color:white&quot;&gt;DATES:&lt;/div&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;b&gt;2026&lt;/b&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;la clef, Brussels[BE], jun 13 2026&lt;/p&gt;
+
+&lt;p&gt;microconcierto, Sonoscopia, Porto[PT], jun 6 2026&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;residency, Sonoscopia, Porto[PT], jun 2026&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;_ship, Brussels[BE], 20-21 may 2026&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;Oscillation Festival, MC Cité Modèle, Brussels[BE], apr 26 2026&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;residency, Overtoon, Brussels[BE], apr / june 2026&lt;br /&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;br /&gt;&lt;b&gt;2025&lt;/b&gt;&lt;br /&gt;&lt;/p&gt;
 
+&lt;p&gt;duo w/ Jonas Hammerer, Tre Stazioni, Palais Rössl, Vienna[AT] dec 6 2025&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;animal voice pavilion w/ Fabian Lanzmaier, New Adits Festival, Klagenfurt[AT] oct 19-22 2025&lt;br /&gt;&lt;/p&gt;
+
 &lt;p&gt;Plapper-la-papp, Phonomuseum, der blöde dritte Mittwoch, Vienna[AT], oct 4 2025&lt;br /&gt;&lt;/p&gt;
 
-&lt;p&gt;ila / drift w / Jonas Hammerer, Stadtwerkstatt, Linz[AT], sep 5-7 2025&lt;br /&gt;&lt;/p&gt;
+&lt;p&gt;ila / drift w/ Jonas Hammerer, Stadtwerkstatt, Linz[AT], sep 5-7 2025&lt;br /&gt;&lt;/p&gt;
 
-&lt;p&gt;The Sea w / Leo Peschta, we are founding a city, Zukunfshof, Vienna[AT], aug 22-24 2025&lt;br /&gt;&lt;/p&gt;
+&lt;p&gt;The Sea w/ Leo Peschta, we are founding a city, Zukunfshof, Vienna[AT], aug 22-24 2025&lt;br /&gt;&lt;/p&gt;
 
-&lt;p&gt;ila w / Mikko Savela, Kunst Klub Kräftner, Graz[AT], may 15 2025&lt;br /&gt;&lt;/p&gt;
+&lt;p&gt;ila w/ Mikko Savela, Kunst Klub Kräftner, Graz[AT], may 15 2025&lt;br /&gt;&lt;/p&gt;
 
-&lt;p&gt;ila w / Mikko Savela, Geiger, Gothenburg[SE], mar 15 2025&lt;br /&gt;&lt;/p&gt;
+&lt;p&gt;ila w/ Mikko Savela, Geiger, Gothenburg[SE], mar 15 2025&lt;br /&gt;&lt;/p&gt;
 
 &lt;p&gt;ILA, the innner circle, Vienna[AT], mar 8 2025&lt;br /&gt;&lt;/p&gt;
 
-&lt;p&gt;ila w / Mikko Savela, forening_kluster, Lulehardcore, Luleå[SE], feb 8 2025&lt;br /&gt;&lt;/p&gt;
+&lt;p&gt;ila w/ Mikko Savela, forening_kluster, Lulehardcore, Luleå[SE], feb 8 2025&lt;br /&gt;&lt;/p&gt;
 
 &lt;p&gt;exténsion - accion - mercado de frutas, Tsonami Festival, Valparaiso[CL], jan 16 2025&lt;br /&gt;&lt;/p&gt;
 
@@ -3655,13 +3928,13 @@ is co-founder of: &lt;a href=&quot;http://zentrale.jetzt/&quot; style=&quot;colo
 
 &lt;p&gt;&lt;br /&gt;&lt;b&gt;2024&lt;/b&gt;&lt;br /&gt;&lt;/p&gt;
 
-&lt;p&gt;ila w / Mikko Savela, cave 12, Genève[CH], dec 11 2024&lt;br /&gt;&lt;/p&gt;
+&lt;p&gt;ila w/ Mikko Savela, cave 12, Genève[CH], dec 11 2024&lt;br /&gt;&lt;/p&gt;
 
-&lt;p&gt;ila w / Mikko Savela, Lausanne[CH], dec 10 2024&lt;br /&gt;&lt;/p&gt;
+&lt;p&gt;ila w/ Mikko Savela, Lausanne[CH], dec 10 2024&lt;br /&gt;&lt;/p&gt;
 
 &lt;p&gt;Kunstraum Feller, Vienna[AT], nov 15 2024&lt;br /&gt;&lt;/p&gt;
 
-&lt;p&gt;mondays improvisers session, w / Rodrigo Ambriz, Vienna[AT], nov 11 2024&lt;br /&gt;&lt;/p&gt;
+&lt;p&gt;mondays improvisers session, w/ Rodrigo Ambriz, Vienna[AT], nov 11 2024&lt;br /&gt;&lt;/p&gt;
 
 &lt;p&gt;re_composed, Vienna[AT], oct 24 2024&lt;br /&gt;&lt;/p&gt;
 
@@ -3673,7 +3946,7 @@ is co-founder of: &lt;a href=&quot;http://zentrale.jetzt/&quot; style=&quot;colo
 
 &lt;p&gt;newsalt festival, Bad Ischl[AT], sep 8 2024&lt;br /&gt;&lt;/p&gt;
 
-&lt;p&gt;animal voice pavilion w / Fabian Lanzmaier, sound campus, Linz[AT], sep 3 2024&lt;br /&gt;&lt;/p&gt;
+&lt;p&gt;animal voice pavilion w/ Fabian Lanzmaier, sound campus, Linz[AT], sep 3 2024&lt;br /&gt;&lt;/p&gt;
 
 &lt;p&gt;whisper for J.G., Atelier Einsiedlerplatz, Vienna[AT], jul 20 2024&lt;br /&gt;&lt;/p&gt;
 
@@ -3773,7 +4046,7 @@ is co-founder of: &lt;a href=&quot;http://zentrale.jetzt/&quot; style=&quot;colo
 
 &lt;p&gt;re-composed, Kunstkanal, Vienna[AT], oct 16 2020&lt;br /&gt;&lt;/p&gt;
 
-&lt;p&gt;dimensions variable# Semi Public Art (13*13.), Vienna[AT], oct 3 - nov 1 2020&lt;br /&gt;&lt;/p&gt;
+&lt;p&gt;dimensions variable# Semi Public Art (13x13.), Vienna[AT], oct 3 - nov 1 2020&lt;br /&gt;&lt;/p&gt;
 
 &lt;p&gt;Äquidistanz Festival, Republik Kuglmugl, sept 19 2020&lt;br /&gt;&lt;/p&gt;
 
@@ -4002,7 +4275,7 @@ is co-founder of: &lt;a href=&quot;http://zentrale.jetzt/&quot; style=&quot;colo
 
 &lt;p&gt;Forte Fanculo - Margaret Unknown / Cabaret Poulet, Struma&amp;amp;Iodine w/ Gordon Ashworth, Mater Dolores, mo.ë, Vienna[AT], oct 10 2015&lt;br /&gt;&lt;/p&gt;
 
-&lt;p&gt;Forte Fanculo - Margaret Unknown / Cabaret Poulet, Fanfulla, Rom[IT], oct 5 2015&lt;br /&gt;&lt;/p&gt;
+&lt;p&gt;Forte Fanculo - Margaret Unknown / Cabaret Poulet, Fanfulla, Rome[IT], oct 5 2015&lt;br /&gt;&lt;/p&gt;
 
 &lt;p&gt;Forte Fanculo - Margaret Unknown / Cabaret Poulet, Multiversale II, Naples[IT], oct 4 2015&lt;br /&gt;&lt;/p&gt;
 

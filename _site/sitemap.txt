@@ -30,6 +30,7 @@ http://tricx.github.io/rss.xml
 http://tricx.github.io/sitemap.txt
 http://tricx.github.io/tags
 
+http://tricx.github.io/2026/06/15/_ship
 http://tricx.github.io/2025/10/04/plapper_la_papp
 http://tricx.github.io/2025/01/31/extension
 http://tricx.github.io/2024/05/07/whisper

@@ -21,7 +21,7 @@ JB :
 
 <p>
 commissioned by 'der blöde dritte Mittwoch' for Phonomuseum Wien, oct 2025<br />
-'talking machine', generative system, pd, raspberry-pi, transducers, loudspeaker, Hexentrichter<br /><br />
+'talking machine', generative system, realtime processing pd, raspberry-pi, transducers, loudspeaker, Hexentrichter<br /><br />
 
 
 Plapper-la-papp is an onomatopoetic homage to the phonograph, the first machines for recording voices and sounds. The phonographs from the collection of the Phonomuseum Vienna were taken up as a starting point to explore the processes of recording and playing back and reproducing vocal fragments. The work examines how signals are manipulated in the space of digital sound processing and become perceptible events again in real acoustic space.<br />
