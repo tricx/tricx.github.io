@@ -5,16 +5,176 @@
         <description>Tricx - Paul Gruendorfer</description>
         <link>http://tricx.github.io</link>
         <link>http://tricx.github.io</link>
-        <lastBuildDate>2026-06-26T17:13:51+02:00</lastBuildDate>
-        <pubDate>2026-06-26T17:13:51+02:00</pubDate>
+        <lastBuildDate>2026-09-03T20:22:43+02:00</lastBuildDate>
+        <pubDate>2026-09-03T20:22:43+02:00</pubDate>
         <ttl>1800</ttl>
 
+
+        <item>
+                <title>Stadtmusikanten</title>
+                <description>
+&lt;div class=&quot;container-parent&quot;&gt;
+&lt;div class=&quot;container-narrow-right&quot;&gt;
+
+  
+  
+
+  
+  
+
+  
+  
+
+  
+  
+&lt;h4&gt;&lt;a href=&quot;/2025/01/31/extension&quot;&gt;&lt;/a&gt;Stadtmusikanten&lt;/h4&gt;
+  
+
+  
+  
+
+  
+  
+
+  
+  
+
+  
+  
+
+  
+  
+
+  
+  
+
+  
+  
+
+  
+  
+
+  
+  
+
+  
+  
+
+  
+  
+
+  
+  
+
+  
+  
+
+  
+  
+
+  
+  
+
+  
+  
+
+  
+  
+
+  
+  
+
+  
+  
+
+  
+  
+
+  
+  
+
+  
+  
+
+  
+  
+
+  
+  
+
+  
+  
+
+  
+  
+
+
+&lt;p&gt;
+site specific tribute&lt;br /&gt;
+27.8. - 30.8.2026, we are founding a city 2, Zukunftshof, Wien&lt;br /&gt;
+&lt;br /&gt;
+generative 4 channel audio system, linux/odroid u3, supercollider - developed for we are founding a city 2
+&lt;br /&gt;&lt;br /&gt;
+
+Ausgehend von einer vorhergehenden Intervention mit &apos;IA-voice generator&apos; - eine Esel Stimmgestalt im Zeitalter der AI - versammeln sich hier für &apos;we are founding a city&apos; die Stadtmusikanten - eine Chimära die sich gelegentlich zu Wort meldet. Nicht mehr brauchbar für die übliche Stimmarbeit, suchen Sie nach einem Zuhause. Angelehnt an die Fabelgesellschaft früherer Wanderschaft, versuchen Sie nun hier ihr Glück einen Platz zu ergattern.
+&lt;br /&gt;&lt;br /&gt;
+
+&lt;/p&gt;
+
+
+
+
+&lt;/div&gt;
+
+
+&lt;div class=&quot;container-narrow-left&quot;&gt;
+
+
+
+&lt;img src=&quot;http://localhost:4000/images/stadtmusikanten_docu4_cut_sm.jpg&quot; loading=&quot;eager&quot; alt=&quot;image&quot; width=&quot;49.5%&quot; height=&quot;auto&quot; style=&quot;float: left&quot; /&gt;
+
+&lt;video controls=&quot;&quot; preload=&quot;none&quot; poster=&quot;http://localhost:4000/images/stadtmusikanten_poster.jpg&quot; width=&quot;49.5%&quot; height=&quot;auto&quot; style=&quot;float: right&quot;&gt;
+  &lt;source src=&quot;http://localhost:4000/images/stadtmusikanten_sm.mp4&quot; type=&quot;video/mp4&quot; /&gt;
+&lt;/video&gt;
+
+
+&lt;div class=&quot;clearfix&quot;&gt;&lt;/div&gt;
+&lt;p&gt;&lt;/p&gt;
+
+
+&lt;img src=&quot;http://localhost:4000/images/stadtmusikanten_docu3_sm.jpg&quot; loading=&quot;eager&quot; alt=&quot;image&quot; width=&quot;49.5%&quot; height=&quot;auto&quot; style=&quot;float: left&quot; /&gt;
+&lt;img src=&quot;http://localhost:4000/images/stadtmusikanten_docu6_sm.jpg&quot; loading=&quot;eager&quot; alt=&quot;image&quot; width=&quot;49.5%&quot; height=&quot;auto&quot; style=&quot;float: right&quot; /&gt;
+
+&lt;div class=&quot;clearfix&quot;&gt;&lt;/div&gt;
+&lt;p&gt;&lt;/p&gt;
+
+
+&lt;div class=&quot;clearfix&quot;&gt;&lt;/div&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;img src=&quot;http://localhost:4000/images/stadtmusikanten_docu1_sm.jpg&quot; loading=&quot;eager&quot; alt=&quot;image&quot; /&gt;
+&lt;p&gt;&lt;/p&gt;
+
+&lt;img src=&quot;http://localhost:4000/images/stadtmusikanten_docu5_sm.jpg&quot; loading=&quot;eager&quot; alt=&quot;image&quot; /&gt;
+&lt;p&gt;&lt;/p&gt;
+
+
+&lt;/div&gt;
+&lt;/div&gt;
+
+</description>
+                <link>http://tricx.github.io/2026/09/03/stadtmusikanten</link>
+                <guid>http://tricx.github.io/2026/09/03/stadtmusikanten</guid>
+                <pubDate>2026-09-03T00:00:00+02:00</pubDate>
+        </item>
 
         <item>
                 <title>_ship</title>
                 <description>
 &lt;div class=&quot;container-parent&quot;&gt;
 &lt;div class=&quot;container-narrow-right&quot;&gt;
+
+  
+  
 
   
   
@@ -135,7 +295,7 @@ text for Oscillation Festival:
 _ship, excerpt 21.5.2026 10pm, Galerie Ravenstein, Brussels[BE]:
 &lt;br /&gt;
 &lt;audio controls=&quot;&quot; style=&quot;width: 100%&quot; preload=&quot;none&quot;&gt;
-  &lt;source src=&quot;http://localhost:4000/images/ship_raven_cut_sh2.mp3&quot; type=&quot;audio/mpeg&quot; /&gt;
+  &lt;source src=&quot;http://localhost:4000/images/ship_raven_cut_sh3.mp3&quot; type=&quot;audio/mpeg&quot; /&gt;
 &lt;/audio&gt;
 
 _ship, excerpt 21.5.2026 7pm, Anneessens, Brussels[BE]:
@@ -205,6 +365,9 @@ _ship, excerpt 21.5.2026 7pm, Anneessens, Brussels[BE]:
                 <description>
 &lt;div class=&quot;container-parent&quot;&gt;
 &lt;div class=&quot;container-narrow-right&quot;&gt;
+
+  
+  
 
   
   
@@ -359,6 +522,9 @@ In some cases, &apos;Plappern&apos; is used pejoratively to describe someone who
                 <description>
 &lt;div class=&quot;container-parent&quot;&gt;
 &lt;div class=&quot;container-narrow-right&quot;&gt;
+
+  
+  
 
   
   
@@ -525,6 +691,9 @@ In addition to the auditory focus on interventions with lightweight audio diffus
 
 	
 	
+
+	
+	
 &lt;h4&gt;&lt;a href=&quot;/2024/05/07/whisper&quot;&gt;&lt;/a&gt;whisper&lt;/h4&gt;
 	
 
@@ -651,6 +820,9 @@ whisper, intervention at Tsonami Festival, Valparaiso[CL], jan 15 2025:
                 <description>
 &lt;div class=&quot;container-parent&quot;&gt;
 &lt;div class=&quot;container-narrow-right&quot;&gt;
+
+	
+	
 
 	
 	
@@ -808,6 +980,9 @@ high intensity audio modulated light frequencies, research of phantom presence i
 
 	
 	
+
+	
+	
 &lt;h4&gt;&lt;a href=&quot;/2023/04/01/iah&quot;&gt;&lt;/a&gt;I-AH Voice Generator&lt;/h4&gt;
 	
 
@@ -884,7 +1059,8 @@ high intensity audio modulated light frequencies, research of phantom presence i
 &lt;p&gt;
 
 I-AH Voice Generator&lt;br /&gt;
-odroid u3, supercollider, algorithmic system 2023 for der blöde dritte Mittwoch at Parallel Vienna&lt;br /&gt;&lt;br /&gt;
+odroid u3, supercollider, algorithmic system 2023&lt;br /&gt;
+for der blöde dritte Mittwoch at Parallel Vienna&lt;br /&gt;&lt;br /&gt;
 ‚I-AH generierte Stimmlaute als Hommage an den Esel im Zeitalter der AI.‘
 
 
@@ -921,6 +1097,9 @@ odroid u3, supercollider, algorithmic system 2023 for der blöde dritte Mittwoch
                 <description>
 &lt;div class=&quot;container-parent&quot;&gt;
 &lt;div class=&quot;container-narrow-right&quot;&gt;
+
+	
+	
 
 	
 	
@@ -1087,6 +1266,9 @@ The Sea is an extraction of a complex natural phenomenon resulting in an artific
 
 	
 	
+
+	
+	
 &lt;h4&gt;&lt;a href=&quot;/2021/01/30/popp_up_maze256&quot;&gt;&lt;/a&gt;Popp-Up-Maze 256&lt;/h4&gt;
 	
 
@@ -1195,6 +1377,9 @@ The playing area of the game is transferred to the Eduard-Popp-Hof. The warp mod
                 <description>
 &lt;div class=&quot;container-parent&quot;&gt;
 &lt;div class=&quot;container-narrow-right&quot;&gt;
+
+	
+	
 
 	
 	
@@ -1342,6 +1527,9 @@ audio recording excerpt:
                 <description>
 &lt;div class=&quot;container-parent&quot;&gt;
 &lt;div class=&quot;container-narrow-right&quot;&gt;
+
+	
+	
 
 	
 	
@@ -1520,6 +1708,9 @@ just the room recording and with less amplification:
 
 	
 	
+
+	
+	
 &lt;h4&gt;&lt;a href=&quot;/2020/10/13/unterm_pflaster_liegt_der_strand&quot;&gt;&lt;/a&gt;Unterm Pflaster liegt der Strand&lt;/h4&gt;
 	
 
@@ -1613,6 +1804,9 @@ The text is translated to latin, so it resembles often used honorable mentions o
                 <description>
 &lt;div class=&quot;container-parent&quot;&gt;
 &lt;div class=&quot;container-narrow-right&quot;&gt;
+
+	
+	
 
 	
 	
@@ -1797,6 +1991,9 @@ Reflections and Refractions of a laser that scans plastic bottles are translated
 
 	
 	
+
+	
+	
 &lt;h4&gt;&lt;a href=&quot;/2018/06/01/arcardian_gate&quot;&gt;&lt;/a&gt;Arcadian Gate&lt;/h4&gt;
 	
 
@@ -1941,6 +2138,9 @@ http://wikimapia.org/4832019/Arcadian-Gate&lt;/a&gt;
 
 	
 	
+
+	
+	
 &lt;h4&gt;&lt;a href=&quot;/2018/05/27/pigeons&quot;&gt;&lt;/a&gt;鸽子&lt;/h4&gt;
 	
 
@@ -2038,6 +2238,9 @@ Besides this interest, there is the old tradition to let pigeons fly with specia
                 <description>
 &lt;div class=&quot;container-parent&quot;&gt;
 &lt;div class=&quot;container-narrow-right&quot;&gt;
+
+	
+	
 
 	
 	
@@ -2254,6 +2457,9 @@ The project Centre and Periphery picked up this field of tension in order to dea
 
 	
 	
+
+	
+	
 &lt;h4&gt;&lt;a href=&quot;/2017/12/29/la_pica_del_gaviota&quot;&gt;&lt;/a&gt;La picá del Gaviota&lt;/h4&gt;
 	
 
@@ -2348,6 +2554,9 @@ First you have to agree, what is a “Picá”? In Chile they call “Picá” r
                 <description>
 &lt;div class=&quot;container-parent&quot;&gt;
 &lt;div class=&quot;container-narrow-right&quot;&gt;
+
+	
+	
 
 	
 	
@@ -2557,6 +2766,9 @@ Love to the beat of the show. [...]&lt;br /&gt;
 
 	
 	
+
+	
+	
 &lt;h4&gt;&lt;a href=&quot;/2017/03/02/attractor&quot;&gt;&lt;/a&gt;Attractor&lt;/h4&gt;
 	
 
@@ -2647,6 +2859,9 @@ As a site specific intervention the Attractor is built in a public space, connec
                 <description>
 &lt;div class=&quot;container-parent&quot;&gt;
 &lt;div class=&quot;container-narrow-right&quot;&gt;
+
+	
+	
 
 	
 	
@@ -2840,6 +3055,9 @@ The project AM-Feld / Soviet Noise, is a cooperation with &lt;a href=&quot;www.a
 
 	
 	
+
+	
+	
 &lt;h4&gt;&lt;a href=&quot;/2017/02/17/transient_hole&quot;&gt;&lt;/a&gt;Transient Hole (Variations)&lt;/h4&gt;
 	
 
@@ -2918,6 +3136,9 @@ Berlin, 2018&lt;br /&gt;
                 <description>
 &lt;div class=&quot;container-parent&quot;&gt;
 &lt;div class=&quot;container-narrow-right&quot;&gt;
+
+	
+	
 
 	
 	
@@ -3126,6 +3347,9 @@ in June 2015.
 
 	
 	
+
+	
+	
 &lt;h4&gt;&lt;a href=&quot;/2016/01/20/animal_voice_orchestra&quot;&gt;&lt;/a&gt;animal-voice-orchestra&lt;/h4&gt;
 	
 
@@ -3251,6 +3475,9 @@ Electronic circuits are interconnected to cause semi-natural entities, autonomou
 
 	
 	
+
+	
+	
 &lt;h4&gt;&lt;a href=&quot;/2015/12/12/faux_terrain&quot;&gt;&lt;/a&gt;Audio - Visual Performance / Faux Terrain&lt;/h4&gt;
 	
 
@@ -3304,6 +3531,9 @@ in cooperation with Claudia Larcher&lt;br /&gt;
                 <description>
 &lt;div class=&quot;container-parent&quot;&gt;
 &lt;div class=&quot;container-narrow-right&quot;&gt;
+
+	
+	
 
 	
 	
@@ -3509,6 +3739,9 @@ The robot moves around the exhibition space, orienting itself based on the event
 
 	
 	
+
+	
+	
 &lt;h4&gt;&lt;a href=&quot;/2013/12/27/pachinko&quot;&gt;&lt;/a&gt;Pachinko&lt;/h4&gt;
 	
 
@@ -3633,6 +3866,9 @@ Pachinko is played by more than 30% of the Japanese population. It is based on t
 
 	
 	
+
+	
+	
 &lt;h4&gt;&lt;a href=&quot;/2013/10/15/undefined_falling_objects&quot;&gt;&lt;/a&gt;Undefined Falling Objects&lt;/h4&gt;
 	
 
@@ -3678,6 +3914,9 @@ The film loop shows permanently turning maple seeds, in density and speed variab
                 <description>
 &lt;div class=&quot;container-parent&quot;&gt;
 &lt;div class=&quot;container-narrow-right&quot;&gt;
+
+	
+	
 
 	
 	
@@ -3901,7 +4140,13 @@ is co-founder of: &lt;a href=&quot;http://zentrale.jetzt/&quot; style=&quot;colo
 
 &lt;p&gt;&lt;br /&gt;&lt;b&gt;2026&lt;/b&gt;&lt;br /&gt;&lt;/p&gt;
 
-&lt;p&gt;la clef, Brussels[BE], jun 13 2026&lt;/p&gt;
+&lt;p&gt;tour italy, oct 6 - 15 2026&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;The Sea w/ Leo Peschta, Fluss, Wolkersdorf[AT], sept 5 - oct 4 2026&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;Stadtmusikanten, we are founding a city 2, Zukunftshof, Vienna[AT], aug 27-30 2026&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;la clef, Brussels[BE], jun 13 2026&lt;br /&gt;&lt;/p&gt;
 
 &lt;p&gt;microconcierto, Sonoscopia, Porto[PT], jun 6 2026&lt;br /&gt;&lt;/p&gt;
 
